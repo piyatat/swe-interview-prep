@@ -10,7 +10,10 @@ Summaries and question banks only (not full copyrighted guides). Every page link
 | --- | --- |
 | [`general/`](general/) | Rounds every SWE role hits — coding, system design, behavioral, CS fundamentals, AI-assisted rounds, prep plans |
 | [`roles/`](roles/) | Role-specific question sets and focus areas |
+| [`companies/`](companies/) | FAANG/big-tech vs startup tracks and comparison |
+| [`answers/`](answers/) | Mock answer outlines (coding, system design, behavioral) |
 | [`resources/`](resources/) | Books, courses, practice platforms, mock-interview tools |
+| [`runbooks/`](runbooks/) | How to ingest new web research (`/swe-interview-prep-ingest`) |
 | [`sources/`](sources/) | Attributed bibliography |
 
 ## Quick start
@@ -24,6 +27,12 @@ Summaries and question banks only (not full copyrighted guides). Every page link
 ## Index
 
 See [`INDEX.md`](INDEX.md) for a flat list of all pages.
+
+## Updating from the web
+
+In Cursor: **`/swe-interview-prep-ingest`** — scrapes reputable sources and adds summarized questions/outlines (see [`runbooks/collect-from-web.md`](runbooks/collect-from-web.md)).
+
+Validate after edits: `./scripts/check.sh`
 
 ## Contributing
 

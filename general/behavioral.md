@@ -76,6 +76,8 @@ Map each story to multiple question types.
 | Senior | Tradeoffs, mentoring, multi-quarter impact |
 | Staff+ | Org-level influence, strategy, risk management |
 
+**Mock STAR outlines:** [../answers/behavioral-conflict.md](../answers/behavioral-conflict.md), [failure](../answers/behavioral-failure.md), [leadership](../answers/behavioral-leadership.md)
+
 ## Sources
 
 - [Behavioral Interview Questions for Tech Roles — onlinejobs.tech](https://onlinejobs.tech/behavioral-interview-questions-for-tech-roles-answers-for-ics-leads-and-managers) — accessed 2026-08-22

@@ -11,4 +11,4 @@ Pages here apply to **every software engineering interview track** regardless of
 | [cs-fundamentals.md](cs-fundamentals.md) | OS, networking, DB, concurrency |
 | [ai-assisted-rounds.md](ai-assisted-rounds.md) | AI-collaborative and comprehension formats |
 
-Start with [prep-plan.md](prep-plan.md), then add a [role-specific pack](../roles/).
+Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).

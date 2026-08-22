@@ -21,6 +21,8 @@ Coding rounds score **decomposition, correct data structures, complexity awarene
 
 Structured lists: **NeetCode 150**, **Grind 75**, **Blind 75** (see [../resources/practice-platforms.md](../resources/practice-platforms.md)).
 
+**Mock answer outlines:** [../answers/](../answers/) (Two Sum, LRU Cache, Islands, Merge K Lists, …)
+
 ## Sample questions by difficulty
 
 ### Easy (warm-up / phone screen)

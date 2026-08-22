@@ -61,6 +61,8 @@ Always **trace a read and a write** and name failure points.
 
 Interview loops increasingly add **AI/ML system design** (RAG, recommendation, LLM serving), **cost optimization**, and **security/privacy** as baseline — not optional deep dives at staff level.
 
+**Mock outlines:** [../answers/system-design-url-shortener.md](../answers/system-design-url-shortener.md), [rate-limiter](../answers/system-design-rate-limiter.md), [chat](../answers/system-design-chat.md)
+
 ## Sources
 
 - [System Design Preparation Master Sheet — Skilled Coder](https://theskilledcoder.com/posts/interview-prep/system-design-preparation-master-sheet) — accessed 2026-08-22
