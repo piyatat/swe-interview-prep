@@ -12,6 +12,7 @@
 | Merge K Sorted Lists | [coding-merge-k-lists.md](coding-merge-k-lists.md) |
 | Valid Parentheses | [coding-valid-parentheses.md](coding-valid-parentheses.md) |
 | Course Schedule | [coding-course-schedule.md](coding-course-schedule.md) |
+| Longest substring without repeats | [coding-longest-substring.md](coding-longest-substring.md) |
 
 ## System design
 
@@ -20,6 +21,7 @@
 | URL shortener | [system-design-url-shortener.md](system-design-url-shortener.md) |
 | Rate limiter | [system-design-rate-limiter.md](system-design-rate-limiter.md) |
 | Chat / messaging | [system-design-chat.md](system-design-chat.md) |
+| News feed / timeline | [system-design-news-feed.md](system-design-news-feed.md) |
 
 ## Behavioral (STAR outlines)
 

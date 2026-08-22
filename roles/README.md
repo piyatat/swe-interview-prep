@@ -12,5 +12,6 @@ Pick the pack closest to your target job description. All roles should also read
 | Data / ML | [data-ml.md](data-ml.md) | Pipelines, SQL, ML + LLM system design |
 | Security / AppSec | [security.md](security.md) | Threat model, code review, IAM, judgment |
 | Embedded / firmware | [embedded.md](embedded.md) | C, RTOS, ISR, hardware constraints |
+| QA / SDET | [qa-sdet.md](qa-sdet.md) | Pyramid, flakes, Playwright, release judgment |
 
 Many companies use hybrid loops (e.g. “backend-heavy full-stack”). Combine two packs and prioritize by JD keywords.

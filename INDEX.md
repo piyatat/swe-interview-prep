@@ -12,6 +12,8 @@
 | [ai-assisted-rounds.md](general/ai-assisted-rounds.md) | 2025–2026 AI-collaborative interview formats |
 | [take-homes.md](general/take-homes.md) | Async take-homes, AI policy, live debrief |
 | [downleveling.md](general/downleveling.md) | Pass-the-bar but lower level; prevent and respond |
+| [staff-plus.md](general/staff-plus.md) | Staff / L6 loop: scope, ambiguity, archetypes |
+| [offer-negotiation.md](general/offer-negotiation.md) | Written offer, TC pieces, counter without losing level |
 
 ## Company tracks
 
@@ -33,6 +35,7 @@
 | [data-ml.md](roles/data-ml.md) | Data engineering / ML / AI systems |
 | [security.md](roles/security.md) | Security engineering / AppSec / cloud IAM |
 | [embedded.md](roles/embedded.md) | Embedded / firmware / RTOS |
+| [qa-sdet.md](roles/qa-sdet.md) | QA / SDET / quality engineering |
 
 ## Answer outlines
 
@@ -45,7 +48,9 @@
 | [coding-merge-k-lists.md](answers/coding-merge-k-lists.md) | Merge K Sorted Lists |
 | [coding-valid-parentheses.md](answers/coding-valid-parentheses.md) | Valid Parentheses |
 | [coding-course-schedule.md](answers/coding-course-schedule.md) | Course Schedule (topo sort) |
+| [coding-longest-substring.md](answers/coding-longest-substring.md) | Longest substring (sliding window) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
+| [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
 | [system-design-chat.md](answers/system-design-chat.md) | Chat / messaging |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |

@@ -113,3 +113,48 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Topological sorting — Wikipedia | https://en.wikipedia.org/wiki/Topological_sorting |
 | Coding Interview Patterns 2026 — intervu.dev | https://intervu.dev/blog/coding-interview-patterns/ |
 | LeetCode patterns — Interview Coder | https://www.interviewcoder.co/blog/leetcode-patterns |
+
+## QA / SDET (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Top 50 SDET Interview Questions 2026 — QASkills.sh | https://qaskills.sh/blog/sdet-interview-questions-2026 |
+| SDET Interview Questions 2026 hiring playbook — TheLinuxCode | https://thelinuxcode.com/sdet-interview-questions-and-answers-a-2026-hiring-playbook-from-my-side-of-the-table/ |
+| Writing tests — Playwright | https://playwright.dev/docs/writing-tests |
+| The Practical Test Pyramid — Martin Fowler | https://martinfowler.com/articles/practical-test-pyramid.html |
+| System Design for SDET Interviews — ScrollTest | https://scrolltest.com/system-design-sdet-interviews-test-infrastructure/ |
+
+## News feed design (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Timelines at Scale — Raffi Krikorian, QCon / InfoQ | https://www.infoq.com/presentations/Twitter-Timeline-Scalability/ |
+| Low Level Design: News Feed Service — techinterview.org | https://www.techinterview.org/post/3233472201/lld-newsfeed/ |
+| Design a News Feed System — CodeJeet | https://codejeet.com/system-design/design-a-news-feed-system |
+| Design a News Feed — Systems Explained | https://systeminternals.dev/system-design-interview/news-feed/ |
+
+## Sliding window outline (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| How the sliding window solves Longest Substring Without Repeats — techinterview.org | https://www.techinterview.org/post/3233476081/sliding-window-longest-substring-without-repeats/ |
+| Longest Substring Without Repeating Characters editorial — DSA Handbook | https://dsa.handbook.academy/editorials/lc-003-longest-substring-without-repeating-characters/ |
+| String sliding window interview patterns — techinterview.org | https://www.techinterview.org/post/3233464822/string-sliding-window-interview-patterns/ |
+
+## Staff+ loop (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Staff archetypes — Will Larson / staffeng.com | https://staffeng.com/guides/staff-archetypes/ |
+| Staff Software Engineer interview prep — Calibrd | https://www.calibrd.com/interview-prep/staff-software-engineer |
+| Staff Engineer Interview Guide: The L6 Loop — PhantomCodeAI | https://www.phantomcodeai.com/blogs/staff-engineer-interview-guide |
+| Staff Engineer Interview Questions (2026) — ShadeCoder | https://articles.shadecoder.com/staff-engineer-interview-questions-2026-complete-guide-answers-and-prep-plan |
+
+## Offer negotiation (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Ultimate Negotiation Guide — Levels.fyi | https://www.levels.fyi/blog/ultimate-negotiation-guide.html |
+| Salary Negotiation 2026 — techinterview.org | https://www.techinterview.org/post/3233474669/salary-negotiation-2026/ |
+| Salary Negotiation for Software Engineers 2026 — LastRound AI | https://lastroundai.com/blog/salary-negotiation-software-engineers |
+| Software Engineer Interview Questions 2026 — KORE1 | https://www.kore1.com/software-engineer-interview-questions/ |

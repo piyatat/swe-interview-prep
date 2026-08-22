@@ -12,5 +12,7 @@ Pages here apply to **every software engineering interview track** regardless of
 | [ai-assisted-rounds.md](ai-assisted-rounds.md) | AI-collaborative and comprehension formats |
 | [take-homes.md](take-homes.md) | Take-home scope, AI disclosure, debrief |
 | [downleveling.md](downleveling.md) | Leveling vs hire; offer response |
+| [staff-plus.md](staff-plus.md) | Staff / L6 loop, archetypes, deep-dive |
+| [offer-negotiation.md](offer-negotiation.md) | TC pieces, written offer, counter |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).
