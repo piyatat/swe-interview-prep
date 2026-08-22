@@ -11,6 +11,7 @@
 | Number of Islands | [coding-number-of-islands.md](coding-number-of-islands.md) |
 | Merge K Sorted Lists | [coding-merge-k-lists.md](coding-merge-k-lists.md) |
 | Valid Parentheses | [coding-valid-parentheses.md](coding-valid-parentheses.md) |
+| Course Schedule | [coding-course-schedule.md](coding-course-schedule.md) |
 
 ## System design
 

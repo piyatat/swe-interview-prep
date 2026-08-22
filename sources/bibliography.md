@@ -69,3 +69,47 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Startup vs Big Tech — OfferBull | https://blog.offerbull.net/posts/how-to-prepare-for-startup-vs-big-tech-interviews/ |
 | Startup vs Fortune 500 — MockRound | https://mockround.ai/resources/interviewing-at-a-startup-vs-a-fortune-500-two-completely-different-strategies |
 | Reality of Tech Interviews 2025 — Pragmatic Engineer | https://newsletter.pragmaticengineer.com/p/the-reality-of-tech-interviews |
+
+## Security / AppSec (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Security Engineer Interview Questions 2026 — InfoSec Job Board | https://www.infosecjobboard.com/blog/security-engineer-interview-questions-2026 |
+| Application Security Interview Questions 2026 — InfoSec Job Board | https://www.infosecjobboard.com/blog/appsec-interview-questions-2026 |
+| Cybersecurity Engineer Interview Questions 2026 — KORE1 | https://www.kore1.com/cybersecurity-engineer-interview-questions-2026/ |
+| OWASP Top 10:2025 | https://owasp.org/Top10/2025/ |
+| Application security interview questions — jassics | https://github.com/jassics/security-interview-questions/blob/main/application-security-interview-questions.md |
+
+## Embedded (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Embedded Systems Interview Questions 2026 — LastRound AI | https://lastroundai.com/blog/embedded-systems-interview-questions |
+| Top 40 Embedded Systems Interview Questions (2026) — EmbeddedShiksha | https://www.embeddedshiksha.com/blog/top-40-embedded-systems-interview-questions-answers-2026 |
+| Embedded Systems Interview Prep — Wasil Zafar | https://www.wasilzafar.com/pages/2026/04/embedded-systems-interview-prep.html |
+| Embedded software engineer interview questions — Final Round AI | https://www.finalroundai.com/blog/embedded-software-engineer-interview-questions |
+
+## Take-homes / 2026 formats (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| AI-Era Take-Home Assignments 2026 — techinterview.org | https://www.techinterview.org/post/3233475330/ai-era-take-home-assignments-2026-how-they-changed/ |
+| Engineering Take-Home Assignments in 2026 — JobsByCulture | https://jobsbyculture.com/blog/engineering-take-home-assignment-design-2026 |
+| Engineering take-home assignments in 2026 — FlowVerify | https://www.flowverify.co/blog/take-home-engineering-2026 |
+| AI-resistant take-home design — HackerEarth | https://www.hackerearth.com/blog/how-to-design-a-take-home-coding-assignment-that-ai-tools-cannot-complete-for-your-candidate |
+
+## Downleveling (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Reversing a Downlevel Offer — Exponent | https://www.tryexponent.com/blog/reversing-downlevel-offers |
+| Avoiding Downleveling — Exponent | https://www.tryexponent.com/courses/eng-behavioral/avoiding-downleveling |
+| Downleveling — Data Vidhya | https://datavidhya.com/learn/de-interview-prep/the-offer-and-negotiation/downleveling/ |
+
+## Coding outlines (2026-08-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Topological sorting — Wikipedia | https://en.wikipedia.org/wiki/Topological_sorting |
+| Coding Interview Patterns 2026 — intervu.dev | https://intervu.dev/blog/coding-interview-patterns/ |
+| LeetCode patterns — Interview Coder | https://www.interviewcoder.co/blog/leetcode-patterns |

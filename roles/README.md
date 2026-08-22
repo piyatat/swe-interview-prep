@@ -10,5 +10,7 @@ Pick the pack closest to your target job description. All roles should also read
 | DevOps / SRE | [devops-sre.md](devops-sre.md) | K8s, CI/CD, observability, incidents |
 | Mobile | [mobile.md](mobile.md) | iOS/Android lifecycle, offline, store ship |
 | Data / ML | [data-ml.md](data-ml.md) | Pipelines, SQL, ML + LLM system design |
+| Security / AppSec | [security.md](security.md) | Threat model, code review, IAM, judgment |
+| Embedded / firmware | [embedded.md](embedded.md) | C, RTOS, ISR, hardware constraints |
 
 Many companies use hybrid loops (e.g. “backend-heavy full-stack”). Combine two packs and prioritize by JD keywords.

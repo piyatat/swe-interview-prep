@@ -10,6 +10,8 @@
 | [behavioral.md](general/behavioral.md) | STAR stories, collaboration, leadership |
 | [cs-fundamentals.md](general/cs-fundamentals.md) | OS, networking, concurrency, databases |
 | [ai-assisted-rounds.md](general/ai-assisted-rounds.md) | 2025–2026 AI-collaborative interview formats |
+| [take-homes.md](general/take-homes.md) | Async take-homes, AI policy, live debrief |
+| [downleveling.md](general/downleveling.md) | Pass-the-bar but lower level; prevent and respond |
 
 ## Company tracks
 
@@ -29,6 +31,8 @@
 | [devops-sre.md](roles/devops-sre.md) | DevOps, SRE, platform, infrastructure |
 | [mobile.md](roles/mobile.md) | iOS / Android / cross-platform |
 | [data-ml.md](roles/data-ml.md) | Data engineering / ML / AI systems |
+| [security.md](roles/security.md) | Security engineering / AppSec / cloud IAM |
+| [embedded.md](roles/embedded.md) | Embedded / firmware / RTOS |
 
 ## Answer outlines
 
@@ -40,6 +44,7 @@
 | [coding-number-of-islands.md](answers/coding-number-of-islands.md) | Number of Islands |
 | [coding-merge-k-lists.md](answers/coding-merge-k-lists.md) | Merge K Sorted Lists |
 | [coding-valid-parentheses.md](answers/coding-valid-parentheses.md) | Valid Parentheses |
+| [coding-course-schedule.md](answers/coding-course-schedule.md) | Course Schedule (topo sort) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
 | [system-design-chat.md](answers/system-design-chat.md) | Chat / messaging |
