@@ -60,6 +60,8 @@
 | Page | Contents |
 | --- | --- |
 | [collect-from-web.md](runbooks/collect-from-web.md) | Web ingest procedure |
+| [automation-setup.md](runbooks/automation-setup.md) | Copy-paste automation name, schedule, prompt |
+| [automation-cloud-ingest.md](runbooks/automation-cloud-ingest.md) | Full cloud run instructions |
 
 ## Sources
 

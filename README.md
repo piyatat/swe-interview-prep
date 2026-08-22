@@ -32,6 +32,8 @@ See [`INDEX.md`](INDEX.md) for a flat list of all pages.
 
 In Cursor: **`/swe-interview-prep-ingest`** — scrapes reputable sources and adds summarized questions/outlines (see [`runbooks/collect-from-web.md`](runbooks/collect-from-web.md)).
 
+**Cloud automation:** copy instructions from [`runbooks/automation-setup.md`](runbooks/automation-setup.md) into the Cursor Automations editor (full runbook: [`runbooks/automation-cloud-ingest.md`](runbooks/automation-cloud-ingest.md)).
+
 Validate after edits: `./scripts/check.sh`
 
 ## Contributing
