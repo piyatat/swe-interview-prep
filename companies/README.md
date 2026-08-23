@@ -7,5 +7,6 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | FAANG / big tech | [faang-big-tech.md](faang-big-tech.md) | Google, Meta, Amazon, Apple, Microsoft, large public tech |
 | Startup | [startup.md](startup.md) | Seed → Series C, fast-moving product teams |
 | Side-by-side | [comparison.md](comparison.md) | Choosing strategy or switching between loops |
+| Product companies | [product-companies.md](product-companies.md) | Stripe, Uber, late-stage product (domain loops) |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

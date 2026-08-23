@@ -14,6 +14,7 @@
 | [downleveling.md](general/downleveling.md) | Pass-the-bar but lower level; prevent and respond |
 | [staff-plus.md](general/staff-plus.md) | Staff / L6 loop: scope, ambiguity, archetypes |
 | [offer-negotiation.md](general/offer-negotiation.md) | Written offer, TC pieces, counter without losing level |
+| [debugging-rounds.md](general/debugging-rounds.md) | Repo debug / code-comprehension live rounds |
 
 ## Company tracks
 
@@ -22,6 +23,7 @@
 | [faang-big-tech.md](companies/faang-big-tech.md) | Google, Meta, Amazon, Apple, Microsoft |
 | [startup.md](companies/startup.md) | Seed–Series C, practical loops |
 | [comparison.md](companies/comparison.md) | Big tech vs startup prep mix |
+| [product-companies.md](companies/product-companies.md) | Stripe, Uber, late-stage product loops |
 
 ## Role-specific
 
@@ -49,10 +51,13 @@
 | [coding-valid-parentheses.md](answers/coding-valid-parentheses.md) | Valid Parentheses |
 | [coding-course-schedule.md](answers/coding-course-schedule.md) | Course Schedule (topo sort) |
 | [coding-longest-substring.md](answers/coding-longest-substring.md) | Longest substring (sliding window) |
+| [coding-coin-change.md](answers/coding-coin-change.md) | Coin Change (unbounded DP) |
+| [coding-binary-search.md](answers/coding-binary-search.md) | Rotated array + search-on-answer |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
 | [system-design-chat.md](answers/system-design-chat.md) | Chat / messaging |
+| [system-design-video-streaming.md](answers/system-design-video-streaming.md) | Video streaming / ABR + CDN |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

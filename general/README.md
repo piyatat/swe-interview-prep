@@ -14,5 +14,6 @@ Pages here apply to **every software engineering interview track** regardless of
 | [downleveling.md](downleveling.md) | Leveling vs hire; offer response |
 | [staff-plus.md](staff-plus.md) | Staff / L6 loop, archetypes, deep-dive |
 | [offer-negotiation.md](offer-negotiation.md) | TC pieces, written offer, counter |
+| [debugging-rounds.md](debugging-rounds.md) | Live debug / code comprehension |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).

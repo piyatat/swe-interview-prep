@@ -13,6 +13,8 @@
 | Valid Parentheses | [coding-valid-parentheses.md](coding-valid-parentheses.md) |
 | Course Schedule | [coding-course-schedule.md](coding-course-schedule.md) |
 | Longest substring without repeats | [coding-longest-substring.md](coding-longest-substring.md) |
+| Coin Change (min coins) | [coding-coin-change.md](coding-coin-change.md) |
+| Binary search (rotated + on-answer) | [coding-binary-search.md](coding-binary-search.md) |
 
 ## System design
 
@@ -22,6 +24,7 @@
 | Rate limiter | [system-design-rate-limiter.md](system-design-rate-limiter.md) |
 | Chat / messaging | [system-design-chat.md](system-design-chat.md) |
 | News feed / timeline | [system-design-news-feed.md](system-design-news-feed.md) |
+| Video streaming | [system-design-video-streaming.md](system-design-video-streaming.md) |
 
 ## Behavioral (STAR outlines)
 

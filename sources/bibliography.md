@@ -158,3 +158,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Salary Negotiation 2026 — techinterview.org | https://www.techinterview.org/post/3233474669/salary-negotiation-2026/ |
 | Salary Negotiation for Software Engineers 2026 — LastRound AI | https://lastroundai.com/blog/salary-negotiation-software-engineers |
 | Software Engineer Interview Questions 2026 — KORE1 | https://www.kore1.com/software-engineer-interview-questions/ |
+
+## Debugging / code comprehension (2026-08-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| The debugging interview — techinterview.org | https://www.techinterview.org/post/3233476091/debugging-interview-format/ |
+| Google's AI-Assisted Coding Interview (2026) — Exponent | https://www.tryexponent.com/blog/google-ai-coding-interview |
+| AI-assisted technical interviews in 2026 — Cadence | https://cadence.withremote.ai/blog/ai-technical-interviews |
+| Debugging Interviews in 2026 — Interview AiBox | https://interviewaibox.co/en/blog/real-work-technical-screen-debugging-interview-2026 |
+| Live coding in a real codebase (2026) — gitGood | https://gitgood.dev/blog/live-coding-real-codebase-interview-format-2026 |
+
+## Product-company tracks (2026-08-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Stripe Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/stripe/ |
+| Stripe technical interview process 2026 — TechScreen | https://techscreen.app/articles/stripe-technical-interview-process-2026 |
+| How Uber interviews SWEs in 2026 — techinterview.org | https://www.techinterview.org/post/3233476840/uber-interview-guide/ |
+| Uber interview process (2026) — TechPrep | https://www.techprep.app/blog/uber-interview-process |
+| Stripe SWE interview experience — Exponent | https://www.tryexponent.com/experiences/stripe-software-engineer-interview-7b110b |
+
+## Coin Change outline (2026-08-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Change-making problem — Wikipedia | https://en.wikipedia.org/wiki/Change-making_problem |
+| Coin Change DP walkthrough — techinterview.org | https://www.techinterview.org/post/3233460127/coin-change-bottom-up-and-top-down-dynamic-programming/ |
+| Why greedy fails on Coin Change — techinterview.org | https://www.techinterview.org/post/3233476079/why-greedy-fails-coin-change-dp/ |
+| Coin Change interview walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/coin-change-interview-walkthrough/ |
+
+## Binary search outline (2026-08-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
+| Binary search patterns 2026 — Copilot Interview | https://copilotinterview.com/blog/binary-search-patterns |
+| Advanced binary search (rotated + on-answer) — techinterview.org | https://www.techinterview.org/post/3233461982/binary-search-advanced-interview-patterns/ |
+| Interview binary search (monotonic space) — Atharva Pandey | https://www.atharvapandey.com/post/fundamentals/interview-binary-search/ |
+
+## Video streaming design (2026-08-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Adaptive bitrate streaming — Wikipedia | https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming |
+| HTTP Live Streaming — Wikipedia | https://en.wikipedia.org/wiki/HTTP_Live_Streaming |
+| Netflix Open Connect | https://openconnect.netflix.com/en/ |
+| Design YouTube / video streaming — techinterview.org | https://www.techinterview.org/post/3233459981/design-youtube-video-streaming/ |
+| Video streaming HLD example — Abstract Algorithms | https://www.abstractalgorithms.dev/system-design-hld-video-streaming-example |
