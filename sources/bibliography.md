@@ -206,3 +206,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Netflix Open Connect | https://openconnect.netflix.com/en/ |
 | Design YouTube / video streaming — techinterview.org | https://www.techinterview.org/post/3233459981/design-youtube-video-streaming/ |
 | Video streaming HLD example — Abstract Algorithms | https://www.abstractalgorithms.dev/system-design-hld-video-streaming-example |
+
+## Recruiter screen (2026-08-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| What Recruiters Actually Ask Software Engineers — PhantomCodeAI | https://www.phantomcodeai.com/blogs/what-recruiters-ask-software-engineers |
+| Software Engineer Interview Questions 2026 — KORE1 | https://www.kore1.com/software-engineer-interview-questions/ |
+| How to conduct a recruiter phone screen — Metaview | https://www.metaview.ai/resources/blog/how-to-conduct-recruiter-phone-screen |
+| Recruiter Phone Screen: 15 Questions — Charlie Morrison | https://charliemorrison.dev/blog/recruiter-phone-screen-questions/ |
+
+## AI labs (2026-08-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| OpenAI interview guide | https://openai.com/interview-guide/ |
+| Anthropic careers — How we hire | https://www.anthropic.com/careers |
+| Guidance on Candidates' AI Usage — Anthropic | https://www.anthropic.com/candidate-ai-guidance |
+| Core Views on AI Safety — Anthropic | https://www.anthropic.com/news/core-views-on-ai-safety |
+| Responsible Scaling Policy (v3.1 PDF) — Anthropic | https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf |
+| OpenAI vs Anthropic SWE interview — SpaceComplexity | https://spacecomplexity.ai/blog/openai-vs-anthropic-interview |
+| OpenAI SWE interview (2026) — Interview Coder | https://www.interviewcoder.co/blog/openai-software-engineer-interview |
+| Anthropic SWE interview — IGotAnOffer | https://igotanoffer.com/en/advice/anthropic-software-engineer-interview |
+
+## Platform engineering (2026-08-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| CNCF Platforms White Paper | https://tag-app-delivery.cncf.io/whitepapers/platforms/ |
+| Platform Engineer Interview Questions 2026 — KORE1 | https://www.kore1.com/platform-engineer-interview-questions/ |
+| Platform engineer interview questions — LastRound AI | https://lastroundai.com/blog/platform-engineer-interview-questions |
+| Platform Engineering vs SRE — Medium / mr-dops | https://medium.com/mr-dops/platform-engineering-vs-sre-the-real-difference-6d3472052080 |
+
+## Merge intervals outline (2026-08-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Merge Intervals walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/merge-intervals-interview-walkthrough/ |
+| Merge Intervals pattern — Abstract Algorithms | https://abstractalgorithms.hashnode.dev/merge-intervals-pattern |
+| Merge Intervals pattern 2026 — PapersAdda | https://papersadda.com/article/merge-intervals-pattern-2026/ |
+
+## Unique ID generator (2026-08-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Snowflake ID — Wikipedia | https://en.wikipedia.org/wiki/Snowflake_ID |
+| twitter-archive/snowflake (2010) | https://github.com/twitter-archive/snowflake/tree/snowflake-2010 |
+| Universally unique identifier — Wikipedia | https://en.wikipedia.org/wiki/Universally_unique_identifier |
+| Sharding & IDs at Instagram — Instagram Engineering | https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c |
+| Design a unique ID generator (2026) — System Design Handbook | https://www.systemdesignhandbook.com/guides/design-a-unique-id-generator-in-distributed-systems/ |
+| Distributed ID generator (Snowflake) — Vibe Engines | https://vibeengines.com/systemdesign/distributed-id-generator-system-design |

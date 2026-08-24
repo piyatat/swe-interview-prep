@@ -15,6 +15,7 @@
 | Longest substring without repeats | [coding-longest-substring.md](coding-longest-substring.md) |
 | Coin Change (min coins) | [coding-coin-change.md](coding-coin-change.md) |
 | Binary search (rotated + on-answer) | [coding-binary-search.md](coding-binary-search.md) |
+| Merge Intervals | [coding-merge-intervals.md](coding-merge-intervals.md) |
 
 ## System design
 
@@ -25,6 +26,7 @@
 | Chat / messaging | [system-design-chat.md](system-design-chat.md) |
 | News feed / timeline | [system-design-news-feed.md](system-design-news-feed.md) |
 | Video streaming | [system-design-video-streaming.md](system-design-video-streaming.md) |
+| Unique ID generator | [system-design-unique-id.md](system-design-unique-id.md) |
 
 ## Behavioral (STAR outlines)
 

@@ -15,5 +15,6 @@ Pages here apply to **every software engineering interview track** regardless of
 | [staff-plus.md](staff-plus.md) | Staff / L6 loop, archetypes, deep-dive |
 | [offer-negotiation.md](offer-negotiation.md) | TC pieces, written offer, counter |
 | [debugging-rounds.md](debugging-rounds.md) | Live debug / code comprehension |
+| [recruiter-screen.md](recruiter-screen.md) | Recruiter triage before technical rounds |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).

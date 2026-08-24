@@ -15,6 +15,7 @@
 | [staff-plus.md](general/staff-plus.md) | Staff / L6 loop: scope, ambiguity, archetypes |
 | [offer-negotiation.md](general/offer-negotiation.md) | Written offer, TC pieces, counter without losing level |
 | [debugging-rounds.md](general/debugging-rounds.md) | Repo debug / code-comprehension live rounds |
+| [recruiter-screen.md](general/recruiter-screen.md) | Recruiter triage: fit, level, band, loop questions |
 
 ## Company tracks
 
@@ -24,6 +25,7 @@
 | [startup.md](companies/startup.md) | Seed–Series C, practical loops |
 | [comparison.md](companies/comparison.md) | Big tech vs startup prep mix |
 | [product-companies.md](companies/product-companies.md) | Stripe, Uber, late-stage product loops |
+| [ai-labs.md](companies/ai-labs.md) | OpenAI, Anthropic — work trial, OA, values |
 
 ## Role-specific
 
@@ -32,12 +34,13 @@
 | [backend.md](roles/backend.md) | Backend / API / data / distributed systems |
 | [frontend.md](roles/frontend.md) | Frontend / UI / React / browser |
 | [fullstack.md](roles/fullstack.md) | End-to-end product engineers |
-| [devops-sre.md](roles/devops-sre.md) | DevOps, SRE, platform, infrastructure |
+| [devops-sre.md](roles/devops-sre.md) | DevOps, SRE, infrastructure |
 | [mobile.md](roles/mobile.md) | iOS / Android / cross-platform |
 | [data-ml.md](roles/data-ml.md) | Data engineering / ML / AI systems |
 | [security.md](roles/security.md) | Security engineering / AppSec / cloud IAM |
 | [embedded.md](roles/embedded.md) | Embedded / firmware / RTOS |
 | [qa-sdet.md](roles/qa-sdet.md) | QA / SDET / quality engineering |
+| [platform.md](roles/platform.md) | Internal developer platform / golden paths |
 
 ## Answer outlines
 
@@ -53,11 +56,13 @@
 | [coding-longest-substring.md](answers/coding-longest-substring.md) | Longest substring (sliding window) |
 | [coding-coin-change.md](answers/coding-coin-change.md) | Coin Change (unbounded DP) |
 | [coding-binary-search.md](answers/coding-binary-search.md) | Rotated array + search-on-answer |
+| [coding-merge-intervals.md](answers/coding-merge-intervals.md) | Merge intervals (sort + sweep) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
 | [system-design-chat.md](answers/system-design-chat.md) | Chat / messaging |
 | [system-design-video-streaming.md](answers/system-design-video-streaming.md) | Video streaming / ABR + CDN |
+| [system-design-unique-id.md](answers/system-design-unique-id.md) | Unique ID / Snowflake |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
