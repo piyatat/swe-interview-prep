@@ -16,6 +16,8 @@
 | [offer-negotiation.md](general/offer-negotiation.md) | Written offer, TC pieces, counter without losing level |
 | [debugging-rounds.md](general/debugging-rounds.md) | Repo debug / code-comprehension live rounds |
 | [recruiter-screen.md](general/recruiter-screen.md) | Recruiter triage: fit, level, band, loop questions |
+| [code-review-rounds.md](general/code-review-rounds.md) | Live PR / snippet review: priority, impact, tone |
+| [hiring-manager.md](general/hiring-manager.md) | HM screen: ownership, tradeoffs, questions for them |
 
 ## Company tracks
 
@@ -57,12 +59,15 @@
 | [coding-coin-change.md](answers/coding-coin-change.md) | Coin Change (unbounded DP) |
 | [coding-binary-search.md](answers/coding-binary-search.md) | Rotated array + search-on-answer |
 | [coding-merge-intervals.md](answers/coding-merge-intervals.md) | Merge intervals (sort + sweep) |
+| [coding-3sum.md](answers/coding-3sum.md) | 3Sum (sort + two pointers) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
 | [system-design-chat.md](answers/system-design-chat.md) | Chat / messaging |
 | [system-design-video-streaming.md](answers/system-design-video-streaming.md) | Video streaming / ABR + CDN |
 | [system-design-unique-id.md](answers/system-design-unique-id.md) | Unique ID / Snowflake |
+| [system-design-autocomplete.md](answers/system-design-autocomplete.md) | Search autocomplete / typeahead |
+| [system-design-notification.md](answers/system-design-notification.md) | Multi-channel notifications |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

@@ -16,5 +16,7 @@ Pages here apply to **every software engineering interview track** regardless of
 | [offer-negotiation.md](offer-negotiation.md) | TC pieces, written offer, counter |
 | [debugging-rounds.md](debugging-rounds.md) | Live debug / code comprehension |
 | [recruiter-screen.md](recruiter-screen.md) | Recruiter triage before technical rounds |
+| [code-review-rounds.md](code-review-rounds.md) | Live PR / snippet review |
+| [hiring-manager.md](hiring-manager.md) | Hiring manager screen |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).

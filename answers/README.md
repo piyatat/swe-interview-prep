@@ -16,6 +16,7 @@
 | Coin Change (min coins) | [coding-coin-change.md](coding-coin-change.md) |
 | Binary search (rotated + on-answer) | [coding-binary-search.md](coding-binary-search.md) |
 | Merge Intervals | [coding-merge-intervals.md](coding-merge-intervals.md) |
+| 3Sum | [coding-3sum.md](coding-3sum.md) |
 
 ## System design
 
@@ -27,6 +28,8 @@
 | News feed / timeline | [system-design-news-feed.md](system-design-news-feed.md) |
 | Video streaming | [system-design-video-streaming.md](system-design-video-streaming.md) |
 | Unique ID generator | [system-design-unique-id.md](system-design-unique-id.md) |
+| Search autocomplete | [system-design-autocomplete.md](system-design-autocomplete.md) |
+| Notification system | [system-design-notification.md](system-design-notification.md) |
 
 ## Behavioral (STAR outlines)
 

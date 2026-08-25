@@ -256,3 +256,47 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Sharding & IDs at Instagram — Instagram Engineering | https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c |
 | Design a unique ID generator (2026) — System Design Handbook | https://www.systemdesignhandbook.com/guides/design-a-unique-id-generator-in-distributed-systems/ |
 | Distributed ID generator (Snowflake) — Vibe Engines | https://vibeengines.com/systemdesign/distributed-id-generator-system-design |
+
+## Code review rounds (2026-08-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| What to look for in a code review — Google eng-practices | https://google.github.io/eng-practices/review/reviewer/looking-for.html |
+| Code Review Interview: Questions, Rubric — ClarityHire | https://clarity-hire.com/blog/code-review-interview-questions-rubric |
+| Anthropic SWE Interview: Code Review Round — Coditioning | https://www.coditioning.com/blog/31/anthropic-swe-code-review |
+| Code Review Round: What Interviewers Look for 2026 — ShadeCoder | https://articles.shadecoder.com/code-review-round-what-interviewers-look-for-in-2026 |
+
+## Hiring manager round (2026-08-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hiring Manager Round: A Prep Guide — Vinit Shahdeo | https://vinitshahdeo.substack.com/p/hiring-manager-round-software-engineers |
+| Software Engineer Interview Questions 2026 — KORE1 | https://www.kore1.com/software-engineer-interview-questions/ |
+| Full Stack Developer Interview Questions 2026 — KORE1 | https://www.kore1.com/full-stack-developer-interview-questions/ |
+| AI Changed How to Interview a Software Engineer (2026) — FullScale | https://fullscale.io/blog/how-to-interview-a-software-engineer/ |
+
+## 3Sum outline (2026-08-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| 3SUM — Wikipedia | https://en.wikipedia.org/wiki/3SUM |
+| 3Sum walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/three-sum-interview-walkthrough/ |
+| Coding Interview Patterns 2026 — intervu.dev | https://intervu.dev/blog/coding-interview-patterns/ |
+
+## Autocomplete / typeahead design (2026-08-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Trie — Wikipedia | https://en.wikipedia.org/wiki/Trie |
+| Design Search Autocomplete / Typeahead — CalibreOS | https://www.calibreos.com/learn/hld-search-typeahead |
+| Typeahead / Autocomplete System Design — System Design School | https://systemdesignschool.io/problems/typeahead/solution |
+| Design Search Autocomplete — Sujeet Jaiswal | https://sujeet.pro/articles/design-search-autocomplete |
+
+## Notification system design (2026-08-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| FCM Architectural Overview — Firebase | https://firebase.google.com/docs/cloud-messaging/fcm-architecture |
+| Notification Service (Push, SMS, Email) — techinterview.org | https://www.techinterview.org/post/3233461699/system-design-notification-service/ |
+| Design a Notification System — Systems Explained | https://systeminternals.dev/system-design-interview/notification-system/ |
+| Notification HLD example — Abstract Algorithms | https://abstractalgorithms.dev/system-design-hld-notification-service-example |
