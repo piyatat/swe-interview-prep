@@ -300,3 +300,56 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Notification Service (Push, SMS, Email) — techinterview.org | https://www.techinterview.org/post/3233461699/system-design-notification-service/ |
 | Design a Notification System — Systems Explained | https://systeminternals.dev/system-design-interview/notification-system/ |
 | Notification HLD example — Abstract Algorithms | https://abstractalgorithms.dev/system-design-hld-notification-service-example |
+
+## Online assessments (2026-08-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Taking an assessment on CodeSignal — CodeSignal KB | https://support.codesignal.com/hc/en-us/articles/360045953873-Taking-an-assessment-on-CodeSignal |
+| GCA Rules and Setup — CodeSignal KB | https://support.codesignal.com/hc/en-us/articles/360051960134-General-Coding-Assessment-GCA-Rules-and-Setup |
+| What to expect on the GCA — CodeSignal KB | https://support.codesignal.com/hc/en-us/articles/360040370853-What-should-I-expect-when-I-take-the-General-Coding-Assessment-GCA-and-how-is-it-structured |
+| CodeSignal GCA Guide for 2026 — Control | https://trycontrol.app/blog/codesignal-general-coding-assessment-guide-2026 |
+| Engineering Interview Trends in 2026 — Karat | https://karat.com/engineering-interview-trends-2026/ |
+| Technical Assessments in the Age of AI — Karat | https://karat.com/technical-assessments-age-of-ai/ |
+| FAQs before the test — HackerRank candidate support | https://candidatesupport.hackerrank.com/articles/6145743949-frequently-asked-questions-before-the-test |
+| Online Interview Assessment Platforms in 2026 — InterviewChamp.AI | https://interviewchamp.ai/learn/online-interview-assessment-platforms-2026 |
+
+## Low-level design (2026-08-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Low Level Design in a Hurry — Hello Interview | https://www.hellointerview.com/learn/low-level-design/in-a-hurry/introduction |
+| Low-Level Design Interview — PracHub | https://prachub.com/resources/low-level-design-interview-what-lld-is-and-how-to-crack-it |
+| LLD Questions: Parking Lot, Elevator — PhantomCodeAI | https://www.phantomcodeai.com/blogs/lld-questions |
+| Design a Parking Lot — InterviewLoop | https://interviewloop.app/learn/low-level-design/6-design-a-parking-lot-oop-design-patterns-interview-guide |
+| Top 20 LLD Interview Questions (2026) — Low Level Design Mastery | https://www.lowleveldesignmastery.com/blog/low-level-design-interview-questions/ |
+
+## Ride sharing design (2026-08-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| H3: Uber’s Hexagonal Hierarchical Spatial Index — Uber Engineering | https://www.uber.com/us/en/blog/h3/ |
+| GEOADD — Redis docs | https://redis.io/docs/latest/commands/geoadd/ |
+| Design a Ride-Sharing Service Like Uber — Hello Interview | https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber |
+| Ride-Sharing System Design (Uber / Lyft) — intervu.dev | https://intervu.dev/blog/ride-sharing-uber-lyft-system-design/ |
+| Ride-Sharing System Design Interview — SpaceComplexity | https://spacecomplexity.ai/blog/ride-sharing-system-design-interview |
+
+## Web crawler design (2026-08-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| RFC 9309: Robots Exclusion Protocol | https://www.rfc-editor.org/rfc/rfc9309.html |
+| Robots.txt — Wikipedia | https://en.wikipedia.org/wiki/Robots.txt |
+| Bloom filter — Wikipedia | https://en.wikipedia.org/wiki/Bloom_filter |
+| Design a Web Crawler (Googlebot-style) — HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/web-crawler/ |
+| 8.12 Design a web crawler — System Design Interview Handbook | https://www.systemdesigninterview.com/guides/system-design-interview-handbook/812-design-a-web-crawler |
+| Web Crawler LLD: frontier and politeness — techinterview.org | https://www.techinterview.org/post/3233469422/lld-web-crawler/ |
+
+## Product except self outline (2026-08-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Prefix sum — Wikipedia | https://en.wikipedia.org/wiki/Prefix_sum |
+| Product of Array Except Self walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/product-of-array-except-self-interview-walkthrough/ |
+| Product of Array Except Self — NeetCode | https://neetcode.io/solutions/product-of-array-except-self |
+| Product of Array Except Self — InterviewLoop | https://interviewloop.app/learn/code/arrays-and-hashing/product-of-array-except-self |

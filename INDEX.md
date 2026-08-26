@@ -18,6 +18,8 @@
 | [recruiter-screen.md](general/recruiter-screen.md) | Recruiter triage: fit, level, band, loop questions |
 | [code-review-rounds.md](general/code-review-rounds.md) | Live PR / snippet review: priority, impact, tone |
 | [hiring-manager.md](general/hiring-manager.md) | HM screen: ownership, tradeoffs, questions for them |
+| [online-assessments.md](general/online-assessments.md) | CodeSignal GCA, HackerRank OA, Karat live screen |
+| [low-level-design.md](general/low-level-design.md) | OOP / machine coding: classes, state, extensibility |
 
 ## Company tracks
 
@@ -60,6 +62,7 @@
 | [coding-binary-search.md](answers/coding-binary-search.md) | Rotated array + search-on-answer |
 | [coding-merge-intervals.md](answers/coding-merge-intervals.md) | Merge intervals (sort + sweep) |
 | [coding-3sum.md](answers/coding-3sum.md) | 3Sum (sort + two pointers) |
+| [coding-product-except-self.md](answers/coding-product-except-self.md) | Product except self (prefix/suffix) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -68,6 +71,8 @@
 | [system-design-unique-id.md](answers/system-design-unique-id.md) | Unique ID / Snowflake |
 | [system-design-autocomplete.md](answers/system-design-autocomplete.md) | Search autocomplete / typeahead |
 | [system-design-notification.md](answers/system-design-notification.md) | Multi-channel notifications |
+| [system-design-ride-sharing.md](answers/system-design-ride-sharing.md) | Ride sharing / geo matching |
+| [system-design-web-crawler.md](answers/system-design-web-crawler.md) | Web crawler / frontier + robots.txt |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

@@ -17,6 +17,7 @@
 | Binary search (rotated + on-answer) | [coding-binary-search.md](coding-binary-search.md) |
 | Merge Intervals | [coding-merge-intervals.md](coding-merge-intervals.md) |
 | 3Sum | [coding-3sum.md](coding-3sum.md) |
+| Product of array except self | [coding-product-except-self.md](coding-product-except-self.md) |
 
 ## System design
 
@@ -30,6 +31,8 @@
 | Unique ID generator | [system-design-unique-id.md](system-design-unique-id.md) |
 | Search autocomplete | [system-design-autocomplete.md](system-design-autocomplete.md) |
 | Notification system | [system-design-notification.md](system-design-notification.md) |
+| Ride sharing | [system-design-ride-sharing.md](system-design-ride-sharing.md) |
+| Web crawler | [system-design-web-crawler.md](system-design-web-crawler.md) |
 
 ## Behavioral (STAR outlines)
 
