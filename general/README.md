@@ -20,5 +20,7 @@ Pages here apply to **every software engineering interview track** regardless of
 | [hiring-manager.md](hiring-manager.md) | Hiring manager screen |
 | [online-assessments.md](online-assessments.md) | CodeSignal / HackerRank / Karat screens |
 | [low-level-design.md](low-level-design.md) | OOP / machine coding rounds |
+| [pair-programming.md](pair-programming.md) | Live pair / Cursor-era three-way rounds |
+| [new-grad.md](new-grad.md) | Intern and new-grad loops |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).

@@ -9,5 +9,6 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Side-by-side | [comparison.md](comparison.md) | Choosing strategy or switching between loops |
 | Product companies | [product-companies.md](product-companies.md) | Stripe, Uber, late-stage product (domain loops) |
 | AI labs | [ai-labs.md](ai-labs.md) | OpenAI, Anthropic (work trial / OA / values) |
+| Quant / trading SWE | [quant.md](quant.md) | Jane Street, Citadel Securities, Two Sigma |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

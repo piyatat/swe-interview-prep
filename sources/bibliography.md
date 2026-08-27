@@ -353,3 +353,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Product of Array Except Self walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/product-of-array-except-self-interview-walkthrough/ |
 | Product of Array Except Self — NeetCode | https://neetcode.io/solutions/product-of-array-except-self |
 | Product of Array Except Self — InterviewLoop | https://interviewloop.app/learn/code/arrays-and-hashing/product-of-array-except-self |
+
+## Pair-programming / Cursor-era (2026-08-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| The Cursor-Era Pair Programming Interview — techinterview.org | https://www.techinterview.org/post/3233474916/cursor-era-pair-programming-interview/ |
+| How Engineering Interviews Have Changed (AI-augmented loop 2026) — Aveluate | https://aveluate.com/blog/ai-augmented-engineering-interview-prep-2026 |
+| Software Engineer Interview Process 2026 — Levelop | https://levelop.dev/blog/the-complete-software-engineer-interview-process-in-2026-what-to-expect-at-every |
+| Live coding in a real codebase (2026) — gitGood | https://gitgood.dev/blog/live-coding-real-codebase-interview-format-2026 |
+
+## Intern / new-grad (2026-08-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| The New Grad Software Engineer Interview Guide (2026) — TechScreen | https://techscreen.app/articles/new-grad-software-engineer-interview-guide-2026 |
+| 10 Meta SWE (New Grad) Interview Questions (2026) — InterviewChamp.AI | https://interviewchamp.ai/interview-questions/meta/swe-new-grad |
+| Google Software Engineer Intern Interview Guide — Exponent | https://www.tryexponent.com/guides/google-software-engineer-intern-interview |
+| Google Careers — students / intern search | https://www.google.com/about/careers/applications/jobs/results/?degree=BACHELORS&employment_type=INTERN |
+| Software Engineer Interview Questions 2026 — KORE1 | https://www.kore1.com/software-engineer-interview-questions/ |
+
+## Top-K outline (2026-08-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Quickselect — Wikipedia | https://en.wikipedia.org/wiki/Quickselect |
+| Top-K via heap or quickselect — DSA Handbook | https://dsa.handbook.academy/patterns/top-k-heap-or-quickselect/ |
+| Quickselect vs heap for top-K — DSA Handbook | https://dsa.handbook.academy/patterns/quickselect-vs-heap-top-k/ |
+| Top K Elements Pattern 2026 — PapersAdda | https://papersadda.com/article/top-k-elements-pattern-2026/ |
+
+## Distributed cache design (2026-08-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Consistent hashing — Wikipedia | https://en.wikipedia.org/wiki/Consistent_hashing |
+| Redis Cluster specification | https://redis.io/docs/latest/operate/oss_and_stack/reference/cluster-spec/ |
+| Redis Cluster scaling (hash slots) | https://redis.io/docs/latest/operate/oss_and_stack/management/scaling/ |
+| Redis key eviction | https://redis.io/docs/latest/develop/reference/eviction/ |
+| Cache-Aside pattern — Azure Architecture Center | https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside |
+| Distributed cache interview walkthrough — SpaceComplexity | https://spacecomplexity.ai/blog/distributed-cache-system-design |
+
+## Quant / trading SWE (2026-08-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Preparing for a Software Engineering Interview — Jane Street | https://www.janestreet.com/preparing-for-a-software-engineering-interview/ |
+| Interviewing — Jane Street | https://www.janestreet.com/join-jane-street/interviewing/ |
+| What a Jane Street software engineering interview is like — Jane Street Blog | https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/ |
+| Experienced Professionals: Engineering Interview Process — Citadel Securities | https://www.citadelsecurities.com/careers/career-perspectives/our-engineering-interview-process/ |
+| What Jane Street’s SWE interview really tests — techinterview.org | https://www.techinterview.org/post/3233476389/jane-street-software-engineer-interview/ |
+| Jane Street SWE interview — Exponent | https://www.tryexponent.com/guides/jane-street-software-engineer-interview |

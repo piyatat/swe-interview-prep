@@ -18,6 +18,7 @@
 | Merge Intervals | [coding-merge-intervals.md](coding-merge-intervals.md) |
 | 3Sum | [coding-3sum.md](coding-3sum.md) |
 | Product of array except self | [coding-product-except-self.md](coding-product-except-self.md) |
+| Top-K (kth largest / k frequent) | [coding-top-k.md](coding-top-k.md) |
 
 ## System design
 
@@ -33,6 +34,7 @@
 | Notification system | [system-design-notification.md](system-design-notification.md) |
 | Ride sharing | [system-design-ride-sharing.md](system-design-ride-sharing.md) |
 | Web crawler | [system-design-web-crawler.md](system-design-web-crawler.md) |
+| Distributed cache | [system-design-distributed-cache.md](system-design-distributed-cache.md) |
 
 ## Behavioral (STAR outlines)
 
