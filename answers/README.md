@@ -19,6 +19,8 @@
 | 3Sum | [coding-3sum.md](coding-3sum.md) |
 | Product of array except self | [coding-product-except-self.md](coding-product-except-self.md) |
 | Top-K (kth largest / k frequent) | [coding-top-k.md](coding-top-k.md) |
+| Reverse linked list + cycle | [coding-linked-list.md](coding-linked-list.md) |
+| Validate BST | [coding-validate-bst.md](coding-validate-bst.md) |
 
 ## System design
 
@@ -35,6 +37,7 @@
 | Ride sharing | [system-design-ride-sharing.md](system-design-ride-sharing.md) |
 | Web crawler | [system-design-web-crawler.md](system-design-web-crawler.md) |
 | Distributed cache | [system-design-distributed-cache.md](system-design-distributed-cache.md) |
+| File storage / Dropbox sync | [system-design-file-storage.md](system-design-file-storage.md) |
 
 ## Behavioral (STAR outlines)
 

@@ -22,5 +22,6 @@ Pages here apply to **every software engineering interview track** regardless of
 | [low-level-design.md](low-level-design.md) | OOP / machine coding rounds |
 | [pair-programming.md](pair-programming.md) | Live pair / Cursor-era three-way rounds |
 | [new-grad.md](new-grad.md) | Intern and new-grad loops |
+| [team-matching.md](team-matching.md) | Post-bar team match (Google HC pool) |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).

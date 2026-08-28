@@ -403,3 +403,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Experienced Professionals: Engineering Interview Process — Citadel Securities | https://www.citadelsecurities.com/careers/career-perspectives/our-engineering-interview-process/ |
 | What Jane Street’s SWE interview really tests — techinterview.org | https://www.techinterview.org/post/3233476389/jane-street-software-engineer-interview/ |
 | Jane Street SWE interview — Exponent | https://www.tryexponent.com/guides/jane-street-software-engineer-interview |
+
+## Netflix track (2026-08-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Netflix Culture Memo — Careers at Netflix | https://jobs.netflix.com/culture |
+| Netflix Culture Memo PDF | https://www.jobs.netflix.com/netflix-culture.pdf |
+| Netflix Engineering Interview Guide — PhantomCodeAI | https://www.phantomcodeai.com/blogs/netflix-engineering-culture-interview-guide |
+| Netflix Interview Guide 2026 — LastRound AI | https://lastroundai.com/blog/netflix-interview-guide |
+| Inside the Netflix 2026 Engineering Loop — dglearning | https://dglearning.substack.com/p/inside-the-netflix-2026-engineering |
+
+## Team matching (2026-08-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| A guide to structured interviewing — Google re:Work | https://rework.withgoogle.com/intl/en/guides/a-guide-to-structured-interviewing-for-better-hiring-practices |
+| Google Team Matching — IGotAnOffer | https://igotanoffer.com/en/advice/google-team-matching |
+| Google Hiring Committee and Team Match 2026 — Leon Consulting | https://leonstaff.com/blogs/google-hiring-committee-team-match-guide/ |
+| Google Interview Process 2026 — ResumeAdapter | https://www.resumeadapter.com/companies/google/interview-process |
+
+## Linked list outlines (2026-08-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
+| Cycle detection (Floyd) — Wikipedia | https://en.wikipedia.org/wiki/Cycle_detection |
+| Reverse Linked List walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/reverse-linked-list-interview-walkthrough/ |
+| Linked List Cycle walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/linked-list-cycle-interview-walkthrough/ |
+| Detect a cycle / cycle entry — techinterview.org | https://www.techinterview.org/post/3233459674/find-out-if-a-linked-list-has-a-cycle/ |
+
+## Validate BST outline (2026-08-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Binary search tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_tree |
+| Validate Binary Search Tree walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/validate-binary-search-tree-interview-walkthrough/ |
+| Validate BST min/max bounds — Paul Epps | https://paulepps.substack.com/p/validate-bst-the-minmax-bounds-pattern |
+| Validate BST range + inorder — DTDucas | https://dtducas.com/blog/validate-binary-search-tree |
+
+## File storage / Dropbox design (2026-08-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Inside the Magic Pocket — Dropbox | https://dropbox.tech/infrastructure/inside-the-magic-pocket |
+| Design Dropbox — techinterview.org | https://www.techinterview.org/post/3233474312/system-design-design-dropbox-file-storage-sync-chunking-deduplication-conflict-resolution-delta-sync-sharing-permissions/ |
+| Dropbox system design — System Design Academy | https://www.systemdesign.academy/interview/design-dropbox |
+| File storage (Dropbox / Drive) — intervu.dev | https://intervu.dev/blog/file-storage-dropbox-google-drive-system-design/ |
+| Dropbox / Google Drive file sync — nSkillHub | https://nskillhub.com/system-design/classic/dropbox-google-drive-file-sync/ |
+
