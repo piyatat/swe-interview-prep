@@ -21,6 +21,8 @@
 | Top-K (kth largest / k frequent) | [coding-top-k.md](coding-top-k.md) |
 | Reverse linked list + cycle | [coding-linked-list.md](coding-linked-list.md) |
 | Validate BST | [coding-validate-bst.md](coding-validate-bst.md) |
+| Word Break | [coding-word-break.md](coding-word-break.md) |
+| Implement Trie | [coding-trie.md](coding-trie.md) |
 
 ## System design
 
@@ -38,6 +40,7 @@
 | Web crawler | [system-design-web-crawler.md](system-design-web-crawler.md) |
 | Distributed cache | [system-design-distributed-cache.md](system-design-distributed-cache.md) |
 | File storage / Dropbox sync | [system-design-file-storage.md](system-design-file-storage.md) |
+| Payment / ledger | [system-design-payment.md](system-design-payment.md) |
 
 ## Behavioral (STAR outlines)
 

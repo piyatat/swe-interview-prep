@@ -452,3 +452,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | File storage (Dropbox / Drive) — intervu.dev | https://intervu.dev/blog/file-storage-dropbox-google-drive-system-design/ |
 | Dropbox / Google Drive file sync — nSkillHub | https://nskillhub.com/system-design/classic/dropbox-google-drive-file-sync/ |
 
+## SQL interviews (2026-08-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| PostgreSQL 13.2. Transaction Isolation | https://www.postgresql.org/docs/current/transaction-iso.html |
+| PostgreSQL 3.5. Window Functions | https://www.postgresql.org/docs/current/tutorial-window.html |
+| PostgreSQL 14.1. Using EXPLAIN | https://www.postgresql.org/docs/current/using-explain.html |
+| SQL Interview Questions 2026 — AI2SQL | https://builder.ai2sql.io/blog/sql-interview-questions |
+| 40 SQL Interview Questions (2026) — Dev Encyclopedia | https://devencyclopedia.com/blog/sql-database-interview-questions |
+
+## Databricks track (2026-08-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering at Databricks — How we interview | https://www.databricks.com/company/careers/engineering-at-databricks |
+| Engineering Careers Site Interview Prep (Apr 2025 PDF) — Databricks | https://www.databricks.com/sites/default/files/2025-04/engineering-careers-site-interview-prep-april-2025-002.pdf |
+| Engineering Interviews — A Hiring Manager's Guide — Databricks Blog (2020) | https://www.databricks.com/blog/2020/01/22/engineering-intervews-a-hiring-managers-guide.html |
+| What the Databricks engineering interview actually tests — techinterview.org | https://www.techinterview.org/post/3233476801/databricks-engineering-interview/ |
+| Databricks SWE interview questions — interviewing.io | https://interviewing.io/databricks-interview-questions |
+
+## Word Break outline (2026-08-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| Word Break walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/word-break-interview-walkthrough/ |
+| Word Break DP — techinterview.org | https://www.techinterview.org/post/3233460131/word-break-problem-dynamic-programming-solution/ |
+| Word Break memo / II pruning — techinterview.org | https://www.techinterview.org/post/3233476084/word-break-memoized-recursion-dp/ |
+| Word Break — InterviewLoop | https://interviewloop.app/learn/code/dynamic-programming/259-word-break-leetcode-interview-questions-explained |
+
+## Implement Trie outline (2026-08-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| Trie — Wikipedia | https://en.wikipedia.org/wiki/Trie |
+| Implement Trie walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/implement-trie-interview-walkthrough/ |
+| LLD: Trie data structure — techinterview.org | https://www.techinterview.org/post/3233472900/lld-trie-data-structure/ |
+| Trie interview problems — TheCodeForge | https://thecodeforge.io/interview/trie-interview-problems/ |
+
+## Payment / ledger design (2026-08-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| Idempotent requests — Stripe API | https://docs.stripe.com/api/idempotent_requests |
+| Receive Stripe events (webhooks) — Stripe Docs | https://docs.stripe.com/webhooks |
+| Ledger: tracking and validating money movement — Stripe | https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement |
+| Design a Payment System — InterviewLoop | https://interviewloop.app/learn/system-design/design-a-payment-system-stripe |
+| Design a Payment System (Stripe / PayPal) — HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/payment-system/ |
+

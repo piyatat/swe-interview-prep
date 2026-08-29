@@ -11,5 +11,6 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | AI labs | [ai-labs.md](ai-labs.md) | OpenAI, Anthropic (work trial / OA / values) |
 | Quant / trading SWE | [quant.md](quant.md) | Jane Street, Citadel Securities, Two Sigma |
 | Netflix | [netflix.md](netflix.md) | Keeper test, culture memo, senior-shaped loop |
+| Databricks | [databricks.md](databricks.md) | Concurrency panel, lakehouse / infra design |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

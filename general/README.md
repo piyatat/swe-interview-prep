@@ -23,5 +23,6 @@ Pages here apply to **every software engineering interview track** regardless of
 | [pair-programming.md](pair-programming.md) | Live pair / Cursor-era three-way rounds |
 | [new-grad.md](new-grad.md) | Intern and new-grad loops |
 | [team-matching.md](team-matching.md) | Post-bar team match (Google HC pool) |
+| [sql-interviews.md](sql-interviews.md) | SWE SQL: isolation, windows, EXPLAIN |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).

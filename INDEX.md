@@ -23,6 +23,7 @@
 | [pair-programming.md](general/pair-programming.md) | Live pair / Cursor-era three-way collaboration |
 | [new-grad.md](general/new-grad.md) | Intern and new-grad loops, calendar, team match |
 | [team-matching.md](general/team-matching.md) | Post-bar placement: Google HC pool, manager chats |
+| [sql-interviews.md](general/sql-interviews.md) | SWE SQL hour: isolation, windows, EXPLAIN |
 
 ## Company tracks
 
@@ -35,6 +36,7 @@
 | [ai-labs.md](companies/ai-labs.md) | OpenAI, Anthropic — work trial, OA, values |
 | [quant.md](companies/quant.md) | Jane Street, Citadel Securities, Two Sigma SWE |
 | [netflix.md](companies/netflix.md) | Netflix — keeper test, culture memo, senior loop |
+| [databricks.md](companies/databricks.md) | Databricks — concurrency panel, lakehouse design |
 
 ## Role-specific
 
@@ -71,6 +73,8 @@
 | [coding-top-k.md](answers/coding-top-k.md) | Top-K (heap / quickselect / bucket) |
 | [coding-linked-list.md](answers/coding-linked-list.md) | Reverse list + Floyd cycle |
 | [coding-validate-bst.md](answers/coding-validate-bst.md) | Validate BST (bounds / inorder) |
+| [coding-word-break.md](answers/coding-word-break.md) | Word Break (prefix DP) |
+| [coding-trie.md](answers/coding-trie.md) | Implement Trie (prefix tree) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -83,6 +87,7 @@
 | [system-design-web-crawler.md](answers/system-design-web-crawler.md) | Web crawler / frontier + robots.txt |
 | [system-design-distributed-cache.md](answers/system-design-distributed-cache.md) | Distributed cache / hashing + stampede |
 | [system-design-file-storage.md](answers/system-design-file-storage.md) | File storage / Dropbox sync + chunking |
+| [system-design-payment.md](answers/system-design-payment.md) | Payments / ledger + idempotency |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
