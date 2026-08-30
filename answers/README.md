@@ -23,6 +23,8 @@
 | Validate BST | [coding-validate-bst.md](coding-validate-bst.md) |
 | Word Break | [coding-word-break.md](coding-word-break.md) |
 | Implement Trie | [coding-trie.md](coding-trie.md) |
+| Container With Most Water | [coding-container-water.md](coding-container-water.md) |
+| Clone Graph | [coding-clone-graph.md](coding-clone-graph.md) |
 
 ## System design
 
@@ -41,6 +43,7 @@
 | Distributed cache | [system-design-distributed-cache.md](system-design-distributed-cache.md) |
 | File storage / Dropbox sync | [system-design-file-storage.md](system-design-file-storage.md) |
 | Payment / ledger | [system-design-payment.md](system-design-payment.md) |
+| Collaborative editor / Docs | [system-design-collab-editor.md](system-design-collab-editor.md) |
 
 ## Behavioral (STAR outlines)
 

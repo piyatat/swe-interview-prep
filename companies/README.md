@@ -12,5 +12,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Quant / trading SWE | [quant.md](quant.md) | Jane Street, Citadel Securities, Two Sigma |
 | Netflix | [netflix.md](netflix.md) | Keeper test, culture memo, senior-shaped loop |
 | Databricks | [databricks.md](databricks.md) | Concurrency panel, lakehouse / infra design |
+| Palantir | [palantir.md](palantir.md) | Dev vs Delta; decomp / re-engineering / learning |
+| Snowflake | [snowflake.md](snowflake.md) | Warehouses; storage–compute split; SQL hour |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

@@ -500,3 +500,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Design a Payment System — InterviewLoop | https://interviewloop.app/learn/system-design/design-a-payment-system-stripe |
 | Design a Payment System (Stripe / PayPal) — HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/payment-system/ |
 
+## Palantir track (2026-08-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Getting Hired — Palantir Careers | https://www.palantir.com/careers/getting-hired/ |
+| The Phone Interview — Palantir Careers | https://www.palantir.com/careers/getting-hired/the-phone-interview/ |
+| Interviewing at Palantir — Palantir Blog | https://blog.palantir.com/interviewing-at-palantir-advice-from-palantirians-88444a90e7c4 |
+| Dev versus Delta — Palantir Blog | https://blog.palantir.com/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87 |
+| Palantir FDE interview — Exponent | https://www.tryexponent.com/guides/palantir-forward-deployed-engineer-interview |
+| Palantir interview process — interviewing.io | https://interviewing.io/palantir-interview-questions |
+
+## Snowflake track (2026-08-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hiring Process — Snowflake Careers | https://careers.snowflake.com/us/en/gethired |
+| AI in your Snowflake interview — Snowflake Careers | https://careers.snowflake.com/us/en/blogarticle/ai-cheat-sheet-how-and-when-to-use-ai-in-your-snowflake-interview |
+| The Snowflake Elastic Data Warehouse (SIGMOD 2016 PDF) | https://www.snowflake.com/wp-content/uploads/2019/06/Snowflake_SIGMOD.pdf |
+| Virtual warehouses — Snowflake Docs | https://docs.snowflake.com/en/user-guide/warehouses |
+| Snowflake technical interview 2026 — TechScreen | https://techscreen.app/articles/snowflake-technical-interview-process-2026 |
+| Snowflake interview process — interviewing.io | https://interviewing.io/snowflake-interview-questions |
+
+## Container With Most Water outline (2026-08-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Container With Most Water — two-pointer invariant — techinterview.org | https://www.techinterview.org/post/3233474773/container-with-most-water-two-pointer/ |
+| Container With Most Water walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/container-with-most-water-interview-walkthrough/ |
+| Two pointers pattern (container + rain water) — jamongx | https://jamongx.com/understanding-the-two-pointers-technique/ |
+
+## Clone Graph outline (2026-08-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+| Depth-first search — Wikipedia | https://en.wikipedia.org/wiki/Depth-first_search |
+| Clone Graph walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/clone-graph-interview-walkthrough/ |
+
+## Collaborative editor design (2026-08-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Operational transformation — Wikipedia | https://en.wikipedia.org/wiki/Operational_transformation |
+| Conflict-free replicated data type — Wikipedia | https://en.wikipedia.org/wiki/CRDT |
+| How Google Docs real-time collaboration works (OT vs CRDT) — Akshay Ghalme | https://akshayghalme.com/blogs/how-google-docs-real-time-collaboration-works/ |
+| Google Docs / collaborative editing — System Design School | https://systemdesignschool.io/problems/google-docs/solution |
+| Design Google Docs: collaborative editing — techinterview.org | https://www.techinterview.org/post/3233460997/system-design-collaborative-editing/ |
+

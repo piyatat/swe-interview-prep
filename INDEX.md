@@ -37,6 +37,8 @@
 | [quant.md](companies/quant.md) | Jane Street, Citadel Securities, Two Sigma SWE |
 | [netflix.md](companies/netflix.md) | Netflix — keeper test, culture memo, senior loop |
 | [databricks.md](companies/databricks.md) | Databricks — concurrency panel, lakehouse design |
+| [palantir.md](companies/palantir.md) | Palantir — Dev vs Delta, decomp / re-eng loop |
+| [snowflake.md](companies/snowflake.md) | Snowflake — warehouses, storage/compute split |
 
 ## Role-specific
 
@@ -75,6 +77,8 @@
 | [coding-validate-bst.md](answers/coding-validate-bst.md) | Validate BST (bounds / inorder) |
 | [coding-word-break.md](answers/coding-word-break.md) | Word Break (prefix DP) |
 | [coding-trie.md](answers/coding-trie.md) | Implement Trie (prefix tree) |
+| [coding-container-water.md](answers/coding-container-water.md) | Container With Most Water (two pointers) |
+| [coding-clone-graph.md](answers/coding-clone-graph.md) | Clone Graph (BFS/DFS + map) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -88,6 +92,7 @@
 | [system-design-distributed-cache.md](answers/system-design-distributed-cache.md) | Distributed cache / hashing + stampede |
 | [system-design-file-storage.md](answers/system-design-file-storage.md) | File storage / Dropbox sync + chunking |
 | [system-design-payment.md](answers/system-design-payment.md) | Payments / ledger + idempotency |
+| [system-design-collab-editor.md](answers/system-design-collab-editor.md) | Collaborative editor / OT vs CRDT |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
