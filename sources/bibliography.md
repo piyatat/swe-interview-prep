@@ -548,3 +548,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Google Docs / collaborative editing — System Design School | https://systemdesignschool.io/problems/google-docs/solution |
 | Design Google Docs: collaborative editing — techinterview.org | https://www.techinterview.org/post/3233460997/system-design-collaborative-editing/ |
 
+## LinkedIn track (2026-08-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — LinkedIn Careers | https://careers.linkedin.com/Howwehire |
+| LinkedIn interview process — interviewing.io | https://interviewing.io/linkedin-interview-questions |
+| LinkedIn's AI-Enabled Coding Interview — Hello Interview | https://www.hellointerview.com/blog/linkedin-ai-enabled-coding |
+| LinkedIn SWE Interview: AI-Enabled Coding Guide — Coditioning | https://www.coditioning.com/blog/1406/linkedin-swe-ai-enabled-coding |
+| LinkedIn Software Engineer Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/linkedin-software-engineer-interview-guide |
+
+## Airbnb track (2026-08-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| Life at Airbnb — Careers at Airbnb | https://careers.airbnb.com/life-at-airbnb/ |
+| Careers at Airbnb | https://careers.airbnb.com/ |
+| How Airbnb Interviews Engineers — techinterview.org | https://www.techinterview.org/post/3233476842/airbnb-interview-guide/ |
+| Airbnb Software Engineer Interview Guide — Exponent | https://www.tryexponent.com/guides/airbnb-software-engineer-interview |
+| The Airbnb Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/airbnb-technical-interview-process-2026 |
+| Airbnb's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/airbnb-interview-process |
+
+## House Robber outline (2026-08-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| House Robber solution — NeetCode | https://neetcode.io/solutions/house-robber |
+| House Robber — Whiteboard Ready | https://www.whiteboardready.com/post/house-robber |
+| 198. House Robber — Codinginterview.com | https://www.codinginterview.com/problems/198-house-robber/ |
+
+## Group Anagrams outline (2026-08-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| Anagram — Wikipedia | https://en.wikipedia.org/wiki/Anagram |
+| Group anagrams: canonical key — FDEInterviews | https://fdeinterviews.com/q/group-anagrams-canonical-key |
+| 49. Group Anagrams — Codinginterview.com | https://www.codinginterview.com/problems/49-group-anagrams/ |
+| Group Anagrams — AlgoMaster | https://algomaster.io/learn/dsa/group-anagrams |
+
+## Job scheduler design (2026-08-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| About Cloud Scheduler — Google Cloud | https://cloud.google.com/scheduler/docs/overview |
+| Job Scheduler System Design — PracHub | https://prachub.com/resources/job-scheduler-system-design-interview-guide-queues-retries-and-exactly-once-execution |
+| Design a Distributed Job Scheduler — System Design Handbook | https://www.systemdesignhandbook.com/guides/design-a-distributed-job-scheduler/ |
+| Amazon SQS visibility timeout | https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility-timeout.html |
+

@@ -14,5 +14,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Databricks | [databricks.md](databricks.md) | Concurrency panel, lakehouse / infra design |
 | Palantir | [palantir.md](palantir.md) | Dev vs Delta; decomp / re-engineering / learning |
 | Snowflake | [snowflake.md](snowflake.md) | Warehouses; storage–compute split; SQL hour |
+| LinkedIn | [linkedin.md](linkedin.md) | Centralized hire; tech-comm; possible AI coding hour |
+| Airbnb | [airbnb.md](airbnb.md) | Core Values veto; working code; booking design |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

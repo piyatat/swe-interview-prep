@@ -25,6 +25,8 @@
 | Implement Trie | [coding-trie.md](coding-trie.md) |
 | Container With Most Water | [coding-container-water.md](coding-container-water.md) |
 | Clone Graph | [coding-clone-graph.md](coding-clone-graph.md) |
+| House Robber (1D DP) | [coding-house-robber.md](coding-house-robber.md) |
+| Group Anagrams | [coding-group-anagrams.md](coding-group-anagrams.md) |
 
 ## System design
 
@@ -44,6 +46,7 @@
 | File storage / Dropbox sync | [system-design-file-storage.md](system-design-file-storage.md) |
 | Payment / ledger | [system-design-payment.md](system-design-payment.md) |
 | Collaborative editor / Docs | [system-design-collab-editor.md](system-design-collab-editor.md) |
+| Job scheduler / distributed cron | [system-design-job-scheduler.md](system-design-job-scheduler.md) |
 
 ## Behavioral (STAR outlines)
 

@@ -39,6 +39,8 @@
 | [databricks.md](companies/databricks.md) | Databricks — concurrency panel, lakehouse design |
 | [palantir.md](companies/palantir.md) | Palantir — Dev vs Delta, decomp / re-eng loop |
 | [snowflake.md](companies/snowflake.md) | Snowflake — warehouses, storage/compute split |
+| [linkedin.md](companies/linkedin.md) | LinkedIn — centralized hire, tech-comm, AI-variant |
+| [airbnb.md](companies/airbnb.md) | Airbnb — Core Values, DP coding, booking design |
 
 ## Role-specific
 
@@ -79,6 +81,8 @@
 | [coding-trie.md](answers/coding-trie.md) | Implement Trie (prefix tree) |
 | [coding-container-water.md](answers/coding-container-water.md) | Container With Most Water (two pointers) |
 | [coding-clone-graph.md](answers/coding-clone-graph.md) | Clone Graph (BFS/DFS + map) |
+| [coding-house-robber.md](answers/coding-house-robber.md) | House Robber (1D DP / path) |
+| [coding-group-anagrams.md](answers/coding-group-anagrams.md) | Group Anagrams (canonical key) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -93,6 +97,7 @@
 | [system-design-file-storage.md](answers/system-design-file-storage.md) | File storage / Dropbox sync + chunking |
 | [system-design-payment.md](answers/system-design-payment.md) | Payments / ledger + idempotency |
 | [system-design-collab-editor.md](answers/system-design-collab-editor.md) | Collaborative editor / OT vs CRDT |
+| [system-design-job-scheduler.md](answers/system-design-job-scheduler.md) | Job scheduler / cron + leases |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
