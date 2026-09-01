@@ -16,5 +16,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Snowflake | [snowflake.md](snowflake.md) | Warehouses; storage–compute split; SQL hour |
 | LinkedIn | [linkedin.md](linkedin.md) | Centralized hire; tech-comm; possible AI coding hour |
 | Airbnb | [airbnb.md](airbnb.md) | Core Values veto; working code; booking design |
+| NVIDIA | [nvidia.md](nvidia.md) | Team-owned; in-person before offer; CUDA / systems |
+| TikTok / ByteDance | [tiktok.md](tiktok.md) | ByteStyle; OA + sequential coding; feed / live design |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

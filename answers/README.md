@@ -27,6 +27,8 @@
 | Clone Graph | [coding-clone-graph.md](coding-clone-graph.md) |
 | House Robber (1D DP) | [coding-house-robber.md](coding-house-robber.md) |
 | Group Anagrams | [coding-group-anagrams.md](coding-group-anagrams.md) |
+| Maximum subarray (Kadane) | [coding-maximum-subarray.md](coding-maximum-subarray.md) |
+| Jump Game (greedy reach) | [coding-jump-game.md](coding-jump-game.md) |
 
 ## System design
 
@@ -47,6 +49,7 @@
 | Payment / ledger | [system-design-payment.md](system-design-payment.md) |
 | Collaborative editor / Docs | [system-design-collab-editor.md](system-design-collab-editor.md) |
 | Job scheduler / distributed cron | [system-design-job-scheduler.md](system-design-job-scheduler.md) |
+| Video conferencing / Zoom | [system-design-video-conferencing.md](system-design-video-conferencing.md) |
 
 ## Behavioral (STAR outlines)
 

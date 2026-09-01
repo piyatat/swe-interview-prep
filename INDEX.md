@@ -41,6 +41,8 @@
 | [snowflake.md](companies/snowflake.md) | Snowflake — warehouses, storage/compute split |
 | [linkedin.md](companies/linkedin.md) | LinkedIn — centralized hire, tech-comm, AI-variant |
 | [airbnb.md](companies/airbnb.md) | Airbnb — Core Values, DP coding, booking design |
+| [nvidia.md](companies/nvidia.md) | NVIDIA — team-owned loop, in-person gate, CUDA/systems |
+| [tiktok.md](companies/tiktok.md) | TikTok / ByteDance — ByteStyle, OA, sequential coding |
 
 ## Role-specific
 
@@ -83,6 +85,8 @@
 | [coding-clone-graph.md](answers/coding-clone-graph.md) | Clone Graph (BFS/DFS + map) |
 | [coding-house-robber.md](answers/coding-house-robber.md) | House Robber (1D DP / path) |
 | [coding-group-anagrams.md](answers/coding-group-anagrams.md) | Group Anagrams (canonical key) |
+| [coding-maximum-subarray.md](answers/coding-maximum-subarray.md) | Maximum subarray (Kadane) |
+| [coding-jump-game.md](answers/coding-jump-game.md) | Jump Game (greedy reach) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -98,6 +102,7 @@
 | [system-design-payment.md](answers/system-design-payment.md) | Payments / ledger + idempotency |
 | [system-design-collab-editor.md](answers/system-design-collab-editor.md) | Collaborative editor / OT vs CRDT |
 | [system-design-job-scheduler.md](answers/system-design-job-scheduler.md) | Job scheduler / cron + leases |
+| [system-design-video-conferencing.md](answers/system-design-video-conferencing.md) | Video conferencing / WebRTC + SFU |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

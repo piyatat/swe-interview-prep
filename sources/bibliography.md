@@ -596,3 +596,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Design a Distributed Job Scheduler — System Design Handbook | https://www.systemdesignhandbook.com/guides/design-a-distributed-job-scheduler/ |
 | Amazon SQS visibility timeout | https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility-timeout.html |
 
+## NVIDIA track (2026-09-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — NVIDIA Careers | https://www.nvidia.com/en-us/about-nvidia/careers/how-we-hire/ |
+| NVIDIA Software Engineer Interview Guide — Exponent | https://www.tryexponent.com/guides/nvidia-software-engineer-interview |
+| NVIDIA Interview Process, Stage by Stage (2026) — ResumeAdapter | https://www.resumeadapter.com/companies/nvidia/interview-process |
+| Nvidia Senior Software Engineer Interview — SpaceComplexity | https://spacecomplexity.ai/blog/nvidia-senior-software-engineer-interview |
+
+## TikTok / ByteDance track (2026-09-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Philosophy — Life at TikTok | https://lifeattiktok.com/philosophy |
+| Culture / ByteStyle — ByteDance Careers | https://joinbytedance.com/culture |
+| How We Hire — ByteDance Careers | https://joinbytedance.com/apply |
+| Frequently Asked Questions — ByteDance Careers | https://joinbytedance.com/faq |
+| TikTok Software Engineer Interview Guide — Exponent | https://www.tryexponent.com/guides/tiktok-software-engineer-interview |
+| ByteDance's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/bytedance-interview-process |
+| TikTok Software Engineer Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/tiktok-software-engineer-interview-guide |
+| TikTok Interview Process & Timeline — IGotAnOffer | https://igotanoffer.com/en/advice/tiktok-interview-process |
+
+## Maximum Subarray outline (2026-09-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Maximum subarray problem — Wikipedia | https://en.wikipedia.org/wiki/Maximum_subarray_problem |
+| Maximum Subarray walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/maximum-subarray-interview-walkthrough/ |
+| Kadane's Algorithm (LeetCode 53) — SpaceComplexity | https://spacecomplexity.ai/blog/kadanes-algorithm |
+| Kadane's Algorithm — Codecademy | https://www.codecademy.com/article/kadanes-algorithm-find-maximum-subarray-sum-in-an-array |
+
+## Jump Game outline (2026-09-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Jump Game: greedy optimization gateway — techinterview.org | https://www.techinterview.org/post/3233474790/jump-game-greedy-optimization-gateway/ |
+| LeetCode 55 Jump Game — JZLeetCode | https://jzleetcode.github.io/posts/leet-0055-jump-game/ |
+| 55. Jump Game — Algo.Monster | https://algo.monster/liteproblems/55 |
+| Greedy vs Blind 75 gap — LastRound AI | https://lastroundai.com/blog/neetcode-150-vs-blind-75 |
+
+## Video conferencing design (2026-09-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| WebRTC API — MDN | https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API |
+| Getting started with WebRTC — webrtc.org | https://webrtc.org/getting-started/overview |
+| RFC 7667 — RTP Topologies | https://datatracker.ietf.org/doc/html/rfc7667 |
+| Zoom: Architected for Reliability | https://library.zoom.com/admin-corner/architecture-and-design/zoom-architected-for-reliability |
+| Design Zoom (SFU) — System Design Academy | https://www.systemdesign.academy/interview/design-zoom |
+| System Design: Design Zoom — techinterview.org | https://www.techinterview.org/post/3233474320/system-design-design-zoom-video-conferencing-webrtc-sfu-mcu-screen-sharing-recording-breakout-rooms-scaling/ |
+
