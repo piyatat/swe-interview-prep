@@ -29,6 +29,8 @@
 | Group Anagrams | [coding-group-anagrams.md](coding-group-anagrams.md) |
 | Maximum subarray (Kadane) | [coding-maximum-subarray.md](coding-maximum-subarray.md) |
 | Jump Game (greedy reach) | [coding-jump-game.md](coding-jump-game.md) |
+| Decode Ways (gated 1D DP) | [coding-decode-ways.md](coding-decode-ways.md) |
+| Longest consecutive (set + run start) | [coding-longest-consecutive.md](coding-longest-consecutive.md) |
 
 ## System design
 
@@ -50,6 +52,7 @@
 | Collaborative editor / Docs | [system-design-collab-editor.md](system-design-collab-editor.md) |
 | Job scheduler / distributed cron | [system-design-job-scheduler.md](system-design-job-scheduler.md) |
 | Video conferencing / Zoom | [system-design-video-conferencing.md](system-design-video-conferencing.md) |
+| Key-value store / Dynamo | [system-design-key-value-store.md](system-design-key-value-store.md) |
 
 ## Behavioral (STAR outlines)
 

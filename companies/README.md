@@ -18,5 +18,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Airbnb | [airbnb.md](airbnb.md) | Core Values veto; working code; booking design |
 | NVIDIA | [nvidia.md](nvidia.md) | Team-owned; in-person before offer; CUDA / systems |
 | TikTok / ByteDance | [tiktok.md](tiktok.md) | ByteStyle; OA + sequential coding; feed / live design |
+| Cloudflare | [cloudflare.md](cloudflare.md) | Orange Cloud; edge / Workers; take-home + review |
+| DoorDash | [doordash.md](doordash.md) | CodeCraft; three-sided marketplace; values hour |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

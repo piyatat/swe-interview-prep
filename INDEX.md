@@ -43,6 +43,8 @@
 | [airbnb.md](companies/airbnb.md) | Airbnb — Core Values, DP coding, booking design |
 | [nvidia.md](companies/nvidia.md) | NVIDIA — team-owned loop, in-person gate, CUDA/systems |
 | [tiktok.md](companies/tiktok.md) | TikTok / ByteDance — ByteStyle, OA, sequential coding |
+| [cloudflare.md](companies/cloudflare.md) | Cloudflare — Orange Cloud, edge / Workers, take-home |
+| [doordash.md](companies/doordash.md) | DoorDash — CodeCraft, marketplace dispatch, values |
 
 ## Role-specific
 
@@ -87,6 +89,8 @@
 | [coding-group-anagrams.md](answers/coding-group-anagrams.md) | Group Anagrams (canonical key) |
 | [coding-maximum-subarray.md](answers/coding-maximum-subarray.md) | Maximum subarray (Kadane) |
 | [coding-jump-game.md](answers/coding-jump-game.md) | Jump Game (greedy reach) |
+| [coding-decode-ways.md](answers/coding-decode-ways.md) | Decode Ways (gated 1D DP) |
+| [coding-longest-consecutive.md](answers/coding-longest-consecutive.md) | Longest consecutive (set + run start) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -103,6 +107,7 @@
 | [system-design-collab-editor.md](answers/system-design-collab-editor.md) | Collaborative editor / OT vs CRDT |
 | [system-design-job-scheduler.md](answers/system-design-job-scheduler.md) | Job scheduler / cron + leases |
 | [system-design-video-conferencing.md](answers/system-design-video-conferencing.md) | Video conferencing / WebRTC + SFU |
+| [system-design-key-value-store.md](answers/system-design-key-value-store.md) | KV store / Dynamo ring + quorum |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

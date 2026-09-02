@@ -647,3 +647,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Design Zoom (SFU) — System Design Academy | https://www.systemdesign.academy/interview/design-zoom |
 | System Design: Design Zoom — techinterview.org | https://www.techinterview.org/post/3233474320/system-design-design-zoom-video-conferencing-webrtc-sfu-mcu-screen-sharing-recording-breakout-rooms-scaling/ |
 
+## Cloudflare track (2026-09-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Cloudflare Careers | https://www.cloudflare.com/careers/ |
+| The Cloudflare Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/cloudflare-technical-interview-process-2026 |
+| Cloudflare's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/cloudflare-interview-process |
+| Cloudflare Interview Prep 2026 — JobsByCulture | https://jobsbyculture.com/blog/cloudflare-interview-prep-2026 |
+
+## DoorDash track (2026-09-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Mission & Values — DoorDash Careers | https://careersatdoordash.com/mission-and-values/ |
+| Engineering — DoorDash Careers | https://careersatdoordash.com/career-areas/engineering/ |
+| DoorDash Software Engineer Interview Guide — Exponent | https://www.tryexponent.com/guides/doordash-software-engineer-interview |
+| How the DoorDash Engineering Interview Actually Works — techinterview.org | https://www.techinterview.org/post/3233476844/doordash-software-engineer-interview/ |
+| DoorDash Software Engineer Interview: 2026 Prep Guide — Interview Coder | https://www.interviewcoder.co/blog/doordash-software-engineer-interview |
+| DoorDash System Design Interview (2026) — Exponent | https://www.tryexponent.com/blog/doordash-system-design-interview |
+
+## Decode Ways outline (2026-09-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Decode Ways: DP walkthrough — Whiteboard Ready | https://www.whiteboardready.com/post/decode-ways-dp-walkthrough |
+| Decode Ways solution — NeetCode | https://neetcode.io/solutions/decode-ways |
+| Decode Ways pattern (2026) — ShadeCoder | https://articles.shadecoder.com/decode-ways-leetcode-solution-pattern-explained-2026 |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+
+## Longest Consecutive Sequence outline (2026-09-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Longest Consecutive Sequence — NeetCode | https://neetcode.io/solutions/longest-consecutive-sequence |
+| Longest Consecutive Sequence (O(n) hash set) — DSA Prep | https://www.dsaprep.dev/blog/longest-consecutive-sequence-leetcode-solution |
+| Longest Consecutive Sequence — InterviewLoop | https://interviewloop.app/learn/code/arrays-and-hashing/302-longest-consecutive-sequence-leetcode-interview-questions-explained |
+| LeetCode 128 explanation — Sharooq | https://www.sharooq.com/leetcode-128-longest-consecutive-sequence-explanation |
+
+## Key-value store design (2026-09-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Dynamo: Amazon’s Highly Available Key-value Store (SOSP 2007 PDF) | https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf |
+| Dynamo (storage system) — Wikipedia | https://en.wikipedia.org/wiki/Dynamo_(storage_system) |
+| Design a Key-Value Store — InterviewLoop | https://interviewloop.app/learn/system-design/design-a-keyvalue-store |
+| Design a Key-Value Store — System Design Interview Handbook | https://www.systemdesigninterview.com/guides/system-design-interview-handbook/818-design-a-keyvalue-store |
+| Consistent hashing — Hello Interview | https://www.hellointerview.com/learn/system-design/core-concepts/consistent-hashing |
+
