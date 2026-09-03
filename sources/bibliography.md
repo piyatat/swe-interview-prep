@@ -695,3 +695,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Design a Key-Value Store — System Design Interview Handbook | https://www.systemdesigninterview.com/guides/system-design-interview-handbook/818-design-a-keyvalue-store |
 | Consistent hashing — Hello Interview | https://www.hellointerview.com/learn/system-design/core-concepts/consistent-hashing |
 
+## Shopify track (2026-09-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Shopify Careers | https://www.shopify.com/careers/ |
+| Product discipline — Shopify Careers | https://www.shopify.com/careers/disciplines/product |
+| Engineering & Data internships — Shopify | https://internships.shopify.com/ |
+| Tobi Lütke AI memo (X) | https://x.com/tobi/status/1909251946235437514 |
+| What Shopify actually tests — techinterview.org | https://www.techinterview.org/post/3233476853/what-shopify-tests-engineering-interviews/ |
+| Shopify technical interview process 2026 — TechScreen | https://techscreen.app/articles/shopify-technical-interview-process-2026 |
+
+## Atlassian track (2026-09-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Atlassian Engineering Interview Guide | https://www.atlassian.com/company/careers/resources/interviewing/engineering |
+| Atlassian core values | https://www.atlassian.com/company/values |
+| Atlassian Careers (Team Anywhere) | https://www.atlassian.com/company/careers |
+| P30–P50 Backend Interview Guide (PDF) | https://wac-cdn.atlassian.com/dam/jcr:cf9c7fc1-ab28-47d6-bb56-9c01fb09b871/P30-P50-Backend-Interview-Guide.pdf |
+| Atlassian Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/atlassian/ |
+
+## Coinbase track (2026-09-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing Engineers in the AI Era — Coinbase (2026) | https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding |
+| Coinbase Mission & Culture | https://www.coinbase.com/mission |
+| Culture at Coinbase (2021) | https://www.coinbase.com/blog/culture-at-coinbase-2021 |
+| How Coinbase interviews for engineering roles | https://www.coinbase.com/blog/how-coinbase-interviews-for-engineering-roles |
+| Coinbase internships FAQ | https://www.coinbase.com/careers/internships |
+| Coinbase SWE interview guide 2026 — Dataford | https://dataford.io/interview-guides/coinbase/software-engineer |
+
+## Trapping Rain Water outline (2026-09-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Trapping Rain Water — NeetCode | https://neetcode.io/solutions/trapping-rain-water |
+| Trapping Rain Water: two pointers — DSA Prep | https://www.dsaprep.dev/blog/trapping-rain-water-leetcode-solution |
+| Trapping Rain Water, brute force to two pointers — techinterview.org | https://www.techinterview.org/post/3233476036/trapping-rain-water-brute-force-to-two-pointers/ |
+| 75 LeetCode problems FAANG asks most (2026) — Aceloop | https://aceloop.ai/blog/top-75-leetcode-faang-frequency |
+
+## Search engine design (2026-09-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Inverted index — Wikipedia | https://en.wikipedia.org/wiki/Inverted_index |
+| PageRank — Wikipedia | https://en.wikipedia.org/wiki/PageRank |
+| Design a Search Engine — System Design Academy | https://www.systemdesign.academy/interview/design-google-search |
+| System Design: Search Engine — techinterview.org | https://www.techinterview.org/post/3233460402/system-design-search-engine/ |
+| Design a Search Engine — SpaceComplexity | https://spacecomplexity.ai/blog/search-engine-system-design-interview |
+

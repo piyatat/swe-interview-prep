@@ -20,5 +20,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | TikTok / ByteDance | [tiktok.md](tiktok.md) | ByteStyle; OA + sequential coding; feed / live design |
 | Cloudflare | [cloudflare.md](cloudflare.md) | Orange Cloud; edge / Workers; take-home + review |
 | DoorDash | [doordash.md](doordash.md) | CodeCraft; three-sided marketplace; values hour |
+| Shopify | [shopify.md](shopify.md) | Life Story; craft / pair; merchant systems |
+| Atlassian | [atlassian.md](atlassian.md) | Values + HC; Team Anywhere; multi-tenant SaaS |
+| Coinbase | [coinbase.md](coinbase.md) | AI-era repo loop; tenets; ledger / exchange |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

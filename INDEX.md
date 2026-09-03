@@ -45,6 +45,9 @@
 | [tiktok.md](companies/tiktok.md) | TikTok / ByteDance — ByteStyle, OA, sequential coding |
 | [cloudflare.md](companies/cloudflare.md) | Cloudflare — Orange Cloud, edge / Workers, take-home |
 | [doordash.md](companies/doordash.md) | DoorDash — CodeCraft, marketplace dispatch, values |
+| [shopify.md](companies/shopify.md) | Shopify — Life Story, craft / pair, merchant systems |
+| [atlassian.md](companies/atlassian.md) | Atlassian — values, Team Anywhere, multi-tenant SaaS |
+| [coinbase.md](companies/coinbase.md) | Coinbase — AI-era loop, tenets, ledger / exchange |
 
 ## Role-specific
 
@@ -91,6 +94,7 @@
 | [coding-jump-game.md](answers/coding-jump-game.md) | Jump Game (greedy reach) |
 | [coding-decode-ways.md](answers/coding-decode-ways.md) | Decode Ways (gated 1D DP) |
 | [coding-longest-consecutive.md](answers/coding-longest-consecutive.md) | Longest consecutive (set + run start) |
+| [coding-trapping-rain.md](answers/coding-trapping-rain.md) | Trapping rain water (prefix max / two pointers) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -108,6 +112,7 @@
 | [system-design-job-scheduler.md](answers/system-design-job-scheduler.md) | Job scheduler / cron + leases |
 | [system-design-video-conferencing.md](answers/system-design-video-conferencing.md) | Video conferencing / WebRTC + SFU |
 | [system-design-key-value-store.md](answers/system-design-key-value-store.md) | KV store / Dynamo ring + quorum |
+| [system-design-search.md](answers/system-design-search.md) | Search engine / inverted index + rank |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
