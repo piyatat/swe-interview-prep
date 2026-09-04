@@ -23,5 +23,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Shopify | [shopify.md](shopify.md) | Life Story; craft / pair; merchant systems |
 | Atlassian | [atlassian.md](atlassian.md) | Values + HC; Team Anywhere; multi-tenant SaaS |
 | Coinbase | [coinbase.md](coinbase.md) | AI-era repo loop; tenets; ledger / exchange |
+| Datadog | [datadog.md](datadog.md) | Observability; TSDB / tags; on-call / incident |
+| Bloomberg | [bloomberg.md](bloomberg.md) | Terminal / market data; CodePair; why-Bloomberg |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

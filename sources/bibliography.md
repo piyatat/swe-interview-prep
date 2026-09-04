@@ -746,3 +746,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | System Design: Search Engine — techinterview.org | https://www.techinterview.org/post/3233460402/system-design-search-engine/ |
 | Design a Search Engine — SpaceComplexity | https://spacecomplexity.ai/blog/search-engine-system-design-interview |
 
+## Datadog track (2026-09-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Candidate Experience — Datadog Careers | https://careers.datadoghq.com/candidate-experience/ |
+| Engineering — Datadog Careers | https://careers.datadoghq.com/engineering/ |
+| Join Our Pack — Datadog Careers | https://careers.datadoghq.com/ |
+| Evolving our real-time timeseries storage — Datadog | https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/ |
+| Timeseries indexing at scale — Datadog | https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/ |
+| Datadog Interview Guide 2026 — techinterview.org | https://www.techinterview.org/post/3233460269/datadog-interview-guide-2026-metrics-monitoring-systems-and-on-call-culture/ |
+| Datadog Interview Prep 2026 — Jobs by Culture | https://jobsbyculture.com/blog/datadog-interview-prep-2026 |
+
+## Bloomberg track (2026-09-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering: Experienced Hire Application Process — Bloomberg | https://www.bloomberg.com/company/careers/application-process/engineering-experienced-hire/ |
+| Engineering: Student Application Process — Bloomberg | https://www.bloomberg.com/company/careers/application-process/engineering-student/ |
+| How we hire — Bloomberg | https://www.bloomberg.com/company/careers/how-we-hire/ |
+| Engineering & CTO — Bloomberg | https://www.bloomberg.com/company/what-we-do/engineering-cto/ |
+| Bloomberg Software Engineer Interview — SpaceComplexity | https://spacecomplexity.ai/blog/bloomberg-software-engineer-interview |
+| Bloomberg Interview Process 2026 — OphyAI | https://ophyai.com/blog/company-guides/bloomberg-interview-guide |
+
+## Unique Paths outline (2026-09-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Unique Paths — NeetCode | https://neetcode.io/solutions/unique-paths |
+| Unique Paths II — NeetCode | https://neetcode.io/solutions/unique-paths-ii |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| Combination — Wikipedia | https://en.wikipedia.org/wiki/Combination |
+
+## Subsets outline (2026-09-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Subsets — NeetCode | https://neetcode.io/solutions/subsets |
+| Power set — Wikipedia | https://en.wikipedia.org/wiki/Power_set |
+| Backtracking templates — NeetCode Practice Framework | https://lufftw.github.io/neetcode/patterns/backtracking_exploration/templates/ |
+| Backtracking intuition — NeetCode Practice Framework | https://lufftw.github.io/neetcode/patterns/backtracking_exploration/intuition/ |
+
+## Metrics / monitoring design (2026-09-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Time series database — Wikipedia | https://en.wikipedia.org/wiki/Time_series_database |
+| Timeseries indexing at scale — Datadog | https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/ |
+| Evolving our real-time timeseries storage — Datadog | https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/ |
+| Design a metrics/monitoring system — System Design Interview Handbook | https://www.systemdesigninterview.com/guides/system-design-interview-handbook/819-design-a-metricsmonitoring-system-datadog |
+| Design a Metrics and Monitoring System — techinterview.org | https://www.techinterview.org/post/3233462372/system-design-metrics-monitoring/ |
+

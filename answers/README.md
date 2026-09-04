@@ -32,6 +32,8 @@
 | Decode Ways (gated 1D DP) | [coding-decode-ways.md](coding-decode-ways.md) |
 | Longest consecutive (set + run start) | [coding-longest-consecutive.md](coding-longest-consecutive.md) |
 | Trapping rain water (prefix max / two pointers) | [coding-trapping-rain.md](coding-trapping-rain.md) |
+| Unique Paths (2D grid DP) | [coding-unique-paths.md](coding-unique-paths.md) |
+| Subsets (include / exclude) | [coding-subsets.md](coding-subsets.md) |
 
 ## System design
 
@@ -55,6 +57,7 @@
 | Video conferencing / Zoom | [system-design-video-conferencing.md](system-design-video-conferencing.md) |
 | Key-value store / Dynamo | [system-design-key-value-store.md](system-design-key-value-store.md) |
 | Search engine / inverted index | [system-design-search.md](system-design-search.md) |
+| Metrics / monitoring / TSDB | [system-design-metrics.md](system-design-metrics.md) |
 
 ## Behavioral (STAR outlines)
 

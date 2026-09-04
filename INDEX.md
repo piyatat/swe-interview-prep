@@ -48,6 +48,8 @@
 | [shopify.md](companies/shopify.md) | Shopify — Life Story, craft / pair, merchant systems |
 | [atlassian.md](companies/atlassian.md) | Atlassian — values, Team Anywhere, multi-tenant SaaS |
 | [coinbase.md](companies/coinbase.md) | Coinbase — AI-era loop, tenets, ledger / exchange |
+| [datadog.md](companies/datadog.md) | Datadog — observability, TSDB / tags, on-call |
+| [bloomberg.md](companies/bloomberg.md) | Bloomberg — Terminal, CodePair, why-Bloomberg |
 
 ## Role-specific
 
@@ -95,6 +97,8 @@
 | [coding-decode-ways.md](answers/coding-decode-ways.md) | Decode Ways (gated 1D DP) |
 | [coding-longest-consecutive.md](answers/coding-longest-consecutive.md) | Longest consecutive (set + run start) |
 | [coding-trapping-rain.md](answers/coding-trapping-rain.md) | Trapping rain water (prefix max / two pointers) |
+| [coding-unique-paths.md](answers/coding-unique-paths.md) | Unique Paths (2D grid DP / binomial) |
+| [coding-subsets.md](answers/coding-subsets.md) | Subsets (include/exclude backtracking) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -113,6 +117,7 @@
 | [system-design-video-conferencing.md](answers/system-design-video-conferencing.md) | Video conferencing / WebRTC + SFU |
 | [system-design-key-value-store.md](answers/system-design-key-value-store.md) | KV store / Dynamo ring + quorum |
 | [system-design-search.md](answers/system-design-search.md) | Search engine / inverted index + rank |
+| [system-design-metrics.md](answers/system-design-metrics.md) | Metrics / monitoring / TSDB + cardinality |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
