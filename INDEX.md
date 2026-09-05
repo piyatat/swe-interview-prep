@@ -50,6 +50,8 @@
 | [coinbase.md](companies/coinbase.md) | Coinbase — AI-era loop, tenets, ledger / exchange |
 | [datadog.md](companies/datadog.md) | Datadog — observability, TSDB / tags, on-call |
 | [bloomberg.md](companies/bloomberg.md) | Bloomberg — Terminal, CodePair, why-Bloomberg |
+| [spotify.md](companies/spotify.md) | Spotify — Bassline, incident case study, recs / audio |
+| [snap.md](companies/snap.md) | Snap — Kind/Smart/Creative, S.A.I.L., ephemeral / AR |
 
 ## Role-specific
 
@@ -99,6 +101,8 @@
 | [coding-trapping-rain.md](answers/coding-trapping-rain.md) | Trapping rain water (prefix max / two pointers) |
 | [coding-unique-paths.md](answers/coding-unique-paths.md) | Unique Paths (2D grid DP / binomial) |
 | [coding-subsets.md](answers/coding-subsets.md) | Subsets (include/exclude backtracking) |
+| [coding-combination-sum.md](answers/coding-combination-sum.md) | Combination Sum (unbounded backtracking) |
+| [coding-meeting-rooms.md](answers/coding-meeting-rooms.md) | Meeting Rooms II (min-heap concurrency) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -118,6 +122,7 @@
 | [system-design-key-value-store.md](answers/system-design-key-value-store.md) | KV store / Dynamo ring + quorum |
 | [system-design-search.md](answers/system-design-search.md) | Search engine / inverted index + rank |
 | [system-design-metrics.md](answers/system-design-metrics.md) | Metrics / monitoring / TSDB + cardinality |
+| [system-design-recommendation.md](answers/system-design-recommendation.md) | Recommendations / retrieve + rank funnel |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

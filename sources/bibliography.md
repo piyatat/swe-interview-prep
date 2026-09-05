@@ -797,3 +797,48 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Design a metrics/monitoring system — System Design Interview Handbook | https://www.systemdesigninterview.com/guides/system-design-interview-handbook/819-design-a-metricsmonitoring-system-datadog |
 | Design a Metrics and Monitoring System — techinterview.org | https://www.techinterview.org/post/3233462372/system-design-metrics-monitoring/ |
 
+## Spotify track (2026-09-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Join the Band — Life at Spotify | https://lifeatspotify.com/ |
+| Engineering — Life at Spotify | https://lifeatspotify.com/find-your-team/job-categories/engineering |
+| Spotify Engineering blog | https://engineering.atspotify.com/ |
+| Spotify technical interview process 2026 — TechScreen | https://techscreen.app/articles/spotify-technical-interview-process-2026 |
+| Spotify Interview Prep 2026 — Jobs by Culture | https://jobsbyculture.com/blog/spotify-interview-prep-2026 |
+| What is the Spotify interview process like — Design Gurus | https://www.designgurus.io/answers/detail/what-is-the-spotify-interview-process-like-round-by-round |
+
+## Snap track (2026-09-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Interview — Snap Inc. Careers | https://careers.snap.com/how-we-interview |
+| Snap Inc. Careers | https://careers.snap.com/ |
+| The Snap Inc. Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/snap-technical-interview-process-2026 |
+| Snap — techinterview.org | https://www.techinterview.org/companies/snap/ |
+
+## Combination Sum outline (2026-09-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Combination Sum — NeetCode | https://neetcode.io/solutions/combination-sum |
+| Combination Sum walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/combination-sum-interview-walkthrough/ |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+
+## Meeting Rooms II outline (2026-09-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Meeting Rooms II — NeetCode | https://neetcode.io/solutions/meeting-rooms-ii |
+| Meeting Rooms II — InterviewLoop | https://interviewloop.app/learn/code/heap/meeting-rooms-ii |
+| Interval scheduling — Wikipedia | https://en.wikipedia.org/wiki/Interval_scheduling |
+
+## Recommendation system design (2026-09-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Deep Neural Networks for YouTube Recommendations — Google Research | https://research.google.com/pubs/pub45530.html |
+| Recommender system — Wikipedia | https://en.wikipedia.org/wiki/Recommender_system |
+| Recommendation System Design Interview — System Design Academy | https://www.systemdesign.academy/interview/design-recommendation-system |
+| Design a Recommendation System — HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/recommendation-system/ |
+

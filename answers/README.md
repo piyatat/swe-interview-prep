@@ -34,6 +34,8 @@
 | Trapping rain water (prefix max / two pointers) | [coding-trapping-rain.md](coding-trapping-rain.md) |
 | Unique Paths (2D grid DP) | [coding-unique-paths.md](coding-unique-paths.md) |
 | Subsets (include / exclude) | [coding-subsets.md](coding-subsets.md) |
+| Combination Sum (unbounded) | [coding-combination-sum.md](coding-combination-sum.md) |
+| Meeting Rooms II (min rooms) | [coding-meeting-rooms.md](coding-meeting-rooms.md) |
 
 ## System design
 
@@ -58,6 +60,7 @@
 | Key-value store / Dynamo | [system-design-key-value-store.md](system-design-key-value-store.md) |
 | Search engine / inverted index | [system-design-search.md](system-design-search.md) |
 | Metrics / monitoring / TSDB | [system-design-metrics.md](system-design-metrics.md) |
+| Recommendation / retrieve + rank | [system-design-recommendation.md](system-design-recommendation.md) |
 
 ## Behavioral (STAR outlines)
 
