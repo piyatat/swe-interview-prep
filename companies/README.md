@@ -27,5 +27,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Bloomberg | [bloomberg.md](bloomberg.md) | Terminal / market data; CodePair; why-Bloomberg |
 | Spotify | [spotify.md](spotify.md) | Bassline; incident case study; recs / audio |
 | Snap | [snap.md](snap.md) | Kind / Smart / Creative; S.A.I.L.; ephemeral / AR |
+| Reddit | [reddit.md](reddit.md) | Community values; comment trees; ranking / moderation |
+| Figma | [figma.md](figma.md) | FigJam design hour; multiplayer / canvas / craft |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

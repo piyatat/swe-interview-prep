@@ -36,6 +36,8 @@
 | Subsets (include / exclude) | [coding-subsets.md](coding-subsets.md) |
 | Combination Sum (unbounded) | [coding-combination-sum.md](coding-combination-sum.md) |
 | Meeting Rooms II (min rooms) | [coding-meeting-rooms.md](coding-meeting-rooms.md) |
+| Generate Parentheses (Catalan) | [coding-generate-parentheses.md](coding-generate-parentheses.md) |
+| Daily Temperatures (monotonic stack) | [coding-daily-temperatures.md](coding-daily-temperatures.md) |
 
 ## System design
 
@@ -61,6 +63,7 @@
 | Search engine / inverted index | [system-design-search.md](system-design-search.md) |
 | Metrics / monitoring / TSDB | [system-design-metrics.md](system-design-metrics.md) |
 | Recommendation / retrieve + rank | [system-design-recommendation.md](system-design-recommendation.md) |
+| Pub/sub / Kafka log | [system-design-pubsub.md](system-design-pubsub.md) |
 
 ## Behavioral (STAR outlines)
 

@@ -52,6 +52,8 @@
 | [bloomberg.md](companies/bloomberg.md) | Bloomberg — Terminal, CodePair, why-Bloomberg |
 | [spotify.md](companies/spotify.md) | Spotify — Bassline, incident case study, recs / audio |
 | [snap.md](companies/snap.md) | Snap — Kind/Smart/Creative, S.A.I.L., ephemeral / AR |
+| [reddit.md](companies/reddit.md) | Reddit — community values, comment trees, ranking / mod |
+| [figma.md](companies/figma.md) | Figma — FigJam design hour, multiplayer / canvas |
 
 ## Role-specific
 
@@ -103,6 +105,8 @@
 | [coding-subsets.md](answers/coding-subsets.md) | Subsets (include/exclude backtracking) |
 | [coding-combination-sum.md](answers/coding-combination-sum.md) | Combination Sum (unbounded backtracking) |
 | [coding-meeting-rooms.md](answers/coding-meeting-rooms.md) | Meeting Rooms II (min-heap concurrency) |
+| [coding-generate-parentheses.md](answers/coding-generate-parentheses.md) | Generate Parentheses (Catalan backtracking) |
+| [coding-daily-temperatures.md](answers/coding-daily-temperatures.md) | Daily Temperatures (monotonic stack) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -123,6 +127,7 @@
 | [system-design-search.md](answers/system-design-search.md) | Search engine / inverted index + rank |
 | [system-design-metrics.md](answers/system-design-metrics.md) | Metrics / monitoring / TSDB + cardinality |
 | [system-design-recommendation.md](answers/system-design-recommendation.md) | Recommendations / retrieve + rank funnel |
+| [system-design-pubsub.md](answers/system-design-pubsub.md) | Pub/sub / Kafka log + partitions + offsets |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

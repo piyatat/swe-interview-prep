@@ -842,3 +842,50 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Recommendation System Design Interview — System Design Academy | https://www.systemdesign.academy/interview/design-recommendation-system |
 | Design a Recommendation System — HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/recommendation-system/ |
 
+## Reddit track (2026-09-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Reddit Inc | https://www.redditinc.com/careers |
+| Values — Reddit Inc | https://www.redditinc.com/values |
+| The Reddit Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/reddit-technical-interview-process-2026 |
+| What Reddit’s engineering interview actually tests — techinterview.org | https://www.techinterview.org/post/3233476855/reddit-engineering-interview/ |
+| How to Prepare for a Reddit Interview in 2026 — Jobs by Culture | https://jobsbyculture.com/blog/reddit-interview-prep-2026 |
+
+## Figma track (2026-09-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Figma | https://www.figma.com/careers/ |
+| Figma's engineering values — Figma Blog | https://www.figma.com/blog/figmas-engineering-values/ |
+| How Figma engineering uses FigJam — Figma Blog | https://www.figma.com/blog/inside-figma-how-figma-engineering-uses-figjam-to-scale/ |
+| The Figma Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/figma-technical-interview-process-2026 |
+| Figma’s Interview Process & Questions — interviewing.io | https://interviewing.io/figma-interview-questions |
+
+## Generate Parentheses outline (2026-09-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Generate Parentheses — NeetCode | https://neetcode.io/solutions/generate-parentheses |
+| Catalan number — Wikipedia | https://en.wikipedia.org/wiki/Catalan_number |
+| Generate Parentheses — InterviewLoop | https://interviewloop.app/learn/code/backtracking/generate-parentheses |
+| Generate Parentheses — DSA Prep | https://www.dsaprep.dev/blog/generate-parentheses-leetcode-solution |
+
+## Daily Temperatures outline (2026-09-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Daily Temperatures — NeetCode | https://neetcode.io/solutions/daily-temperatures |
+| LC 739 Daily Temperatures — LearningTree | https://winaykumar.com/tech/dsa/leetcode/solutions/739-daily-temperatures/ |
+| Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
+
+## Pub/sub / Kafka design (2026-09-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Design — Apache Kafka | https://kafka.apache.org/43/design/design/ |
+| Apache Kafka — Wikipedia | https://en.wikipedia.org/wiki/Apache_Kafka |
+| Design a Pub/Sub System — System Design Handbook | https://www.systemdesignhandbook.com/guides/design-a-pub-sub-system/ |
+| Apache Kafka system design — System Design Academy | https://www.systemdesign.academy/interview/design-kafka |
+| Design a Distributed Message Queue — SpaceComplexity | https://spacecomplexity.ai/blog/message-queue-system-design |
+
