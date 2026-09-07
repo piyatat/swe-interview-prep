@@ -889,3 +889,48 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Apache Kafka system design — System Design Academy | https://www.systemdesign.academy/interview/design-kafka |
 | Design a Distributed Message Queue — SpaceComplexity | https://spacecomplexity.ai/blog/message-queue-system-design |
 
+## Roblox track (2026-09-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers Homepage — Roblox | https://careers.roblox.com/ |
+| Interviewing at Roblox | https://careers.roblox.com/interviewing-at-roblox |
+| What It’s Like to Interview at Roblox as an Engineer — Roblox | https://corp.roblox.com/newsroom/2022/02/like-interview-roblox-engineer |
+| The Roblox Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/roblox-technical-interview-process-2026 |
+| What Is the Roblox Interview Process Like? — Design Gurus | https://www.designgurus.io/answers/detail/what-is-the-roblox-interview-process-like-round-by-round |
+
+## Pinterest track (2026-09-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Life at Pinterest — Pinterest Careers | https://www.pinterestcareers.com/inside-pinterest/ |
+| Inspired to evolve: Pinterest’s values reimagined — Pinterest Careers | https://www.pinterestcareers.com/life-at-pinterest-blog/pinterest-life/inspired-to-evolve-pinterest-s-values-reimagined/ |
+| Recommender Systems — Pinterest Labs | https://labs.pinterest.com/research-and-innovation/recommender-systems |
+| The Pinterest Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/pinterest-technical-interview-process-2026 |
+| Pinterest's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/pinterest-interview-process |
+
+## Buy / sell stock outline (2026-09-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Best Time to Buy and Sell Stock — NeetCode | https://neetcode.io/solutions/best-time-to-buy-and-sell-stock |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| Maximum subarray problem — Wikipedia | https://en.wikipedia.org/wiki/Maximum_subarray_problem |
+
+## Rotting oranges outline (2026-09-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Rotting Oranges — NeetCode | https://neetcode.io/solutions/rotting-oranges |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+
+## AI-assisted rounds update (2026-09-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering Interview Trends in 2026 — Karat | https://karat.com/engineering-interview-trends-2026/ |
+| AI Assisted Coding Interview: What Gets Scored Now — Formation | https://formation.dev/blog/ai-assisted-coding-interviews |
+| Cloud Next ‘26 — Sundar Pichai (Google) | https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/ |
+| Google's AI-Assisted Coding Interview (2026 Guide) — Exponent / Aced | https://www.tryexponent.com/blog/google-ai-coding-interview |
+
+

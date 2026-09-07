@@ -29,5 +29,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Snap | [snap.md](snap.md) | Kind / Smart / Creative; S.A.I.L.; ephemeral / AR |
 | Reddit | [reddit.md](reddit.md) | Community values; comment trees; ranking / moderation |
 | Figma | [figma.md](figma.md) | FigJam design hour; multiplayer / canvas / craft |
+| Roblox | [roblox.md](roblox.md) | Game OA + SJT; real-time / engine; four values |
+| Pinterest | [pinterest.md](pinterest.md) | Visual rank / Lens; Pinner-first values |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

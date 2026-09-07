@@ -38,6 +38,8 @@
 | Meeting Rooms II (min rooms) | [coding-meeting-rooms.md](coding-meeting-rooms.md) |
 | Generate Parentheses (Catalan) | [coding-generate-parentheses.md](coding-generate-parentheses.md) |
 | Daily Temperatures (monotonic stack) | [coding-daily-temperatures.md](coding-daily-temperatures.md) |
+| Best Time to Buy and Sell Stock | [coding-buy-sell-stock.md](coding-buy-sell-stock.md) |
+| Rotting Oranges (multi-source BFS) | [coding-rotting-oranges.md](coding-rotting-oranges.md) |
 
 ## System design
 

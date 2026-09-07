@@ -9,7 +9,7 @@
 | [system-design.md](general/system-design.md) | Architecture and scalability rounds |
 | [behavioral.md](general/behavioral.md) | STAR stories, collaboration, leadership |
 | [cs-fundamentals.md](general/cs-fundamentals.md) | OS, networking, concurrency, databases |
-| [ai-assisted-rounds.md](general/ai-assisted-rounds.md) | 2025–2026 AI-collaborative interview formats |
+| [ai-assisted-rounds.md](general/ai-assisted-rounds.md) | 2025–2026 AI-collaborative + code-comprehension formats |
 | [take-homes.md](general/take-homes.md) | Async take-homes, AI policy, live debrief |
 | [downleveling.md](general/downleveling.md) | Pass-the-bar but lower level; prevent and respond |
 | [staff-plus.md](general/staff-plus.md) | Staff / L6 loop: scope, ambiguity, archetypes |
@@ -54,6 +54,8 @@
 | [snap.md](companies/snap.md) | Snap — Kind/Smart/Creative, S.A.I.L., ephemeral / AR |
 | [reddit.md](companies/reddit.md) | Reddit — community values, comment trees, ranking / mod |
 | [figma.md](companies/figma.md) | Figma — FigJam design hour, multiplayer / canvas |
+| [roblox.md](companies/roblox.md) | Roblox — game OA, real-time / engine, four values |
+| [pinterest.md](companies/pinterest.md) | Pinterest — visual rank / Lens, Pinner-first values |
 
 ## Role-specific
 
@@ -107,6 +109,8 @@
 | [coding-meeting-rooms.md](answers/coding-meeting-rooms.md) | Meeting Rooms II (min-heap concurrency) |
 | [coding-generate-parentheses.md](answers/coding-generate-parentheses.md) | Generate Parentheses (Catalan backtracking) |
 | [coding-daily-temperatures.md](answers/coding-daily-temperatures.md) | Daily Temperatures (monotonic stack) |
+| [coding-buy-sell-stock.md](answers/coding-buy-sell-stock.md) | Buy / sell stock (one pass min) |
+| [coding-rotting-oranges.md](answers/coding-rotting-oranges.md) | Rotting oranges (multi-source BFS) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
