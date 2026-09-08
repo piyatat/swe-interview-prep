@@ -31,5 +31,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Figma | [figma.md](figma.md) | FigJam design hour; multiplayer / canvas / craft |
 | Roblox | [roblox.md](roblox.md) | Game OA + SJT; real-time / engine; four values |
 | Pinterest | [pinterest.md](pinterest.md) | Visual rank / Lens; Pinner-first values |
+| Lyft | [lyft.md](lyft.md) | Laptop programming test; rideshare geo / matching |
+| Dropbox | [dropbox.md](dropbox.md) | Progressive CodeSignal; public career framework |
+| Capital One | [capital-one.md](capital-one.md) | Power Day; case + AWS / banking domain |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

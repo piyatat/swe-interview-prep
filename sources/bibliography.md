@@ -933,4 +933,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Cloud Next ‘26 — Sundar Pichai (Google) | https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/ |
 | Google's AI-Assisted Coding Interview (2026 Guide) — Exponent / Aced | https://www.tryexponent.com/blog/google-ai-coding-interview |
 
+## Lyft track (2026-09-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Lyft Careers | https://www.lyft.com/careers |
+| What’s it like to interview at Lyft? — Lyft Engineering | https://eng.lyft.com/whats-it-like-to-interview-at-lyft-our-recruiting-team-spills-the-secrets-b58efa584b92 |
+| The Lyft Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/lyft-technical-interview-process-2026 |
+| Lyft Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/lyft-interview-guide/ |
+| Lyft Software Engineer Interview Guide — Exponent | https://www.tryexponent.com/guides/lyft-software-engineer-interview |
+
+## Dropbox track (2026-09-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Software Engineering Interview guide — Dropbox Emerging Talent | https://jobs.dropbox.com/teams/emerging-talent |
+| Dropbox Engineering Career Framework | https://dropbox.github.io/dbx-career-framework/ |
+| Sharing our Engineering Career Framework — Dropbox.tech | https://dropbox.tech/culture/sharing-our-engineering-career-framework-with-the-world |
+| Dropbox's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/dropbox-interview-process |
+| Dropbox Software Engineer Interview — SpaceComplexity | https://spacecomplexity.ai/blog/dropbox-software-engineer-interview |
+
+## Capital One track (2026-09-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| What to expect during your Capital One interview — Capital One Careers | https://www.capitalonecareers.com/what-to-expect-during-your-capital-one-interview-students-101 |
+| Candidate FAQ — Capital One Careers | https://www.capitalonecareers.com/faq |
+| 7 tips to nail your virtual interview — Capital One Careers | https://www.capitalonecareers.com/7-tips-to-nail-your-virtual-interview-101-cul-cdev |
+| Capital One Software Engineer Interview — IGotAnOffer | https://igotanoffer.com/en/advice/capital-one-software-engineer-interview |
+| Capital One's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/capital-one-interview-process |
+
+## Word Search outline (2026-09-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Word Search — NeetCode | https://neetcode.io/solutions/word-search |
+| Word search and grid backtracking — The DSA Handbook | https://dsa.handbook.academy/curriculum/recursion-backtracking/word-search/ |
+| Word Search (LeetCode #79) — DSA Prep | https://www.dsaprep.dev/blog/word-search-leetcode-solution |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+
+## Minimum window substring outline (2026-09-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Minimum Window Substring — NeetCode | https://neetcode.io/solutions/minimum-window-substring |
+| Minimum Window Substring — intervu.dev | https://intervu.dev/blog/walkthroughs/minimum-window-substring-interview-walkthrough/ |
+| The coverage counter behind Minimum Window Substring — techinterview.org | https://www.techinterview.org/post/3233476884/coverage-counter-minimum-window-substring/ |
+| Sliding window protocol — Wikipedia | https://en.wikipedia.org/wiki/Sliding_window_protocol |
+
 

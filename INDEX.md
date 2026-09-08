@@ -56,6 +56,9 @@
 | [figma.md](companies/figma.md) | Figma — FigJam design hour, multiplayer / canvas |
 | [roblox.md](companies/roblox.md) | Roblox — game OA, real-time / engine, four values |
 | [pinterest.md](companies/pinterest.md) | Pinterest — visual rank / Lens, Pinner-first values |
+| [lyft.md](companies/lyft.md) | Lyft — laptop programming test, rideshare geo |
+| [dropbox.md](companies/dropbox.md) | Dropbox — progressive CodeSignal, career framework |
+| [capital-one.md](companies/capital-one.md) | Capital One — Power Day, case + AWS banking |
 
 ## Role-specific
 
@@ -111,6 +114,8 @@
 | [coding-daily-temperatures.md](answers/coding-daily-temperatures.md) | Daily Temperatures (monotonic stack) |
 | [coding-buy-sell-stock.md](answers/coding-buy-sell-stock.md) | Buy / sell stock (one pass min) |
 | [coding-rotting-oranges.md](answers/coding-rotting-oranges.md) | Rotting oranges (multi-source BFS) |
+| [coding-word-search.md](answers/coding-word-search.md) | Word Search (grid DFS + undo) |
+| [coding-min-window.md](answers/coding-min-window.md) | Minimum window substring (coverage counter) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

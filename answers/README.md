@@ -40,6 +40,8 @@
 | Daily Temperatures (monotonic stack) | [coding-daily-temperatures.md](coding-daily-temperatures.md) |
 | Best Time to Buy and Sell Stock | [coding-buy-sell-stock.md](coding-buy-sell-stock.md) |
 | Rotting Oranges (multi-source BFS) | [coding-rotting-oranges.md](coding-rotting-oranges.md) |
+| Word Search (grid DFS + undo) | [coding-word-search.md](coding-word-search.md) |
+| Minimum window substring (coverage counter) | [coding-min-window.md](coding-min-window.md) |
 
 ## System design
 
