@@ -34,5 +34,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Lyft | [lyft.md](lyft.md) | Laptop programming test; rideshare geo / matching |
 | Dropbox | [dropbox.md](dropbox.md) | Progressive CodeSignal; public career framework |
 | Capital One | [capital-one.md](capital-one.md) | Power Day; case + AWS / banking domain |
+| Discord | [discord.md](discord.md) | Values + Attitude; laptop coding; real-time / gateway |
+| Twilio | [twilio.md](twilio.md) | Twilio Magic; HackerRank; SMS / webhooks / carriers |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

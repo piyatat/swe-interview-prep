@@ -981,4 +981,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | The coverage counter behind Minimum Window Substring — techinterview.org | https://www.techinterview.org/post/3233476884/coverage-counter-minimum-window-substring/ |
 | Sliding window protocol — Wikipedia | https://en.wikipedia.org/wiki/Sliding_window_protocol |
 
+## Discord track (2026-09-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| How to prepare for your Discord interview | https://discord.com/blog/how-to-prepare-for-your-discord-interview |
+| The Seven Principles of Working at Discord | https://discord.com/blog/the-seven-principles-of-working-at-discord |
+| Jobs and Career Opportunities at Discord | https://discord.com/careers |
+| Get a Job at Discord: Interview Process — Exponent | https://www.tryexponent.com/blog/discord-interview-process |
+| Discord Front End Interview Guide — GreatFrontEnd | https://www.greatfrontend.com/interviews/company/discord/questions-guides |
+
+## Twilio track (2026-09-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Values — Twilio | https://www.twilio.com/en-us/company/values |
+| Candidate resources — Twilio | https://www.twilio.com/en-us/careers/candidate-resources |
+| Careers and culture — Twilio | https://www.twilio.com/en-us/careers |
+| Twilio Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/twilio-interview-guide/ |
+| Twilio's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/twilio-interview-process |
+
+## Permutations outline (2026-09-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Permutations — NeetCode | https://neetcode.io/solutions/permutations |
+| LeetCode 46 Permutations — DTDucas | https://dtducas.com/blog/permutations |
+| Permutations — JZLeetCode | https://jzleetcode.github.io/posts/leet-0046-permutations/ |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+
+## Longest increasing subsequence outline (2026-09-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Longest Increasing Subsequence — NeetCode | https://neetcode.io/solutions/longest-increasing-subsequence |
+| Patience sorting — Wikipedia | https://en.wikipedia.org/wiki/Patience_sorting |
+| LIS: patience sort — The DSA Handbook | https://dsa.handbook.academy/curriculum/dynamic-programming/lis-patience-sort/ |
+| LIS and sequence DP variants — CalibreOS | https://www.calibreos.com/learn/dsa-lis-variants |
+
+## LLM serving design (2026-09-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | https://vllm.ai/blog/2023-06-20-vllm |
+| Efficient Memory Management for Large Language Model Serving with PagedAttention — arXiv:2309.06180 | https://arxiv.org/abs/2309.06180 |
+| Design ChatGPT: LLM Serving — System Design Academy | https://www.systemdesign.academy/interview/design-chatgpt |
+| Design ChatGPT (LLM Serving) — InterviewsVector | https://www.interviewsvector.com/system-design/design-chatgpt |
+| AI System Design Interview Questions (2026) — gitGood.dev | https://gitgood.dev/blog/ai-system-design-interview-questions-2026 |
+
 

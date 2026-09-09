@@ -59,6 +59,8 @@
 | [lyft.md](companies/lyft.md) | Lyft — laptop programming test, rideshare geo |
 | [dropbox.md](companies/dropbox.md) | Dropbox — progressive CodeSignal, career framework |
 | [capital-one.md](companies/capital-one.md) | Capital One — Power Day, case + AWS banking |
+| [discord.md](companies/discord.md) | Discord — values + attitude, laptop coding, real-time |
+| [twilio.md](companies/twilio.md) | Twilio — Twilio Magic, HackerRank, SMS / webhooks |
 
 ## Role-specific
 
@@ -116,6 +118,8 @@
 | [coding-rotting-oranges.md](answers/coding-rotting-oranges.md) | Rotting oranges (multi-source BFS) |
 | [coding-word-search.md](answers/coding-word-search.md) | Word Search (grid DFS + undo) |
 | [coding-min-window.md](answers/coding-min-window.md) | Minimum window substring (coverage counter) |
+| [coding-permutations.md](answers/coding-permutations.md) | Permutations (used-array / swap backtracking) |
+| [coding-longest-increasing.md](answers/coding-longest-increasing.md) | Longest increasing subsequence (patience / tails) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -137,6 +141,7 @@
 | [system-design-metrics.md](answers/system-design-metrics.md) | Metrics / monitoring / TSDB + cardinality |
 | [system-design-recommendation.md](answers/system-design-recommendation.md) | Recommendations / retrieve + rank funnel |
 | [system-design-pubsub.md](answers/system-design-pubsub.md) | Pub/sub / Kafka log + partitions + offsets |
+| [system-design-llm-serving.md](answers/system-design-llm-serving.md) | LLM serving / paged KV + continuous batch |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

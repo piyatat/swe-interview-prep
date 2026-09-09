@@ -42,6 +42,8 @@
 | Rotting Oranges (multi-source BFS) | [coding-rotting-oranges.md](coding-rotting-oranges.md) |
 | Word Search (grid DFS + undo) | [coding-word-search.md](coding-word-search.md) |
 | Minimum window substring (coverage counter) | [coding-min-window.md](coding-min-window.md) |
+| Permutations (used-array / swap) | [coding-permutations.md](coding-permutations.md) |
+| Longest increasing subsequence (patience) | [coding-longest-increasing.md](coding-longest-increasing.md) |
 
 ## System design
 
@@ -68,6 +70,7 @@
 | Metrics / monitoring / TSDB | [system-design-metrics.md](system-design-metrics.md) |
 | Recommendation / retrieve + rank | [system-design-recommendation.md](system-design-recommendation.md) |
 | Pub/sub / Kafka log | [system-design-pubsub.md](system-design-pubsub.md) |
+| LLM serving / ChatGPT inference | [system-design-llm-serving.md](system-design-llm-serving.md) |
 
 ## Behavioral (STAR outlines)
 
