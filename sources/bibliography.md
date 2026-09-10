@@ -1029,4 +1029,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Design ChatGPT (LLM Serving) — InterviewsVector | https://www.interviewsvector.com/system-design/design-chatgpt |
 | AI System Design Interview Questions (2026) — gitGood.dev | https://gitgood.dev/blog/ai-system-design-interview-questions-2026 |
 
+## Instacart track (2026-09-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Instacart Careers | https://www.instacart.careers/ |
+| Just getting started — Instacart Engineering | https://tech.instacart.com/just-getting-started-5ee3d886efeb |
+| Instacart Software Engineer Interview Guide — Exponent | https://www.tryexponent.com/guides/instacart-software-engineer-interview |
+| Instacart Coding Interview Questions (2026) — DSA Prep | https://www.dsaprep.dev/blog/instacart-coding-interview-questions |
+| What to Expect in the Instacart System Design Interview — DesignGurus | https://www.designgurus.io/answers/detail/what-to-expect-in-the-instacart-system-design-interview |
+
+## Salesforce track (2026-09-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire — Salesforce | https://www.salesforce.com/company/careers/culture/how-we-hire/ |
+| Leadership and values / Code of Conduct — Salesforce | https://www.salesforce.com/company/legal/compliance/code-of-conduct/leadership-and-values/ |
+| What is the Salesforce V2MOM? — Salesforce | https://www.salesforce.com/blog/how-to-create-alignment-within-your-company/ |
+| Remote programming test — Trailhead | https://trailhead.salesforce.com/content/learn/modules/strategies-for-successful-software-engineer-interviews/take-the-remote-programming-test |
+| Salesforce SWE interview (2026) — SpaceComplexity | https://spacecomplexity.ai/blog/salesforce-software-engineer-interview |
+
+## Intuit track (2026-09-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hiring Process — Intuit Careers | https://www.intuit.com/careers/hiring-process/ |
+| Working at Intuit — Intuit Careers | https://www.intuit.com/careers/working-at-intuit/ |
+| How to ace your software engineer interview at Intuit — Intuit Blog | https://www.intuit.com/blog/social-responsibility/job-readiness/how-to-ace-your-software-engineer-interview-at-intuit/ |
+| Intuit's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/intuit-interview-process |
+| Careers — Intuit | https://www.intuit.com/careers/ |
+
+## Word Ladder outline (2026-09-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Word Ladder — NeetCode | https://neetcode.io/solutions/word-ladder |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+| Word Ladder (BFS / bidirectional) — DTDucas | https://dtducas.com/blog/word-ladder |
+| LeetCode 127 Word Ladder — JZLeetCode | https://jzleetcode.github.io/posts/leet-0127-word-ladder/ |
+
+## Letter combinations outline (2026-09-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Letter Combinations of a Phone Number — NeetCode | https://neetcode.io/solutions/letter-combinations-of-a-phone-number |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+| LeetCode 17 Letter Combinations — JZLeetCode | https://jzleetcode.github.io/posts/leet-0017-letter-combinations-of-a-phone-number/ |
+| Letter Combinations — DSA Prep | https://www.dsaprep.dev/blog/letter-combinations-of-a-phone-number-leetcode-solution |
+
 

@@ -36,5 +36,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Capital One | [capital-one.md](capital-one.md) | Power Day; case + AWS / banking domain |
 | Discord | [discord.md](discord.md) | Values + Attitude; laptop coding; real-time / gateway |
 | Twilio | [twilio.md](twilio.md) | Twilio Magic; HackerRank; SMS / webhooks / carriers |
+| Instacart | [instacart.md](instacart.md) | Grocery marketplace; CodeSignal; inventory / shopper dispatch |
+| Salesforce | [salesforce.md](salesforce.md) | Trust / V2MOM; HackerRank; multi-tenant CRM |
+| Intuit | [intuit.md](intuit.md) | Craft Demonstration; five values; TurboTax / QuickBooks |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

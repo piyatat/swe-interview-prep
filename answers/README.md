@@ -44,6 +44,8 @@
 | Minimum window substring (coverage counter) | [coding-min-window.md](coding-min-window.md) |
 | Permutations (used-array / swap) | [coding-permutations.md](coding-permutations.md) |
 | Longest increasing subsequence (patience) | [coding-longest-increasing.md](coding-longest-increasing.md) |
+| Word Ladder (implicit graph BFS) | [coding-word-ladder.md](coding-word-ladder.md) |
+| Letter combinations (keypad) | [coding-letter-combinations.md](coding-letter-combinations.md) |
 
 ## System design
 

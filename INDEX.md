@@ -61,6 +61,9 @@
 | [capital-one.md](companies/capital-one.md) | Capital One — Power Day, case + AWS banking |
 | [discord.md](companies/discord.md) | Discord — values + attitude, laptop coding, real-time |
 | [twilio.md](companies/twilio.md) | Twilio — Twilio Magic, HackerRank, SMS / webhooks |
+| [instacart.md](companies/instacart.md) | Instacart — grocery marketplace, CodeSignal, inventory / shopper |
+| [salesforce.md](companies/salesforce.md) | Salesforce — Trust / V2MOM, HackerRank, multi-tenant CRM |
+| [intuit.md](companies/intuit.md) | Intuit — Craft Demonstration, five values, tax / books |
 
 ## Role-specific
 
@@ -120,6 +123,8 @@
 | [coding-min-window.md](answers/coding-min-window.md) | Minimum window substring (coverage counter) |
 | [coding-permutations.md](answers/coding-permutations.md) | Permutations (used-array / swap backtracking) |
 | [coding-longest-increasing.md](answers/coding-longest-increasing.md) | Longest increasing subsequence (patience / tails) |
+| [coding-word-ladder.md](answers/coding-word-ladder.md) | Word Ladder (implicit graph BFS) |
+| [coding-letter-combinations.md](answers/coding-letter-combinations.md) | Letter combinations (keypad backtracking) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
