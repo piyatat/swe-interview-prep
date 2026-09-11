@@ -39,5 +39,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Instacart | [instacart.md](instacart.md) | Grocery marketplace; CodeSignal; inventory / shopper dispatch |
 | Salesforce | [salesforce.md](salesforce.md) | Trust / V2MOM; HackerRank; multi-tenant CRM |
 | Intuit | [intuit.md](intuit.md) | Craft Demonstration; five values; TurboTax / QuickBooks |
+| Stripe | [stripe.md](stripe.md) | Bug Squash; practical parse / integrate; payments APIs |
+| Uber | [uber.md](uber.md) | CodeSignal + graphs; geo matching; H3 cells |
+| Block | [block.md](block.md) | Square / Cash App; pair + existing repo; offline POS |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

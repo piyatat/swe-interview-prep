@@ -64,6 +64,9 @@
 | [instacart.md](companies/instacart.md) | Instacart — grocery marketplace, CodeSignal, inventory / shopper |
 | [salesforce.md](companies/salesforce.md) | Salesforce — Trust / V2MOM, HackerRank, multi-tenant CRM |
 | [intuit.md](companies/intuit.md) | Intuit — Craft Demonstration, five values, tax / books |
+| [stripe.md](companies/stripe.md) | Stripe — Bug Squash, practical parse / integrate, payments APIs |
+| [uber.md](companies/uber.md) | Uber — CodeSignal + graphs, geo matching, H3 cells |
+| [block.md](companies/block.md) | Block — Square / Cash App pair + repo, offline POS |
 
 ## Role-specific
 
@@ -125,6 +128,8 @@
 | [coding-longest-increasing.md](answers/coding-longest-increasing.md) | Longest increasing subsequence (patience / tails) |
 | [coding-word-ladder.md](answers/coding-word-ladder.md) | Word Ladder (implicit graph BFS) |
 | [coding-letter-combinations.md](answers/coding-letter-combinations.md) | Letter combinations (keypad backtracking) |
+| [coding-edit-distance.md](answers/coding-edit-distance.md) | Edit Distance (Levenshtein / 2D DP) |
+| [coding-lowest-common-ancestor.md](answers/coding-lowest-common-ancestor.md) | Lowest common ancestor (BST walk / tree split) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

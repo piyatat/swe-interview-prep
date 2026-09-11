@@ -46,6 +46,8 @@
 | Longest increasing subsequence (patience) | [coding-longest-increasing.md](coding-longest-increasing.md) |
 | Word Ladder (implicit graph BFS) | [coding-word-ladder.md](coding-word-ladder.md) |
 | Letter combinations (keypad) | [coding-letter-combinations.md](coding-letter-combinations.md) |
+| Edit Distance (Levenshtein) | [coding-edit-distance.md](coding-edit-distance.md) |
+| Lowest common ancestor (BST / tree) | [coding-lowest-common-ancestor.md](coding-lowest-common-ancestor.md) |
 
 ## System design
 

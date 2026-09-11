@@ -1077,4 +1077,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | LeetCode 17 Letter Combinations — JZLeetCode | https://jzleetcode.github.io/posts/leet-0017-letter-combinations-of-a-phone-number/ |
 | Letter Combinations — DSA Prep | https://www.dsaprep.dev/blog/letter-combinations-of-a-phone-number-leetcode-solution |
 
+## Stripe track (2026-09-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Stripe Jobs | https://stripe.com/jobs |
+| Scaling engineering organizations — Stripe Atlas | https://stripe.com/guides/atlas/scaling-eng |
+| Full Stack Engineer listing — Stripe | https://stripe.com/jobs/listing/full-stack-engineer-developer-end-user-experience-platform/6567104 |
+| Stripe Software Engineer Interview Guide (2026) — Exponent | https://www.tryexponent.com/guides/stripe-software-engineer-interview |
+| Stripe Software Engineer Interview Preparation 2026 — CoPrep | https://www.coprep.ai/blog/stripe-software-engineer-interview-preparation-2026 |
+
+## Uber track (2026-09-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire — Uber | https://jobs.uber.com/en/what-moves-us/how-we-hire/ |
+| Acting with integrity — Uber | https://www.uber.com/us/en/about/integrity/ |
+| H3 — Uber’s hexagonal hierarchical geospatial index | https://h3geo.org/ |
+| Uber's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/uber-interview-process |
+| How Uber Interviews Software Engineers in 2026 — techinterview.org | https://www.techinterview.org/post/3233476840/uber-interview-guide/ |
+| Uber Software Engineer Interview Guide (2026) — Exponent | https://www.tryexponent.com/guides/uber-software-engineer-interview |
+
+## Block track (2026-09-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Block Careers | https://block.xyz/careers |
+| Our AI Hiring Principles — Block | https://block.xyz/careers/our-ai-hiring-principles |
+| Block's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/block-interview-process |
+| Block Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/block/ |
+| Square Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/square/software-engineer |
+
+## Edit Distance outline (2026-09-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Levenshtein distance — Wikipedia | https://en.wikipedia.org/wiki/Levenshtein_distance |
+| Edit Distance — NeetCode | https://neetcode.io/solutions/edit-distance |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| The String-to-String Correction Problem — Wagner & Fischer, JACM 1974 | https://doi.org/10.1145/321796.321811 |
+
+## Lowest common ancestor outline (2026-09-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Lowest Common Ancestor of a Binary Search Tree — NeetCode | https://neetcode.io/solutions/lowest-common-ancestor-of-a-binary-search-tree |
+| Lowest Common Ancestor in a Binary Search Tree — GeeksforGeeks | https://www.geeksforgeeks.org/dsa/lowest-common-ancestor-in-a-binary-search-tree/ |
+| Binary search tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_tree |
+| Lowest common ancestor — Wikipedia | https://en.wikipedia.org/wiki/Lowest_common_ancestor |
+
 
