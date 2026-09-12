@@ -67,6 +67,9 @@
 | [stripe.md](companies/stripe.md) | Stripe — Bug Squash, practical parse / integrate, payments APIs |
 | [uber.md](companies/uber.md) | Uber — CodeSignal + graphs, geo matching, H3 cells |
 | [block.md](companies/block.md) | Block — Square / Cash App pair + repo, offline POS |
+| [adobe.md](companies/adobe.md) | Adobe — How we hire, Firefly / CS MCQs, machine-coding |
+| [robinhood.md](companies/robinhood.md) | Robinhood — Safety Always, CodeSignal, order book / quotes |
+| [mongodb.md](companies/mongodb.md) | MongoDB — team-based loop, replica sets / indexes |
 
 ## Role-specific
 
@@ -130,6 +133,7 @@
 | [coding-letter-combinations.md](answers/coding-letter-combinations.md) | Letter combinations (keypad backtracking) |
 | [coding-edit-distance.md](answers/coding-edit-distance.md) | Edit Distance (Levenshtein / 2D DP) |
 | [coding-lowest-common-ancestor.md](answers/coding-lowest-common-ancestor.md) | Lowest common ancestor (BST walk / tree split) |
+| [coding-serialize-tree.md](answers/coding-serialize-tree.md) | Serialize / deserialize binary tree (preorder + nulls) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -152,6 +156,7 @@
 | [system-design-recommendation.md](answers/system-design-recommendation.md) | Recommendations / retrieve + rank funnel |
 | [system-design-pubsub.md](answers/system-design-pubsub.md) | Pub/sub / Kafka log + partitions + offsets |
 | [system-design-llm-serving.md](answers/system-design-llm-serving.md) | LLM serving / paged KV + continuous batch |
+| [system-design-ticketmaster.md](answers/system-design-ticketmaster.md) | Ticket booking / named-seat holds + waiting room |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

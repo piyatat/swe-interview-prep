@@ -1126,4 +1126,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Binary search tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_tree |
 | Lowest common ancestor — Wikipedia | https://en.wikipedia.org/wiki/Lowest_common_ancestor |
 
+## Adobe track (2026-09-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire — Adobe Careers | https://careers.adobe.com/us/en/hiring-process |
+| AI and your hiring experience — Adobe Careers | https://careers.adobe.com/us/en/ai-and-your-hiring-experience |
+| Evolving Adobe’s values and culture — Adobe Blog | https://blog.adobe.com/en/publish/2023/03/07/evolving-adobes-values-culture |
+| Adobe for All — company values | https://www.adobe.com/adobe-for-all.html |
+| Adobe's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/adobe-interview-process |
+
+## Robinhood track (2026-09-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Everything You Need to Know About Interviewing at Robinhood | https://robinhood.com/us/en/careers/blog/everything-you-need-to-know-about-interviewing-at-robinhood/ |
+| Robinhood Careers | https://careers.robinhood.com/ |
+| Robinhood Markets Code of Conduct (amended 24 Jun 2026) | https://investors.robinhood.com/static-files/f5fdb972-e47f-45f3-9c29-cb479fb6aba4 |
+| Robinhood's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/robinhood-interview-process |
+| What Is the Robinhood Interview Process Like? — DesignGurus | https://www.designgurus.io/answers/detail/what-is-the-robinhood-interview-process-like-round-by-round |
+
+## MongoDB track (2026-09-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering — MongoDB Careers | https://www.mongodb.com/company/careers/teams/engineering |
+| How to prepare for your engineering interview — MongoDB | https://www.mongodb.com/company/blog/culture/recruiting-tips/how-prepare-your-engineering-interview-mongodb |
+| Company values — MongoDB | https://www.mongodb.com/company/values |
+| Company leadership principles — MongoDB | https://www.mongodb.com/company/leadership-principles |
+| What Is the MongoDB Interview Process Like? — DesignGurus | https://www.designgurus.io/answers/detail/what-is-the-mongodb-interview-process-like-round-by-round |
+
+## Serialize tree outline (2026-09-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Serialize and Deserialize Binary Tree — NeetCode | https://neetcode.io/solutions/serialize-and-deserialize-binary-tree |
+| Serialize and Deserialize Binary Tree — LeetCode 297 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ |
+| Serialization — Wikipedia | https://en.wikipedia.org/wiki/Serialization |
+| Serialize and Deserialize Binary Tree — interview walkthrough | https://intervu.dev/blog/walkthroughs/serialize-and-deserialize-binary-tree-interview-walkthrough/ |
+
+## Ticketmaster outline (2026-09-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Design a Ticket Booking Site Like Ticketmaster — Hello Interview | https://www.hellointerview.com/learn/system-design/problem-breakdowns/ticketmaster |
+| SET — Redis docs | https://redis.io/docs/latest/commands/set/ |
+| Distributed locks — Redis docs | https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/ |
+| Design a Ticketing System — HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/ticketing-system/ |
+| Ticketmaster system design — SpaceComplexity | https://spacecomplexity.ai/blog/ticketmaster-system-design-interview |
+
 

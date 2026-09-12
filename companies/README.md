@@ -42,5 +42,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Stripe | [stripe.md](stripe.md) | Bug Squash; practical parse / integrate; payments APIs |
 | Uber | [uber.md](uber.md) | CodeSignal + graphs; geo matching; H3 cells |
 | Block | [block.md](block.md) | Square / Cash App; pair + existing repo; offline POS |
+| Adobe | [adobe.md](adobe.md) | How we hire; Firefly / CS MCQs; machine-coding |
+| Robinhood | [robinhood.md](robinhood.md) | Safety Always; CodeSignal; order book / quotes |
+| MongoDB | [mongodb.md](mongodb.md) | Team-based loop; replica sets / indexes |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

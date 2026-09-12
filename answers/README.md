@@ -48,6 +48,7 @@
 | Letter combinations (keypad) | [coding-letter-combinations.md](coding-letter-combinations.md) |
 | Edit Distance (Levenshtein) | [coding-edit-distance.md](coding-edit-distance.md) |
 | Lowest common ancestor (BST / tree) | [coding-lowest-common-ancestor.md](coding-lowest-common-ancestor.md) |
+| Serialize / deserialize binary tree | [coding-serialize-tree.md](coding-serialize-tree.md) |
 
 ## System design
 
@@ -75,6 +76,7 @@
 | Recommendation / retrieve + rank | [system-design-recommendation.md](system-design-recommendation.md) |
 | Pub/sub / Kafka log | [system-design-pubsub.md](system-design-pubsub.md) |
 | LLM serving / ChatGPT inference | [system-design-llm-serving.md](system-design-llm-serving.md) |
+| Ticket booking / Ticketmaster | [system-design-ticketmaster.md](system-design-ticketmaster.md) |
 
 ## Behavioral (STAR outlines)
 
