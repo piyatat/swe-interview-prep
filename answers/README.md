@@ -49,6 +49,8 @@
 | Edit Distance (Levenshtein) | [coding-edit-distance.md](coding-edit-distance.md) |
 | Lowest common ancestor (BST / tree) | [coding-lowest-common-ancestor.md](coding-lowest-common-ancestor.md) |
 | Serialize / deserialize binary tree | [coding-serialize-tree.md](coding-serialize-tree.md) |
+| Time-based key-value store (floor) | [coding-time-based-kv.md](coding-time-based-kv.md) |
+| Binary tree level order (BFS) | [coding-level-order.md](coding-level-order.md) |
 
 ## System design
 

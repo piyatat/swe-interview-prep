@@ -1175,4 +1175,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Design a Ticketing System — HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/ticketing-system/ |
 | Ticketmaster system design — SpaceComplexity | https://spacecomplexity.ai/blog/ticketmaster-system-design-interview |
 
+## GitHub track (2026-09-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Experienced Professionals — GitHub Careers | https://www.github.careers/experienced-professionals |
+| GitHub Careers (values + manager fundamentals) | https://www.github.careers/careers-home/ |
+| GitHub's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/github-interview-process |
+| GitHub Engineering Manager Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/github/engineering-manager |
+
+## ServiceNow track (2026-09-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — ServiceNow Careers | https://careers.servicenow.com/how-we-hire/ |
+| Exploring ServiceNow Values: Win as a Team — Workflow | https://www.servicenow.com/au/workflow/culture/exploring-servicenow-values-win-team.html |
+| ServiceNow's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/servicenow-interview-process |
+| What Is the ServiceNow Interview Process Like? — DesignGurus | https://www.designgurus.io/answers/detail/what-is-the-servicenow-interview-process-like-round-by-round |
+| ServiceNow Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/servicenow/ |
+
+## eBay track (2026-09-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — eBay | https://jobs.ebayinc.com/us/en/how-we-hire |
+| Our Culture — eBay Careers | https://jobs.ebayinc.com/us/en/our-culture |
+| Culture & Workforce — eBay Inc. | https://www.ebayinc.com/impact/culture-and-workforce/ |
+| eBay Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/ebay/software-engineer |
+| How to Prepare for a Software Engineer Interview at eBay — CleverPrep | https://www.cleverprep.com/companies/ebay/software-engineer |
+
+## Time-based KV outline (2026-09-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Time Based Key-Value Store — NeetCode | https://neetcode.io/solutions/time-based-key-value-store |
+| Time Based Key-Value Store — LeetCode 981 | https://leetcode.com/problems/time-based-key-value-store/ |
+| 981. Time Based Key-Value Store — LeetCode Wiki | https://leetcode.doocs.org/en/lc/981/ |
+| Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
+
+## Level-order outline (2026-09-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Binary Tree Level Order Traversal — NeetCode | https://neetcode.io/solutions/binary-tree-level-order-traversal |
+| Binary Tree Level Order Traversal — LeetCode 102 | https://leetcode.com/problems/binary-tree-level-order-traversal/ |
+| 102. Binary Tree Level Order Traversal — LeetCode Wiki | https://leetcode.doocs.org/en/lc/102/ |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+
 

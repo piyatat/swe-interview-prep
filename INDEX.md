@@ -70,6 +70,9 @@
 | [adobe.md](companies/adobe.md) | Adobe — How we hire, Firefly / CS MCQs, machine-coding |
 | [robinhood.md](companies/robinhood.md) | Robinhood — Safety Always, CodeSignal, order book / quotes |
 | [mongodb.md](companies/mongodb.md) | MongoDB — team-based loop, replica sets / indexes |
+| [github.md](companies/github.md) | GitHub — remote-first values, take-home / pair, Actions |
+| [servicenow.md](companies/servicenow.md) | ServiceNow — AI-off eval, Now Platform / multi-tenant |
+| [ebay.md](companies/ebay.md) | eBay — DNA, Zoom + BrightHire, marketplace search / trust |
 
 ## Role-specific
 
@@ -134,6 +137,8 @@
 | [coding-edit-distance.md](answers/coding-edit-distance.md) | Edit Distance (Levenshtein / 2D DP) |
 | [coding-lowest-common-ancestor.md](answers/coding-lowest-common-ancestor.md) | Lowest common ancestor (BST walk / tree split) |
 | [coding-serialize-tree.md](answers/coding-serialize-tree.md) | Serialize / deserialize binary tree (preorder + nulls) |
+| [coding-time-based-kv.md](answers/coding-time-based-kv.md) | Time-based KV (map + floor binary search) |
+| [coding-level-order.md](answers/coding-level-order.md) | Binary tree level order (BFS + width) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

@@ -45,5 +45,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Adobe | [adobe.md](adobe.md) | How we hire; Firefly / CS MCQs; machine-coding |
 | Robinhood | [robinhood.md](robinhood.md) | Safety Always; CodeSignal; order book / quotes |
 | MongoDB | [mongodb.md](mongodb.md) | Team-based loop; replica sets / indexes |
+| GitHub | [github.md](github.md) | Remote-first values; take-home / pair; Actions |
+| ServiceNow | [servicenow.md](servicenow.md) | AI-off eval; Now Platform / multi-tenant workflows |
+| eBay | [ebay.md](ebay.md) | DNA; Zoom + BrightHire; marketplace search / trust |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
