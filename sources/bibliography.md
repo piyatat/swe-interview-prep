@@ -1222,4 +1222,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | 102. Binary Tree Level Order Traversal — LeetCode Wiki | https://leetcode.doocs.org/en/lc/102/ |
 | Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
 
+## PayPal track (2026-09-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing — PayPal Careers | https://careers.pypl.com/how-we-recruit/Interviewing/default.aspx |
+| Mission & values — PayPal | https://about.pypl.com/who-we-are/mission-vision-values/default.aspx |
+| Inclusive Hiring — PayPal Careers | https://careers.pypl.com/inclusive-hiring/default.aspx |
+| PayPal Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/paypal/ |
+| PayPal Software Engineer Interview Experience 2026 — DEV Community | https://dev.to/interviewshow-cs/paypal-software-engineer-interview-experience-2026-coding-system-design-fintech-engineering-177o |
+
+## GitLab track (2026-09-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Candidate Handbook — GitLab | https://handbook.gitlab.com/handbook/hiring/candidate-faq/ |
+| Technical Interviews — GitLab Handbook | https://handbook.gitlab.com/handbook/hiring/interviewing/technical/ |
+| GitLab Values | https://handbook.gitlab.com/handbook/values/ |
+| Operating Principles — GitLab Handbook | https://handbook.gitlab.com/handbook/company/operating-principles/ |
+| Intermediate Backend Engineer (hiring process) — GitLab | https://handbook.gitlab.com/job-description-library/engineering/development/backend/intermediate/ |
+| GitLab Interview Prep 2026 — jobsbyculture | https://jobsbyculture.com/blog/gitlab-interview-prep-2026 |
+| GitLab Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/gitlab/ |
+
+## Workday track (2026-09-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Preparing for your Application Development Interview — Workday (PDF) | https://www.workday.com/content/dam/web/en-us/documents/other/appdev-interview-prep-guide.pdf |
+| Our Core Values — Workday | https://www.workday.com/en-us/company/about-workday/core-values.html |
+| Living Our Values Every Day — Workday Code of Conduct | https://codeofconduct.workday.com/ |
+| Workday's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/workday-interview-process |
+| Workday Hiring Process Guide 2026 — ClavePrep | https://claveprep.com/blog/workday-hiring-process-guide-2026 |
+
+## Sliding window maximum outline (2026-09-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Sliding Window Maximum — NeetCode | https://neetcode.io/solutions/sliding-window-maximum |
+| Sliding Window Maximum — LeetCode 239 | https://leetcode.com/problems/sliding-window-maximum/ |
+| Double-ended queue — Wikipedia | https://en.wikipedia.org/wiki/Double-ended_queue |
+| Introduction to Monotonic Queues — GeeksforGeeks | https://www.geeksforgeeks.org/dsa/introduction-to-monotonic-queues/ |
+
+## Copy random list outline (2026-09-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Copy List with Random Pointer — NeetCode | https://neetcode.io/solutions/copy-list-with-random-pointer |
+| Copy List with Random Pointer — LeetCode 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ |
+| Object copying — Wikipedia | https://en.wikipedia.org/wiki/Object_copying |
+| Clone a linked list with next and random pointer — GeeksforGeeks | https://www.geeksforgeeks.org/dsa/a-linked-list-with-next-and-arbit-pointer/ |
+
 

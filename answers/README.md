@@ -51,6 +51,8 @@
 | Serialize / deserialize binary tree | [coding-serialize-tree.md](coding-serialize-tree.md) |
 | Time-based key-value store (floor) | [coding-time-based-kv.md](coding-time-based-kv.md) |
 | Binary tree level order (BFS) | [coding-level-order.md](coding-level-order.md) |
+| Sliding window maximum (monotonic deque) | [coding-sliding-window-max.md](coding-sliding-window-max.md) |
+| Copy list with random pointer | [coding-copy-random-list.md](coding-copy-random-list.md) |
 
 ## System design
 

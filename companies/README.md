@@ -48,5 +48,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | GitHub | [github.md](github.md) | Remote-first values; take-home / pair; Actions |
 | ServiceNow | [servicenow.md](servicenow.md) | AI-off eval; Now Platform / multi-tenant workflows |
 | eBay | [ebay.md](ebay.md) | DNA; Zoom + BrightHire; marketplace search / trust |
+| PayPal | [paypal.md](paypal.md) | Values + leadership principles; Teams; payments / idempotency |
+| GitLab | [gitlab.md](gitlab.md) | CREDIT + operating principles; async MR review; all-remote |
+| Workday | [workday.md](workday.md) | Six values; AppDev object-modeling CodePair; HCM / Financials |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

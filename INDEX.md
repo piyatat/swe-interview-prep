@@ -73,6 +73,9 @@
 | [github.md](companies/github.md) | GitHub — remote-first values, take-home / pair, Actions |
 | [servicenow.md](companies/servicenow.md) | ServiceNow — AI-off eval, Now Platform / multi-tenant |
 | [ebay.md](companies/ebay.md) | eBay — DNA, Zoom + BrightHire, marketplace search / trust |
+| [paypal.md](companies/paypal.md) | PayPal — values + LPs, Teams, payments / idempotency |
+| [gitlab.md](companies/gitlab.md) | GitLab — CREDIT + operating principles, async MR review |
+| [workday.md](companies/workday.md) | Workday — six values, AppDev object-modeling CodePair |
 
 ## Role-specific
 
@@ -139,6 +142,8 @@
 | [coding-serialize-tree.md](answers/coding-serialize-tree.md) | Serialize / deserialize binary tree (preorder + nulls) |
 | [coding-time-based-kv.md](answers/coding-time-based-kv.md) | Time-based KV (map + floor binary search) |
 | [coding-level-order.md](answers/coding-level-order.md) | Binary tree level order (BFS + width) |
+| [coding-sliding-window-max.md](answers/coding-sliding-window-max.md) | Sliding window maximum (monotonic deque) |
+| [coding-copy-random-list.md](answers/coding-copy-random-list.md) | Copy list with random pointer (identity map / weave) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
