@@ -51,5 +51,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | PayPal | [paypal.md](paypal.md) | Values + leadership principles; Teams; payments / idempotency |
 | GitLab | [gitlab.md](gitlab.md) | CREDIT + operating principles; async MR review; all-remote |
 | Workday | [workday.md](workday.md) | Six values; AppDev object-modeling CodePair; HCM / Financials |
+| Oracle | [oracle.md](oracle.md) | OCI vs apps vs DB; knockout coding; bartender (reported) |
+| Tesla | [tesla.md](tesla.md) | Mission / first principles; HM-early; fleet / OTA / vehicle software |
+| Okta | [okta.md](okta.md) | IAM values; official no-live-AI; OAuth / SSO design |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

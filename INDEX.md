@@ -76,6 +76,9 @@
 | [paypal.md](companies/paypal.md) | PayPal — values + LPs, Teams, payments / idempotency |
 | [gitlab.md](companies/gitlab.md) | GitLab — CREDIT + operating principles, async MR review |
 | [workday.md](companies/workday.md) | Workday — six values, AppDev object-modeling CodePair |
+| [oracle.md](companies/oracle.md) | Oracle — OCI vs apps vs DB, knockout coding, bartender |
+| [tesla.md](companies/tesla.md) | Tesla — mission / first principles, HM-early, fleet / OTA |
+| [okta.md](companies/okta.md) | Okta — IAM values, official no-live-AI, OAuth / SSO |
 
 ## Role-specific
 
@@ -144,6 +147,8 @@
 | [coding-level-order.md](answers/coding-level-order.md) | Binary tree level order (BFS + width) |
 | [coding-sliding-window-max.md](answers/coding-sliding-window-max.md) | Sliding window maximum (monotonic deque) |
 | [coding-copy-random-list.md](answers/coding-copy-random-list.md) | Copy list with random pointer (identity map / weave) |
+| [coding-climbing-stairs.md](answers/coding-climbing-stairs.md) | Climbing Stairs (Fibonacci 1D DP) |
+| [coding-invert-binary-tree.md](answers/coding-invert-binary-tree.md) | Invert binary tree (swap children) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

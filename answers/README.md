@@ -53,6 +53,8 @@
 | Binary tree level order (BFS) | [coding-level-order.md](coding-level-order.md) |
 | Sliding window maximum (monotonic deque) | [coding-sliding-window-max.md](coding-sliding-window-max.md) |
 | Copy list with random pointer | [coding-copy-random-list.md](coding-copy-random-list.md) |
+| Climbing Stairs (Fibonacci DP) | [coding-climbing-stairs.md](coding-climbing-stairs.md) |
+| Invert binary tree | [coding-invert-binary-tree.md](coding-invert-binary-tree.md) |
 
 ## System design
 

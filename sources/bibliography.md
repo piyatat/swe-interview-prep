@@ -1272,4 +1272,57 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Object copying — Wikipedia | https://en.wikipedia.org/wiki/Object_copying |
 | Clone a linked list with next and random pointer — GeeksforGeeks | https://www.geeksforgeeks.org/dsa/a-linked-list-with-next-and-arbit-pointer/ |
 
+## Oracle track (2026-09-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Ace your technical interview — Jobs at Oracle | https://blogs.oracle.com/jobsatoracle/ace-your-technical-interview |
+| Applying for tech jobs — Jobs at Oracle | https://blogs.oracle.com/jobsatoracle/applying-for-tech-jobs-tips-for-engineers-and-developers |
+| Oracle Careers | https://careers.oracle.com/ |
+| Life at Oracle | https://www.oracle.com/careers/life-at-oracle/ |
+| Code of Ethics and Business Conduct — Oracle | https://www.oracle.com/assets/cebc-176732.pdf |
+| What Is the Oracle Interview Process Like? — Design Gurus | https://www.designgurus.io/answers/detail/what-is-the-oracle-interview-process-like-round-by-round |
+| Oracle Interview Process 2026 — OphyAI | https://ophyai.com/blog/company-guides/oracle-interview-guide |
+
+## Tesla track (2026-09-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Tesla | https://www.tesla.com/careers |
+| AI & Robotics — Tesla | https://www.tesla.com/AI |
+| Tesla's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/tesla-interview-process |
+| Tesla Interview Process — Exponent | https://www.tryexponent.com/blog/tesla-interview-process |
+| Tesla SWE Interview Guide — Exponent | https://www.tryexponent.com/guides/tesla-software-engineer-swe-interview-guide |
+| What Is the Tesla Interview Process Like? — Design Gurus | https://www.designgurus.io/answers/detail/what-is-the-tesla-interview-process-like-round-by-round |
+| Tesla Interview Process 2026 — OphyAI | https://ophyai.com/blog/company-guides/tesla-interview-guide |
+
+## Okta track (2026-09-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Okta | https://www.okta.com/company/careers/ |
+| The story behind Okta’s values | https://www.okta.com/blog/company-and-culture/the-story-behind-oktas-values/ |
+| Okta Interview Guidelines (AI policy) | https://oktainterviewguide.splashthat.com/ |
+| OAuth 2.0 and OpenID Connect overview — Okta Developer | https://developer.okta.com/docs/concepts/oauth-openid/ |
+| Okta Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/okta-interview-guide/ |
+| Okta's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/okta-interview-process |
+
+## Climbing Stairs outline (2026-09-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Climbing Stairs — NeetCode | https://neetcode.io/solutions/climbing-stairs |
+| Climbing Stairs — LeetCode 70 | https://leetcode.com/problems/climbing-stairs/ |
+| Fibonacci sequence — Wikipedia | https://en.wikipedia.org/wiki/Fibonacci_sequence |
+| Climbing Stairs — AlgoMonster | https://algo.monster/liteproblems/70 |
+
+## Invert binary tree outline (2026-09-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Invert Binary Tree — NeetCode | https://neetcode.io/solutions/invert-binary-tree |
+| Invert Binary Tree — LeetCode 226 | https://leetcode.com/problems/invert-binary-tree/ |
+| Binary tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_tree |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+
 
