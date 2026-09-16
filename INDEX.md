@@ -79,6 +79,9 @@
 | [oracle.md](companies/oracle.md) | Oracle — OCI vs apps vs DB, knockout coding, bartender |
 | [tesla.md](companies/tesla.md) | Tesla — mission / first principles, HM-early, fleet / OTA |
 | [okta.md](companies/okta.md) | Okta — IAM values, official no-live-AI, OAuth / SSO |
+| [zoom.md](companies/zoom.md) | Zoom — Care / happiness, SFU / WebRTC, AI Companion |
+| [walmart.md](companies/walmart.md) | Walmart Global Tech — four values, retail inventory / checkout |
+| [jpmorgan.md](companies/jpmorgan.md) | JPMorganChase — Super Day + team match, PR review, controls |
 
 ## Role-specific
 
@@ -149,6 +152,8 @@
 | [coding-copy-random-list.md](answers/coding-copy-random-list.md) | Copy list with random pointer (identity map / weave) |
 | [coding-climbing-stairs.md](answers/coding-climbing-stairs.md) | Climbing Stairs (Fibonacci 1D DP) |
 | [coding-invert-binary-tree.md](answers/coding-invert-binary-tree.md) | Invert binary tree (swap children) |
+| [coding-insert-interval.md](answers/coding-insert-interval.md) | Insert interval (three-phase scan) |
+| [coding-gas-station.md](answers/coding-gas-station.md) | Gas Station (circular greedy reset) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

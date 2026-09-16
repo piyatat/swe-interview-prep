@@ -1325,4 +1325,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Binary tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_tree |
 | Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
 
+## Zoom track (2026-09-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Career Portal — Zoom | https://careers.zoom.us/ |
+| About Zoom — We Deliver Happiness | https://www.zoom.com/en/about/ |
+| Zoom's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/zoom-interview-process |
+| Zoom Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/zoom/ |
+| WebRTC — Wikipedia | https://en.wikipedia.org/wiki/WebRTC |
+| Zoom Video Communications Hiring Process Guide 2026 — ClavePrep | https://claveprep.com/blog/zoom-video-communications-hiring-process-guide-2026 |
+
+## Walmart Global Tech track (2026-09-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Explore career opportunities at Walmart Global Tech | https://tech.walmart.com/content/walmart-global-tech/en_us/careers.html |
+| Software Engineering And Architecture — Walmart Careers | https://careers.walmart.com/us/en/home/careers-areas/technology/software-engineering-and-architecture |
+| Ethics & Integrity: Walmart's Core Values | https://corporate.walmart.com/purpose/ethics-integrity |
+| Walmart's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/walmart-interview-process |
+| Walmart Interview Guide — Codemia | https://codemia.io/guides/walmart-software-engineer |
+| Walmart Global Tech SWE (New Grad) 2026 — InterviewChamp.AI | https://interviewchamp.ai/interview-questions/walmart-global-tech/swe-new-grad |
+
+## JPMorganChase track (2026-09-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Experienced Software Engineer Hiring — JPMorganChase | https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-cohort |
+| How we hire — JPMorganChase | https://www.jpmorganchase.com/careers/how-we-hire |
+| How we do business (principles) — JPMorganChase | https://www.jpmorganchase.com/about/business-principles |
+| Tech for Social Good / Code for Good — JPMorganChase Careers | https://careers.jpmorgan.com/us/en/students/programs/code-for-good |
+| JPMorgan's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/jpmorgan-interview-process |
+| Interview experience — Experienced SWE cohort, March 2026 — r/JPMorganChase | https://www.reddit.com/r/JPMorganChase/comments/1s6rw57/interview_experience_experienced_software/ |
+
+## Insert Interval outline (2026-09-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Insert Interval — NeetCode | https://neetcode.io/solutions/insert-interval |
+| Insert Interval — LeetCode 57 | https://leetcode.com/problems/insert-interval/ |
+| Interval scheduling — Wikipedia | https://en.wikipedia.org/wiki/Interval_scheduling |
+| Insert and Merge Interval — GeeksforGeeks | https://www.geeksforgeeks.org/dsa/insert-in-sorted-and-non-overlapping-interval-array/ |
+
+## Gas Station outline (2026-09-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Gas Station — NeetCode | https://neetcode.io/solutions/gas-station |
+| Gas Station — LeetCode 134 | https://leetcode.com/problems/gas-station/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| Maximum subarray problem (Kadane) — Wikipedia | https://en.wikipedia.org/wiki/Maximum_subarray_problem |
+
 

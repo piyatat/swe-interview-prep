@@ -55,6 +55,8 @@
 | Copy list with random pointer | [coding-copy-random-list.md](coding-copy-random-list.md) |
 | Climbing Stairs (Fibonacci DP) | [coding-climbing-stairs.md](coding-climbing-stairs.md) |
 | Invert binary tree | [coding-invert-binary-tree.md](coding-invert-binary-tree.md) |
+| Insert Interval (three-phase) | [coding-insert-interval.md](coding-insert-interval.md) |
+| Gas Station (circular greedy) | [coding-gas-station.md](coding-gas-station.md) |
 
 ## System design
 
