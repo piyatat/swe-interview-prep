@@ -57,6 +57,8 @@
 | Invert binary tree | [coding-invert-binary-tree.md](coding-invert-binary-tree.md) |
 | Insert Interval (three-phase) | [coding-insert-interval.md](coding-insert-interval.md) |
 | Gas Station (circular greedy) | [coding-gas-station.md](coding-gas-station.md) |
+| Median from data stream (two heaps) | [coding-median-stream.md](coding-median-stream.md) |
+| Longest common subsequence (2D DP) | [coding-longest-common-subsequence.md](coding-longest-common-subsequence.md) |
 
 ## System design
 

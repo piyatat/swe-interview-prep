@@ -1376,4 +1376,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
 | Maximum subarray problem (Kadane) — Wikipedia | https://en.wikipedia.org/wiki/Maximum_subarray_problem |
 
+## Goldman Sachs track (2026-09-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Goldman Sachs Careers | https://www.goldmansachs.com/careers |
+| Our Purpose and Values — Goldman Sachs | https://www.goldmansachs.com/our-firm/purpose-and-values |
+| Our Engineering Tenets — Goldman Sachs | https://www.goldmansachs.com/careers/blog/engineering-tenets |
+| Goldman Sachs Introduces 14 Business Principles — Goldman Sachs | https://www.goldmansachs.com/our-firm/history/moments/1979-business-principles |
+| Goldman Sachs's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/goldman-sachs-interview-process |
+| Goldman Sachs Interview Questions (2026) — LastRoundAI | https://lastroundai.com/interview-questions/goldman-sachs |
+
+## Visa track (2026-09-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Visa careers | https://corporate.visa.com/en/careers.html |
+| What we do — Visa | https://corporate.visa.com/en/about-visa.html |
+| Visa Leadership Principles | https://corporate.visa.com/en/about-visa/leadership-principles.html |
+| Visa's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/visa-interview-process |
+| My Software Engineer Interview Experience at Visa (2026) — Hashnode | https://animeshk.hashnode.dev/visa-swe-interview-experience |
+| Visa Interview Questions (2026) — LastRoundAI | https://lastroundai.com/interview-questions/visa |
+
+## Cisco track (2026-09-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — Cisco Careers | https://careers.cisco.com/global/en/how-we-hire |
+| GenAI Best Practices and Permitted Uses — Cisco Careers | https://careers.cisco.com/global/en/genai-practices |
+| Careers at Cisco | https://careers.cisco.com/global/en |
+| The Deal that Matters Most (People Deal) — WeAreCisco | https://weare.cisco.com/c/r/weare/amazing-stories/amazing-things/the-deal-that-matters-most.html |
+| Cisco's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/cisco-interview-process |
+| Cisco Interview Response Time (2026) — Leon Consulting | https://leonstaff.com/blogs/cisco-interview-response-time/ |
+
+## Median from data stream outline (2026-09-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Find Median from Data Stream — NeetCode | https://neetcode.io/solutions/find-median-from-data-stream |
+| Find Median from Data Stream — LeetCode 295 | https://leetcode.com/problems/find-median-from-data-stream/ |
+| Heap (data structure) — Wikipedia | https://en.wikipedia.org/wiki/Heap_(data_structure) |
+| Median — Wikipedia | https://en.wikipedia.org/wiki/Median |
+
+## Longest common subsequence outline (2026-09-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Longest Common Subsequence — NeetCode | https://neetcode.io/solutions/longest-common-subsequence |
+| Longest Common Subsequence — LeetCode 1143 | https://leetcode.com/problems/longest-common-subsequence/ |
+| Longest common subsequence — Wikipedia | https://en.wikipedia.org/wiki/Longest_common_subsequence |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+
 

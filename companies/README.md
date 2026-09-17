@@ -57,5 +57,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Zoom | [zoom.md](zoom.md) | Care / Deliver Happiness; SFU / WebRTC; AI Companion |
 | Walmart Global Tech | [walmart.md](walmart.md) | Four values; retail inventory / omnichannel checkout |
 | JPMorganChase | [jpmorgan.md](jpmorgan.md) | Cohort Super Day + team match; PR review; bank controls |
+| Goldman Sachs | [goldman.md](goldman.md) | Superday + SDLC / practices; four values + engineering tenets |
+| Visa | [visa.md](visa.md) | Card network; Leadership Principles; Java / SQL / transactions |
+| Cisco | [cisco.md](cisco.md) | People Deal; official GenAI hiring policy; networking MCQs |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

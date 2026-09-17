@@ -82,6 +82,9 @@
 | [zoom.md](companies/zoom.md) | Zoom — Care / happiness, SFU / WebRTC, AI Companion |
 | [walmart.md](companies/walmart.md) | Walmart Global Tech — four values, retail inventory / checkout |
 | [jpmorgan.md](companies/jpmorgan.md) | JPMorganChase — Super Day + team match, PR review, controls |
+| [goldman.md](companies/goldman.md) | Goldman Sachs — Superday + SDLC hour, four values / tenets |
+| [visa.md](companies/visa.md) | Visa — card network, Leadership Principles, Java / SQL loop |
+| [cisco.md](companies/cisco.md) | Cisco — People Deal, official GenAI policy, networking MCQs |
 
 ## Role-specific
 
@@ -154,6 +157,8 @@
 | [coding-invert-binary-tree.md](answers/coding-invert-binary-tree.md) | Invert binary tree (swap children) |
 | [coding-insert-interval.md](answers/coding-insert-interval.md) | Insert interval (three-phase scan) |
 | [coding-gas-station.md](answers/coding-gas-station.md) | Gas Station (circular greedy reset) |
+| [coding-median-stream.md](answers/coding-median-stream.md) | Median from data stream (two heaps) |
+| [coding-longest-common-subsequence.md](answers/coding-longest-common-subsequence.md) | Longest common subsequence (2D string DP) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
