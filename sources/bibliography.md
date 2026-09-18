@@ -1427,4 +1427,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Longest common subsequence — Wikipedia | https://en.wikipedia.org/wiki/Longest_common_subsequence |
 | Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
 
+## Mastercard track (2026-09-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| An Overview of Mastercard’s Hiring Process | https://careers.mastercard.com/us/en/mastercards-hiring-process |
+| AI Use Guidelines for Job Application & Interview — Mastercard | https://careers.mastercard.com/us/en/ai-guidelines |
+| Interview Tips — Mastercard Careers | https://careers.mastercard.com/us/en/interview-tips |
+| About Mastercard | https://www.mastercard.com/us/en/for-the-world/about-us.html |
+| Mastercard's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/mastercard-interview-process |
+| Mastercard Interview Process & Questions (2026) — ResumeAdapter | https://www.resumeadapter.com/companies/mastercard/interview-process |
+
+## Intel track (2026-09-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Intel's Values | https://www.intel.com/content/www/us/en/corporate-responsibility/our-values.html |
+| Jobs at Intel | https://jobs.intel.com |
+| Why does a hardware company need Software Engineers? — Intel Community | https://community.intel.com/t5/Blogs/Intel/We-Are-Intel/Why-does-a-hardware-company-need-Software-Engineers/post/1333832 |
+| Intel's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/intel-interview-process |
+| What Is the Intel Interview Process Like? — Design Gurus | https://www.designgurus.io/answers/detail/what-is-the-intel-interview-process-like-round-by-round |
+
+## IBM track (2026-09-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Application Steps & Tips — IBM Careers | https://www.ibm.com/careers/application-process |
+| Culture — IBM Careers | https://www.ibm.com/careers/culture |
+| Entry Level Developer: Secrets to Becoming a Successful Candidate — IBM | https://www.ibm.com/careers/blog/entry-level-developer-the-secrets-to-becoming-a-successful-candidate |
+| Jobs in Software Engineering — IBM Careers | https://www.ibm.com/careers/software-engineering |
+| IBM's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/ibm-interview-process |
+
+## Longest palindromic substring outline (2026-09-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Longest Palindromic Substring — NeetCode | https://neetcode.io/solutions/longest-palindromic-substring |
+| Longest Palindromic Substring — LeetCode 5 | https://leetcode.com/problems/longest-palindromic-substring/ |
+| Longest palindromic substring — Wikipedia | https://en.wikipedia.org/wiki/Longest_palindromic_substring |
+| Manacher's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Longest_palindromic_substring#Manacher's_algorithm |
+
+## Subarray sum equals K outline (2026-09-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Subarray Sum Equals K — NeetCode | https://neetcode.io/solutions/subarray-sum-equals-k |
+| Subarray Sum Equals K — LeetCode 560 | https://leetcode.com/problems/subarray-sum-equals-k/ |
+| Prefix sum — Wikipedia | https://en.wikipedia.org/wiki/Prefix_sum |
+| Two sum — Wikipedia | https://en.wikipedia.org/wiki/Two_sum |
+
 

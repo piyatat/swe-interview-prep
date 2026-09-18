@@ -85,6 +85,9 @@
 | [goldman.md](companies/goldman.md) | Goldman Sachs — Superday + SDLC hour, four values / tenets |
 | [visa.md](companies/visa.md) | Visa — card network, Leadership Principles, Java / SQL loop |
 | [cisco.md](companies/cisco.md) | Cisco — People Deal, official GenAI policy, networking MCQs |
+| [mastercard.md](companies/mastercard.md) | Mastercard — published 5-stage hire, Way + official AI rules |
+| [intel.md](companies/intel.md) | Intel — seven values, team-owned systems / firmware loop |
+| [ibm.md](companies/ibm.md) | IBM — three values, official AI policy, OA + client bar |
 
 ## Role-specific
 
@@ -159,6 +162,8 @@
 | [coding-gas-station.md](answers/coding-gas-station.md) | Gas Station (circular greedy reset) |
 | [coding-median-stream.md](answers/coding-median-stream.md) | Median from data stream (two heaps) |
 | [coding-longest-common-subsequence.md](answers/coding-longest-common-subsequence.md) | Longest common subsequence (2D string DP) |
+| [coding-longest-palindrome.md](answers/coding-longest-palindrome.md) | Longest palindromic substring (expand centers) |
+| [coding-subarray-sum-k.md](answers/coding-subarray-sum-k.md) | Subarray sum equals K (prefix + hash) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

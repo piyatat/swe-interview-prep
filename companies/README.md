@@ -60,5 +60,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Goldman Sachs | [goldman.md](goldman.md) | Superday + SDLC / practices; four values + engineering tenets |
 | Visa | [visa.md](visa.md) | Card network; Leadership Principles; Java / SQL / transactions |
 | Cisco | [cisco.md](cisco.md) | People Deal; official GenAI hiring policy; networking MCQs |
+| Mastercard | [mastercard.md](mastercard.md) | Published 5-stage hire; Mastercard Way; official AI rules |
+| Intel | [intel.md](intel.md) | Seven values; team-owned systems / firmware / compilers |
+| IBM | [ibm.md](ibm.md) | Three values; official AI policy; OA + client-facing bar |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

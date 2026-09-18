@@ -59,6 +59,8 @@
 | Gas Station (circular greedy) | [coding-gas-station.md](coding-gas-station.md) |
 | Median from data stream (two heaps) | [coding-median-stream.md](coding-median-stream.md) |
 | Longest common subsequence (2D DP) | [coding-longest-common-subsequence.md](coding-longest-common-subsequence.md) |
+| Longest palindromic substring (expand) | [coding-longest-palindrome.md](coding-longest-palindrome.md) |
+| Subarray sum equals K (prefix + hash) | [coding-subarray-sum-k.md](coding-subarray-sum-k.md) |
 
 ## System design
 
