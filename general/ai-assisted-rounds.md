@@ -14,6 +14,23 @@ Official Google (Pichai, Cloud Next, 2026-04-22): **75% of new code at Google is
 | **Classic DSA (AI-free)** | Unaided reasoning — still common; often **paired** with one AI hour |
 | **Open-ended engineering** | Vague one-liner; they score **clarifying questions** more than the final function |
 
+## Meta vs Google (confirm the hour)
+
+Both keep a **classic no-AI** algorithm hour. The new hour is **human-led, AI-assisted** — not “the model interviews for you.” Recruiter tells you which coding slot is which. Ask for the **practice pad** if they have one.
+
+| | **Meta AI-enabled coding** | **Google code-comprehension pilot** |
+| --- | --- | --- |
+| Status (2026 guides) | Live since **Oct 2025** for many SWE / EM loops | **Pilot** from May 2026; junior/mid, select **US** teams |
+| Shape | ~60 min, multi-file pad; ~5 min platform tour | ~60 min, unfamiliar ~200–500 line repo |
+| Assistant | Multi-model **chat** (cannot edit files for you) | **Gemini only** (official spokesperson / Exponent) |
+| Typical arc | Bugfix → implement feature → optimize / scale | Read, locate bugs, justify design, propose improvements |
+| Rubric emphasis | Problem solving, code quality, verification, communication | Also **prompt quality, output validation, AI-assisted judgment** |
+| What still exists | One traditional DSA hour | Standard DSA rounds unchanged during the pilot |
+
+Guides (Hello Interview, Exponent, techinterview.org): Meta often runs **three phases on one extended problem**; not finishing phase 3 can still pass if reasoning and verification are visible. Some interviewers ban AI on the first bug. Treat model menus and “nerfed” system prompts as **volatile** — confirm the week you interview.
+
+**Ask the recruiter:** which hour is AI; which models; languages; practice environment; whether phase 1 is unaided; whether Googleyness now includes a **prior-work design** conversation (Exponent: 2026 Google loop change, not every team).
+
 ## If AI is allowed
 
 1. **Clarify before you prompt** — window vs token bucket, empty / `limit=0`, single-process vs distributed. The model will invent a spec if you do not.
@@ -63,4 +80,6 @@ HackerRank (2026 docs, via Formation): AI-assisted interviews in an IDE with com
 - [Engineering Interview Trends in 2026 — Karat](https://karat.com/engineering-interview-trends-2026/) — accessed 2026-09-07
 - [AI Assisted Coding Interview: What Gets Scored Now — Formation](https://formation.dev/blog/ai-assisted-coding-interviews) — accessed 2026-09-07
 - [Cloud Next ‘26 — Sundar Pichai (Google)](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/) — accessed 2026-09-07
-- [Google's AI-Assisted Coding Interview (2026 Guide) — Exponent / Aced](https://www.tryexponent.com/blog/google-ai-coding-interview) — accessed 2026-09-07
+- [Google's AI-Assisted Coding Interview (2026 Guide) — Exponent / Aced](https://www.tryexponent.com/blog/google-ai-coding-interview) — accessed 2026-09-19
+- [Meta's AI-Enabled Coding Interview: How to Prepare — Hello Interview](https://www.hellointerview.com/blog/meta-ai-enabled-coding) — accessed 2026-09-19
+- [What Meta and Google’s AI-enabled coding rounds actually test — techinterview.org](https://www.techinterview.org/post/3233477234/meta-google-ai-enabled-coding-interview/) — accessed 2026-09-19

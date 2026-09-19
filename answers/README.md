@@ -61,6 +61,8 @@
 | Longest common subsequence (2D DP) | [coding-longest-common-subsequence.md](coding-longest-common-subsequence.md) |
 | Longest palindromic substring (expand) | [coding-longest-palindrome.md](coding-longest-palindrome.md) |
 | Subarray sum equals K (prefix + hash) | [coding-subarray-sum-k.md](coding-subarray-sum-k.md) |
+| Pacific Atlantic water flow (reverse flood) | [coding-pacific-atlantic.md](coding-pacific-atlantic.md) |
+| Rotate image (transpose + reverse) | [coding-rotate-image.md](coding-rotate-image.md) |
 
 ## System design
 
@@ -89,6 +91,7 @@
 | Pub/sub / Kafka log | [system-design-pubsub.md](system-design-pubsub.md) |
 | LLM serving / ChatGPT inference | [system-design-llm-serving.md](system-design-llm-serving.md) |
 | Ticket booking / Ticketmaster | [system-design-ticketmaster.md](system-design-ticketmaster.md) |
+| Nearby / Yelp proximity | [system-design-proximity.md](system-design-proximity.md) |
 
 ## Behavioral (STAR outlines)
 

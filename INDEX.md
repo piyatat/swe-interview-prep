@@ -88,6 +88,7 @@
 | [mastercard.md](companies/mastercard.md) | Mastercard — published 5-stage hire, Way + official AI rules |
 | [intel.md](companies/intel.md) | Intel — seven values, team-owned systems / firmware loop |
 | [ibm.md](companies/ibm.md) | IBM — three values, official AI policy, OA + client bar |
+| [amd.md](companies/amd.md) | AMD — five culture behaviors, official AI FAQ, ROCm / Instinct |
 
 ## Role-specific
 
@@ -164,6 +165,8 @@
 | [coding-longest-common-subsequence.md](answers/coding-longest-common-subsequence.md) | Longest common subsequence (2D string DP) |
 | [coding-longest-palindrome.md](answers/coding-longest-palindrome.md) | Longest palindromic substring (expand centers) |
 | [coding-subarray-sum-k.md](answers/coding-subarray-sum-k.md) | Subarray sum equals K (prefix + hash) |
+| [coding-pacific-atlantic.md](answers/coding-pacific-atlantic.md) | Pacific Atlantic water flow (reverse multi-source) |
+| [coding-rotate-image.md](answers/coding-rotate-image.md) | Rotate image (transpose + reverse rows) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -187,6 +190,7 @@
 | [system-design-pubsub.md](answers/system-design-pubsub.md) | Pub/sub / Kafka log + partitions + offsets |
 | [system-design-llm-serving.md](answers/system-design-llm-serving.md) | LLM serving / paged KV + continuous batch |
 | [system-design-ticketmaster.md](answers/system-design-ticketmaster.md) | Ticket booking / named-seat holds + waiting room |
+| [system-design-proximity.md](answers/system-design-proximity.md) | Nearby / Yelp proximity (geohash + H3 candidates) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

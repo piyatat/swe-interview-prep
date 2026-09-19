@@ -63,5 +63,6 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Mastercard | [mastercard.md](mastercard.md) | Published 5-stage hire; Mastercard Way; official AI rules |
 | Intel | [intel.md](intel.md) | Seven values; team-owned systems / firmware / compilers |
 | IBM | [ibm.md](ibm.md) | Three values; official AI policy; OA + client-facing bar |
+| AMD | [amd.md](amd.md) | Five culture behaviors; official AI FAQ; ROCm / Instinct |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

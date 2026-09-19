@@ -1476,4 +1476,50 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Prefix sum — Wikipedia | https://en.wikipedia.org/wiki/Prefix_sum |
 | Two sum — Wikipedia | https://en.wikipedia.org/wiki/Two_sum |
 
+## AI-assisted rounds update (2026-09-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Meta's AI-Enabled Coding Interview: How to Prepare — Hello Interview | https://www.hellointerview.com/blog/meta-ai-enabled-coding |
+| What Meta and Google’s AI-enabled coding rounds actually test — techinterview.org | https://www.techinterview.org/post/3233477234/meta-google-ai-enabled-coding-interview/ |
+| Google's AI-Assisted Coding Interview (2026 Guide) — Exponent / Aced | https://www.tryexponent.com/blog/google-ai-coding-interview |
+
+## Pacific Atlantic water flow outline (2026-09-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Pacific Atlantic Water Flow — NeetCode | https://neetcode.io/solutions/pacific-atlantic-water-flow |
+| Pacific Atlantic Water Flow — LeetCode 417 | https://leetcode.com/problems/pacific-atlantic-water-flow/ |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+| Flood fill — Wikipedia | https://en.wikipedia.org/wiki/Flood_fill |
+
+## Rotate image outline (2026-09-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Rotate Image — NeetCode | https://neetcode.io/solutions/rotate-image |
+| Rotate Image — LeetCode 48 | https://leetcode.com/problems/rotate-image/ |
+| Transpose — Wikipedia | https://en.wikipedia.org/wiki/Transpose |
+| In-place matrix transposition — Wikipedia | https://en.wikipedia.org/wiki/In-place_matrix_transposition |
+
+## Proximity / nearby search outline (2026-09-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Proximity Search — Hello Interview | https://www.hellointerview.com/learn/system-design/deep-dives/proximity-search |
+| Geohash — Wikipedia | https://en.wikipedia.org/wiki/Geohash |
+| H3: Uber’s Hexagonal Hierarchical Spatial Index — Uber Engineering | https://www.uber.com/us/en/blog/h3/ |
+| H3 vs Geohash — H3 docs | https://h3geo.org/docs/comparisons/geohash |
+| Yelp System Design: Nearby Business Search — System Design Academy | https://www.systemdesign.academy/interview/design-yelp |
+
+## AMD track (2026-09-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| AMD Careers | https://www.amd.com/en/corporate/careers.html |
+| AMD Jobs | https://careers.amd.com/careers-home/ |
+| AMD Student Programs | https://www.amd.com/en/corporate/careers/student-programs.html |
+| AMD Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/amd-interview-guide/ |
+| AMD SWE Guide 2026 — Nora AI | https://interview.norahq.com/interview-guides/amd-software-engineer-interview-guide-2026 |
+
 
