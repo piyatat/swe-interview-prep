@@ -89,6 +89,8 @@
 | [intel.md](companies/intel.md) | Intel — seven values, team-owned systems / firmware loop |
 | [ibm.md](companies/ibm.md) | IBM — three values, official AI policy, OA + client bar |
 | [amd.md](companies/amd.md) | AMD — five culture behaviors, official AI FAQ, ROCm / Instinct |
+| [qualcomm.md](companies/qualcomm.md) | Qualcomm — Qualcomm Way, Snapdragon / modem, C/OS + bits |
+| [sap.md](companies/sap.md) | SAP — purpose / vision, official recruiting AI rules, S/4 / BTP |
 
 ## Role-specific
 
@@ -167,6 +169,9 @@
 | [coding-subarray-sum-k.md](answers/coding-subarray-sum-k.md) | Subarray sum equals K (prefix + hash) |
 | [coding-pacific-atlantic.md](answers/coding-pacific-atlantic.md) | Pacific Atlantic water flow (reverse multi-source) |
 | [coding-rotate-image.md](answers/coding-rotate-image.md) | Rotate image (transpose + reverse rows) |
+| [coding-spiral-matrix.md](answers/coding-spiral-matrix.md) | Spiral matrix (four shrinking bounds) |
+| [coding-diameter-tree.md](answers/coding-diameter-tree.md) | Diameter of binary tree (post-order height) |
+| [coding-min-stack.md](answers/coding-min-stack.md) | Min Stack (aux running-min stack) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

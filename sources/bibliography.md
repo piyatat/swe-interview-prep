@@ -1522,4 +1522,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | AMD Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/amd-interview-guide/ |
 | AMD SWE Guide 2026 — Nora AI | https://interview.norahq.com/interview-guides/amd-software-engineer-interview-guide-2026 |
 
+## Qualcomm track (2026-09-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Qualcomm Careers | https://www.qualcomm.com/company/careers |
+| Qualcomm Careers FAQs | https://www.qualcomm.com/company/careers/faqs |
+| The Qualcomm Way: Code of Business Conduct (2024) | https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/COBC-2024.pdf |
+| Qualcomm's Use of AI in the Application Process | https://www.qualcomm.com/site/privacy/ai-in-the-application-process |
+| Qualcomm's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/qualcomm-interview-process |
+| Qualcomm Interview Process 2026 — Papersadda | https://papersadda.com/article/qualcomm-interview-process-2026/ |
+
+## SAP track (2026-09-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Company FAQ — About SAP SE | https://www.sap.com/about/company/faq.html |
+| Hiring & Application Process — SAP Careers | https://jobs.sap.com/content/Hiring-Process/?locale=en_US |
+| Ethical Usage of AI in the Recruiting Process — SAP Careers | https://jobs.sap.com/content/Ethical_usage_of_AI_in_the_recruiting_process/?locale=en_US |
+| Ethical Usage of GenAI — SAP LeanIX | https://www.leanix.net/company/career/ethical-usage-of-genai-in-the-application-and-recruiting-process |
+| SAP Interview Process 2026 — OphyAI | https://ophyai.com/blog/company-guides/sap-interview-guide |
+| SAP SWE Guide 2026 — Dataford | https://dataford.io/interview-guides/sap/software-engineer |
+| SAP Interview Process 2026 — Papersadda | https://papersadda.com/article/sap-interview-process-2026/ |
+
+## Spiral matrix outline (2026-09-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Spiral Matrix — NeetCode | https://neetcode.io/solutions/spiral-matrix |
+| Spiral Matrix — LeetCode 54 | https://leetcode.com/problems/spiral-matrix/ |
+| Matrix (mathematics) — Wikipedia | https://en.wikipedia.org/wiki/Matrix_(mathematics) |
+
+## Diameter of binary tree outline (2026-09-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Diameter of Binary Tree — NeetCode | https://neetcode.io/solutions/diameter-of-binary-tree |
+| Diameter of Binary Tree — LeetCode 543 | https://leetcode.com/problems/diameter-of-binary-tree/ |
+| Distance (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Distance_(graph_theory) |
+| Tree (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Tree_(graph_theory) |
+
+## Min Stack outline (2026-09-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Min Stack — NeetCode | https://neetcode.io/solutions/min-stack |
+| Min Stack — LeetCode 155 | https://leetcode.com/problems/min-stack/ |
+| Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
+
 

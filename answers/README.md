@@ -63,6 +63,9 @@
 | Subarray sum equals K (prefix + hash) | [coding-subarray-sum-k.md](coding-subarray-sum-k.md) |
 | Pacific Atlantic water flow (reverse flood) | [coding-pacific-atlantic.md](coding-pacific-atlantic.md) |
 | Rotate image (transpose + reverse) | [coding-rotate-image.md](coding-rotate-image.md) |
+| Spiral matrix (four bounds) | [coding-spiral-matrix.md](coding-spiral-matrix.md) |
+| Diameter of binary tree (post-order) | [coding-diameter-tree.md](coding-diameter-tree.md) |
+| Min Stack (aux running min) | [coding-min-stack.md](coding-min-stack.md) |
 
 ## System design
 

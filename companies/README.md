@@ -64,5 +64,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Intel | [intel.md](intel.md) | Seven values; team-owned systems / firmware / compilers |
 | IBM | [ibm.md](ibm.md) | Three values; official AI policy; OA + client-facing bar |
 | AMD | [amd.md](amd.md) | Five culture behaviors; official AI FAQ; ROCm / Instinct |
+| Qualcomm | [qualcomm.md](qualcomm.md) | Qualcomm Way; Snapdragon / modem; C / OS / bits |
+| SAP | [sap.md](sap.md) | Purpose / vision; official recruiting AI rules; S/4 / BTP |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
