@@ -66,6 +66,8 @@
 | Spiral matrix (four bounds) | [coding-spiral-matrix.md](coding-spiral-matrix.md) |
 | Diameter of binary tree (post-order) | [coding-diameter-tree.md](coding-diameter-tree.md) |
 | Min Stack (aux running min) | [coding-min-stack.md](coding-min-stack.md) |
+| Construct tree (preorder + inorder) | [coding-construct-tree.md](coding-construct-tree.md) |
+| Set matrix zeroes (row/col markers) | [coding-set-matrix-zeroes.md](coding-set-matrix-zeroes.md) |
 
 ## System design
 

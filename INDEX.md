@@ -91,6 +91,9 @@
 | [amd.md](companies/amd.md) | AMD — five culture behaviors, official AI FAQ, ROCm / Instinct |
 | [qualcomm.md](companies/qualcomm.md) | Qualcomm — Qualcomm Way, Snapdragon / modem, C/OS + bits |
 | [sap.md](companies/sap.md) | SAP — purpose / vision, official recruiting AI rules, S/4 / BTP |
+| [canva.md](companies/canva.md) | Canva — official How we hire, insisted AI-assisted coding |
+| [elastic.md](companies/elastic.md) | Elastic — Source Code, Search AI, official human-to-human AI rules |
+| [asana.md](companies/asana.md) | Asana — official eng interview guide, Work Graph / values |
 
 ## Role-specific
 
@@ -172,6 +175,8 @@
 | [coding-spiral-matrix.md](answers/coding-spiral-matrix.md) | Spiral matrix (four shrinking bounds) |
 | [coding-diameter-tree.md](answers/coding-diameter-tree.md) | Diameter of binary tree (post-order height) |
 | [coding-min-stack.md](answers/coding-min-stack.md) | Min Stack (aux running-min stack) |
+| [coding-construct-tree.md](answers/coding-construct-tree.md) | Construct tree from preorder + inorder |
+| [coding-set-matrix-zeroes.md](answers/coding-set-matrix-zeroes.md) | Set matrix zeroes (row/col markers) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

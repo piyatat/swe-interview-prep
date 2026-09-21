@@ -1570,4 +1570,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Min Stack — LeetCode 155 | https://leetcode.com/problems/min-stack/ |
 | Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
 
+## Canva track (2026-09-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire — Canva Careers | https://www.lifeatcanva.com/en/how-we-hire/ |
+| Yes, You Can Use AI in Our Interviews — Canva Engineering | https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/ |
+| The importance of culture as you scale — Canva Team | https://medium.com/canva/the-importance-of-culture-as-you-scale-215bfe1372ab |
+| Canva Interview Process — FinalRound AI | https://www.finalroundai.com/blog/canva-interview-process |
+| Canva's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/canva-interview-process |
+
+## Elastic track (2026-09-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire — Elastic | https://www.elastic.co/careers/how-we-hire |
+| Our Source Code — Elastic | https://www.elastic.co/about/our-source-code |
+| Elastic’s guide to AI in the interview process | https://www.elastic.co/blog/ai-guidelines-interview-process |
+| Elastic's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/elastic-interview-process |
+| Elastic Careers | https://www.elastic.co/careers |
+
+## Asana track (2026-09-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering Interview Guide — Asana | https://asana.com/eng/interview-guide |
+| 6 Engineering Values — Asana | https://asana.com/inside-asana/asana-engineering-values |
+| The Asana Engineering Interview Guide — Inside Asana | https://asana.com/inside-asana/asana-engineering-interview-guide |
+| Asana company | https://asana.com/company |
+| Asana Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/asana/ |
+| Asana SWE Interview Guide 2026 — PracHub | https://prachub.com/resources/asana-software-engineer-interview-guide-2026-coding-ood-system-design-and-collaboration |
+
+## Construct tree outline (2026-09-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Construct Binary Tree from Preorder and Inorder — NeetCode | https://neetcode.io/solutions/construct-binary-tree-from-preorder-and-inorder-traversal |
+| Construct Binary Tree from Preorder and Inorder — LeetCode 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+| Binary tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_tree |
+
+## Set matrix zeroes outline (2026-09-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Set Matrix Zeroes — NeetCode | https://neetcode.io/solutions/set-matrix-zeroes |
+| Set Matrix Zeroes — LeetCode 73 | https://leetcode.com/problems/set-matrix-zeroes/ |
+| Matrix (mathematics) — Wikipedia | https://en.wikipedia.org/wiki/Matrix_(mathematics) |
+
 

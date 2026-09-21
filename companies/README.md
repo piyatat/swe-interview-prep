@@ -66,5 +66,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | AMD | [amd.md](amd.md) | Five culture behaviors; official AI FAQ; ROCm / Instinct |
 | Qualcomm | [qualcomm.md](qualcomm.md) | Qualcomm Way; Snapdragon / modem; C / OS / bits |
 | SAP | [sap.md](sap.md) | Purpose / vision; official recruiting AI rules; S/4 / BTP |
+| Canva | [canva.md](canva.md) | Official How we hire; insisted AI-assisted coding; Skills Framework |
+| Elastic | [elastic.md](elastic.md) | Source Code; Search AI; official human-to-human AI rules |
+| Asana | [asana.md](asana.md) | Official eng interview guide; Work Graph; six eng values |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
