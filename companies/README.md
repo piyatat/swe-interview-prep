@@ -69,5 +69,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Canva | [canva.md](canva.md) | Official How we hire; insisted AI-assisted coding; Skills Framework |
 | Elastic | [elastic.md](elastic.md) | Source Code; Search AI; official human-to-human AI rules |
 | Asana | [asana.md](asana.md) | Official eng interview guide; Work Graph; six eng values |
+| HubSpot | [hubspot.md](hubspot.md) | HEART + Culture Code; official SWE prep; API take-home |
+| Rippling | [rippling.md](rippling.md) | Official interview kit; pair-first; compound HRIS / IT |
+| HashiCorp | [hashicorp.md](hashicorp.md) | Official principles hire; pair / PR review; Terraform / Vault / IBM |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

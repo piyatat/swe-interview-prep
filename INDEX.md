@@ -94,6 +94,9 @@
 | [canva.md](companies/canva.md) | Canva — official How we hire, insisted AI-assisted coding |
 | [elastic.md](companies/elastic.md) | Elastic — Source Code, Search AI, official human-to-human AI rules |
 | [asana.md](companies/asana.md) | Asana — official eng interview guide, Work Graph / values |
+| [hubspot.md](companies/hubspot.md) | HubSpot — HEART, official SWE prep, API take-home |
+| [rippling.md](companies/rippling.md) | Rippling — official interview kit, pair + compound platform |
+| [hashicorp.md](companies/hashicorp.md) | HashiCorp — official principles hire, Go / infra, IBM |
 
 ## Role-specific
 
@@ -177,6 +180,8 @@
 | [coding-min-stack.md](answers/coding-min-stack.md) | Min Stack (aux running-min stack) |
 | [coding-construct-tree.md](answers/coding-construct-tree.md) | Construct tree from preorder + inorder |
 | [coding-set-matrix-zeroes.md](answers/coding-set-matrix-zeroes.md) | Set matrix zeroes (row/col markers) |
+| [coding-alien-dictionary.md](answers/coding-alien-dictionary.md) | Alien Dictionary (topo from adjacent words) |
+| [coding-n-queens.md](answers/coding-n-queens.md) | N-Queens (column / diagonal sets) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

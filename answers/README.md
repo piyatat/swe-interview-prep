@@ -68,6 +68,8 @@
 | Min Stack (aux running min) | [coding-min-stack.md](coding-min-stack.md) |
 | Construct tree (preorder + inorder) | [coding-construct-tree.md](coding-construct-tree.md) |
 | Set matrix zeroes (row/col markers) | [coding-set-matrix-zeroes.md](coding-set-matrix-zeroes.md) |
+| Alien Dictionary (topo from words) | [coding-alien-dictionary.md](coding-alien-dictionary.md) |
+| N-Queens (col / diagonal sets) | [coding-n-queens.md](coding-n-queens.md) |
 
 ## System design
 

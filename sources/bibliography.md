@@ -1618,4 +1618,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Set Matrix Zeroes — LeetCode 73 | https://leetcode.com/problems/set-matrix-zeroes/ |
 | Matrix (mathematics) — Wikipedia | https://en.wikipedia.org/wiki/Matrix_(mathematics) |
 
+## HubSpot track (2026-09-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Software Engineering Interview Prep — HubSpot Careers | https://www.hubspot.com/careers/software-engineering-interview-prep |
+| The HubSpot Culture Code — HubSpot | https://blog.hubspot.com/blog/tabid/6307/bid/34234/the-hubspot-culture-code-creating-a-company-we-love.aspx |
+| HubSpot Interview Prep 2026 — jobsbyculture | https://www.jobsbyculture.com/blog/hubspot-interview-prep-2026 |
+| HubSpot’s Interview Process & Questions — interviewing.io | https://interviewing.io/hubspot-interview-questions |
+| HubSpot Interview Guide 2026 — techinterview.org | https://www.techinterview.org/post/3233460314/hubspot-interview-guide-2026-crm-engineering-marketing-automation-and-multi-tenant-saas/ |
+
+## Rippling track (2026-09-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Rippling Interview Kit | https://www.rippling.com/careers/eng-interview-kit |
+| Engineering Careers — Rippling | https://www.rippling.com/careers/engineering |
+| Life at Rippling | https://www.rippling.com/careers/life |
+| Rippling + HackerRank — Rippling | https://www.rippling.com/blog/introducing-hackerrank-rippling-a-better-way-to-facilitate-technical-interviews |
+| Rippling Software Engineer Interview 2026 — Interview Coder | https://www.interviewcoder.co/blog/rippling-software-engineer-interview |
+
+## HashiCorp track (2026-09-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hiring and interviewing at HashiCorp | https://www.hashicorp.com/how-hashicorp-works/articles/hiring-and-interviewing-at-hashicorp |
+| Our Principles — HashiCorp | https://www.hashicorp.com/our-principles |
+| Careers — HashiCorp | https://www.hashicorp.com/careers |
+| HashiCorp’s Interview Process (2026) — TechPrep | https://www.techprep.app/blog/hashicorp-interview-process |
+| HashiCorp Interview Guide 2026 — techinterview.org | https://www.techinterview.org/post/3233460312/hashicorp-interview-guide-2026-terraform-vault-raft-consensus-and-infrastructure-engineering/ |
+
+## Alien Dictionary outline (2026-09-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Alien Dictionary — NeetCode | https://neetcode.io/solutions/alien-dictionary |
+| Alien Dictionary — LeetCode 269 | https://leetcode.com/problems/alien-dictionary/ |
+| Topological sorting — Wikipedia | https://en.wikipedia.org/wiki/Topological_sorting |
+| Directed acyclic graph — Wikipedia | https://en.wikipedia.org/wiki/Directed_acyclic_graph |
+
+## N-Queens outline (2026-09-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| N-Queens — NeetCode | https://neetcode.io/solutions/n-queens |
+| N-Queens — LeetCode 51 | https://leetcode.com/problems/n-queens/ |
+| Eight queens puzzle — Wikipedia | https://en.wikipedia.org/wiki/Eight_queens_puzzle |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+
 
