@@ -70,6 +70,8 @@
 | Set matrix zeroes (row/col markers) | [coding-set-matrix-zeroes.md](coding-set-matrix-zeroes.md) |
 | Alien Dictionary (topo from words) | [coding-alien-dictionary.md](coding-alien-dictionary.md) |
 | N-Queens (col / diagonal sets) | [coding-n-queens.md](coding-n-queens.md) |
+| Word Search II (trie + board DFS) | [coding-word-search-ii.md](coding-word-search-ii.md) |
+| Merge two sorted lists (dummy + splice) | [coding-merge-two-lists.md](coding-merge-two-lists.md) |
 
 ## System design
 

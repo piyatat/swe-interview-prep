@@ -97,6 +97,9 @@
 | [hubspot.md](companies/hubspot.md) | HubSpot — HEART, official SWE prep, API take-home |
 | [rippling.md](companies/rippling.md) | Rippling — official interview kit, pair + compound platform |
 | [hashicorp.md](companies/hashicorp.md) | HashiCorp — official principles hire, Go / infra, IBM |
+| [anduril.md](companies/anduril.md) | Anduril — Lattice / defense, mission fit, OOD implement |
+| [notion.md](companies/notion.md) | Notion — craft + values, blocks / sync, references |
+| [duolingo.md](companies/duolingo.md) | Duolingo — official interview types, pair / review, experiments |
 
 ## Role-specific
 
@@ -182,6 +185,8 @@
 | [coding-set-matrix-zeroes.md](answers/coding-set-matrix-zeroes.md) | Set matrix zeroes (row/col markers) |
 | [coding-alien-dictionary.md](answers/coding-alien-dictionary.md) | Alien Dictionary (topo from adjacent words) |
 | [coding-n-queens.md](answers/coding-n-queens.md) | N-Queens (column / diagonal sets) |
+| [coding-word-search-ii.md](answers/coding-word-search-ii.md) | Word Search II (trie + board DFS) |
+| [coding-merge-two-lists.md](answers/coding-merge-two-lists.md) | Merge two sorted lists (dummy + splice) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

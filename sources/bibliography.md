@@ -1666,4 +1666,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Eight queens puzzle — Wikipedia | https://en.wikipedia.org/wiki/Eight_queens_puzzle |
 | Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
 
+## Anduril track (2026-09-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Anduril | https://www.anduril.com/careers |
+| Mission — Anduril | https://www.anduril.com/mission |
+| Early Careers — Anduril | https://www.anduril.com/early-careers |
+| Anduril SWE Interview Guide — Exponent / Aced | https://www.tryexponent.com/guides/anduril-software-engineer-interview |
+| Anduril's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/anduril-interview-process |
+| What Anduril actually asks — techinterview.org | https://www.techinterview.org/post/3233476861/anduril-software-engineer-interview/ |
+
+## Notion track (2026-09-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| How Notion hires | https://www.notion.com/blog/how-notion-hires |
+| Careers at Notion | https://www.notion.com/careers |
+| Notion SWE Interview Guide 2026 — PracHub | https://prachub.com/resources/notion-software-engineer-interview-guide-2026-process-questions-and-preparation |
+| The Notion Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/notion-technical-interview-process-2026 |
+| Notion's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/notion-interview-process |
+
+## Duolingo track (2026-09-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Your Guide to Engineering Interviews at Duolingo | https://blog.duolingo.com/interviewing-with-duolingos-engineering-team/ |
+| 12 operating principles — Duolingo | https://blog.duolingo.com/operating-principles/ |
+| Engineering Jobs at Duolingo | https://careers.duolingo.com/engineering |
+| The Duolingo Handbook | https://handbook.duolingo.com/ |
+| Duolingo SWE Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/duolingo/software-engineer |
+| Duolingo Hiring Process Guide 2026 — ClavePrep | https://claveprep.com/blog/duolingo-hiring-process-guide-2026 |
+
+## Word Search II outline (2026-09-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Word Search II — NeetCode | https://neetcode.io/solutions/word-search-ii |
+| Word Search II — LeetCode 212 | https://leetcode.com/problems/word-search-ii/ |
+| Trie — Wikipedia | https://en.wikipedia.org/wiki/Trie |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+
+## Merge two sorted lists outline (2026-09-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Merge Two Sorted Lists — NeetCode | https://neetcode.io/solutions/merge-two-sorted-lists |
+| Merge Two Sorted Lists — LeetCode 21 | https://leetcode.com/problems/merge-two-sorted-lists/ |
+| Merge algorithm — Wikipedia | https://en.wikipedia.org/wiki/Merge_algorithm |
+| Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
+| Merge Two Sorted Lists walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/merge-two-sorted-lists-interview-walkthrough/ |
+
 

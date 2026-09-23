@@ -72,5 +72,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | HubSpot | [hubspot.md](hubspot.md) | HEART + Culture Code; official SWE prep; API take-home |
 | Rippling | [rippling.md](rippling.md) | Official interview kit; pair-first; compound HRIS / IT |
 | HashiCorp | [hashicorp.md](hashicorp.md) | Official principles hire; pair / PR review; Terraform / Vault / IBM |
+| Anduril | [anduril.md](anduril.md) | Lattice / defense products; mission fit; implement OOD |
+| Notion | [notion.md](notion.md) | Craft + values; blocks / sync / ACL; references |
+| Duolingo | [duolingo.md](duolingo.md) | Official interview types; pair + review; experiments |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
