@@ -1717,4 +1717,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
 | Merge Two Sorted Lists walkthrough — intervu.dev | https://intervu.dev/blog/walkthroughs/merge-two-sorted-lists-interview-walkthrough/ |
 
+## Confluent track (2026-09-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Life at Confluent | https://careers.confluent.io/pages/life-at-confluent |
+| How Confluent Scaled to 1,000 Employees — Confluent | https://www.confluent.io/blog/confluent-celebrates-explosive-startup-growth/ |
+| Why Product Alone Isn’t Enough for Long-Term Customer Loyalty — Confluent | https://www.confluent.io/blog/customer-experience-customer-success-partnership-loyalty/ |
+| Confluent's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/confluent-interview-process |
+| How Confluent interviews engineers, round by round — techinterview.org | https://www.techinterview.org/post/3233476180/confluent-engineering-interview-rounds/ |
+
+## Affirm track (2026-09-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Affirm | https://www.affirm.com/careers |
+| Form 10-K — Affirm Holdings (filed 2026-08-27) | https://investors.affirm.com/static-files/1cba8462-bfcd-40e9-9b7a-7674cb7162b8 |
+| Affirm’s FY2025 Impact Report — Affirm Holdings | https://investors.affirm.com/news-releases/news-release-details/affirms-fy2025-impact-report-progress-toward-more-honest |
+| Affirm's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/affirm-interview-process |
+| Affirm Interview Process 2026 — OphyAI | https://ophyai.com/blog/company-guides/affirm-interview-guide |
+
+## Etsy track (2026-09-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Etsy | https://careers.etsy.com/ |
+| Guiding Principles — Etsy | https://careers.etsy.com/guiding-principles |
+| Engineering — Etsy | https://careers.etsy.com/engineering |
+| People — Etsy | https://careers.etsy.com/People |
+| Code as Craft — Etsy Engineering | https://codeascraft.com/ |
+| Etsy Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/etsy-interview-guide/ |
+| Preparing for Etsy SWE — CleverPrep | https://www.cleverprep.com/companies/etsy/software-engineer |
+
+## Task Scheduler outline (2026-09-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Task Scheduler — NeetCode | https://neetcode.io/solutions/task-scheduler |
+| Task Scheduler — LeetCode 621 | https://leetcode.com/problems/task-scheduler/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+
+## Accounts Merge outline (2026-09-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Accounts Merge — NeetCode | https://neetcode.io/solutions/accounts-merge |
+| Accounts Merge — LeetCode 721 | https://leetcode.com/problems/accounts-merge/ |
+| Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
+
 

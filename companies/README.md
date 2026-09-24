@@ -75,5 +75,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Anduril | [anduril.md](anduril.md) | Lattice / defense products; mission fit; implement OOD |
 | Notion | [notion.md](notion.md) | Craft + values; blocks / sync / ACL; references |
 | Duolingo | [duolingo.md](duolingo.md) | Official interview types; pair + review; experiments |
+| Confluent | [confluent.md](confluent.md) | Official values; Kafka / streaming; LLD + engineering values |
+| Affirm | [affirm.md](affirm.md) | Official 10-K values; BNPL / ledger; practical repo coding |
+| Etsy | [etsy.md](etsy.md) | Keep Commerce Human; unique inventory; craft / CD |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

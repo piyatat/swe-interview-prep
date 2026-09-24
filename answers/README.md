@@ -72,6 +72,8 @@
 | N-Queens (col / diagonal sets) | [coding-n-queens.md](coding-n-queens.md) |
 | Word Search II (trie + board DFS) | [coding-word-search-ii.md](coding-word-search-ii.md) |
 | Merge two sorted lists (dummy + splice) | [coding-merge-two-lists.md](coding-merge-two-lists.md) |
+| Task Scheduler (greedy idle frames) | [coding-task-scheduler.md](coding-task-scheduler.md) |
+| Accounts Merge (union-find) | [coding-accounts-merge.md](coding-accounts-merge.md) |
 
 ## System design
 

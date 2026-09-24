@@ -100,6 +100,9 @@
 | [anduril.md](companies/anduril.md) | Anduril — Lattice / defense, mission fit, OOD implement |
 | [notion.md](companies/notion.md) | Notion — craft + values, blocks / sync, references |
 | [duolingo.md](companies/duolingo.md) | Duolingo — official interview types, pair / review, experiments |
+| [confluent.md](companies/confluent.md) | Confluent — Kafka / streaming, LLD + values, partitions / offsets |
+| [affirm.md](companies/affirm.md) | Affirm — BNPL values, practical repo, installment / ledger |
+| [etsy.md](companies/etsy.md) | Etsy — Keep Commerce Human, unique-inventory search / craft |
 
 ## Role-specific
 
@@ -187,6 +190,8 @@
 | [coding-n-queens.md](answers/coding-n-queens.md) | N-Queens (column / diagonal sets) |
 | [coding-word-search-ii.md](answers/coding-word-search-ii.md) | Word Search II (trie + board DFS) |
 | [coding-merge-two-lists.md](answers/coding-merge-two-lists.md) | Merge two sorted lists (dummy + splice) |
+| [coding-task-scheduler.md](answers/coding-task-scheduler.md) | Task Scheduler (greedy idle frames / heap) |
+| [coding-accounts-merge.md](answers/coding-accounts-merge.md) | Accounts Merge (union-find on emails) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
