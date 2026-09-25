@@ -103,6 +103,9 @@
 | [confluent.md](companies/confluent.md) | Confluent — Kafka / streaming, LLD + values, partitions / offsets |
 | [affirm.md](companies/affirm.md) | Affirm — BNPL values, practical repo, installment / ledger |
 | [etsy.md](companies/etsy.md) | Etsy — Keep Commerce Human, unique-inventory search / craft |
+| [waymo.md](companies/waymo.md) | Waymo — official How we hire, AV / safety, no-live-AI |
+| [ramp.md](companies/ramp.md) | Ramp — builders / principles, CodeSignal stack, spend ledger |
+| [plaid.md](companies/plaid.md) | Plaid — bank connectivity, craft / all-in, third-party failure |
 
 ## Role-specific
 
@@ -192,6 +195,8 @@
 | [coding-merge-two-lists.md](answers/coding-merge-two-lists.md) | Merge two sorted lists (dummy + splice) |
 | [coding-task-scheduler.md](answers/coding-task-scheduler.md) | Task Scheduler (greedy idle frames / heap) |
 | [coding-accounts-merge.md](answers/coding-accounts-merge.md) | Accounts Merge (union-find on emails) |
+| [coding-character-replacement.md](answers/coding-character-replacement.md) | Longest repeating character replacement (window − maxf) |
+| [coding-find-duplicate.md](answers/coding-find-duplicate.md) | Find the duplicate number (Floyd on index graph) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

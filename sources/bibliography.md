@@ -1765,4 +1765,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Accounts Merge — LeetCode 721 | https://leetcode.com/problems/accounts-merge/ |
 | Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
 
+## Waymo track (2026-09-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire — Waymo | https://careers.withwaymo.com/how-we-hire |
+| About — Waymo | https://waymo.com/about/ |
+| Careers — Waymo | https://careers.withwaymo.com/ |
+| How to Get Hired at Waymo — The Driverless Digest | https://www.thedriverlessdigest.com/p/how-to-get-hired-at-waymo |
+| Waymo SWE (New Grad) Interview Questions 2026 — InterviewChamp | https://interviewchamp.ai/interview-questions/waymo/swe-new-grad |
+
+## Ramp track (2026-09-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Ramp | https://ramp.com/careers |
+| Engineering principles — Ramp | https://engineering.ramp.com/post/engineering-principles |
+| Emerging Talent — Ramp | https://ramp.com/emerging-talent |
+| How to pass Ramp’s engineering interview loop — techinterview.org | https://www.techinterview.org/post/3233476263/how-to-pass-ramp-engineering-interview-loop/ |
+| Ramp Software Engineer Interview Guide (2026) — hirecomb | https://hirecomb.com/blog/ramp-software-engineer-interview-guide |
+
+## Plaid track (2026-09-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| About us — Plaid | https://plaid.com/company/ |
+| Plaid Engineering | https://plaid.com/engineering/ |
+| Careers — Plaid | https://plaid.com/careers/ |
+| How the Plaid software engineer interview really runs — techinterview.org | https://www.techinterview.org/post/3233476383/plaid-software-engineer-interview/ |
+| Plaid's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/plaid-interview-process |
+
+## Longest Repeating Character Replacement outline (2026-09-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Longest Repeating Character Replacement — NeetCode | https://neetcode.io/solutions/longest-repeating-character-replacement |
+| Longest Repeating Character Replacement — LeetCode 424 | https://leetcode.com/problems/longest-repeating-character-replacement/ |
+| Algorithmic technique — Wikipedia | https://en.wikipedia.org/wiki/Algorithmic_technique |
+| String sliding window interview patterns — techinterview.org | https://www.techinterview.org/post/3233464822/string-sliding-window-interview-patterns/ |
+
+## Find the Duplicate Number outline (2026-09-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Find the Duplicate Number — NeetCode | https://neetcode.io/solutions/find-the-duplicate-number |
+| Find the Duplicate Number — LeetCode 287 | https://leetcode.com/problems/find-the-duplicate-number/ |
+| Cycle detection (Floyd) — Wikipedia | https://en.wikipedia.org/wiki/Cycle_detection |
+
 

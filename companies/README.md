@@ -78,5 +78,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Confluent | [confluent.md](confluent.md) | Official values; Kafka / streaming; LLD + engineering values |
 | Affirm | [affirm.md](affirm.md) | Official 10-K values; BNPL / ledger; practical repo coding |
 | Etsy | [etsy.md](etsy.md) | Keep Commerce Human; unique inventory; craft / CD |
+| Waymo | [waymo.md](waymo.md) | Official How we hire; AV / safety; no-live-AI |
+| Ramp | [ramp.md](ramp.md) | Builders + principles; CodeSignal stack; spend ledger |
+| Plaid | [plaid.md](plaid.md) | Bank connectivity; craft / all-in; third-party failure |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

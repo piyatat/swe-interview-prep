@@ -74,6 +74,8 @@
 | Merge two sorted lists (dummy + splice) | [coding-merge-two-lists.md](coding-merge-two-lists.md) |
 | Task Scheduler (greedy idle frames) | [coding-task-scheduler.md](coding-task-scheduler.md) |
 | Accounts Merge (union-find) | [coding-accounts-merge.md](coding-accounts-merge.md) |
+| Longest repeating character replacement | [coding-character-replacement.md](coding-character-replacement.md) |
+| Find the duplicate number (Floyd) | [coding-find-duplicate.md](coding-find-duplicate.md) |
 
 ## System design
 
