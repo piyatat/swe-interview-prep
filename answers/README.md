@@ -76,6 +76,8 @@
 | Accounts Merge (union-find) | [coding-accounts-merge.md](coding-accounts-merge.md) |
 | Longest repeating character replacement | [coding-character-replacement.md](coding-character-replacement.md) |
 | Find the duplicate number (Floyd) | [coding-find-duplicate.md](coding-find-duplicate.md) |
+| Decode String (nested k[s]) | [coding-decode-string.md](coding-decode-string.md) |
+| Binary tree maximum path sum | [coding-max-path-sum.md](coding-max-path-sum.md) |
 
 ## System design
 

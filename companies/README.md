@@ -81,5 +81,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Waymo | [waymo.md](waymo.md) | Official How we hire; AV / safety; no-live-AI |
 | Ramp | [ramp.md](ramp.md) | Builders + principles; CodeSignal stack; spend ledger |
 | Plaid | [plaid.md](plaid.md) | Bank connectivity; craft / all-in; third-party failure |
+| Yelp | [yelp.md](yelp.md) | Official five values; HackerRank + panel; local search / review trust |
+| CrowdStrike | [crowdstrike.md](crowdstrike.md) | Stop breaches; ingest / isolation; build + defend project |
+| Booking.com | [booking.md](booking.md) | Official five values; Java / experiments; OTA availability |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

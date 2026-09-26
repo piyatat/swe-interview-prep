@@ -106,6 +106,9 @@
 | [waymo.md](companies/waymo.md) | Waymo — official How we hire, AV / safety, no-live-AI |
 | [ramp.md](companies/ramp.md) | Ramp — builders / principles, CodeSignal stack, spend ledger |
 | [plaid.md](companies/plaid.md) | Plaid — bank connectivity, craft / all-in, third-party failure |
+| [yelp.md](companies/yelp.md) | Yelp — official five values, HackerRank + panel, local search / trust |
+| [crowdstrike.md](companies/crowdstrike.md) | CrowdStrike — stop breaches, ingest / isolation, build + defend |
+| [booking.md](companies/booking.md) | Booking.com — official five values, Java / experiments, OTA availability |
 
 ## Role-specific
 
@@ -197,6 +200,8 @@
 | [coding-accounts-merge.md](answers/coding-accounts-merge.md) | Accounts Merge (union-find on emails) |
 | [coding-character-replacement.md](answers/coding-character-replacement.md) | Longest repeating character replacement (window − maxf) |
 | [coding-find-duplicate.md](answers/coding-find-duplicate.md) | Find the duplicate number (Floyd on index graph) |
+| [coding-decode-string.md](answers/coding-decode-string.md) | Decode String (nested k[s] stack) |
+| [coding-max-path-sum.md](answers/coding-max-path-sum.md) | Binary tree maximum path sum (post-order gain) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

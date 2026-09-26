@@ -1812,4 +1812,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Find the Duplicate Number — LeetCode 287 | https://leetcode.com/problems/find-the-duplicate-number/ |
 | Cycle detection (Floyd) — Wikipedia | https://en.wikipedia.org/wiki/Cycle_detection |
 
+## Yelp track (2026-09-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Preparing for Your Tech Role Interview — Yelp | https://www.yelp.careers/us/en/preparing-for-your-tech-role-interview |
+| Engineering Interview Prep — Yelp | https://www.yelp.careers/us/en/engineering-interview-prep |
+| Culture at Yelp | https://www.yelp.careers/us/en/culture-at-yelp |
+| Breaking Down Technical Interviews — Yelp Engineering | https://engineeringblog.yelp.com/2019/09/breaking-down-technical-interview.html |
+| Yelp Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/yelp/software-engineer |
+
+## CrowdStrike track (2026-09-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — CrowdStrike | https://www.crowdstrike.com/en-us/careers/ |
+| About — CrowdStrike | https://www.crowdstrike.com/en-us/about-us/ |
+| CrowdStrike FY2026 Form 10-K | https://ir.crowdstrike.com/static-files/717b7579-e6fc-4864-af98-9523d5d4fecb |
+| Technical interviews at CrowdStrike — Romania Insider (company advertorial) | https://www.romania-insider.com/p-technical-interviews-how-to-set-up-yourself-for-success |
+| CrowdStrike's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/crowdstrike-interview-process |
+| CrowdStrike SWE Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/crowdstrike-software-engineer-interview-questions-guide-2026 |
+
+## Booking.com track (2026-09-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Start your journey — Booking.com Careers | https://careers.booking.com/start-your-journey/ |
+| Decoding the Software Engineering Graduate Interview Process — Booking.com Careers | https://careers.booking.com/blog/the-graduate-software-engineering-bootcamp-patricia-nicole-experience/ |
+| Booking.com Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/booking-com-interview-guide/ |
+| Booking.com's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/booking-interview-process |
+| Booking.com Coding Interview Questions (2026) — DSA Prep | https://www.dsaprep.dev/blog/booking-com-coding-interview-questions |
+
+## Decode String outline (2026-09-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Decode String — NeetCode | https://neetcode.io/solutions/decode-string |
+| Decode String — LeetCode 394 | https://leetcode.com/problems/decode-string/ |
+| Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
+| CrowdStrike's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/crowdstrike-interview-process |
+
+## Binary Tree Maximum Path Sum outline (2026-09-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Binary Tree Maximum Path Sum — NeetCode | https://neetcode.io/solutions/binary-tree-maximum-path-sum |
+| Binary Tree Maximum Path Sum — LeetCode 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 
