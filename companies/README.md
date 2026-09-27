@@ -84,5 +84,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Yelp | [yelp.md](yelp.md) | Official five values; HackerRank + panel; local search / review trust |
 | CrowdStrike | [crowdstrike.md](crowdstrike.md) | Stop breaches; ingest / isolation; build + defend project |
 | Booking.com | [booking.md](booking.md) | Official five values; Java / experiments; OTA availability |
+| Autodesk | [autodesk.md](autodesk.md) | Official FAQ + One ORBIT; Design and Make; no live AI unless invited |
+| Box | [box.md](box.md) | Official how-we-hire + values; enterprise ACL / content; 3-day office |
+| Toast | [toast.md](toast.md) | Official seven values; restaurant OS; offline POS / payments |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

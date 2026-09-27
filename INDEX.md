@@ -109,6 +109,9 @@
 | [yelp.md](companies/yelp.md) | Yelp — official five values, HackerRank + panel, local search / trust |
 | [crowdstrike.md](companies/crowdstrike.md) | CrowdStrike — stop breaches, ingest / isolation, build + defend |
 | [booking.md](companies/booking.md) | Booking.com — official five values, Java / experiments, OTA availability |
+| [autodesk.md](companies/autodesk.md) | Autodesk — One ORBIT, official FAQ + no-live-AI, Design and Make |
+| [box.md](companies/box.md) | Box — official how-we-hire + values, enterprise ACL / content |
+| [toast.md](companies/toast.md) | Toast — official seven values, restaurant OS / offline POS |
 
 ## Role-specific
 
@@ -202,6 +205,8 @@
 | [coding-find-duplicate.md](answers/coding-find-duplicate.md) | Find the duplicate number (Floyd on index graph) |
 | [coding-decode-string.md](answers/coding-decode-string.md) | Decode String (nested k[s] stack) |
 | [coding-max-path-sum.md](answers/coding-max-path-sum.md) | Binary tree maximum path sum (post-order gain) |
+| [coding-network-delay.md](answers/coding-network-delay.md) | Network Delay Time (heap Dijkstra) |
+| [coding-histogram.md](answers/coding-histogram.md) | Largest rectangle in histogram (next-smaller stack) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

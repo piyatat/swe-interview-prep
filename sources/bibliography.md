@@ -1861,4 +1861,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Autodesk track (2026-09-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Frequently asked questions — Autodesk Careers | https://www.autodesk.com/careers/faq |
+| Culture at Autodesk | https://www.autodesk.com/company/culture |
+| Five interview tips from an Autodesk technical recruiter — Autodesk Life | https://blogs.autodesk.com/autodesk-life/inside-autodesk/interview-tips/ |
+| Autodesk Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/autodesk/software-engineer |
+| Autodesk Hiring Process Guide 2026 — ClavePrep | https://claveprep.com/blog/autodesk-hiring-process-guide-2026 |
+
+## Box track (2026-09-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing at Box | https://careers.box.com/en/how-we-hire/ |
+| AI in our hiring process — Box | https://careers.box.com/en/how-we-hire/ai-in-our-hiring-process/ |
+| Life at Box | https://careers.box.com/en/life-at-box/ |
+| Box Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/box-interview-guide/ |
+| Box's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/box-interview-process |
+
+## Toast track (2026-09-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Working at Toast — Careers | https://careers.toasttab.com/ |
+| AI in Hiring — Toast | https://careers.toasttab.com/ai-in-hiring |
+| Bringing the Toast Values to Life — Toast Careers | https://careers.toasttab.com/blogs/life-at-toast/bringing-the-toast-values-to-life |
+| 10 Toast SWE (New Grad) Interview Questions (2026) — InterviewChamp | https://interviewchamp.ai/interview-questions/toast/swe-new-grad |
+| Toast Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/toast/software-engineer |
+
+## Network Delay Time outline (2026-09-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Dijkstra's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm |
+| Network Delay Time — NeetCode | https://neetcode.io/solutions/network-delay-time |
+| Network Delay Time — LeetCode 743 | https://leetcode.com/problems/network-delay-time/ |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Largest Rectangle in Histogram outline (2026-09-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Largest Rectangle in Histogram — NeetCode | https://neetcode.io/solutions/largest-rectangle-in-histogram |
+| Largest Rectangle in Histogram — LeetCode 84 | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
+| Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

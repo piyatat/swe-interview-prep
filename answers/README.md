@@ -78,6 +78,8 @@
 | Find the duplicate number (Floyd) | [coding-find-duplicate.md](coding-find-duplicate.md) |
 | Decode String (nested k[s]) | [coding-decode-string.md](coding-decode-string.md) |
 | Binary tree maximum path sum | [coding-max-path-sum.md](coding-max-path-sum.md) |
+| Network Delay Time (Dijkstra) | [coding-network-delay.md](coding-network-delay.md) |
+| Largest rectangle in histogram | [coding-histogram.md](coding-histogram.md) |
 
 ## System design
 
