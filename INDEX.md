@@ -112,6 +112,9 @@
 | [autodesk.md](companies/autodesk.md) | Autodesk — One ORBIT, official FAQ + no-live-AI, Design and Make |
 | [box.md](companies/box.md) | Box — official how-we-hire + values, enterprise ACL / content |
 | [toast.md](companies/toast.md) | Toast — official seven values, restaurant OS / offline POS |
+| [klarna.md](companies/klarna.md) | Klarna — competence hire, stretch zone, BNPL / bank |
+| [brex.md](companies/brex.md) | Brex — founder-school values, spend / card ledger |
+| [rivian.md](companies/rivian.md) | Rivian — official Compass + PSI, OTA / telemetry |
 
 ## Role-specific
 
@@ -207,6 +210,8 @@
 | [coding-max-path-sum.md](answers/coding-max-path-sum.md) | Binary tree maximum path sum (post-order gain) |
 | [coding-network-delay.md](answers/coding-network-delay.md) | Network Delay Time (heap Dijkstra) |
 | [coding-histogram.md](answers/coding-histogram.md) | Largest rectangle in histogram (next-smaller stack) |
+| [coding-jump-game-ii.md](answers/coding-jump-game-ii.md) | Jump Game II (min hops / greedy windows) |
+| [coding-cheapest-flights.md](answers/coding-cheapest-flights.md) | Cheapest flights within K stops (Bellman–Ford layers) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

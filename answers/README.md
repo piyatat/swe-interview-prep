@@ -80,6 +80,8 @@
 | Binary tree maximum path sum | [coding-max-path-sum.md](coding-max-path-sum.md) |
 | Network Delay Time (Dijkstra) | [coding-network-delay.md](coding-network-delay.md) |
 | Largest rectangle in histogram | [coding-histogram.md](coding-histogram.md) |
+| Jump Game II (min hops) | [coding-jump-game-ii.md](coding-jump-game-ii.md) |
+| Cheapest flights within K stops | [coding-cheapest-flights.md](coding-cheapest-flights.md) |
 
 ## System design
 

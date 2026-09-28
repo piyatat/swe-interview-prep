@@ -87,5 +87,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Autodesk | [autodesk.md](autodesk.md) | Official FAQ + One ORBIT; Design and Make; no live AI unless invited |
 | Box | [box.md](box.md) | Official how-we-hire + values; enterprise ACL / content; 3-day office |
 | Toast | [toast.md](toast.md) | Official seven values; restaurant OS; offline POS / payments |
+| Klarna | [klarna.md](klarna.md) | Competence hire; stretch zone; BNPL / licensed bank |
+| Brex | [brex.md](brex.md) | Founder-school values; spend / card ledger |
+| Rivian | [rivian.md](rivian.md) | Official Compass + PSI; OTA / telemetry |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

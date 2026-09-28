@@ -1909,4 +1909,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Klarna track (2026-09-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our culture — Klarna Careers | https://www.klarna.com/careers/our-culture/ |
+| Find your niche at Klarna — competences | https://www.klarna.com/careers/competences/ |
+| Privacy notice — Klarna Careers | https://www.klarna.com/careers/privacy-notice/ |
+| Klarna Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/klarna-interview-guide/ |
+| Klarna interview, decoded — Calibrd | https://www.calibrd.com/interview-prep/klarna-interview |
+
+## Brex track (2026-09-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Brex | https://www.brex.com/careers |
+| Join the founder school — Brex manifesto | https://www.brex.com/manifesto |
+| Be the founder of your career — Brex Journal | https://www.brex.com/journal/be-the-founder-of-your-career |
+| The Brex Technical Interview Process in 2026 — TechScreen | https://techscreen.app/articles/brex-technical-interview-process-2026 |
+| Brex Interview Questions (Updated 2026) — PracHub | https://prachub.com/companies/brex |
+
+## Rivian track (2026-09-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Rivian Automotive — Careers | https://careers.rivian.com/careers-home/ |
+| Integrating the Planet into Your Company Culture — Rivian | https://rivian.com/stories/beyond-earth-day |
+| Rivian's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/rivian-interview-process |
+| Rivian Interview Process (2026) — FinalRoundAI | https://www.finalroundai.com/blog/rivian-interview-process |
+| Rivian Software Engineer I Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/rivian-and-volkswagen-group-technologies/software-engineer |
+
+## Jump Game II outline (2026-09-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Jump Game II — NeetCode | https://neetcode.io/solutions/jump-game-ii |
+| Jump Game II — LeetCode 45 | https://leetcode.com/problems/jump-game-ii/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Cheapest Flights Within K Stops outline (2026-09-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Bellman–Ford algorithm — Wikipedia | https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm |
+| Cheapest Flights Within K Stops — NeetCode | https://neetcode.io/solutions/cheapest-flights-within-k-stops |
+| Cheapest Flights Within K Stops — LeetCode 787 | https://leetcode.com/problems/cheapest-flights-within-k-stops/ |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 
