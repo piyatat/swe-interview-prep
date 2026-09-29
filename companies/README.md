@@ -90,5 +90,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Klarna | [klarna.md](klarna.md) | Competence hire; stretch zone; BNPL / licensed bank |
 | Brex | [brex.md](brex.md) | Founder-school values; spend / card ledger |
 | Rivian | [rivian.md](rivian.md) | Official Compass + PSI; OTA / telemetry |
+| Scale AI | [scale-ai.md](scale-ai.md) | Official Credos; evolving-spec screen; data / eval infra |
+| American Express | [amex.md](amex.md) | Eight Blue Box Values; closed-loop issuer; HireVue / OA |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

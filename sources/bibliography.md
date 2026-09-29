@@ -1957,4 +1957,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Cheapest Flights Within K Stops — LeetCode 787 | https://leetcode.com/problems/cheapest-flights-within-k-stops/ |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Scale AI track (2026-09-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Scale AI | https://scale.com/careers |
+| Scale AI's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/scale-ai-interview-process |
+| Scale AI New Grad SWE Interview Guide (2026) — Exponent | https://www.tryexponent.com/guides/scale-ai-software-engineer-new-grad-interview |
+| Scale AI FDE Interview Guide (2026) — Exponent | https://www.tryexponent.com/guides/scale-ai-forward-deployed-engineer-interview |
+| Scale AI Software Engineer Interview (2026) — Interview Coder | https://www.interviewcoder.co/blog/scale-ai-software-engineer-interview |
+
+## American Express track (2026-09-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| American Express Careers | https://www.americanexpress.com/en-us/careers/ |
+| Amex Career Benefits, Programs & Culture | https://www.americanexpress.com/en-us/careers/about-teamamex/ |
+| American Express Code of Conduct (Blue Box Values) | https://www.americanexpress.com/content/dam/amex/en-us/newsroom/pdfs/AMEX-Code-of-Conduct-Policy_English.pdf |
+| American Express Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/american-express-interview-guide/ |
+| American Express Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/american-express/software-engineer |
+
+## Add Two Numbers outline (2026-09-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| Add Two Numbers — NeetCode | https://neetcode.io/solutions/add-two-numbers |
+| Add Two Numbers — LeetCode 2 | https://leetcode.com/problems/add-two-numbers/ |
+| Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
+| Addition — Wikipedia | https://en.wikipedia.org/wiki/Addition |
+
+## Search a 2D Matrix outline (2026-09-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| Search a 2D Matrix — NeetCode | https://neetcode.io/solutions/search-a-2d-matrix |
+| Search a 2D Matrix — LeetCode 74 | https://leetcode.com/problems/search-a-2d-matrix/ |
+| Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
+| Search a 2D Matrix — LeetCode Wiki | https://leetcode.doocs.org/en/lc/74/ |
+
+## Object storage / S3 outline (2026-09-29 ingest)
+
+| Title | URL |
+| --- | --- |
+| What is Amazon S3? — AWS Docs | https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html |
+| Amazon S3 | https://aws.amazon.com/s3/ |
+| Amazon S3 Update – Strong Read-After-Write Consistency — AWS News Blog | https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/ |
+| System Design Interview: Object Storage (Amazon S3) — techinterview.org | https://www.techinterview.org/post/3233461700/system-design-object-storage/ |
+| Amazon S3 System Design Interview — System Design Academy | https://www.systemdesign.academy/interview/design-s3-object-storage |
+
 

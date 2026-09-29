@@ -82,6 +82,8 @@
 | Largest rectangle in histogram | [coding-histogram.md](coding-histogram.md) |
 | Jump Game II (min hops) | [coding-jump-game-ii.md](coding-jump-game-ii.md) |
 | Cheapest flights within K stops | [coding-cheapest-flights.md](coding-cheapest-flights.md) |
+| Add Two Numbers (linked-list carry) | [coding-add-two-numbers.md](coding-add-two-numbers.md) |
+| Search a 2D Matrix (flatten + BS) | [coding-search-2d-matrix.md](coding-search-2d-matrix.md) |
 
 ## System design
 
@@ -111,6 +113,7 @@
 | LLM serving / ChatGPT inference | [system-design-llm-serving.md](system-design-llm-serving.md) |
 | Ticket booking / Ticketmaster | [system-design-ticketmaster.md](system-design-ticketmaster.md) |
 | Nearby / Yelp proximity | [system-design-proximity.md](system-design-proximity.md) |
+| Object storage / S3 | [system-design-object-storage.md](system-design-object-storage.md) |
 
 ## Behavioral (STAR outlines)
 

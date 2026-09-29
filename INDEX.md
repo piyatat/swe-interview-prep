@@ -115,6 +115,8 @@
 | [klarna.md](companies/klarna.md) | Klarna — competence hire, stretch zone, BNPL / bank |
 | [brex.md](companies/brex.md) | Brex — founder-school values, spend / card ledger |
 | [rivian.md](companies/rivian.md) | Rivian — official Compass + PSI, OTA / telemetry |
+| [scale-ai.md](companies/scale-ai.md) | Scale AI — official Credos, evolving-spec screen, data / eval infra |
+| [amex.md](companies/amex.md) | American Express — eight Blue Box Values, closed-loop issuer, HireVue / OA |
 
 ## Role-specific
 
@@ -212,6 +214,8 @@
 | [coding-histogram.md](answers/coding-histogram.md) | Largest rectangle in histogram (next-smaller stack) |
 | [coding-jump-game-ii.md](answers/coding-jump-game-ii.md) | Jump Game II (min hops / greedy windows) |
 | [coding-cheapest-flights.md](answers/coding-cheapest-flights.md) | Cheapest flights within K stops (Bellman–Ford layers) |
+| [coding-add-two-numbers.md](answers/coding-add-two-numbers.md) | Add Two Numbers (linked-list carry) |
+| [coding-search-2d-matrix.md](answers/coding-search-2d-matrix.md) | Search a 2D Matrix (flatten + binary search) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -236,6 +240,7 @@
 | [system-design-llm-serving.md](answers/system-design-llm-serving.md) | LLM serving / paged KV + continuous batch |
 | [system-design-ticketmaster.md](answers/system-design-ticketmaster.md) | Ticket booking / named-seat holds + waiting room |
 | [system-design-proximity.md](answers/system-design-proximity.md) | Nearby / Yelp proximity (geohash + H3 candidates) |
+| [system-design-object-storage.md](answers/system-design-object-storage.md) | Object storage / S3 (metadata vs bytes + multipart) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
