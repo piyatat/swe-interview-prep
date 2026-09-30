@@ -2005,4 +2005,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | System Design Interview: Object Storage (Amazon S3) — techinterview.org | https://www.techinterview.org/post/3233461700/system-design-object-storage/ |
 | Amazon S3 System Design Interview — System Design Academy | https://www.systemdesign.academy/interview/design-s3-object-storage |
 
+## Wise track (2026-09-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our values — Wise | https://wise.jobs/our-values |
+| Engineering Interviews — Wise | https://wise.jobs/engineering-interviews |
+| Backend Pair Programming Interviews — Wise | https://wise.jobs/backend-pair-programming-interviews |
+| Backend System Design Interviews — Wise | https://wise.jobs/backend-system-design-interviews |
+| Using AI in our Recruitment Process — Wise | https://wise.jobs/using-ai-in-our-wise-recruitment-process |
+| The Wise Mission | https://wise.com/our-mission |
+| Wise London Interview Experience — Medium | https://debugging-tale.medium.com/wise-london-interview-experience-e63901135c59 |
+
+## Chime track (2026-09-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Chime Careers | https://careers.chime.com/en/ |
+| About Us — Chime | https://www.chime.com/about-us/ |
+| Chime's Interview Process (2026) — TechPrep | https://www.techprep.app/companies/chime |
+| Chime Software Developer Interview (2026) — Nora AI | https://interview.norahq.com/interview-guides/chime-software-developer-interview-guide-2026 |
+| Chime Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/chime/software-engineer |
+
+## Palo Alto Networks track (2026-09-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Explore Palo Alto Networks Culture | https://jobs.paloaltonetworks.com/en/culture |
+| Careers — Palo Alto Networks | https://jobs.paloaltonetworks.com/en |
+| Palo Alto Networks Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/palo-alto-networks-interview-guide/ |
+| Palo Alto Networks's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/palo-alto-networks-interview-process |
+| Corporate Responsibility — Palo Alto Networks | https://www.paloaltonetworks.com/static/content/pan/en_US/about-us/corporate-responsibility.html |
+
+## Binary Tree Right Side View outline (2026-09-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Binary Tree Right Side View — NeetCode | https://neetcode.io/solutions/binary-tree-right-side-view |
+| Binary Tree Right Side View — LeetCode 199 | https://leetcode.com/problems/binary-tree-right-side-view/ |
+| 199. Binary Tree Right Side View — LeetCode Wiki | https://leetcode.doocs.org/en/lc/199/ |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+
+## K Closest Points to Origin outline (2026-09-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| K Closest Points to Origin — NeetCode | https://neetcode.io/solutions/k-closest-points-to-origin |
+| 973. K Closest Points to Origin — LeetCode Wiki | https://leetcode.doocs.org/en/lc/973/ |
+| K Closest Points to Origin — LeetCode 973 | https://leetcode.com/problems/k-closest-points-to-origin/ |
+| Binary heap — Wikipedia | https://en.wikipedia.org/wiki/Binary_heap |
+| Quickselect — Wikipedia | https://en.wikipedia.org/wiki/Quickselect |
+
 

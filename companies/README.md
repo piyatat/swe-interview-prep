@@ -92,5 +92,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Rivian | [rivian.md](rivian.md) | Official Compass + PSI; OTA / telemetry |
 | Scale AI | [scale-ai.md](scale-ai.md) | Official Credos; evolving-spec screen; data / eval infra |
 | American Express | [amex.md](amex.md) | Eight Blue Box Values; closed-loop issuer; HireVue / OA |
+| Wise | [wise.md](wise.md) | Four values; official pair + AI-off live; FX / ledger |
+| Chime | [chime.md](chime.md) | Five values; partner-bank neobank; member-obsessed |
+| Palo Alto Networks | [palo-alto.md](palo-alto.md) | Five values; Strata / Prisma / Cortex; debug + refactor |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

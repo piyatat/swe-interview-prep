@@ -84,6 +84,8 @@
 | Cheapest flights within K stops | [coding-cheapest-flights.md](coding-cheapest-flights.md) |
 | Add Two Numbers (linked-list carry) | [coding-add-two-numbers.md](coding-add-two-numbers.md) |
 | Search a 2D Matrix (flatten + BS) | [coding-search-2d-matrix.md](coding-search-2d-matrix.md) |
+| Binary tree right side view | [coding-right-side-view.md](coding-right-side-view.md) |
+| K closest points to origin | [coding-k-closest.md](coding-k-closest.md) |
 
 ## System design
 

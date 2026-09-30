@@ -117,6 +117,9 @@
 | [rivian.md](companies/rivian.md) | Rivian — official Compass + PSI, OTA / telemetry |
 | [scale-ai.md](companies/scale-ai.md) | Scale AI — official Credos, evolving-spec screen, data / eval infra |
 | [amex.md](companies/amex.md) | American Express — eight Blue Box Values, closed-loop issuer, HireVue / OA |
+| [wise.md](companies/wise.md) | Wise — four values, official pair + AI-off live rounds, FX / ledger |
+| [chime.md](companies/chime.md) | Chime — five values, partner-bank neobank, member-obsessed loop |
+| [palo-alto.md](companies/palo-alto.md) | Palo Alto Networks — five values, Strata / Prisma / Cortex, debug + refactor |
 
 ## Role-specific
 
@@ -216,6 +219,8 @@
 | [coding-cheapest-flights.md](answers/coding-cheapest-flights.md) | Cheapest flights within K stops (Bellman–Ford layers) |
 | [coding-add-two-numbers.md](answers/coding-add-two-numbers.md) | Add Two Numbers (linked-list carry) |
 | [coding-search-2d-matrix.md](answers/coding-search-2d-matrix.md) | Search a 2D Matrix (flatten + binary search) |
+| [coding-right-side-view.md](answers/coding-right-side-view.md) | Binary tree right side view (last of each BFS level) |
+| [coding-k-closest.md](answers/coding-k-closest.md) | K closest points to origin (size-k max-heap) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
