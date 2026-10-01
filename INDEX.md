@@ -120,6 +120,9 @@
 | [wise.md](companies/wise.md) | Wise — four values, official pair + AI-off live rounds, FX / ledger |
 | [chime.md](companies/chime.md) | Chime — five values, partner-bank neobank, member-obsessed loop |
 | [palo-alto.md](companies/palo-alto.md) | Palo Alto Networks — five values, Strata / Prisma / Cortex, debug + refactor |
+| [grafana.md](companies/grafana.md) | Grafana Labs — official principles + NALSD, LGTM / remote |
+| [digitalocean.md](companies/digitalocean.md) | DigitalOcean — seven values, official AI-native 3-hour build |
+| [cockroach.md](companies/cockroach.md) | Cockroach Labs — official open interview, Raft / distributed SQL |
 
 ## Role-specific
 
@@ -221,6 +224,8 @@
 | [coding-search-2d-matrix.md](answers/coding-search-2d-matrix.md) | Search a 2D Matrix (flatten + binary search) |
 | [coding-right-side-view.md](answers/coding-right-side-view.md) | Binary tree right side view (last of each BFS level) |
 | [coding-k-closest.md](answers/coding-k-closest.md) | K closest points to origin (size-k max-heap) |
+| [coding-max-product-subarray.md](answers/coding-max-product-subarray.md) | Maximum product subarray (min/max Kadane) |
+| [coding-koko-bananas.md](answers/coding-koko-bananas.md) | Koko Eating Bananas (binary search on speed) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

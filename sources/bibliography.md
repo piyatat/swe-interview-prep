@@ -2056,4 +2056,49 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Binary heap — Wikipedia | https://en.wikipedia.org/wiki/Binary_heap |
 | Quickselect — Wikipedia | https://en.wikipedia.org/wiki/Quickselect |
 
+## Grafana Labs track (2026-10-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Grafana Labs | https://grafana.com/careers/ |
+| Grafana Labs Hiring Guide | https://grafana.com/careers/interviewing/ |
+| Inside Grafana Labs’ hiring process for backend engineers | https://grafana.com/blog/inside-grafana-labs-hiring-process-for-backend-engineers/ |
+| Grafana Labs Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/grafana-labs-interview-guide/ |
+
+## DigitalOcean track (2026-10-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers \| DigitalOcean | https://www.digitalocean.com/careers |
+| About \| DigitalOcean | https://www.digitalocean.com/about |
+| Candidate resources — DigitalOcean | https://www.digitalocean.com/careers/resources |
+| What We Learned Hiring 33 Engineers in Two Weeks — DigitalOcean | https://www.digitalocean.com/blog/ai-native-engineering-interview |
+| DigitalOcean Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/digitalocean/software-engineer |
+
+## Cockroach Labs track (2026-10-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Cockroach Labs | https://www.cockroachlabs.com/careers/ |
+| Open Interview Process — Cockroach Labs | https://www.cockroachlabs.com/careers/open-interview/ |
+| Cockroach Labs Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/cockroach-labs-interview-guide/ |
+
+## Maximum Product Subarray outline (2026-10-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Maximum Product Subarray — NeetCode | https://neetcode.io/solutions/maximum-product-subarray |
+| 152. Maximum Product Subarray — LeetCode Wiki | https://leetcode.doocs.org/en/lc/152/ |
+| Maximum Product Subarray — LeetCode 152 | https://leetcode.com/problems/maximum-product-subarray/ |
+| Maximum subarray problem — Wikipedia | https://en.wikipedia.org/wiki/Maximum_subarray_problem |
+
+## Koko Eating Bananas outline (2026-10-01 ingest)
+
+| Title | URL |
+| --- | --- |
+| Koko Eating Bananas — NeetCode | https://neetcode.io/solutions/koko-eating-bananas |
+| 875. Koko Eating Bananas — LeetCode Wiki | https://leetcode.doocs.org/en/lc/875/ |
+| Koko Eating Bananas — LeetCode 875 | https://leetcode.com/problems/koko-eating-bananas/ |
+| Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
+
 

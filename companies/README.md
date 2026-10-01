@@ -95,5 +95,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Wise | [wise.md](wise.md) | Four values; official pair + AI-off live; FX / ledger |
 | Chime | [chime.md](chime.md) | Five values; partner-bank neobank; member-obsessed |
 | Palo Alto Networks | [palo-alto.md](palo-alto.md) | Five values; Strata / Prisma / Cortex; debug + refactor |
+| Grafana Labs | [grafana.md](grafana.md) | Official principles + NALSD; LGTM / remote-first |
+| DigitalOcean | [digitalocean.md](digitalocean.md) | Seven values; official AI-native 3-hour deploy |
+| Cockroach Labs | [cockroach.md](cockroach.md) | Official open interview; Raft / distributed SQL |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

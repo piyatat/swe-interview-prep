@@ -86,6 +86,8 @@
 | Search a 2D Matrix (flatten + BS) | [coding-search-2d-matrix.md](coding-search-2d-matrix.md) |
 | Binary tree right side view | [coding-right-side-view.md](coding-right-side-view.md) |
 | K closest points to origin | [coding-k-closest.md](coding-k-closest.md) |
+| Maximum product subarray (min/max Kadane) | [coding-max-product-subarray.md](coding-max-product-subarray.md) |
+| Koko Eating Bananas (search on speed) | [coding-koko-bananas.md](coding-koko-bananas.md) |
 
 ## System design
 
