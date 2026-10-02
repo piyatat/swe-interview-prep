@@ -98,5 +98,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Grafana Labs | [grafana.md](grafana.md) | Official principles + NALSD; LGTM / remote-first |
 | DigitalOcean | [digitalocean.md](digitalocean.md) | Seven values; official AI-native 3-hour deploy |
 | Cockroach Labs | [cockroach.md](cockroach.md) | Official open interview; Raft / distributed SQL |
+| PagerDuty | [pagerduty.md](pagerduty.md) | Five values; official Zoom loop; incident / ack |
+| Adyen | [adyen.md](adyen.md) | Formula; official 6-stage; acquiring / Java |
+| Revolut | [revolut.md](revolut.md) | Five values; official Java loop; global neobank |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

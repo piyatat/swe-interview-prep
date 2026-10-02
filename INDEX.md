@@ -123,6 +123,9 @@
 | [grafana.md](companies/grafana.md) | Grafana Labs — official principles + NALSD, LGTM / remote |
 | [digitalocean.md](companies/digitalocean.md) | DigitalOcean — seven values, official AI-native 3-hour build |
 | [cockroach.md](companies/cockroach.md) | Cockroach Labs — official open interview, Raft / distributed SQL |
+| [pagerduty.md](companies/pagerduty.md) | PagerDuty — five values, official Zoom loop, incident / ack |
+| [adyen.md](companies/adyen.md) | Adyen — Formula, official 6-stage hire, acquiring / Java |
+| [revolut.md](companies/revolut.md) | Revolut — five values, official Java loop, global neobank |
 
 ## Role-specific
 
@@ -226,6 +229,8 @@
 | [coding-k-closest.md](answers/coding-k-closest.md) | K closest points to origin (size-k max-heap) |
 | [coding-max-product-subarray.md](answers/coding-max-product-subarray.md) | Maximum product subarray (min/max Kadane) |
 | [coding-koko-bananas.md](answers/coding-koko-bananas.md) | Koko Eating Bananas (binary search on speed) |
+| [coding-eval-rpn.md](answers/coding-eval-rpn.md) | Evaluate Reverse Polish Notation (operand stack) |
+| [coding-partition-subset.md](answers/coding-partition-subset.md) | Partition equal subset sum (0/1 knapsack) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

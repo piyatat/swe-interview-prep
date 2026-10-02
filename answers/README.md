@@ -88,6 +88,8 @@
 | K closest points to origin | [coding-k-closest.md](coding-k-closest.md) |
 | Maximum product subarray (min/max Kadane) | [coding-max-product-subarray.md](coding-max-product-subarray.md) |
 | Koko Eating Bananas (search on speed) | [coding-koko-bananas.md](coding-koko-bananas.md) |
+| Evaluate Reverse Polish Notation | [coding-eval-rpn.md](coding-eval-rpn.md) |
+| Partition Equal Subset Sum (0/1 knapsack) | [coding-partition-subset.md](coding-partition-subset.md) |
 
 ## System design
 

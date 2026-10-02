@@ -2101,4 +2101,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Koko Eating Bananas — LeetCode 875 | https://leetcode.com/problems/koko-eating-bananas/ |
 | Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
 
+## PagerDuty track (2026-10-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| PagerDuty Careers | https://careers.pagerduty.com/ |
+| Hiring Process — PagerDuty | https://careers.pagerduty.com/hiring-process |
+| Candidate Promise — PagerDuty | https://careers.pagerduty.com/candidate-promise |
+| Frequently Asked Questions — PagerDuty Careers | https://careers.pagerduty.com/frequently-asked-questions |
+| How We Evolved Our Tech Interview Process — PagerDuty Engineering | https://www.pagerduty.com/eng/evolving-tech-interview-process/ |
+| PagerDuty Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/pagerduty-interview-guide/ |
+| PagerDuty Software Engineer Interview (2026) — Dataford | https://dataford.io/interview-guides/pagerduty/software-engineer |
+
+## Adyen track (2026-10-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire at Adyen | https://careers.adyen.com/faqs |
+| The Adyen Formula | https://careers.adyen.com/formula |
+| Interview tips from our Global Recruitment team — Adyen | https://www.adyen.com/knowledge-hub/interview-tips-from-our-global-recruitment-team |
+| Adyen Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/adyen-interview-guide/ |
+
+## Revolut track (2026-10-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our culture — Revolut | https://www.revolut.com/our-culture/ |
+| Engineering — Revolut Careers | https://www.revolut.com/careers/team/engineering/ |
+| How to ace your Java interview at Revolut | https://www.revolut.com/en-US/blog/post/how-to-ace-your-java-interview-at-revolut/ |
+| 10 Mindset Traits for Revolut Engineering Excellence | https://www.revolut.com/en-US/blog/post/10-mindset-traits-for-revolut-engineering-revoluts-excellence/ |
+| Revolut’s Interview Process (2026) — TechPrep | https://www.techprep.app/blog/revolut-interview-process |
+
+## Evaluate Reverse Polish Notation outline (2026-10-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Evaluate Reverse Polish Notation — NeetCode | https://neetcode.io/solutions/evaluate-reverse-polish-notation |
+| 150. Evaluate Reverse Polish Notation — LeetCode Wiki | https://leetcode.doocs.org/en/lc/150/ |
+| Evaluate Reverse Polish Notation — LeetCode 150 | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
+| Reverse Polish notation — Wikipedia | https://en.wikipedia.org/wiki/Reverse_Polish_notation |
+
+## Partition Equal Subset Sum outline (2026-10-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Partition Equal Subset Sum — NeetCode | https://neetcode.io/solutions/partition-equal-subset-sum |
+| 416. Partition Equal Subset Sum — LeetCode Wiki | https://leetcode.doocs.org/en/lc/416/ |
+| Partition Equal Subset Sum — LeetCode 416 | https://leetcode.com/problems/partition-equal-subset-sum/ |
+| Knapsack problem — Wikipedia | https://en.wikipedia.org/wiki/Knapsack_problem |
+
 
