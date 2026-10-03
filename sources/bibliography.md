@@ -2150,4 +2150,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Partition Equal Subset Sum — LeetCode 416 | https://leetcode.com/problems/partition-equal-subset-sum/ |
 | Knapsack problem — Wikipedia | https://en.wikipedia.org/wiki/Knapsack_problem |
 
+## Perplexity track (2026-10-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Perplexity Interview Guide | https://www.perplexity.ai/hub/careers/interview-guide |
+| Technical Interviews at Perplexity | https://interviewresources.perplexity.ai/ |
+| Hands-on Coding — Perplexity | https://interviewresources.perplexity.ai/hands-on-coding/ |
+| Spike Round — Perplexity | https://interviewresources.perplexity.ai/spike-round/ |
+| Agentic Coding — Perplexity | https://interviewresources.perplexity.ai/agentic-coding/ |
+| System Design — Perplexity | https://interviewresources.perplexity.ai/system-design/ |
+| Careers hub — Perplexity | https://www.perplexity.ai/hub/careers |
+
+## Epic Systems track (2026-10-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Application Process — Epic Careers | https://careers.epic.com/applicationprocess/ |
+| Epic Careers | https://careers.epic.com/ |
+| Life at Epic | https://careers.epic.com/lifeatepic/ |
+| Diversity, Equity, and Inclusion — Epic Careers | https://careers.epic.com/dei/ |
+| Epic Systems Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/epic-systems-interview-guide/ |
+
+## Glean track (2026-10-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Glean | https://www.glean.com/careers |
+| Culture and values — Glean | https://www.glean.com/about/culture-and-values |
+| Software Engineer posting — Glean (AI exercise language) | https://job-boards.greenhouse.io/gleanwork/jobs/4713145005 |
+| What Glean’s engineering interview actually tests — techinterview.org | https://www.techinterview.org/post/3233476794/glean-engineering-interview/ |
+| Glean Interview Prep 2026 — JobsByCulture | https://jobsbyculture.com/blog/glean-interview-prep-2026 |
+
+## Sort Colors outline (2026-10-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Sort Colors — NeetCode | https://neetcode.io/solutions/sort-colors |
+| 75. Sort Colors — LeetCode Wiki | https://leetcode.doocs.org/en/lc/75/ |
+| Sort Colors — LeetCode 75 | https://leetcode.com/problems/sort-colors/ |
+| Dutch national flag problem — Wikipedia | https://en.wikipedia.org/wiki/Dutch_national_flag_problem |
+
+## Insert Delete GetRandom O(1) outline (2026-10-03 ingest)
+
+| Title | URL |
+| --- | --- |
+| Insert Delete GetRandom O(1) — NeetCode | https://neetcode.io/solutions/insert-delete-getrandom-o1 |
+| 380. Insert Delete GetRandom O(1) — LeetCode Wiki | https://leetcode.doocs.org/en/lc/380/ |
+| Insert Delete GetRandom O(1) — LeetCode 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ |
+| Hash table — Wikipedia | https://en.wikipedia.org/wiki/Hash_table |
+
 

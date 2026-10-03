@@ -90,6 +90,8 @@
 | Koko Eating Bananas (search on speed) | [coding-koko-bananas.md](coding-koko-bananas.md) |
 | Evaluate Reverse Polish Notation | [coding-eval-rpn.md](coding-eval-rpn.md) |
 | Partition Equal Subset Sum (0/1 knapsack) | [coding-partition-subset.md](coding-partition-subset.md) |
+| Sort Colors (Dutch flag) | [coding-sort-colors.md](coding-sort-colors.md) |
+| Insert Delete GetRandom O(1) | [coding-randomized-set.md](coding-randomized-set.md) |
 
 ## System design
 

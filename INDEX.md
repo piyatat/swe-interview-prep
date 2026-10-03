@@ -126,6 +126,9 @@
 | [pagerduty.md](companies/pagerduty.md) | PagerDuty — five values, official Zoom loop, incident / ack |
 | [adyen.md](companies/adyen.md) | Adyen — Formula, official 6-stage hire, acquiring / Java |
 | [revolut.md](companies/revolut.md) | Revolut — five values, official Java loop, global neobank |
+| [perplexity.md](companies/perplexity.md) | Perplexity — official Spike / Agentic Coding, MTS loop |
+| [epic-systems.md](companies/epic-systems.md) | Epic Systems — official OA + Verona EHR / generalist loop |
+| [glean.md](companies/glean.md) | Glean — official Make-it values, AI fluency, Work AI search |
 
 ## Role-specific
 
@@ -231,6 +234,8 @@
 | [coding-koko-bananas.md](answers/coding-koko-bananas.md) | Koko Eating Bananas (binary search on speed) |
 | [coding-eval-rpn.md](answers/coding-eval-rpn.md) | Evaluate Reverse Polish Notation (operand stack) |
 | [coding-partition-subset.md](answers/coding-partition-subset.md) | Partition equal subset sum (0/1 knapsack) |
+| [coding-sort-colors.md](answers/coding-sort-colors.md) | Sort Colors (Dutch flag / three pointers) |
+| [coding-randomized-set.md](answers/coding-randomized-set.md) | Insert Delete GetRandom O(1) (array + index map) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
