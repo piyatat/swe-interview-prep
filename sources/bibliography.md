@@ -2200,4 +2200,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Insert Delete GetRandom O(1) — LeetCode 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ |
 | Hash table — Wikipedia | https://en.wikipedia.org/wiki/Hash_table |
 
+## Vercel track (2026-10-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| About — Vercel | https://vercel.com/about |
+| Careers — Vercel | https://vercel.com/careers |
+| Software Engineer - Next.js — Vercel | https://vercel.com/careers/software-engineer-next-js-6137958004 |
+| Deploying dreams: a summer internship with Vercel | https://vercel.com/blog/summer-internship-at-vercel |
+| Vercel Software Engineer Interview (2026) — Interview Coder | https://www.interviewcoder.co/blog/vercel-software-engineer-interview |
+| Vercel Interview Process — FinalRound AI | https://www.finalroundai.com/blog/vercel-interview-process |
+
+## Hugging Face track (2026-10-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hugging Face Careers | https://huggingface.co/careers |
+| Hugging Face jobs — Workable | https://apply.workable.com/huggingface/ |
+| Getting Hired at Hugging Face Without a LeetCode Grind — techinterview.org | https://www.techinterview.org/post/3233476859/hugging-face-interview-process/ |
+| Hugging Face's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/hugging-face-interview-process |
+| Hugging Face Interview Process — FinalRound AI | https://www.finalroundai.com/blog/hugging-face-interview-process |
+
+## Sentry track (2026-10-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers \| Sentry | https://sentry.io/careers/ |
+| Motivational Posters Are So '90s, Our Values Are Not — Sentry | https://blog.sentry.io/motivational-posters-are-so-90s-our-values-are-not/ |
+| Sentry Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/sentry-interview-guide/ |
+| Sentry Software Engineer Interview (2026) — knok | https://knok.work/blog/sentry-software-engineer-interview.html |
+
+## Palindrome Linked List outline (2026-10-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Palindrome Linked List — NeetCode | https://neetcode.io/solutions/palindrome-linked-list |
+| 234. Palindrome Linked List — LeetCode Wiki | https://leetcode.doocs.org/en/lc/234/ |
+| Palindrome Linked List — LeetCode 234 | https://leetcode.com/problems/palindrome-linked-list/ |
+| Palindrome — Wikipedia | https://en.wikipedia.org/wiki/Palindrome |
+
+## Remove Nth Node From End outline (2026-10-04 ingest)
+
+| Title | URL |
+| --- | --- |
+| Remove Nth Node From End of List — NeetCode | https://neetcode.io/solutions/remove-nth-node-from-end-of-list |
+| 19. Remove Nth Node From End of List — LeetCode Wiki | https://leetcode.doocs.org/en/lc/19/ |
+| Remove Nth Node From End of List — LeetCode 19 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
+| Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
+
 

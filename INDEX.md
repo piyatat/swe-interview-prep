@@ -129,6 +129,9 @@
 | [perplexity.md](companies/perplexity.md) | Perplexity — official Spike / Agentic Coding, MTS loop |
 | [epic-systems.md](companies/epic-systems.md) | Epic Systems — official OA + Verona EHR / generalist loop |
 | [glean.md](companies/glean.md) | Glean — official Make-it values, AI fluency, Work AI search |
+| [vercel.md](companies/vercel.md) | Vercel — Next.js / agentic infra, applied TypeScript, ITG |
+| [hugging-face.md](companies/hugging-face.md) | Hugging Face — official democratize-ML mission, take-home loop |
+| [sentry.md](companies/sentry.md) | Sentry — official six values, error ingest / grouping |
 
 ## Role-specific
 
@@ -236,6 +239,8 @@
 | [coding-partition-subset.md](answers/coding-partition-subset.md) | Partition equal subset sum (0/1 knapsack) |
 | [coding-sort-colors.md](answers/coding-sort-colors.md) | Sort Colors (Dutch flag / three pointers) |
 | [coding-randomized-set.md](answers/coding-randomized-set.md) | Insert Delete GetRandom O(1) (array + index map) |
+| [coding-palindrome-list.md](answers/coding-palindrome-list.md) | Palindrome linked list (reverse second half) |
+| [coding-remove-nth.md](answers/coding-remove-nth.md) | Remove Nth from end (dummy + gap) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

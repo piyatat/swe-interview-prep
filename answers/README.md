@@ -92,6 +92,8 @@
 | Partition Equal Subset Sum (0/1 knapsack) | [coding-partition-subset.md](coding-partition-subset.md) |
 | Sort Colors (Dutch flag) | [coding-sort-colors.md](coding-sort-colors.md) |
 | Insert Delete GetRandom O(1) | [coding-randomized-set.md](coding-randomized-set.md) |
+| Palindrome linked list (reverse half) | [coding-palindrome-list.md](coding-palindrome-list.md) |
+| Remove Nth from end (dummy + gap) | [coding-remove-nth.md](coding-remove-nth.md) |
 
 ## System design
 

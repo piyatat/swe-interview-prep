@@ -104,5 +104,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Perplexity | [perplexity.md](perplexity.md) | Official Spike / Agentic Coding; MTS; answer engine |
 | Epic Systems | [epic-systems.md](epic-systems.md) | Official logic OA + final; Verona EHR / generalist |
 | Glean | [glean.md](glean.md) | Official Make-it values; AI fluency; permission-aware search |
+| Vercel | [vercel.md](vercel.md) | Next.js / agentic infra; applied TypeScript; ITG / ship |
+| Hugging Face | [hugging-face.md](hugging-face.md) | Official democratize-ML mission; take-home, not LeetCode |
+| Sentry | [sentry.md](sentry.md) | Official six values; error ingest / grouping / symbols |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
