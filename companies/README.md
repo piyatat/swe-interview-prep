@@ -107,5 +107,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Vercel | [vercel.md](vercel.md) | Next.js / agentic infra; applied TypeScript; ITG / ship |
 | Hugging Face | [hugging-face.md](hugging-face.md) | Official democratize-ML mission; take-home, not LeetCode |
 | Sentry | [sentry.md](sentry.md) | Official six values; error ingest / grouping / symbols |
+| SpaceX | [spacex.md](spacex.md) | Multiplanetary mission; org-split take-home; physics limits |
+| Unity | [unity.md](unity.md) | Official four Principles; structured hire; engine / Editor |
+| Groq | [groq.md](groq.md) | LPU / compiler-scheduled inference; GroqCloud |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

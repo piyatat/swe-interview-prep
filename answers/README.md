@@ -94,6 +94,8 @@
 | Insert Delete GetRandom O(1) | [coding-randomized-set.md](coding-randomized-set.md) |
 | Palindrome linked list (reverse half) | [coding-palindrome-list.md](coding-palindrome-list.md) |
 | Remove Nth from end (dummy + gap) | [coding-remove-nth.md](coding-remove-nth.md) |
+| Reorder list (mid + reverse + weave) | [coding-reorder-list.md](coding-reorder-list.md) |
+| Kth smallest in BST (inorder until k) | [coding-kth-smallest-bst.md](coding-kth-smallest-bst.md) |
 
 ## System design
 

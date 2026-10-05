@@ -132,6 +132,9 @@
 | [vercel.md](companies/vercel.md) | Vercel — Next.js / agentic infra, applied TypeScript, ITG |
 | [hugging-face.md](companies/hugging-face.md) | Hugging Face — official democratize-ML mission, take-home loop |
 | [sentry.md](companies/sentry.md) | Sentry — official six values, error ingest / grouping |
+| [spacex.md](companies/spacex.md) | SpaceX — mission / merit, org-split take-home, physics limits |
+| [unity.md](companies/unity.md) | Unity — official four Principles, structured hire, engine / Editor |
+| [groq.md](companies/groq.md) | Groq — LPU / compiler-scheduled inference, GroqCloud |
 
 ## Role-specific
 
@@ -241,6 +244,8 @@
 | [coding-randomized-set.md](answers/coding-randomized-set.md) | Insert Delete GetRandom O(1) (array + index map) |
 | [coding-palindrome-list.md](answers/coding-palindrome-list.md) | Palindrome linked list (reverse second half) |
 | [coding-remove-nth.md](answers/coding-remove-nth.md) | Remove Nth from end (dummy + gap) |
+| [coding-reorder-list.md](answers/coding-reorder-list.md) | Reorder list (mid + reverse + weave) |
+| [coding-kth-smallest-bst.md](answers/coding-kth-smallest-bst.md) | Kth smallest in BST (inorder until k) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

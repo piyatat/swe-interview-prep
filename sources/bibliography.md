@@ -2248,4 +2248,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Remove Nth Node From End of List — LeetCode 19 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
 | Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
 
+## SpaceX track (2026-10-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — SpaceX | https://www.spacex.com/careers |
+| Updates — SpaceX | https://www.spacex.com/updates |
+| Why the SpaceX interview feels nothing like a FAANG loop — techinterview.org | https://www.techinterview.org/post/3233476863/spacex-interview-vs-faang-loop/ |
+| SpaceX's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/spacex-interview-process |
+| SpaceX Software Engineer Interview — CleverPrep | https://www.cleverprep.com/companies/spacex/software-engineer |
+
+## Unity track (2026-10-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Unity Careers | https://unity.com/careers |
+| About Unity | https://unity.com/our-company |
+| Want to work at Unity? Here’s how our hiring process works | https://unity.com/blog/news/want-to-work-at-unity-heres-how-our-hiring-process-works |
+| Unity Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/unity-interview-guide/ |
+| Unity Interview Process — FinalRound AI | https://www.finalroundai.com/blog/unity-interview-process |
+
+## Groq track (2026-10-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Groq | https://groq.com/careers |
+| Company — Groq | https://groq.com/company |
+| What is a Language Processing Unit? — Groq | https://groq.com/blog/the-groq-lpu-explained |
+| Recruitment Fraud Awareness — Groq | https://groq.com/recruitment-fraud-awareness |
+| Inside the Groq interview for compiler and inference roles — techinterview.org | https://www.techinterview.org/post/3233476417/groq-interview-compiler-inference-roles/ |
+| Groq Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/groq/software-engineer |
+
+## Reorder List outline (2026-10-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Reorder List — NeetCode | https://neetcode.io/solutions/reorder-list |
+| 143. Reorder List — LeetCode Wiki | https://leetcode.doocs.org/en/lc/143/ |
+| Reorder List — LeetCode 143 | https://leetcode.com/problems/reorder-list/ |
+| Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
+
+## Kth Smallest in a BST outline (2026-10-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Kth Smallest Element in a BST — NeetCode | https://neetcode.io/solutions/kth-smallest-element-in-a-bst |
+| 230. Kth Smallest Element in a BST — LeetCode Wiki | https://leetcode.doocs.org/en/lc/230/ |
+| Kth Smallest Element in a BST — LeetCode 230 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ |
+| Binary search tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_tree |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+
 
