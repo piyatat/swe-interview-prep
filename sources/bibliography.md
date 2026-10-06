@@ -2298,4 +2298,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Binary search tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_tree |
 | Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
 
+## xAI track (2026-10-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — xAI | https://x.ai/careers |
+| Colossus — xAI | https://x.ai/colossus |
+| xAI Interview Process 2026 — techinterview.org | https://www.techinterview.org/post/3233474930/xai-interview-process-2026/ |
+| xAI Software Engineer Interview Guide (2026) — Aced / Exponent | https://www.tryexponent.com/guides/xai-software-engineer-interview |
+| xAI Exceptional Engineer (SWE) Interview Guide (2026) — Aced / Exponent | https://www.tryexponent.com/guides/xai-exceptional-engineer-swe-interview |
+
+## Cerebras track (2026-10-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Cerebras | https://www.cerebras.ai/join-us |
+| About Cerebras | https://www.cerebras.ai/company |
+| Interviewing @ Cerebras | https://coda.io/@cerebras-careers/cerebras-interviewing-guide/interviewing-cerebras-2 |
+| Hiring Engineers for an AI-Native World — Cerebras | https://www.cerebras.ai/blog/hiring-engineers-for-an-ai-native-world |
+| How Cerebras interviews engineers for its wafer-scale chips — techinterview.org | https://www.techinterview.org/post/3233476421/how-cerebras-interviews-engineers-wafer-scale/ |
+
+## Epic Games track (2026-10-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Epic Games Careers | https://www.epicgames.com/site/en-US/careers |
+| Epic Career Paths — Programming | https://www.epicgames.com/site/en-US/earlycareers/career-paths |
+| Engine Programmer — Epic Games | https://www.epicgames.com/careers/jobs/6102277004 |
+| Epic Games Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/epic-games-interview-guide/ |
+| Epic Games's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/epic-games-interview-process |
+| Epic Games Interview Process — FinalRound AI | https://www.finalroundai.com/blog/epic-games-interview-process |
+
+## Asteroid Collision outline (2026-10-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Asteroid Collision — NeetCode | https://neetcode.io/solutions/asteroid-collision |
+| 735. Asteroid Collision — LeetCode Wiki | https://leetcode.doocs.org/en/lc/735/ |
+| Asteroid Collision — LeetCode 735 | https://leetcode.com/problems/asteroid-collision/ |
+| Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
+
+## Zigzag Level Order outline (2026-10-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Binary Tree Zigzag Level Order Traversal — NeetCode | https://neetcode.io/solutions/binary-tree-zigzag-level-order-traversal |
+| 103. Binary Tree Zigzag Level Order Traversal — LeetCode Wiki | https://leetcode.doocs.org/en/lc/103/ |
+| Binary Tree Zigzag Level Order Traversal — LeetCode 103 | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+
 

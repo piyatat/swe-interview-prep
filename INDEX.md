@@ -135,6 +135,9 @@
 | [spacex.md](companies/spacex.md) | SpaceX — mission / merit, org-split take-home, physics limits |
 | [unity.md](companies/unity.md) | Unity — official four Principles, structured hire, engine / Editor |
 | [groq.md](companies/groq.md) | Groq — LPU / compiler-scheduled inference, GroqCloud |
+| [xai.md](companies/xai.md) | xAI — Grok / Colossus, exceptional-work statement |
+| [cerebras.md](companies/cerebras.md) | Cerebras — wafer-scale WSE, official AI-native coding |
+| [epic-games.md](companies/epic-games.md) | Epic Games — Unreal / Fortnite, C++ house (not EHR) |
 
 ## Role-specific
 
@@ -246,6 +249,8 @@
 | [coding-remove-nth.md](answers/coding-remove-nth.md) | Remove Nth from end (dummy + gap) |
 | [coding-reorder-list.md](answers/coding-reorder-list.md) | Reorder list (mid + reverse + weave) |
 | [coding-kth-smallest-bst.md](answers/coding-kth-smallest-bst.md) | Kth smallest in BST (inorder until k) |
+| [coding-asteroid-collision.md](answers/coding-asteroid-collision.md) | Asteroid Collision (stack cancel) |
+| [coding-zigzag-level-order.md](answers/coding-zigzag-level-order.md) | Zigzag level order (BFS + reverse) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

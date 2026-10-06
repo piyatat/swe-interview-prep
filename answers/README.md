@@ -96,6 +96,8 @@
 | Remove Nth from end (dummy + gap) | [coding-remove-nth.md](coding-remove-nth.md) |
 | Reorder list (mid + reverse + weave) | [coding-reorder-list.md](coding-reorder-list.md) |
 | Kth smallest in BST (inorder until k) | [coding-kth-smallest-bst.md](coding-kth-smallest-bst.md) |
+| Asteroid Collision (stack cancel) | [coding-asteroid-collision.md](coding-asteroid-collision.md) |
+| Zigzag level order (BFS + reverse) | [coding-zigzag-level-order.md](coding-zigzag-level-order.md) |
 
 ## System design
 
