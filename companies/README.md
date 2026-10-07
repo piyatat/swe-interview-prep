@@ -113,5 +113,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | xAI | [xai.md](xai.md) | Grok / Colossus; statement of exceptional work; engineer-run loop |
 | Cerebras | [cerebras.md](cerebras.md) | Wafer-scale WSE; official AI-expected coding hour |
 | Epic Games | [epic-games.md](epic-games.md) | Unreal / Fortnite C++ house — not Epic Systems EHR |
+| Applied Intuition | [applied-intuition.md](applied-intuition.md) | Physical AI tooling; official no-AI phone + AI prototype / demo |
+| Temporal | [temporal.md](temporal.md) | Durable workflows; Event History / replay; remote-first |
+| Zoox | [zoox.md](zoox.md) | Amazon robotaxi; official Why Zoox + leader interview |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

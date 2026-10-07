@@ -2348,4 +2348,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
 | Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
 
+## Applied Intuition track (2026-10-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hiring engineers for the age of agents — Applied Intuition | https://www.appliedintuition.com/engineering-blog/hiring-engineers-age-of-agents |
+| Careers — Applied Intuition | https://www.appliedintuition.com/careers |
+| New Grad Software Engineer Candidates — Applied Intuition | https://resource.applied.co/one-pagers/new-grad-swe |
+| The Applied Intuition interview process, with and without AI — DEV Community | https://dev.to/fourleaf/the-applied-intuition-interview-process-with-and-without-ai-51fa |
+
+## Temporal track (2026-10-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Temporal | https://temporal.io/careers |
+| Temporal Workflow — docs | https://docs.temporal.io/workflows |
+| Why Temporal? — docs | https://docs.temporal.io/evaluate/why-temporal |
+| Software Engineer II, Open Source Server — Temporal | https://temporal.io/careers/81cc8698-59f8-418a-85fd-1fc154b33ee4 |
+| Temporal Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/temporal-interview-guide/ |
+
+## Zoox track (2026-10-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Working at Zoox: Hiring & Interview Process | https://zoox.com/journal/landing-a-job-zoox |
+| Careers at Zoox | https://zoox.com/careers |
+| Zoox Internship Program | https://zoox.com/journal/internship-program-zoox |
+| Zoox: It's Not a Car | https://zoox.com/ |
+| Zoox's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/zoox-interview-process |
+
+## Car Fleet outline (2026-10-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Car Fleet — NeetCode | https://neetcode.io/solutions/car-fleet |
+| 853. Car Fleet — LeetCode Wiki | https://leetcode.doocs.org/en/lc/853/ |
+| Car Fleet — LeetCode 853 | https://leetcode.com/problems/car-fleet/ |
+| Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
+
+## Same Tree outline (2026-10-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Same Tree — NeetCode | https://neetcode.io/solutions/same-tree |
+| 100. Same Tree — LeetCode Wiki | https://leetcode.doocs.org/en/lc/100/ |
+| Same Tree — LeetCode 100 | https://leetcode.com/problems/same-tree/ |
+| Binary tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_tree |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+
 

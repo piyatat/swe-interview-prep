@@ -138,6 +138,9 @@
 | [xai.md](companies/xai.md) | xAI — Grok / Colossus, exceptional-work statement |
 | [cerebras.md](companies/cerebras.md) | Cerebras — wafer-scale WSE, official AI-native coding |
 | [epic-games.md](companies/epic-games.md) | Epic Games — Unreal / Fortnite, C++ house (not EHR) |
+| [applied-intuition.md](companies/applied-intuition.md) | Applied Intuition — physical AI, no-AI phone + AI prototype |
+| [temporal.md](companies/temporal.md) | Temporal — durable workflows, replay / determinism |
+| [zoox.md](companies/zoox.md) | Zoox — Amazon robotaxi, math hour + leader interview |
 
 ## Role-specific
 
@@ -251,6 +254,8 @@
 | [coding-kth-smallest-bst.md](answers/coding-kth-smallest-bst.md) | Kth smallest in BST (inorder until k) |
 | [coding-asteroid-collision.md](answers/coding-asteroid-collision.md) | Asteroid Collision (stack cancel) |
 | [coding-zigzag-level-order.md](answers/coding-zigzag-level-order.md) | Zigzag level order (BFS + reverse) |
+| [coding-car-fleet.md](answers/coding-car-fleet.md) | Car Fleet (sort + arrival-time leaders) |
+| [coding-same-tree.md](answers/coding-same-tree.md) | Same Tree (lockstep DFS / BFS) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

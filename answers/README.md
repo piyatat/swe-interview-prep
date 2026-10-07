@@ -98,6 +98,8 @@
 | Kth smallest in BST (inorder until k) | [coding-kth-smallest-bst.md](coding-kth-smallest-bst.md) |
 | Asteroid Collision (stack cancel) | [coding-asteroid-collision.md](coding-asteroid-collision.md) |
 | Zigzag level order (BFS + reverse) | [coding-zigzag-level-order.md](coding-zigzag-level-order.md) |
+| Car Fleet (sort + arrival times) | [coding-car-fleet.md](coding-car-fleet.md) |
+| Same Tree (lockstep DFS / BFS) | [coding-same-tree.md](coding-same-tree.md) |
 
 ## System design
 
