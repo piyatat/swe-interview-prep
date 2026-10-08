@@ -100,6 +100,8 @@
 | Zigzag level order (BFS + reverse) | [coding-zigzag-level-order.md](coding-zigzag-level-order.md) |
 | Car Fleet (sort + arrival times) | [coding-car-fleet.md](coding-car-fleet.md) |
 | Same Tree (lockstep DFS / BFS) | [coding-same-tree.md](coding-same-tree.md) |
+| Subtree of Another Tree (walk + same) | [coding-subtree.md](coding-subtree.md) |
+| House Robber II (circle → two linear) | [coding-house-robber-ii.md](coding-house-robber-ii.md) |
 
 ## System design
 

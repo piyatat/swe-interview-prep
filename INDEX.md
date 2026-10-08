@@ -141,6 +141,9 @@
 | [applied-intuition.md](companies/applied-intuition.md) | Applied Intuition — physical AI, no-AI phone + AI prototype |
 | [temporal.md](companies/temporal.md) | Temporal — durable workflows, replay / determinism |
 | [zoox.md](companies/zoox.md) | Zoox — Amazon robotaxi, math hour + leader interview |
+| [replit.md](companies/replit.md) | Replit — official process + principles, Agent / creator platform |
+| [mistral.md](companies/mistral.md) | Mistral AI — official five values, 2–5 real exercises, open-weight lab |
+| [wiz.md](companies/wiz.md) | Wiz — Google Cloud CNAPP, security graph, official five values |
 
 ## Role-specific
 
@@ -256,6 +259,8 @@
 | [coding-zigzag-level-order.md](answers/coding-zigzag-level-order.md) | Zigzag level order (BFS + reverse) |
 | [coding-car-fleet.md](answers/coding-car-fleet.md) | Car Fleet (sort + arrival-time leaders) |
 | [coding-same-tree.md](answers/coding-same-tree.md) | Same Tree (lockstep DFS / BFS) |
+| [coding-subtree.md](answers/coding-subtree.md) | Subtree of Another Tree (walk + same-tree) |
+| [coding-house-robber-ii.md](answers/coding-house-robber-ii.md) | House Robber II (circle → two linear DPs) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

@@ -116,5 +116,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Applied Intuition | [applied-intuition.md](applied-intuition.md) | Physical AI tooling; official no-AI phone + AI prototype / demo |
 | Temporal | [temporal.md](temporal.md) | Durable workflows; Event History / replay; remote-first |
 | Zoox | [zoox.md](zoox.md) | Amazon robotaxi; official Why Zoox + leader interview |
+| Replit | [replit.md](replit.md) | Official process + principles; Agent / creator platform |
+| Mistral AI | [mistral.md](mistral.md) | Official five values; 2–5 real exercises; open-weight lab |
+| Wiz | [wiz.md](wiz.md) | Google Cloud CNAPP; security graph; official five values |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

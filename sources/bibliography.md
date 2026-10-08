@@ -2396,4 +2396,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Binary tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_tree |
 | Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
 
+## Replit track (2026-10-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interview Process — Replit | https://replit.com/interview-process |
+| Operating Principles — Replit | https://replit.com/blog/operating-principles |
+| What We Look for When We Interview — Replit | https://replit.com/blog/get-hired |
+| Careers & Open Roles — Replit | https://replit.com/careers |
+| Software Engineer - New Grad (2027) — Replit Ashby | https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc |
+
+## Mistral AI track (2026-10-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Mistral | https://mistral.ai/careers/ |
+| Mistral — Open Positions (Ashby) | https://jobs.ashbyhq.com/mistral.ai |
+| Software Engineer, New Grad — Mistral.AI Ashby | https://jobs.ashbyhq.com/Mistral.AI/b7470435-0600-4597-a9b9-bb4ebb569283 |
+| Software Engineer, Backend (Warsaw) — hiring process on JD | https://jobs.generalcatalyst.com/companies/mistral-ai-2/jobs/84090289-software-engineer-backend-warsaw |
+
+## Wiz track (2026-10-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Wiz | https://www.wiz.io/careers |
+| Wiz homepage | https://www.wiz.io/ |
+| It’s Official: Wiz Joins Google! — Wiz Blog | https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz |
+| Welcoming Wiz to Google Cloud | https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz |
+| Wiz's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/wiz-interview-process |
+
+## Subtree of Another Tree outline (2026-10-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Subtree of Another Tree — NeetCode | https://neetcode.io/solutions/subtree-of-another-tree |
+| 572. Subtree of Another Tree — LeetCode Wiki | https://leetcode.doocs.org/en/lc/572/ |
+| Subtree of Another Tree — LeetCode 572 | https://leetcode.com/problems/subtree-of-another-tree/ |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+| Binary tree — Wikipedia | https://en.wikipedia.org/wiki/Binary_tree |
+
+## House Robber II outline (2026-10-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| House Robber II — NeetCode | https://neetcode.io/solutions/house-robber-ii |
+| 213. House Robber II — LeetCode Wiki | https://leetcode.doocs.org/en/lc/213/ |
+| House Robber II — LeetCode 213 | https://leetcode.com/problems/house-robber-ii/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| House Robber — NeetCode | https://neetcode.io/solutions/house-robber |
+
 
