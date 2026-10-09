@@ -144,6 +144,9 @@
 | [replit.md](companies/replit.md) | Replit — official process + principles, Agent / creator platform |
 | [mistral.md](companies/mistral.md) | Mistral AI — official five values, 2–5 real exercises, open-weight lab |
 | [wiz.md](companies/wiz.md) | Wiz — Google Cloud CNAPP, security graph, official five values |
+| [jetbrains.md](companies/jetbrains.md) | JetBrains — official 2026 hire guide, take-home + AI review |
+| [sofi.md](companies/sofi.md) | SoFi — SoFi Way + values, BrightHire, member finance / ledger |
+| [riot.md](companies/riot.md) | Riot Games — Player First, Hangouts + take-home, live-service |
 
 ## Role-specific
 
@@ -261,6 +264,8 @@
 | [coding-same-tree.md](answers/coding-same-tree.md) | Same Tree (lockstep DFS / BFS) |
 | [coding-subtree.md](answers/coding-subtree.md) | Subtree of Another Tree (walk + same-tree) |
 | [coding-house-robber-ii.md](answers/coding-house-robber-ii.md) | House Robber II (circle → two linear DPs) |
+| [coding-valid-sudoku.md](answers/coding-valid-sudoku.md) | Valid Sudoku (row / col / box sets) |
+| [coding-graph-valid-tree.md](answers/coding-graph-valid-tree.md) | Graph Valid Tree (UF / n−1 + connected) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

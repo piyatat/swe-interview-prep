@@ -102,6 +102,8 @@
 | Same Tree (lockstep DFS / BFS) | [coding-same-tree.md](coding-same-tree.md) |
 | Subtree of Another Tree (walk + same) | [coding-subtree.md](coding-subtree.md) |
 | House Robber II (circle → two linear) | [coding-house-robber-ii.md](coding-house-robber-ii.md) |
+| Valid Sudoku (row / col / box) | [coding-valid-sudoku.md](coding-valid-sudoku.md) |
+| Graph Valid Tree (UF / n−1 + connected) | [coding-graph-valid-tree.md](coding-graph-valid-tree.md) |
 
 ## System design
 

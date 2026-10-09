@@ -119,5 +119,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Replit | [replit.md](replit.md) | Official process + principles; Agent / creator platform |
 | Mistral AI | [mistral.md](mistral.md) | Official five values; 2–5 real exercises; open-weight lab |
 | Wiz | [wiz.md](wiz.md) | Google Cloud CNAPP; security graph; official five values |
+| JetBrains | [jetbrains.md](jetbrains.md) | Official 2026 hire guide; take-home + AI-usage review; IDE / Kotlin |
+| SoFi | [sofi.md](sofi.md) | SoFi Way + official values; BrightHire; member finance / ledger |
+| Riot Games | [riot.md](riot.md) | Player First; Hangouts + eng take-home; live-service games |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

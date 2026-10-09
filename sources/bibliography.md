@@ -2445,4 +2445,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
 | House Robber — NeetCode | https://neetcode.io/solutions/house-robber |
 
+## JetBrains track (2026-10-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| JetBrains Engineering Hiring Process Guide | https://blog.jetbrains.com/life-at-jetbrains/2026/07/jetbrains-engineering-hiring/ |
+| Careers at JetBrains | https://www.jetbrains.com/careers/ |
+| The JetBrains Fit Test | https://blog.jetbrains.com/life-at-jetbrains/2026/05/the-jetbrains-fit-test-is-this-the-right-workplace-for-you/ |
+| Paid Internships at JetBrains | https://www.jetbrains.com/careers/internships/ |
+| JetBrains Test Task — Calibrd | https://www.calibrd.com/interview-prep/jetbrains-interview |
+
+## SoFi track (2026-10-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — SoFi | https://sofietyinfo.sofi.com/how-we-hire |
+| SoFi Values | https://www.sofi.com/values/ |
+| Work at SoFi — Careers | https://www.sofi.com/careers/ |
+| SoFi Candidate FAQ | https://sofietyinfo.sofi.com/faq |
+| SoFi Interview Questions & Process — InterviewLegend | https://interviewlegend.com/guides/sofi |
+| SoFi Software Engineer Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/sofi-software-engineer-interview-guide |
+
+## Riot Games track (2026-10-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interview Process — Riot Games | https://www.riotgames.com/en/work-with-us/interviewing-at-riot/interview-process |
+| Interviewing at Riot | https://www.riotgames.com/en/work-with-us/interviewing-at-riot |
+| Who We Are — Riot Games | https://www.riotgames.com/en/who-we-are |
+| Riot Games Internship Study Guide — Technical Assessment | https://www.riotgames.com/en/news/technical-assessment-internship-study-guide-vol-4 |
+| Riot Games's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/riot-games-interview-process |
+
+## Valid Sudoku outline (2026-10-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Valid Sudoku — NeetCode | https://neetcode.io/solutions/valid-sudoku |
+| 36. Valid Sudoku — LeetCode Wiki | https://leetcode.doocs.org/en/lc/36/ |
+| Valid Sudoku — LeetCode 36 | https://leetcode.com/problems/valid-sudoku/ |
+| Sudoku — Wikipedia | https://en.wikipedia.org/wiki/Sudoku |
+
+## Graph Valid Tree outline (2026-10-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Graph Valid Tree — NeetCode | https://neetcode.io/solutions/graph-valid-tree |
+| 261. Graph Valid Tree — LeetCode Wiki | https://leetcode.doocs.org/en/lc/261/ |
+| Graph Valid Tree — LeetCode 261 | https://leetcode.com/problems/graph-valid-tree/ |
+| Tree (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Tree_(graph_theory) |
+| Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
+
 
