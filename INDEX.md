@@ -147,6 +147,9 @@
 | [jetbrains.md](companies/jetbrains.md) | JetBrains — official 2026 hire guide, take-home + AI review |
 | [sofi.md](companies/sofi.md) | SoFi — SoFi Way + values, BrightHire, member finance / ledger |
 | [riot.md](companies/riot.md) | Riot Games — Player First, Hangouts + take-home, live-service |
+| [nuro.md](companies/nuro.md) | Nuro — L4 Driver, official values + candid guide, onboard / eval |
+| [sourcegraph.md](companies/sourcegraph.md) | Sourcegraph — handbook loop, values hour, code walkthrough / pair |
+| [linear.md](companies/linear.md) | Linear — craft / slope, official paid 2–5 day work trial |
 
 ## Role-specific
 
@@ -266,6 +269,8 @@
 | [coding-house-robber-ii.md](answers/coding-house-robber-ii.md) | House Robber II (circle → two linear DPs) |
 | [coding-valid-sudoku.md](answers/coding-valid-sudoku.md) | Valid Sudoku (row / col / box sets) |
 | [coding-graph-valid-tree.md](answers/coding-graph-valid-tree.md) | Graph Valid Tree (UF / n−1 + connected) |
+| [coding-permutation-string.md](answers/coding-permutation-string.md) | Permutation in String (fixed anagram window) |
+| [coding-nonoverlap-intervals.md](answers/coding-nonoverlap-intervals.md) | Non-overlapping Intervals (earliest-finish greedy) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

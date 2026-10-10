@@ -122,5 +122,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | JetBrains | [jetbrains.md](jetbrains.md) | Official 2026 hire guide; take-home + AI-usage review; IDE / Kotlin |
 | SoFi | [sofi.md](sofi.md) | SoFi Way + official values; BrightHire; member finance / ledger |
 | Riot Games | [riot.md](riot.md) | Player First; Hangouts + eng take-home; live-service games |
+| Nuro | [nuro.md](nuro.md) | L4 Driver; official values + candid guide; onboard / eval |
+| Sourcegraph | [sourcegraph.md](sourcegraph.md) | Handbook loop; out-of-dept values hour; walkthrough / pair |
+| Linear | [linear.md](linear.md) | Craft / slope; official paid 2–5 day work trial |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

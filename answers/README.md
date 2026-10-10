@@ -104,6 +104,8 @@
 | House Robber II (circle → two linear) | [coding-house-robber-ii.md](coding-house-robber-ii.md) |
 | Valid Sudoku (row / col / box) | [coding-valid-sudoku.md](coding-valid-sudoku.md) |
 | Graph Valid Tree (UF / n−1 + connected) | [coding-graph-valid-tree.md](coding-graph-valid-tree.md) |
+| Permutation in String (fixed anagram window) | [coding-permutation-string.md](coding-permutation-string.md) |
+| Non-overlapping Intervals (earliest-finish greedy) | [coding-nonoverlap-intervals.md](coding-nonoverlap-intervals.md) |
 
 ## System design
 

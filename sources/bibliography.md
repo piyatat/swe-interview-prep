@@ -2495,4 +2495,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Tree (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Tree_(graph_theory) |
 | Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
 
+## Nuro track (2026-10-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| A Candid Guide to Interviewing at Nuro | https://www.nuro.ai/blog/a-candid-guide-to-interviewing-at-nuro |
+| Careers — Nuro | https://www.nuro.ai/careers |
+| Company — Nuro | https://www.nuro.ai/company |
+| Nuro Software Engineer Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/nuro-software-engineer-interview-questions-guide-2026 |
+| Nuro Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/nuro/software-engineer |
+
+## Sourcegraph track (2026-10-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Resources for Candidates — Engineering Interview Process | https://github.com/sourcegraph/handbook/blob/main/content/departments/people-talent/talent/process/engineering_interview_process_candidates.md |
+| Types of interviews — Sourcegraph handbook | https://github.com/sourcegraph/handbook/blob/main/content/departments/people-talent/talent/process/types_of_interviews.md |
+| Evaluating values — Sourcegraph handbook | https://github.com/sourcegraph/handbook/blob/main/content/departments/people-talent/talent/process/evaluating_values.md |
+| Sourcegraph values | https://github.com/sourcegraph/handbook/blob/main/content/company-info-and-process/values/index.md |
+| About — Sourcegraph | https://sourcegraph.com/about |
+| Careers — Sourcegraph | https://sourcegraph.com/jobs |
+
+## Linear track (2026-10-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire at Linear | https://linear.app/now/how-we-hire-at-linear |
+| Why and how we do work trials at Linear | https://www.linear.app/now/why-and-how-we-do-work-trials-at-linear |
+| We're hiring — Linear | https://linear.app/careers |
+| Designing remote work at Linear | https://linear.app/now/designing-remote-work-at-linear |
+| Linear's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/linear-interview-process |
+
+## Permutation in String outline (2026-10-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Permutation in String — NeetCode | https://neetcode.io/solutions/permutation-in-string |
+| 567. Permutation in String — LeetCode Wiki | https://leetcode.doocs.org/en/lc/567/ |
+| Permutation in String — LeetCode 567 | https://leetcode.com/problems/permutation-in-string/ |
+| Anagram — Wikipedia | https://en.wikipedia.org/wiki/Anagram |
+| Algorithmic technique — Wikipedia | https://en.wikipedia.org/wiki/Algorithmic_technique |
+
+## Non-overlapping Intervals outline (2026-10-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Non-overlapping Intervals — NeetCode | https://neetcode.io/solutions/non-overlapping-intervals |
+| 435. Non-overlapping Intervals — LeetCode Wiki | https://leetcode.doocs.org/en/lc/435/ |
+| Non-overlapping Intervals — LeetCode 435 | https://leetcode.com/problems/non-overlapping-intervals/ |
+| Interval scheduling — Wikipedia | https://en.wikipedia.org/wiki/Interval_scheduling |
+| Insert Interval — NeetCode | https://neetcode.io/solutions/insert-interval |
+
 
