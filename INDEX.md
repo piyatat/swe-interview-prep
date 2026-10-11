@@ -150,6 +150,9 @@
 | [nuro.md](companies/nuro.md) | Nuro — L4 Driver, official values + candid guide, onboard / eval |
 | [sourcegraph.md](companies/sourcegraph.md) | Sourcegraph — handbook loop, values hour, code walkthrough / pair |
 | [linear.md](companies/linear.md) | Linear — craft / slope, official paid 2–5 day work trial |
+| [retool.md](companies/retool.md) | Retool — official values + practical eval, reactive / sandbox |
+| [faire.md](companies/faire.md) | Faire — official five values, wholesale + net-60 credit |
+| [samsara.md](companies/samsara.md) | Samsara — Culture Playbook, physical-ops IoT / ingest |
 
 ## Role-specific
 
@@ -271,6 +274,8 @@
 | [coding-graph-valid-tree.md](answers/coding-graph-valid-tree.md) | Graph Valid Tree (UF / n−1 + connected) |
 | [coding-permutation-string.md](answers/coding-permutation-string.md) | Permutation in String (fixed anagram window) |
 | [coding-nonoverlap-intervals.md](answers/coding-nonoverlap-intervals.md) | Non-overlapping Intervals (earliest-finish greedy) |
+| [coding-encode-decode.md](answers/coding-encode-decode.md) | Encode / decode strings (length-prefix framing) |
+| [coding-connected-components.md](answers/coding-connected-components.md) | Number of connected components (UF count) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

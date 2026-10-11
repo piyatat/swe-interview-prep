@@ -2546,4 +2546,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Interval scheduling — Wikipedia | https://en.wikipedia.org/wiki/Interval_scheduling |
 | Insert Interval — NeetCode | https://neetcode.io/solutions/insert-interval |
 
+## Retool track (2026-10-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Join a small (but growing) team — Retool Careers | https://retool.com/careers |
+| Software Engineer, Apps — Retool | https://retool.com/careers/software-engineer-apps--engineering--san-francisco-united-states |
+| Retool Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/retool/ |
+
+## Faire track (2026-10-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Faire | https://www.faire.com/careers |
+| Joining Faire as a Software Engineer — The Craft | https://craft.faire.com/joining-faire-as-a-software-engineer-1d7d56de0921 |
+| Careers openings / recruiting authenticity — Faire | https://www.faire.com/careers/openings |
+| Faire Interview Guide (2026) — techinterview.org | https://www.techinterview.org/companies/faire-interview-guide/ |
+
+## Samsara track (2026-10-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| The Samsara Culture Playbook | https://www.samsara.com/blog/the-samsara-culture-playbook |
+| Engineering and Product — Samsara | https://www.samsara.com/company/careers/engineering-and-product |
+| How Samsara Engineers Work | https://www.samsara.com/blog/samsara-engineering-culture |
+| Emerging Talent — Samsara | https://www.samsara.com/company/careers/emerging-talent |
+| Samsara Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/samsara/software-engineer |
+| Samsara Software Engineer Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/samsara-software-engineer-interview-questions-guide-2026 |
+
+## Encode and Decode Strings outline (2026-10-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Encode and Decode Strings — NeetCode | https://neetcode.io/solutions/encode-and-decode-strings |
+| Encode and Decode Strings — LeetCode 271 | https://leetcode.com/problems/encode-and-decode-strings/ |
+| Serialization — Wikipedia | https://en.wikipedia.org/wiki/Serialization |
+| Type–length–value — Wikipedia | https://en.wikipedia.org/wiki/Type%E2%80%93length%E2%80%93value |
+
+## Number of Connected Components outline (2026-10-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Number of Connected Components — NeetCode | https://neetcode.io/solutions/number-of-connected-components-in-an-undirected-graph |
+| 323. Number of Connected Components — LeetCode Wiki | https://leetcode.doocs.org/en/lc/323/ |
+| Number of Connected Components — LeetCode 323 | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ |
+| Connected component (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Connected_component_(graph_theory) |
+| Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
+
 

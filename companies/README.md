@@ -125,5 +125,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Nuro | [nuro.md](nuro.md) | L4 Driver; official values + candid guide; onboard / eval |
 | Sourcegraph | [sourcegraph.md](sourcegraph.md) | Handbook loop; out-of-dept values hour; walkthrough / pair |
 | Linear | [linear.md](linear.md) | Craft / slope; official paid 2–5 day work trial |
+| Retool | [retool.md](retool.md) | Official values + practical eval; reactive / sandbox / agents |
+| Faire | [faire.md](faire.md) | Official five values; wholesale marketplace + net-60 credit |
+| Samsara | [samsara.md](samsara.md) | Culture Playbook; physical-ops IoT / ingest / edge |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
