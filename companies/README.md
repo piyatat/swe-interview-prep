@@ -128,5 +128,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Retool | [retool.md](retool.md) | Official values + practical eval; reactive / sandbox / agents |
 | Faire | [faire.md](faire.md) | Official five values; wholesale marketplace + net-60 credit |
 | Samsara | [samsara.md](samsara.md) | Culture Playbook; physical-ops IoT / ingest / edge |
+| Flexport | [flexport.md](flexport.md) | Official interview site; freight / trade OS; five values |
+| Gusto | [gusto.md](gusto.md) | Official four values; SMB payroll / benefits; VMA hour |
+| Carta | [carta.md](carta.md) | Official How we hire; cap table / fund ERP; four OPs |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

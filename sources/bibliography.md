@@ -2593,4 +2593,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Connected component (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Connected_component_(graph_theory) |
 | Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
 
+## Flexport track (2026-10-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interview Prep — Flexport | https://interviewing.flexport.com/ |
+| About Flexport (mission + values) | https://interviewing.flexport.com/about-flexport |
+| Interview Logistics — Flexport | https://interviewing.flexport.com/interview-logistics |
+| Flexport Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/flexport/software-engineer |
+| Flexport Software Engineer Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/flexport-software-engineer-interview-questions-guide-2026 |
+| Flexport Software Engineer Interview — knok | https://knok.work/blog/flexport-software-engineer-interview.html |
+
+## Gusto track (2026-10-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers \| Gusto | https://gusto.com/about/careers |
+| What is Gusto? (platform + four values) | https://gusto.com/about |
+| Code Schools: The Bar — Gusto Engineering | https://engineering.gusto.com/code-schools-the-bar-3ef6dc5dc73a |
+| Gusto Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/gusto/software-engineer |
+| Gusto Interview Process — FinalRound | https://www.finalroundai.com/blog/gusto-interview-process |
+
+## Carta track (2026-10-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Build the infrastructure for private capital — Carta Engineering | https://carta.com/careers/engineering/ |
+| Let’s build the future of private capital — Carta Careers | https://carta.com/careers/ |
+| Staff Software Engineer — Carta (pooled hire) | https://job-boards.greenhouse.io/carta/jobs/7656155003 |
+| Software Engineer II @ Carta — interview process (take-home) | https://www.purpose.jobs/discover/companies/carta-com/jobs/26538113-software-engineer-ii |
+
+## Coin Change II outline (2026-10-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Coin Change II — NeetCode | https://neetcode.io/solutions/coin-change-ii |
+| 518. Coin Change II — LeetCode Wiki | https://leetcode.doocs.org/en/lc/518/ |
+| Coin Change II — LeetCode 518 | https://leetcode.com/problems/coin-change-ii/ |
+| Change-making problem — Wikipedia | https://en.wikipedia.org/wiki/Change-making_problem |
+| Knapsack problem — Wikipedia | https://en.wikipedia.org/wiki/Knapsack_problem |
+
+## Surrounded Regions outline (2026-10-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Surrounded Regions — NeetCode | https://neetcode.io/solutions/surrounded-regions |
+| 130. Surrounded Regions — LeetCode Wiki | https://leetcode.doocs.org/en/lc/130/ |
+| Surrounded Regions — LeetCode 130 | https://leetcode.com/problems/surrounded-regions/ |
+| Flood fill — Wikipedia | https://en.wikipedia.org/wiki/Flood_fill |
+| Connected component (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Connected_component_(graph_theory) |
+
 

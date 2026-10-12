@@ -153,6 +153,9 @@
 | [retool.md](companies/retool.md) | Retool — official values + practical eval, reactive / sandbox |
 | [faire.md](companies/faire.md) | Faire — official five values, wholesale + net-60 credit |
 | [samsara.md](companies/samsara.md) | Samsara — Culture Playbook, physical-ops IoT / ingest |
+| [flexport.md](companies/flexport.md) | Flexport — official interview site, freight / trade OS, five values |
+| [gusto.md](companies/gusto.md) | Gusto — four values, SMB payroll / benefits, VMA hour |
+| [carta.md](companies/carta.md) | Carta — official How we hire, cap table / fund ERP, OPs |
 
 ## Role-specific
 
@@ -276,6 +279,8 @@
 | [coding-nonoverlap-intervals.md](answers/coding-nonoverlap-intervals.md) | Non-overlapping Intervals (earliest-finish greedy) |
 | [coding-encode-decode.md](answers/coding-encode-decode.md) | Encode / decode strings (length-prefix framing) |
 | [coding-connected-components.md](answers/coding-connected-components.md) | Number of connected components (UF count) |
+| [coding-coin-change-ii.md](answers/coding-coin-change-ii.md) | Coin Change II (unbounded knapsack combinations) |
+| [coding-surrounded-regions.md](answers/coding-surrounded-regions.md) | Surrounded Regions (reverse flood from border) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
