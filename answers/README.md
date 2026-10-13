@@ -110,6 +110,8 @@
 | Number of connected components (UF count) | [coding-connected-components.md](coding-connected-components.md) |
 | Coin Change II (unbounded combinations) | [coding-coin-change-ii.md](coding-coin-change-ii.md) |
 | Surrounded Regions (reverse flood) | [coding-surrounded-regions.md](coding-surrounded-regions.md) |
+| House Robber III (tree DP pair) | [coding-house-robber-iii.md](coding-house-robber-iii.md) |
+| Stock with cooldown (three-state DP) | [coding-stock-cooldown.md](coding-stock-cooldown.md) |
 
 ## System design
 

@@ -2643,4 +2643,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Flood fill — Wikipedia | https://en.wikipedia.org/wiki/Flood_fill |
 | Connected component (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Connected_component_(graph_theory) |
 
+## Miro track (2026-10-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| The Engineering Team at Miro — How we hire | https://miro.com/careers/teams/engineering/ |
+| Nailing your engineering interviews — Miro Careers | https://miro.com/careers/life-at-miro/hiring-101/nailing-your-engineering-interviews/ |
+| Company values — Miro Careers | https://miro.com/careers/life-at-miro/culture/company-values/ |
+| Our People: Values, Communities, and Rituals — Miro | https://miro.com/careers/people/ |
+
+## Zendesk track (2026-10-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Work with great people, serve with great AI — Zendesk Careers | https://www.zendesk.com/company/careers/ |
+| Candidate Resource: Interview Best Practices — Zendesk Customer Operations / Karat | https://customer-operations.zendesk.com/hc/en-us/articles/30935912597655-Candidate-Resource-Interview-Best-Practices |
+| Zendesk Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/zendesk/software-engineer |
+| Zendesk Software Engineer Interview Questions 2026 — PracHub | https://prachub.com/interview-guide/zendesk-software-engineer-interview-questions-guide-2026 |
+
+## Klaviyo track (2026-10-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Klaviyo | https://www.klaviyo.com/careers |
+| Guidelines for Using AI in the Interview Process — Klaviyo | https://www.klaviyo.com/careers/ai-guidance |
+| Klaviyo Software Engineer Interview Guide 2026 — InterviewQuery | https://www.interviewquery.com/interview-guides/klaviyo-software-engineer |
+| Senior Software Engineer, Platform Engineering — Klaviyo | https://www.klaviyo.com/careers/jobs/7783904003 |
+
+## House Robber III outline (2026-10-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| House Robber III — NeetCode | https://neetcode.io/solutions/house-robber-iii |
+| 337. House Robber III — LeetCode Wiki | https://leetcode.doocs.org/en/lc/337/ |
+| House Robber III — LeetCode 337 | https://leetcode.com/problems/house-robber-iii/ |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+
+## Stock with Cooldown outline (2026-10-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Best Time to Buy and Sell Stock with Cooldown — NeetCode | https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-with-cooldown |
+| 309. Best Time to Buy and Sell Stock with Cooldown — LeetCode Wiki | https://leetcode.doocs.org/en/lc/309/ |
+| Best Time to Buy and Sell Stock with Cooldown — LeetCode 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ |
+| Finite-state machine — Wikipedia | https://en.wikipedia.org/wiki/Finite-state_machine |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+
 

@@ -156,6 +156,9 @@
 | [flexport.md](companies/flexport.md) | Flexport — official interview site, freight / trade OS, five values |
 | [gusto.md](companies/gusto.md) | Gusto — four values, SMB payroll / benefits, VMA hour |
 | [carta.md](companies/carta.md) | Carta — official How we hire, cap table / fund ERP, OPs |
+| [miro.md](companies/miro.md) | Miro — official 5-stage hire, canvas / values, design-on-board |
+| [zendesk.md](companies/zendesk.md) | Zendesk — official four principles, AI-for-service / tickets |
+| [klaviyo.md](companies/klaviyo.md) | Klaviyo — official eight values + AI interview rules, events / send |
 
 ## Role-specific
 
@@ -281,6 +284,8 @@
 | [coding-connected-components.md](answers/coding-connected-components.md) | Number of connected components (UF count) |
 | [coding-coin-change-ii.md](answers/coding-coin-change-ii.md) | Coin Change II (unbounded knapsack combinations) |
 | [coding-surrounded-regions.md](answers/coding-surrounded-regions.md) | Surrounded Regions (reverse flood from border) |
+| [coding-house-robber-iii.md](answers/coding-house-robber-iii.md) | House Robber III (tree DP pair) |
+| [coding-stock-cooldown.md](answers/coding-stock-cooldown.md) | Stock with cooldown (three-state DP) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

@@ -131,5 +131,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Flexport | [flexport.md](flexport.md) | Official interview site; freight / trade OS; five values |
 | Gusto | [gusto.md](gusto.md) | Official four values; SMB payroll / benefits; VMA hour |
 | Carta | [carta.md](carta.md) | Official How we hire; cap table / fund ERP; four OPs |
+| Miro | [miro.md](miro.md) | Official 5-stage hire; canvas / values; design on a Miro board |
+| Zendesk | [zendesk.md](zendesk.md) | Official four principles; AI-for-service / ticketing |
+| Klaviyo | [klaviyo.md](klaviyo.md) | Official eight values + AI interview rules; events / send |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
