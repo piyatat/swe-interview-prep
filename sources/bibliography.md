@@ -2690,4 +2690,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Finite-state machine — Wikipedia | https://en.wikipedia.org/wiki/Finite-state_machine |
 | Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
 
+## Webflow track (2026-10-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Remote Together \| Webflow careers | https://webflow.com/company/careers |
+| About: our mission, vision, and principles \| Webflow | https://webflow.com/company/about |
+| How Webflow Uses AI in Hiring | https://webflow.com/company/careers/ai-hiring-principles |
+| Introducing Codeflow — Webflow Engineering | https://webflow.com/blog/codeflow-interviews |
+| webflow/codeflow — GitHub | https://github.com/webflow/codeflow |
+
+## Fivetran track (2026-10-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Fivetran | https://www.fivetran.com/careers |
+| The Software Engineering Interview at Fivetran | https://www.fivetran.com/blog/software-engineering-interview |
+| Software Engineer — Fivetran (JD) | https://www.fivetran.com/careers/job?gh_jid=7778979003 |
+| Inside the Fivetran engineering interview loop — techinterview | https://www.techinterview.org/post/3233476183/fivetran-engineering-interview/ |
+| Fivetran Interview Questions — InterviewQuery | https://www.interviewquery.com/interview-guides/fivetran |
+
+## Intercom / Fin track (2026-10-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Fin / Intercom | https://www.intercom.com/careers |
+| Building “Minicom” — Intercom Engineering | https://www.intercom.com/blog/building-minicom-engineering-interviews |
+| How we hire engineers: Culture contribution — Intercom | https://www.intercom.com/blog/how-we-hire-engineers-culture-contribution |
+| intercom/minicom-public — GitHub | https://github.com/intercom/minicom-public |
+| Intercom Interview Questions — InterviewQuery | https://www.interviewquery.com/interview-guides/intercom |
+
+## Target Sum outline (2026-10-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Target Sum — NeetCode | https://neetcode.io/solutions/target-sum |
+| 494. Target Sum — LeetCode Wiki | https://leetcode.doocs.org/en/lc/494/ |
+| Target Sum — LeetCode 494 | https://leetcode.com/problems/target-sum/ |
+| Knapsack problem — Wikipedia | https://en.wikipedia.org/wiki/Knapsack_problem |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+
+## Partition Labels outline (2026-10-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Partition Labels — NeetCode | https://neetcode.io/solutions/partition-labels |
+| 763. Partition Labels — LeetCode Wiki | https://leetcode.doocs.org/en/lc/763/ |
+| Partition Labels — LeetCode 763 | https://leetcode.com/problems/partition-labels/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+
 

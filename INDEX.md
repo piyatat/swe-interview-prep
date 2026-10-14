@@ -159,6 +159,9 @@
 | [miro.md](companies/miro.md) | Miro — official 5-stage hire, canvas / values, design-on-board |
 | [zendesk.md](companies/zendesk.md) | Zendesk — official four principles, AI-for-service / tickets |
 | [klaviyo.md](companies/klaviyo.md) | Klaviyo — official eight values + AI interview rules, events / send |
+| [webflow.md](companies/webflow.md) | Webflow — official Codeflow + AI hiring rules, visual canvas / CMS |
+| [fivetran.md](companies/fivetran.md) | Fivetran — official C2 codebase hour, ELT / connectors + dbt |
+| [intercom.md](companies/intercom.md) | Intercom / Fin — official Minicom + SBI culture, messenger / agent |
 
 ## Role-specific
 
@@ -286,6 +289,8 @@
 | [coding-surrounded-regions.md](answers/coding-surrounded-regions.md) | Surrounded Regions (reverse flood from border) |
 | [coding-house-robber-iii.md](answers/coding-house-robber-iii.md) | House Robber III (tree DP pair) |
 | [coding-stock-cooldown.md](answers/coding-stock-cooldown.md) | Stock with cooldown (three-state DP) |
+| [coding-target-sum.md](answers/coding-target-sum.md) | Target Sum (signed subset-sum count) |
+| [coding-partition-labels.md](answers/coding-partition-labels.md) | Partition Labels (greedy last-index cut) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

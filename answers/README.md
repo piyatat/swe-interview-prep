@@ -112,6 +112,8 @@
 | Surrounded Regions (reverse flood) | [coding-surrounded-regions.md](coding-surrounded-regions.md) |
 | House Robber III (tree DP pair) | [coding-house-robber-iii.md](coding-house-robber-iii.md) |
 | Stock with cooldown (three-state DP) | [coding-stock-cooldown.md](coding-stock-cooldown.md) |
+| Target Sum (signed subset-sum count) | [coding-target-sum.md](coding-target-sum.md) |
+| Partition Labels (greedy last-index cut) | [coding-partition-labels.md](coding-partition-labels.md) |
 
 ## System design
 

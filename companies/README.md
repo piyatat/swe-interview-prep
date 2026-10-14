@@ -134,5 +134,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Miro | [miro.md](miro.md) | Official 5-stage hire; canvas / values; design on a Miro board |
 | Zendesk | [zendesk.md](zendesk.md) | Official four principles; AI-for-service / ticketing |
 | Klaviyo | [klaviyo.md](klaviyo.md) | Official eight values + AI interview rules; events / send |
+| Webflow | [webflow.md](webflow.md) | Official Codeflow + AI hiring rules; visual canvas / CMS |
+| Fivetran | [fivetran.md](fivetran.md) | Official C2 codebase hour; ELT / connectors + dbt |
+| Intercom / Fin | [intercom.md](intercom.md) | Official Minicom + SBI culture; messenger / AI agent |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
