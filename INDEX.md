@@ -162,6 +162,9 @@
 | [webflow.md](companies/webflow.md) | Webflow — official Codeflow + AI hiring rules, visual canvas / CMS |
 | [fivetran.md](companies/fivetran.md) | Fivetran — official C2 codebase hour, ELT / connectors + dbt |
 | [intercom.md](companies/intercom.md) | Intercom / Fin — official Minicom + SBI culture, messenger / agent |
+| [cohere.md](companies/cohere.md) | Cohere — enterprise Command / Embed / Rerank, optional take-home |
+| [elevenlabs.md](companies/elevenlabs.md) | ElevenLabs — voice / agents, official founder or Bar Raiser closer |
+| [monday.md](companies/monday.md) | monday.com — Work OS values, official CoderPad, boards / automations |
 
 ## Role-specific
 
@@ -189,6 +192,7 @@
 | [coding-merge-k-lists.md](answers/coding-merge-k-lists.md) | Merge K Sorted Lists |
 | [coding-valid-parentheses.md](answers/coding-valid-parentheses.md) | Valid Parentheses |
 | [coding-course-schedule.md](answers/coding-course-schedule.md) | Course Schedule (topo sort) |
+| [coding-course-schedule-ii.md](answers/coding-course-schedule-ii.md) | Course Schedule II (Kahn order) |
 | [coding-longest-substring.md](answers/coding-longest-substring.md) | Longest substring (sliding window) |
 | [coding-coin-change.md](answers/coding-coin-change.md) | Coin Change (unbounded DP) |
 | [coding-binary-search.md](answers/coding-binary-search.md) | Rotated array + search-on-answer |
@@ -291,6 +295,7 @@
 | [coding-stock-cooldown.md](answers/coding-stock-cooldown.md) | Stock with cooldown (three-state DP) |
 | [coding-target-sum.md](answers/coding-target-sum.md) | Target Sum (signed subset-sum count) |
 | [coding-partition-labels.md](answers/coding-partition-labels.md) | Partition Labels (greedy last-index cut) |
+| [coding-palindrome-partitioning.md](answers/coding-palindrome-partitioning.md) | Palindrome Partitioning (cut backtracking) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

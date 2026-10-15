@@ -137,5 +137,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Webflow | [webflow.md](webflow.md) | Official Codeflow + AI hiring rules; visual canvas / CMS |
 | Fivetran | [fivetran.md](fivetran.md) | Official C2 codebase hour; ELT / connectors + dbt |
 | Intercom / Fin | [intercom.md](intercom.md) | Official Minicom + SBI culture; messenger / AI agent |
+| Cohere | [cohere.md](cohere.md) | Enterprise Command / Embed / Rerank; optional take-home |
+| ElevenLabs | [elevenlabs.md](elevenlabs.md) | Voice / agents; official founder or Bar Raiser closer |
+| monday.com | [monday.md](monday.md) | Work OS values; official CoderPad; boards / automations |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

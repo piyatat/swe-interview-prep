@@ -2739,4 +2739,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Partition Labels — LeetCode 763 | https://leetcode.com/problems/partition-labels/ |
 | Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
 
+## Cohere track (2026-10-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers \| Cohere | https://cohere.com/careers |
+| About Our Company \| Cohere | https://cohere.com/about |
+| An Overview of The Cohere Platform | https://docs.cohere.com/docs/the-cohere-platform |
+| Cohere Software Engineer Interview — Interview Coder | https://www.interviewcoder.co/blog/cohere-software-engineer-interview |
+| Cohere Interview Process — Final Round AI | https://www.finalroundai.com/blog/cohere-interview-process |
+
+## ElevenLabs track (2026-10-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| ElevenLabs careers | https://elevenlabs.io/careers |
+| ElevenLabs Software Engineer Interview Guide — Aced | https://www.aced.io/guides/elevenlabs-software-engineer-interview |
+| How to Get a Job at ElevenLabs in 2026 — 100xfounder | https://100xfounder.com/how-to-get-a-job-at-elevenlabs/ |
+| ElevenLabs Interview: Process, Product Round — Calibrd | https://www.calibrd.com/interview-prep/elevenlabs-interview |
+
+## monday.com track (2026-10-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Join monday.com \| Careers | https://monday.com/careers |
+| Our Story — monday.com | https://monday.com/p/about/ |
+| A Guide to Technical Interviews at monday.com — Engineering | https://engineering.monday.com/a-guide-to-technical-interviews-at-monday-com/ |
+| How monday.com Adopted CoderPad — CoderPad | https://coderpad.io/case-study/how-monday-com-adopted-coderpad-to-scale-their-engineering-team/ |
+| monday.com Software Developer Interview Questions — Glassdoor | https://www.glassdoor.co.uk/Interview/monday-com-Software-Developer-Interview-Questions-EI_IE725019.0,10_KO11,29.htm |
+
+## Course Schedule II outline (2026-10-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Course Schedule II — NeetCode | https://neetcode.io/solutions/course-schedule-ii |
+| 210. Course Schedule II — LeetCode Wiki | https://leetcode.doocs.org/en/lc/210/ |
+| Course Schedule II — LeetCode 210 | https://leetcode.com/problems/course-schedule-ii/ |
+| Topological sorting — Wikipedia | https://en.wikipedia.org/wiki/Topological_sorting |
+
+## Palindrome Partitioning outline (2026-10-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Palindrome Partitioning — NeetCode | https://neetcode.io/solutions/palindrome-partitioning |
+| 131. Palindrome Partitioning — LeetCode Wiki | https://leetcode.doocs.org/en/lc/131/ |
+| Palindrome Partitioning — LeetCode 131 | https://leetcode.com/problems/palindrome-partitioning/ |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+| Palindrome — Wikipedia | https://en.wikipedia.org/wiki/Palindrome |
+
 

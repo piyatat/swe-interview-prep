@@ -12,6 +12,7 @@
 | Merge K Sorted Lists | [coding-merge-k-lists.md](coding-merge-k-lists.md) |
 | Valid Parentheses | [coding-valid-parentheses.md](coding-valid-parentheses.md) |
 | Course Schedule | [coding-course-schedule.md](coding-course-schedule.md) |
+| Course Schedule II (topo order) | [coding-course-schedule-ii.md](coding-course-schedule-ii.md) |
 | Longest substring without repeats | [coding-longest-substring.md](coding-longest-substring.md) |
 | Coin Change (min coins) | [coding-coin-change.md](coding-coin-change.md) |
 | Binary search (rotated + on-answer) | [coding-binary-search.md](coding-binary-search.md) |
@@ -114,6 +115,7 @@
 | Stock with cooldown (three-state DP) | [coding-stock-cooldown.md](coding-stock-cooldown.md) |
 | Target Sum (signed subset-sum count) | [coding-target-sum.md](coding-target-sum.md) |
 | Partition Labels (greedy last-index cut) | [coding-partition-labels.md](coding-partition-labels.md) |
+| Palindrome Partitioning (cut backtracking) | [coding-palindrome-partitioning.md](coding-palindrome-partitioning.md) |
 
 ## System design
 
