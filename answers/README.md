@@ -116,6 +116,8 @@
 | Target Sum (signed subset-sum count) | [coding-target-sum.md](coding-target-sum.md) |
 | Partition Labels (greedy last-index cut) | [coding-partition-labels.md](coding-partition-labels.md) |
 | Palindrome Partitioning (cut backtracking) | [coding-palindrome-partitioning.md](coding-palindrome-partitioning.md) |
+| Combination Sum II (sort + same-depth skip) | [coding-combination-sum-ii.md](coding-combination-sum-ii.md) |
+| Palindromic Substrings (expand + count) | [coding-palindromic-substrings.md](coding-palindromic-substrings.md) |
 
 ## System design
 

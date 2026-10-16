@@ -140,5 +140,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Cohere | [cohere.md](cohere.md) | Enterprise Command / Embed / Rerank; optional take-home |
 | ElevenLabs | [elevenlabs.md](elevenlabs.md) | Voice / agents; official founder or Bar Raiser closer |
 | monday.com | [monday.md](monday.md) | Work OS values; official CoderPad; boards / automations |
+| Superhuman / Grammarly | [grammarly.md](grammarly.md) | Suite values; official interview guide; writing / agents |
+| Zillow | [zillow.md](zillow.md) | Official greenfield + refactor; housing search / Zestimate |
+| Airtable | [airtable.md](airtable.md) | Official FAQ + no-live-AI; bases / formulas / interfaces |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

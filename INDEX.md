@@ -165,6 +165,9 @@
 | [cohere.md](companies/cohere.md) | Cohere — enterprise Command / Embed / Rerank, optional take-home |
 | [elevenlabs.md](companies/elevenlabs.md) | ElevenLabs — voice / agents, official founder or Bar Raiser closer |
 | [monday.md](companies/monday.md) | monday.com — Work OS values, official CoderPad, boards / automations |
+| [grammarly.md](companies/grammarly.md) | Superhuman / Grammarly — suite values, writing / agents, official interview guide |
+| [zillow.md](companies/zillow.md) | Zillow — official greenfield + refactor, housing search / Zestimate |
+| [airtable.md](companies/airtable.md) | Airtable — official FAQ + no-live-AI, bases / formulas / interfaces |
 
 ## Role-specific
 
@@ -296,6 +299,8 @@
 | [coding-target-sum.md](answers/coding-target-sum.md) | Target Sum (signed subset-sum count) |
 | [coding-partition-labels.md](answers/coding-partition-labels.md) | Partition Labels (greedy last-index cut) |
 | [coding-palindrome-partitioning.md](answers/coding-palindrome-partitioning.md) | Palindrome Partitioning (cut backtracking) |
+| [coding-combination-sum-ii.md](answers/coding-combination-sum-ii.md) | Combination Sum II (sort + same-depth skip) |
+| [coding-palindromic-substrings.md](answers/coding-palindromic-substrings.md) | Palindromic Substrings (expand + count) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

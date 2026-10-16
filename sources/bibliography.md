@@ -2787,4 +2787,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
 | Palindrome — Wikipedia | https://en.wikipedia.org/wiki/Palindrome |
 
+## Superhuman / Grammarly track (2026-10-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Explore career opportunities at Superhuman | https://superhuman.com/company/careers |
+| Superhuman Mission & Values | https://superhuman.com/company/values |
+| A Guide to Interviewing at Grammarly | https://www.grammarly.com/blog/interviewing/interviewing-at-grammarly/ |
+| Grammarly’s MOVE Operating Principles | https://www.grammarly.com/blog/company/move-operating-principles/ |
+| Grammarly Rebrands Company as Superhuman | https://www.grammarly.com/blog/company/announcing-company-rebrand-to-superhuman/ |
+| Grammarly Software Engineer Interview Experience — Jointaro | https://www.jointaro.com/interviews/companies/grammarly/experiences/software-engineer-united-states-september-3-2025-accepted-offer-positive-e4567b39/ |
+
+## Zillow track (2026-10-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Zillow Careers | https://www.zillow.com/careers/ |
+| Interview Prep — Zillow Careers | https://www.zillow.com/careers/interview-prep/ |
+| Values — Zillow Careers | https://www.zillow.com/careers/our-values/ |
+| Zillow Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/zillow/software-engineer |
+| Zillow Senior Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/Zillow-Senior-Software-Engineer-Interview-Questions-EI_IE40802.0,6_KO7,31.htm |
+
+## Airtable track (2026-10-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers – Airtable | https://airtable.com/careers |
+| Diversity and Inclusion in Product Development at Airtable — Engineering | https://medium.com/airtable-eng/diversity-and-inclusion-in-product-development-at-airtable-e82126452f0f |
+| Airtable's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/airtable-interview-process |
+| Current openings at Airtable — Greenhouse | https://job-boards.greenhouse.io/airtable |
+
+## Combination Sum II outline (2026-10-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Combination Sum II — NeetCode | https://neetcode.io/solutions/combination-sum-ii |
+| 40. Combination Sum II — LeetCode Wiki | https://leetcode.doocs.org/en/lc/40/ |
+| Combination Sum II — LeetCode 40 | https://leetcode.com/problems/combination-sum-ii/ |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+
+## Palindromic Substrings outline (2026-10-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Palindromic Substrings — NeetCode | https://neetcode.io/solutions/palindromic-substrings |
+| 647. Palindromic Substrings — LeetCode Wiki | https://leetcode.doocs.org/en/lc/647/ |
+| Palindromic Substrings — LeetCode 647 | https://leetcode.com/problems/palindromic-substrings/ |
+| Palindrome — Wikipedia | https://en.wikipedia.org/wiki/Palindrome |
+
 
