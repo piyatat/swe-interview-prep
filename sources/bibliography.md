@@ -2835,4 +2835,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Palindromic Substrings — LeetCode 647 | https://leetcode.com/problems/palindromic-substrings/ |
 | Palindrome — Wikipedia | https://en.wikipedia.org/wiki/Palindrome |
 
+## PostHog track (2026-10-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering Hiring — PostHog Handbook | https://posthog.com/handbook/people/hiring-process/engineering-hiring |
+| Preparing for the technical screen — Handbook | https://posthog.com/handbook/people/hiring-process/engineering-tech-screen |
+| Preparing for the engineering SuperDay — Handbook | https://posthog.com/handbook/people/hiring-process/engineering-superday |
+| Values — PostHog Handbook | https://posthog.com/handbook/company/values |
+| Careers - PostHog | https://posthog.com/careers |
+
+## Automattic track (2026-10-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire Developers – Automattic | https://automattic.com/work-with-us/how-we-hire-developers/ |
+| Work With Us – Automattic | https://automattic.com/work-with-us/ |
+| What to Expect During a Trial – Automattic | https://automattic.com/what-to-expect-during-a-trial/ |
+| The Automattic Creed | https://automattic.com/creed/ |
+
+## Zapier track (2026-10-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing at Zapier | https://zapier.com/l/jobs/interview-guide |
+| Culture and Values at Zapier | https://zapier.com/jobs/culture-and-values-at-zapier |
+| Job openings at Zapier | https://zapier.com/jobs |
+| How We Automated Our Engineering Skills Test — Zapier | https://zapier.com/blog/automated-skills-test/ |
+| Zapier Software Engineer Interview — PracHub | https://prachub.com/resources/zapier-software-engineer-interview-take-home-preparation-and-technical-discussion |
+
+## Design Add and Search Words outline (2026-10-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Design Add and Search Words — NeetCode | https://neetcode.io/solutions/design-add-and-search-words-data-structure |
+| 211. Design Add and Search Words Data Structure — LeetCode Wiki | https://leetcode.doocs.org/en/lc/211/ |
+| Design Add and Search Words Data Structure — LeetCode 211 | https://leetcode.com/problems/design-add-and-search-words-data-structure/ |
+| Trie — Wikipedia | https://en.wikipedia.org/wiki/Trie |
+
+## Max Area of Island outline (2026-10-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Max Area of Island — NeetCode | https://neetcode.io/solutions/max-area-of-island |
+| 695. Max Area of Island — LeetCode Wiki | https://leetcode.doocs.org/en/lc/695/ |
+| Max Area of Island — LeetCode 695 | https://leetcode.com/problems/max-area-of-island/ |
+| Flood fill — Wikipedia | https://en.wikipedia.org/wiki/Flood_fill |
+
 

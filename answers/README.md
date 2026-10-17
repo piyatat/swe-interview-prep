@@ -118,6 +118,8 @@
 | Palindrome Partitioning (cut backtracking) | [coding-palindrome-partitioning.md](coding-palindrome-partitioning.md) |
 | Combination Sum II (sort + same-depth skip) | [coding-combination-sum-ii.md](coding-combination-sum-ii.md) |
 | Palindromic Substrings (expand + count) | [coding-palindromic-substrings.md](coding-palindromic-substrings.md) |
+| Add and Search Words (trie + `.` DFS) | [coding-word-dictionary.md](coding-word-dictionary.md) |
+| Max Area of Island (flood-fill size) | [coding-max-area-island.md](coding-max-area-island.md) |
 
 ## System design
 

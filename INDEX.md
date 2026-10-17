@@ -168,6 +168,9 @@
 | [grammarly.md](companies/grammarly.md) | Superhuman / Grammarly — suite values, writing / agents, official interview guide |
 | [zillow.md](companies/zillow.md) | Zillow — official greenfield + refactor, housing search / Zestimate |
 | [airtable.md](companies/airtable.md) | Airtable — official FAQ + no-live-AI, bases / formulas / interfaces |
+| [posthog.md](companies/posthog.md) | PostHog — handbook SuperDay ($1k), no-LeetCode screen, product OS |
+| [automattic.md](companies/automattic.md) | Automattic — Slack + plugin take-home, paid P2 trial, Creed |
+| [zapier.md](companies/zapier.md) | Zapier — official 9-stage hire, short take-home, Build the robot |
 
 ## Role-specific
 
@@ -301,6 +304,8 @@
 | [coding-palindrome-partitioning.md](answers/coding-palindrome-partitioning.md) | Palindrome Partitioning (cut backtracking) |
 | [coding-combination-sum-ii.md](answers/coding-combination-sum-ii.md) | Combination Sum II (sort + same-depth skip) |
 | [coding-palindromic-substrings.md](answers/coding-palindromic-substrings.md) | Palindromic Substrings (expand + count) |
+| [coding-word-dictionary.md](answers/coding-word-dictionary.md) | Add and Search Words (trie + `.` DFS) |
+| [coding-max-area-island.md](answers/coding-max-area-island.md) | Max Area of Island (flood-fill size) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

@@ -143,5 +143,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Superhuman / Grammarly | [grammarly.md](grammarly.md) | Suite values; official interview guide; writing / agents |
 | Zillow | [zillow.md](zillow.md) | Official greenfield + refactor; housing search / Zestimate |
 | Airtable | [airtable.md](airtable.md) | Official FAQ + no-live-AI; bases / formulas / interfaces |
+| PostHog | [posthog.md](posthog.md) | Handbook SuperDay ($1k); no live coding; product OS / events |
+| Automattic | [automattic.md](automattic.md) | Slack intro + plugin take-home; paid P2 trial; Creed |
+| Zapier | [zapier.md](zapier.md) | Official 9-stage hire; short take-home; Build the robot |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
