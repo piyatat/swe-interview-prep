@@ -146,5 +146,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | PostHog | [posthog.md](posthog.md) | Handbook SuperDay ($1k); no live coding; product OS / events |
 | Automattic | [automattic.md](automattic.md) | Slack intro + plugin take-home; paid P2 trial; Creed |
 | Zapier | [zapier.md](zapier.md) | Official 9-stage hire; short take-home; Build the robot |
+| Arm | [arm.md](arm.md) | Official 10x Mindset + HireVue / team loop; ISA / CPU IP |
+| Checkout.com | [checkout.md](checkout.md) | Official live or take-home gateway; Aspire / Excel / Unite |
+| Nubank | [nubank.md](nubank.md) | Official take-home + pair; five Nu values; LATAM digital bank |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

@@ -120,6 +120,8 @@
 | Palindromic Substrings (expand + count) | [coding-palindromic-substrings.md](coding-palindromic-substrings.md) |
 | Add and Search Words (trie + `.` DFS) | [coding-word-dictionary.md](coding-word-dictionary.md) |
 | Max Area of Island (flood-fill size) | [coding-max-area-island.md](coding-max-area-island.md) |
+| Redundant Connection (UF cycle edge) | [coding-redundant-connection.md](coding-redundant-connection.md) |
+| Min cost to connect points (Manhattan MST) | [coding-min-cost-connect.md](coding-min-cost-connect.md) |
 
 ## System design
 

@@ -2882,4 +2882,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Max Area of Island — LeetCode 695 | https://leetcode.com/problems/max-area-of-island/ |
 | Flood fill — Wikipedia | https://en.wikipedia.org/wiki/Flood_fill |
 
+## Arm track (2026-10-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Hiring Process — Arm Careers | https://careers.arm.com/hiring-process |
+| Life at Arm | https://careers.arm.com/life-at-arm |
+| About Arm | https://www.arm.com/company |
+| Arm Careers | https://careers.arm.com/ |
+| Arm Interview: HireVue, Graduate Software Engineer — Calibrd | https://www.calibrd.com/interview-prep/arm-interview |
+
+## Checkout.com track (2026-10-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Work alongside amazing people — Checkout.com Jobs | https://www.checkout.com/jobs |
+| Technology at Checkout.com | https://www.checkout.com/departments/technology |
+| Mission — Checkout.com | https://www.checkout.com/mission |
+| Life at Checkout | https://www.checkout.com/life-at-checkout |
+| cko-recruitment/payment-gateway-challenge-java | https://github.com/cko-recruitment/payment-gateway-challenge-java |
+
+## Nubank track (2026-10-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| What is the hiring process like for Software Engineers at Nubank? | https://building.nubank.com/what-is-the-interview-process-like-for-software-engineers-at-nubank/ |
+| The principles that uphold Nubank’s culture | https://building.nubank.com/the-principles-that-uphold-nubanks-culture/ |
+| Nubank’s Engineering Principles — Edward Wible | https://building.nubank.com/nubanks-engineering-principles-interview-with-ed-wible/ |
+| 8 tips to solve the SWE technical exercise — Building Nubank | https://building.nubank.com/tips-software-engineering-technical-exercise/ |
+| Careers — Nu International | https://international.nubank.com.br/careers/ |
+
+## Redundant Connection outline (2026-10-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Redundant Connection — NeetCode | https://neetcode.io/solutions/redundant-connection |
+| 684. Redundant Connection — LeetCode Wiki | https://leetcode.doocs.org/en/lc/684/ |
+| Redundant Connection — LeetCode 684 | https://leetcode.com/problems/redundant-connection/ |
+| Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
+| Tree (graph theory) — Wikipedia | https://en.wikipedia.org/wiki/Tree_(graph_theory) |
+
+## Min Cost to Connect All Points outline (2026-10-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Min Cost to Connect All Points — NeetCode | https://neetcode.io/solutions/min-cost-to-connect-all-points |
+| 1584. Min Cost to Connect All Points — LeetCode Wiki | https://leetcode.doocs.org/en/lc/1584/ |
+| Min Cost to Connect All Points — LeetCode 1584 | https://leetcode.com/problems/min-cost-to-connect-all-points/ |
+| Minimum spanning tree — Wikipedia | https://en.wikipedia.org/wiki/Minimum_spanning_tree |
+| Kruskal's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Kruskal%27s_algorithm |
+| Prim's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Prim%27s_algorithm |
+
 

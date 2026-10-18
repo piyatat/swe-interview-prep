@@ -171,6 +171,9 @@
 | [posthog.md](companies/posthog.md) | PostHog — handbook SuperDay ($1k), no-LeetCode screen, product OS |
 | [automattic.md](companies/automattic.md) | Automattic — Slack + plugin take-home, paid P2 trial, Creed |
 | [zapier.md](companies/zapier.md) | Zapier — official 9-stage hire, short take-home, Build the robot |
+| [arm.md](companies/arm.md) | Arm — 10x Mindset, official HireVue / team loop, ISA / CPU IP |
+| [checkout.md](companies/checkout.md) | Checkout.com — Aspire/Excel/Unite, live or take-home gateway, acquiring |
+| [nubank.md](companies/nubank.md) | Nubank — five Nu values, official take-home + pair, LATAM digital bank |
 
 ## Role-specific
 
@@ -306,6 +309,8 @@
 | [coding-palindromic-substrings.md](answers/coding-palindromic-substrings.md) | Palindromic Substrings (expand + count) |
 | [coding-word-dictionary.md](answers/coding-word-dictionary.md) | Add and Search Words (trie + `.` DFS) |
 | [coding-max-area-island.md](answers/coding-max-area-island.md) | Max Area of Island (flood-fill size) |
+| [coding-redundant-connection.md](answers/coding-redundant-connection.md) | Redundant Connection (UF cycle edge) |
+| [coding-min-cost-connect.md](answers/coding-min-cost-connect.md) | Min cost to connect points (Manhattan MST) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
