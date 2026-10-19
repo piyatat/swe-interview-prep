@@ -174,6 +174,9 @@
 | [arm.md](companies/arm.md) | Arm — 10x Mindset, official HireVue / team loop, ISA / CPU IP |
 | [checkout.md](companies/checkout.md) | Checkout.com — Aspire/Excel/Unite, live or take-home gateway, acquiring |
 | [nubank.md](companies/nubank.md) | Nubank — five Nu values, official take-home + pair, LATAM digital bank |
+| [twitch.md](companies/twitch.md) | Twitch — official quest hire, 15 LPs, live / creator systems |
+| [optiver.md](companies/optiver.md) | Optiver — official SWE tips, market-making, CS + physics |
+| [fanduel.md](companies/fanduel.md) | FanDuel — official How we hire, ten principles, sportsbook |
 
 ## Role-specific
 
@@ -311,6 +314,8 @@
 | [coding-max-area-island.md](answers/coding-max-area-island.md) | Max Area of Island (flood-fill size) |
 | [coding-redundant-connection.md](answers/coding-redundant-connection.md) | Redundant Connection (UF cycle edge) |
 | [coding-min-cost-connect.md](answers/coding-min-cost-connect.md) | Min cost to connect points (Manhattan MST) |
+| [coding-walls-and-gates.md](answers/coding-walls-and-gates.md) | Walls and Gates (multi-source BFS distance) |
+| [coding-reverse-k-group.md](answers/coding-reverse-k-group.md) | Reverse nodes in k-group (probe + splice) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

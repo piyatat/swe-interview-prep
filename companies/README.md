@@ -149,5 +149,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Arm | [arm.md](arm.md) | Official 10x Mindset + HireVue / team loop; ISA / CPU IP |
 | Checkout.com | [checkout.md](checkout.md) | Official live or take-home gateway; Aspire / Excel / Unite |
 | Nubank | [nubank.md](nubank.md) | Official take-home + pair; five Nu values; LATAM digital bank |
+| Twitch | [twitch.md](twitch.md) | Official quest hire; 15 LPs; live / VOD / chat |
+| Optiver | [optiver.md](optiver.md) | Official SWE tips; market-making; CS + systems physics |
+| FanDuel | [fanduel.md](fanduel.md) | Official How we hire; ten principles; regulated sportsbook |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

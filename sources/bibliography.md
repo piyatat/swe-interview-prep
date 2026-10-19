@@ -2933,4 +2933,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Kruskal's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Kruskal%27s_algorithm |
 | Prim's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Prim%27s_algorithm |
 
+## Twitch track (2026-10-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Your Quest to Twitch — Interviewing | https://careers.twitch.com/en/interviewing/ |
+| Twitch Leadership Principles | https://careers.twitch.com/en/leadershipprinciples/ |
+| Early Career — Twitch Careers | https://careers.twitch.com/en/early-career/ |
+| Careers @ Twitch | https://careers.twitch.com/en/ |
+| Software Engineer, On Demand Products — Twitch Careers | https://careers.twitch.com/en/career-posts/8066916002/ |
+
+## Optiver track (2026-10-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Optiver interview tips for Software Engineers | https://www.optiver.com/join-us/stories/optiver-interview-tips-for-software-engineers/ |
+| About Us — Optiver | https://www.optiver.com/about-us/ |
+| Working at Optiver | https://optiver.com/working-at-optiver |
+| Diversity Statement — Optiver | https://www.optiver.com/diversity-statement/ |
+| Optiver Interview Process for Software Engineers (2026) — getcracked.io | https://getcracked.io/blog/navigating-the-optiver-interview-swe |
+
+## FanDuel track (2026-10-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — FanDuel Careers | https://www.fanduel.careers/future-teammates/how-we-hire/ |
+| FanDuel Life | https://www.fanduel.careers/fanduel-life/ |
+| FanDuel Careers | https://www.fanduel.careers/ |
+| FanDuel Frontend Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/fanduel/frontend-engineer |
+| FanDuel Software Engineer Interview Questions — Glassdoor | https://www.glassdoor.co.uk/Interview/FanDuel-Software-Engineer-Interview-Questions-EI_IE894936.0,7_KO8,25.htm |
+
+## Walls and Gates outline (2026-10-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Walls and Gates — NeetCode | https://neetcode.io/solutions/walls-and-gates |
+| 286. Walls and Gates — LeetCode Wiki | https://leetcode.doocs.org/en/lc/286/ |
+| Walls and Gates — LeetCode 286 | https://leetcode.com/problems/walls-and-gates/ |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+
+## Reverse Nodes in k-Group outline (2026-10-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Reverse Nodes in k-Group — NeetCode | https://neetcode.io/solutions/reverse-nodes-in-k-group |
+| 25. Reverse Nodes in k-Group — LeetCode Wiki | https://leetcode.doocs.org/en/lc/25/ |
+| Reverse Nodes in k-Group — LeetCode 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ |
+| Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
+
 

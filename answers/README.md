@@ -122,6 +122,8 @@
 | Max Area of Island (flood-fill size) | [coding-max-area-island.md](coding-max-area-island.md) |
 | Redundant Connection (UF cycle edge) | [coding-redundant-connection.md](coding-redundant-connection.md) |
 | Min cost to connect points (Manhattan MST) | [coding-min-cost-connect.md](coding-min-cost-connect.md) |
+| Walls and Gates (multi-source distance) | [coding-walls-and-gates.md](coding-walls-and-gates.md) |
+| Reverse nodes in k-group (probe + splice) | [coding-reverse-k-group.md](coding-reverse-k-group.md) |
 
 ## System design
 
