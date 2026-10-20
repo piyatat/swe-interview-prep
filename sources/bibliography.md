@@ -2981,4 +2981,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Reverse Nodes in k-Group — LeetCode 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ |
 | Linked list — Wikipedia | https://en.wikipedia.org/wiki/Linked_list |
 
+## DraftKings track (2026-10-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — DraftKings Careers | https://careers.draftkings.com/working-here/how-we-hire/ |
+| Working Here / values — DraftKings | https://careers.draftkings.com/working-here/ |
+| Advice from Hiring Managers — DraftKings | https://careers.draftkings.com/life-at-draftkings/our-culture/advice-from-hiring-managers-before-your-interview/ |
+| DraftKings Careers | https://careers.draftkings.com/ |
+| Software Engineer Interview at DraftKings — r/DevelEire | https://www.reddit.com/r/DevelEire/comments/1cndojz/software_engineer_interview_at_draftkings/ |
+
+## Hudson River Trading track (2026-10-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| How to Prepare for Your Software Engineer Interview at HRT | https://www.hudsonrivertrading.com/hrtbeat/interview-at-hrt/ |
+| Engineering and Interviewing at HRT — Joe Smith | https://www.hudsonrivertrading.com/hrtbeat/engineering-and-interviewing-at-hrt/ |
+| Life at HRT | https://www.hudson-trading.com/life-at-hrt/ |
+| Work at HRT | https://www.hudsonrivertrading.com/work-at-hrt/ |
+| HRT official comment on interview shape — Hacker News | https://news.ycombinator.com/item?id=42576574 |
+
+## IMC Trading track (2026-10-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| How to prepare for an interview at IMC | https://www.imc.com/ap/articles/how-to-prepare-for-an-interview-at-imc |
+| A unique approach to hiring — Alex ten Brink | https://www.imc.com/in/articles/a-unique-approach-to-hiring-in-conversation-with-alex-ten-brink |
+| Culture & values — IMC | https://www.imc.com/us/who-we-are/our-culture-values |
+| Software Engineering — IMC | https://www.imc.com/us/what-we-do/technology/software-engineering |
+| Graduate Software Engineer (2026) — IMC | https://www.imc.com/us/careers/jobs/4564480101 |
+
+## Reconstruct Itinerary outline (2026-10-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Reconstruct Itinerary — NeetCode | https://neetcode.io/solutions/reconstruct-itinerary |
+| 332. Reconstruct Itinerary — LeetCode Wiki | https://leetcode.doocs.org/en/lc/332/ |
+| Reconstruct Itinerary — LeetCode 332 | https://leetcode.com/problems/reconstruct-itinerary/ |
+| Eulerian path — Wikipedia | https://en.wikipedia.org/wiki/Eulerian_path |
+
+## Maximal Square outline (2026-10-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Maximal Square — NeetCode | https://neetcode.io/solutions/maximal-square |
+| 221. Maximal Square — LeetCode Wiki | https://leetcode.doocs.org/en/lc/221/ |
+| Maximal Square — LeetCode 221 | https://leetcode.com/problems/maximal-square/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

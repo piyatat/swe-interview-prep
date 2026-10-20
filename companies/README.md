@@ -152,5 +152,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Twitch | [twitch.md](twitch.md) | Official quest hire; 15 LPs; live / VOD / chat |
 | Optiver | [optiver.md](optiver.md) | Official SWE tips; market-making; CS + systems physics |
 | FanDuel | [fanduel.md](fanduel.md) | Official How we hire; ten principles; regulated sportsbook |
+| DraftKings | [draftkings.md](draftkings.md) | Official How we hire; five values; DFS / sportsbook / iGaming |
+| Hudson River Trading | [hrt.md](hrt.md) | Official HRTBeat loop; C++ / Python systems; leaders code |
+| IMC Trading | [imc.md](imc.md) | Official values + OA then trading-system assessment |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

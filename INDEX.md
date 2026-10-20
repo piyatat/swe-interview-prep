@@ -177,6 +177,9 @@
 | [twitch.md](companies/twitch.md) | Twitch — official quest hire, 15 LPs, live / creator systems |
 | [optiver.md](companies/optiver.md) | Optiver — official SWE tips, market-making, CS + physics |
 | [fanduel.md](companies/fanduel.md) | FanDuel — official How we hire, ten principles, sportsbook |
+| [draftkings.md](companies/draftkings.md) | DraftKings — official How we hire, five values, DFS / sportsbook |
+| [hrt.md](companies/hrt.md) | Hudson River Trading — official HRTBeat loop, C++ / Python systems |
+| [imc.md](companies/imc.md) | IMC Trading — official values + trading-system assessment |
 
 ## Role-specific
 
@@ -316,6 +319,8 @@
 | [coding-min-cost-connect.md](answers/coding-min-cost-connect.md) | Min cost to connect points (Manhattan MST) |
 | [coding-walls-and-gates.md](answers/coding-walls-and-gates.md) | Walls and Gates (multi-source BFS distance) |
 | [coding-reverse-k-group.md](answers/coding-reverse-k-group.md) | Reverse nodes in k-group (probe + splice) |
+| [coding-reconstruct-itinerary.md](answers/coding-reconstruct-itinerary.md) | Reconstruct Itinerary (Hierholzer Euler path) |
+| [coding-maximal-square.md](answers/coding-maximal-square.md) | Maximal Square (min-of-three 2D DP) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

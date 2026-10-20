@@ -124,6 +124,8 @@
 | Min cost to connect points (Manhattan MST) | [coding-min-cost-connect.md](coding-min-cost-connect.md) |
 | Walls and Gates (multi-source distance) | [coding-walls-and-gates.md](coding-walls-and-gates.md) |
 | Reverse nodes in k-group (probe + splice) | [coding-reverse-k-group.md](coding-reverse-k-group.md) |
+| Reconstruct Itinerary (Hierholzer) | [coding-reconstruct-itinerary.md](coding-reconstruct-itinerary.md) |
+| Maximal Square (min-of-three DP) | [coding-maximal-square.md](coding-maximal-square.md) |
 
 ## System design
 
