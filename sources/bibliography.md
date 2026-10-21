@@ -3030,4 +3030,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## D. E. Shaw track (2026-10-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Preparing for an Interview — D. E. Shaw Group | https://www.deshaw.com/careers/interviewing-guide |
+| Interviewing — D. E. Shaw Group | https://www.deshaw.com/careers/interviewing |
+| Who We Are / core principles — D. E. Shaw Group | https://www.deshaw.com/who-we-are/core-principles |
+| Software Developer — D. E. Shaw Group | https://www.deshaw.com/careers/software-developer-2646 |
+| Software Developer: Developer Experience — D. E. Shaw Group | https://www.deshaw.com/careers/software-developer-developer-experience-5866 |
+
+## Two Sigma track (2026-10-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing for Software Engineering — Two Sigma | https://www.twosigma.com/interviewing-for-software-engineering/ |
+| Software & Systems Engineering Careers — Two Sigma | https://www.twosigma.com/careers/engineering/ |
+| Careers — Two Sigma | https://www.twosigma.com/careers/ |
+| Engineering education at Two Sigma | https://www.twosigma.com/articles/endlessly-curious-and-maximally-effective-engineering-education-at-two-sigma/ |
+| Curiosity × scientific method — Two Sigma | https://www.twosigma.com/articles/the-innovation-equation-curiosity-x-the-scientific-method-at-two-sigma/ |
+
+## Red Hat track (2026-10-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hiring process — Red Hat Jobs | https://www.redhat.com/en/jobs/info-guide |
+| AI usage guidelines for Red Hat job candidates | https://www.redhat.com/en/jobs/ai-usage-guidelines |
+| Fostering a culture of innovation — Red Hat | https://www.redhat.com/en/about/our-culture |
+| Red Hat's Open Culture Guide | https://www.redhat.com/en/open-culture-guide |
+| Jobs — Red Hat | https://www.redhat.com/en/jobs |
+
+## Count Good Nodes outline (2026-10-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Count Good Nodes in Binary Tree — NeetCode | https://neetcode.io/solutions/count-good-nodes-in-binary-tree |
+| 1448. Count Good Nodes in Binary Tree — LeetCode Wiki | https://leetcode.doocs.org/en/lc/1448/ |
+| Count Good Nodes in Binary Tree — LeetCode 1448 | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Interleaving String outline (2026-10-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interleaving String — NeetCode | https://neetcode.io/solutions/interleaving-string |
+| 97. Interleaving String — LeetCode Wiki | https://leetcode.doocs.org/en/lc/97/ |
+| Interleaving String — LeetCode 97 | https://leetcode.com/problems/interleaving-string/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

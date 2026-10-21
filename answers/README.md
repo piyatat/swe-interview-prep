@@ -126,6 +126,8 @@
 | Reverse nodes in k-group (probe + splice) | [coding-reverse-k-group.md](coding-reverse-k-group.md) |
 | Reconstruct Itinerary (Hierholzer) | [coding-reconstruct-itinerary.md](coding-reconstruct-itinerary.md) |
 | Maximal Square (min-of-three DP) | [coding-maximal-square.md](coding-maximal-square.md) |
+| Count Good Nodes (path-max DFS) | [coding-good-nodes.md](coding-good-nodes.md) |
+| Interleaving String (2D string DP) | [coding-interleaving-string.md](coding-interleaving-string.md) |
 
 ## System design
 

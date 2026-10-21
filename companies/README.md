@@ -155,5 +155,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | DraftKings | [draftkings.md](draftkings.md) | Official How we hire; five values; DFS / sportsbook / iGaming |
 | Hudson River Trading | [hrt.md](hrt.md) | Official HRTBeat loop; C++ / Python systems; leaders code |
 | IMC Trading | [imc.md](imc.md) | Official values + OA then trading-system assessment |
+| D. E. Shaw | [deshaw.md](deshaw.md) | Official interview guide; five principles; SWE vs systems |
+| Two Sigma | [twosigma.md](twosigma.md) | Official SWE loop; AI-off; nine eng verticals |
+| Red Hat | [redhat.md](redhat.md) | Official hire + candidate AI rules; open-org values |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

@@ -180,6 +180,9 @@
 | [draftkings.md](companies/draftkings.md) | DraftKings — official How we hire, five values, DFS / sportsbook |
 | [hrt.md](companies/hrt.md) | Hudson River Trading — official HRTBeat loop, C++ / Python systems |
 | [imc.md](companies/imc.md) | IMC Trading — official values + trading-system assessment |
+| [deshaw.md](companies/deshaw.md) | D. E. Shaw — official interview guide, five principles, SWE vs systems |
+| [twosigma.md](companies/twosigma.md) | Two Sigma — official SWE loop, AI-off, nine eng verticals |
+| [redhat.md](companies/redhat.md) | Red Hat — official hire + candidate AI rules, open-org values |
 
 ## Role-specific
 
@@ -321,6 +324,8 @@
 | [coding-reverse-k-group.md](answers/coding-reverse-k-group.md) | Reverse nodes in k-group (probe + splice) |
 | [coding-reconstruct-itinerary.md](answers/coding-reconstruct-itinerary.md) | Reconstruct Itinerary (Hierholzer Euler path) |
 | [coding-maximal-square.md](answers/coding-maximal-square.md) | Maximal Square (min-of-three 2D DP) |
+| [coding-good-nodes.md](answers/coding-good-nodes.md) | Count Good Nodes (path-max DFS) |
+| [coding-interleaving-string.md](answers/coding-interleaving-string.md) | Interleaving String (2D string DP) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
