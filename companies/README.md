@@ -158,5 +158,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | D. E. Shaw | [deshaw.md](deshaw.md) | Official interview guide; five principles; SWE vs systems |
 | Two Sigma | [twosigma.md](twosigma.md) | Official SWE loop; AI-off; nine eng verticals |
 | Red Hat | [redhat.md](redhat.md) | Official hire + candidate AI rules; open-org values |
+| Wayfair | [wayfair.md](wayfair.md) | Official SWE panel + People Principles; catalog / fulfillment |
+| Flow Traders | [flow-traders.md](flow-traders.md) | Official HackerRank + Codepair; ETP / digital-asset MM |
+| DRW | [drw.md](drw.md) | Official take-home + two-day onsite; Chicago prop SWE |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

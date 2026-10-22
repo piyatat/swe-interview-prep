@@ -3080,4 +3080,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Wayfair track (2026-10-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Commencing Your Technology Journey at Wayfair: The Interview Process for Software Engineers | https://www.aboutwayfair.com/careers/tech-blog/commencing-your-technology-journey-at-wayfair-the-interview-process-for-software-engineers |
+| How We Work / People Principles — Wayfair Careers | https://www.aboutwayfair.com/careers/how-we-work |
+| How We Work — About Wayfair | https://www.aboutwayfair.com/how-we-work |
+| Wayfair Careers / jobs | https://www.wayfair.com/careers/jobs |
+
+## Flow Traders track (2026-10-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Technology — Flow Traders | https://www.flowtraders.com/careers/technology |
+| Careers / values — Flow Traders | https://www.flowtraders.com/careers/ |
+| Graduates — Flow Traders | https://www.flowtraders.com/careers/graduates |
+| Senior Software Engineer, C++ — Flow Traders | https://www.flowtraders.com/careers/job-description/8025933 |
+| Annual Report 2025 — Flow Traders | https://www.flowtraders.com/media/2s2pdl01/flow-traders-annual-report-2025.pdf |
+
+## DRW track (2026-10-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Work at DRW | https://www.drw.com/work-at-drw |
+| Graduates — interview process — DRW | https://www.drw.com/work-at-drw/graduates |
+| Acing your phone interview — DRW | https://www.drw.com/updates/insights/acing-your-phone-interview |
+| How to Become a Successful New Grad Developer at DRW | https://www.drw.com/updates/insights/how-to-become-a-successful-new-grad-developer-at-drw |
+| Software Developer — DRW | https://www.drw.com/work-at-drw/listings/software-developer-3463408 |
+
+## Burst Balloons outline (2026-10-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Burst Balloons — NeetCode | https://neetcode.io/solutions/burst-balloons |
+| 312. Burst Balloons — LeetCode Wiki | https://leetcode.doocs.org/en/lc/312/ |
+| Burst Balloons — LeetCode 312 | https://leetcode.com/problems/burst-balloons/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Longest Increasing Path outline (2026-10-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Longest Increasing Path in a Matrix — NeetCode | https://neetcode.io/solutions/longest-increasing-path-in-a-matrix |
+| 329. Longest Increasing Path in a Matrix — LeetCode Wiki | https://leetcode.doocs.org/en/lc/329/ |
+| Longest Increasing Path in a Matrix — LeetCode 329 | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ |
+| Depth-first search — Wikipedia | https://en.wikipedia.org/wiki/Depth-first_search |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

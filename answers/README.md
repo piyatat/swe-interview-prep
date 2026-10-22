@@ -128,6 +128,8 @@
 | Maximal Square (min-of-three DP) | [coding-maximal-square.md](coding-maximal-square.md) |
 | Count Good Nodes (path-max DFS) | [coding-good-nodes.md](coding-good-nodes.md) |
 | Interleaving String (2D string DP) | [coding-interleaving-string.md](coding-interleaving-string.md) |
+| Burst Balloons (interval DP / last balloon) | [coding-burst-balloons.md](coding-burst-balloons.md) |
+| Longest increasing path in a matrix (memo DFS) | [coding-longest-increasing-path.md](coding-longest-increasing-path.md) |
 
 ## System design
 

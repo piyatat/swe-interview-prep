@@ -183,6 +183,9 @@
 | [deshaw.md](companies/deshaw.md) | D. E. Shaw — official interview guide, five principles, SWE vs systems |
 | [twosigma.md](companies/twosigma.md) | Two Sigma — official SWE loop, AI-off, nine eng verticals |
 | [redhat.md](companies/redhat.md) | Red Hat — official hire + candidate AI rules, open-org values |
+| [wayfair.md](companies/wayfair.md) | Wayfair — official SWE panel, People Principles, catalog / fulfillment |
+| [flow-traders.md](companies/flow-traders.md) | Flow Traders — official HackerRank + Codepair, ETP / digital-asset MM |
+| [drw.md](companies/drw.md) | DRW — official take-home + two-day onsite, Chicago prop SWE |
 
 ## Role-specific
 
@@ -326,6 +329,8 @@
 | [coding-maximal-square.md](answers/coding-maximal-square.md) | Maximal Square (min-of-three 2D DP) |
 | [coding-good-nodes.md](answers/coding-good-nodes.md) | Count Good Nodes (path-max DFS) |
 | [coding-interleaving-string.md](answers/coding-interleaving-string.md) | Interleaving String (2D string DP) |
+| [coding-burst-balloons.md](answers/coding-burst-balloons.md) | Burst Balloons (interval DP / last balloon) |
+| [coding-longest-increasing-path.md](answers/coding-longest-increasing-path.md) | Longest increasing path in a matrix (memo DFS DAG) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
