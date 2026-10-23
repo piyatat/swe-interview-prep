@@ -3129,4 +3129,48 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Depth-first search — Wikipedia | https://en.wikipedia.org/wiki/Depth-first_search |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Sierra track (2026-10-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| The AI-native interview — Sierra | https://sierra.ai/blog/the-ai-native-interview |
+| About Sierra | https://sierra.ai/about |
+| Careers — Sierra | https://sierra.ai/careers |
+| Early Career Program — Sierra | https://sierra.ai/early-career-program |
+
+## Expedia Group track (2026-10-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| How to Interview at Expedia Group | https://careers.expediagroup.com/interview-guide/ |
+| Emerging Talent Interview Prep — SDE — Expedia Group | https://careers.expediagroup.com/emergingtalent-prephub-sde/ |
+| Emerging Talent Prep Hub — HackerRank — Expedia Group | https://careers.expediagroup.com/emergingtalent_hackerrank/ |
+| Expedia Group Tech Careers | https://careers.expediagroup.com/technology/ |
+
+## DoorDash AI working session (2026-10-23 update)
+
+| Title | URL |
+| --- | --- |
+| Why DoorDash is rebuilding its engineering interviews around AI | https://careersatdoordash.com/blog/doordash-is-rebuilding-its-engineering-interviews-around-ai/ |
+
+## Distinct Subsequences outline (2026-10-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Distinct Subsequences — NeetCode | https://neetcode.io/solutions/distinct-subsequences |
+| 115. Distinct Subsequences — LeetCode Wiki | https://leetcode.doocs.org/en/lc/115/ |
+| Distinct Subsequences — LeetCode 115 | https://leetcode.com/problems/distinct-subsequences/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Regular Expression Matching outline (2026-10-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Regular Expression Matching — NeetCode | https://neetcode.io/solutions/regular-expression-matching |
+| 10. Regular Expression Matching — LeetCode Wiki | https://leetcode.doocs.org/en/lc/10/ |
+| Regular Expression Matching — LeetCode 10 | https://leetcode.com/problems/regular-expression-matching/ |
+| Regular expression — Wikipedia | https://en.wikipedia.org/wiki/Regular_expression |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

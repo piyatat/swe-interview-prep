@@ -19,7 +19,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | NVIDIA | [nvidia.md](nvidia.md) | Team-owned; in-person before offer; CUDA / systems |
 | TikTok / ByteDance | [tiktok.md](tiktok.md) | ByteStyle; OA + sequential coding; feed / live design |
 | Cloudflare | [cloudflare.md](cloudflare.md) | Orange Cloud; edge / Workers; take-home + review |
-| DoorDash | [doordash.md](doordash.md) | CodeCraft; three-sided marketplace; values hour |
+| DoorDash | [doordash.md](doordash.md) | Official AI working session; three-sided marketplace; values hour |
 | Shopify | [shopify.md](shopify.md) | Life Story; craft / pair; merchant systems |
 | Atlassian | [atlassian.md](atlassian.md) | Values + HC; Team Anywhere; multi-tenant SaaS |
 | Coinbase | [coinbase.md](coinbase.md) | AI-era repo loop; tenets; ledger / exchange |
@@ -161,5 +161,7 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Wayfair | [wayfair.md](wayfair.md) | Official SWE panel + People Principles; catalog / fulfillment |
 | Flow Traders | [flow-traders.md](flow-traders.md) | Official HackerRank + Codepair; ETP / digital-asset MM |
 | DRW | [drw.md](drw.md) | Official take-home + two-day onsite; Chicago prop SWE |
+| Sierra | [sierra.md](sierra.md) | Official AI-native plan / 2-hour build / review; customer agents |
+| Expedia Group | [expedia.md](expedia.md) | Official five Behaviors; AI-off live; HackerRank + two virtuals |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

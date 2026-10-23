@@ -44,7 +44,7 @@
 | [nvidia.md](companies/nvidia.md) | NVIDIA — team-owned loop, in-person gate, CUDA/systems |
 | [tiktok.md](companies/tiktok.md) | TikTok / ByteDance — ByteStyle, OA, sequential coding |
 | [cloudflare.md](companies/cloudflare.md) | Cloudflare — Orange Cloud, edge / Workers, take-home |
-| [doordash.md](companies/doordash.md) | DoorDash — CodeCraft, marketplace dispatch, values |
+| [doordash.md](companies/doordash.md) | DoorDash — official AI working session, marketplace dispatch, values |
 | [shopify.md](companies/shopify.md) | Shopify — Life Story, craft / pair, merchant systems |
 | [atlassian.md](companies/atlassian.md) | Atlassian — values, Team Anywhere, multi-tenant SaaS |
 | [coinbase.md](companies/coinbase.md) | Coinbase — AI-era loop, tenets, ledger / exchange |
@@ -186,6 +186,8 @@
 | [wayfair.md](companies/wayfair.md) | Wayfair — official SWE panel, People Principles, catalog / fulfillment |
 | [flow-traders.md](companies/flow-traders.md) | Flow Traders — official HackerRank + Codepair, ETP / digital-asset MM |
 | [drw.md](companies/drw.md) | DRW — official take-home + two-day onsite, Chicago prop SWE |
+| [sierra.md](companies/sierra.md) | Sierra — official AI-native plan / 2-hour build / review, customer agents |
+| [expedia.md](companies/expedia.md) | Expedia Group — official five Behaviors, AI-off, HackerRank + two virtuals |
 
 ## Role-specific
 
@@ -331,6 +333,8 @@
 | [coding-interleaving-string.md](answers/coding-interleaving-string.md) | Interleaving String (2D string DP) |
 | [coding-burst-balloons.md](answers/coding-burst-balloons.md) | Burst Balloons (interval DP / last balloon) |
 | [coding-longest-increasing-path.md](answers/coding-longest-increasing-path.md) | Longest increasing path in a matrix (memo DFS DAG) |
+| [coding-distinct-subsequences.md](answers/coding-distinct-subsequences.md) | Distinct Subsequences (2D take/skip count) |
+| [coding-regex-matching.md](answers/coding-regex-matching.md) | Regular Expression Matching (`.` / `*` 2D DP) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

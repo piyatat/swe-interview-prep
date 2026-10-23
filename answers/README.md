@@ -130,6 +130,8 @@
 | Interleaving String (2D string DP) | [coding-interleaving-string.md](coding-interleaving-string.md) |
 | Burst Balloons (interval DP / last balloon) | [coding-burst-balloons.md](coding-burst-balloons.md) |
 | Longest increasing path in a matrix (memo DFS) | [coding-longest-increasing-path.md](coding-longest-increasing-path.md) |
+| Distinct Subsequences (2D take/skip count) | [coding-distinct-subsequences.md](coding-distinct-subsequences.md) |
+| Regular Expression Matching (`.` / `*` DP) | [coding-regex-matching.md](coding-regex-matching.md) |
 
 ## System design
 
