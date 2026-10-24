@@ -132,6 +132,8 @@
 | Longest increasing path in a matrix (memo DFS) | [coding-longest-increasing-path.md](coding-longest-increasing-path.md) |
 | Distinct Subsequences (2D take/skip count) | [coding-distinct-subsequences.md](coding-distinct-subsequences.md) |
 | Regular Expression Matching (`.` / `*` DP) | [coding-regex-matching.md](coding-regex-matching.md) |
+| Wildcard Matching (`?` / glob `*`) | [coding-wildcard-matching.md](coding-wildcard-matching.md) |
+| Next Permutation (pivot + reverse suffix) | [coding-next-permutation.md](coding-next-permutation.md) |
 
 ## System design
 

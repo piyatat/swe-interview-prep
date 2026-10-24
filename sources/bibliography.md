@@ -3173,4 +3173,49 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Regular expression — Wikipedia | https://en.wikipedia.org/wiki/Regular_expression |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Slack track (2026-10-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| A Walkthrough Guide to Finding an Engineering Job at Slack | https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack/ |
+| Refactoring Backend Engineering Hiring at Slack | https://slack.engineering/refactoring-backend-engineering-hiring-at-slack/ |
+| Careers — Slack | https://slack.com/careers |
+| Slack's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/slack-interview-process |
+
+## Deliveroo track (2026-10-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interview guide for engineers — Deliveroo | https://careers.deliveroo.co.uk/interview-guide-for-engineers/ |
+| Interview guide for backend / full-stack — Deliveroo | https://careers.deliveroo.co.uk/our-interview-guide-backend-engineering/ |
+| Interview guide for frontend — Deliveroo | https://careers.deliveroo.co.uk/our-interview-guide-frontend-engineering/ |
+| Hiring process — Deliveroo | https://careers.deliveroo.co.uk/how-we-hire/ |
+| Using Generative AI in Your Interview Process — Deliveroo | https://careers.deliveroo.co.uk/using-generative-ai-in-your-interview-process/ |
+
+## Datadog AI guidelines (2026-10-24 update)
+
+| Title | URL |
+| --- | --- |
+| Interviewing at Datadog: AI Guidelines | https://careers.datadoghq.com/candidate-experience/interviewing-at-datadog-ai-guidelines/ |
+
+## Wildcard Matching outline (2026-10-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Wildcard Matching — NeetCode | https://neetcode.io/solutions/wildcard-matching |
+| 44. Wildcard Matching — LeetCode Wiki | https://leetcode.doocs.org/en/lc/44/ |
+| Wildcard Matching — LeetCode 44 | https://leetcode.com/problems/wildcard-matching/ |
+| Wildcard character — Wikipedia | https://en.wikipedia.org/wiki/Wildcard_character |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Next Permutation outline (2026-10-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Next Permutation — NeetCode | https://neetcode.io/solutions/next-permutation |
+| 31. Next Permutation — LeetCode Wiki | https://leetcode.doocs.org/en/lc/31/ |
+| Next Permutation — LeetCode 31 | https://leetcode.com/problems/next-permutation/ |
+| Permutation — Wikipedia | https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

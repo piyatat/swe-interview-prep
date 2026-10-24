@@ -32,7 +32,18 @@ Official Candidate Experience (company-wide, not SWE-only):
 | **Selection** | Panel debrief; recruiter delivers the offer |
 | **Survey** | Post-interview feedback |
 
-Official **AI guidelines** (same page): they embrace AI at work, but the interview must show **your** experience. Misuse or undisclosed AI can **disqualify**. Ask the recruiter what is allowed in CoderPad.
+Official **[AI guidelines](https://careers.datadoghq.com/candidate-experience/interviewing-at-datadog-ai-guidelines/)** (updated **2026-05-13**) are more specific than the Candidate Experience one-liner. Ask the recruiter which hour you are in.
+
+| Setting | Official |
+| --- | --- |
+| Resume / cover letter | AI polish **OK** if the doc still matches **your** skills |
+| Take-home / presentation | Research OK; submission must be **your** conclusions; you will **defend it live** |
+| **AI coding interviews** | Some roles **explicitly allow / expect** AI (example named: Claude). You will be told **in advance**. Score: how you use it + why |
+| All other live coding / tech assessments | **No AI** unless they said this is an AI hour |
+| Non-technical (HM, partnership, people) | **No AI** — undisclosed use can **disqualify** |
+| Prep | AI to research Datadog is OK; do not let it be your only source |
+
+Misuse or **failure to disclose** can end the candidacy. Default assumption: **AI-off** in the live pad.
 
 Guides (2026 SWE): 30 min recruiter → 60 min **CoderPad** (systems-flavored mediums: parser, aggregator, thread-safe structure) → virtual loop of **2 coding + design + often debug/incident + behavioral**. Several write-ups say hiring is **centralized** and **team match happens after** the bar — confirm; official page is role/team-dependent.
 
@@ -42,7 +53,7 @@ Guides (2026 SWE): 30 min recruiter → 60 min **CoderPad** (systems-flavored me
 | --- | --- |
 | Design is **ingest / TSDB / tags / alerts**, not “design Twitter” | Stripe is money + bug-bash; Cloudflare is edge / Workers |
 | Coding often has a **concurrency or throughput** accent | Official take-home is optional, not the default gate |
-| On-call / blast-radius stories are scored | Official AI policy is **restrictive in-loop** |
+| On-call / blast-radius stories are scored | Official default is **AI-off** live; some roles now have an **announced** AI hour |
 
 ## Coding and design flavor
 
@@ -60,8 +71,8 @@ Official eng blogs (interview-useful, not a spec to recite): short-term metrics 
 
 ## Prep checklist
 
-- [ ] Read [Candidate Experience](https://careers.datadoghq.com/candidate-experience/) + [Engineering careers](https://careers.datadoghq.com/engineering/)
-- [ ] Recruiter: AI policy, take-home or not, in-person step, team match timing
+- [ ] Read [Candidate Experience](https://careers.datadoghq.com/candidate-experience/) + [AI guidelines](https://careers.datadoghq.com/candidate-experience/interviewing-at-datadog-ai-guidelines/) + [Engineering careers](https://careers.datadoghq.com/engineering/)
+- [ ] Recruiter: which hours are AI (if any), take-home or not, in-person step, team match timing
 - [ ] One **systems-flavored** CoderPad mock (narrate; concurrency follow-up)
 - [ ] One metrics design mock ([../answers/system-design-metrics.md](../answers/system-design-metrics.md))
 - [ ] One incident STAR ([../answers/behavioral-failure.md](../answers/behavioral-failure.md))
@@ -69,9 +80,10 @@ Official eng blogs (interview-useful, not a spec to recite): short-term metrics 
 
 ## Sources
 
-- [Candidate Experience — Datadog Careers](https://careers.datadoghq.com/candidate-experience/) — accessed 2026-09-04
-- [Engineering — Datadog Careers](https://careers.datadoghq.com/engineering/) — accessed 2026-09-04
-- [Join Our Pack — Datadog Careers](https://careers.datadoghq.com/) — accessed 2026-09-04
+- [Candidate Experience — Datadog Careers](https://careers.datadoghq.com/candidate-experience/) — accessed 2026-10-24
+- [Interviewing at Datadog: AI Guidelines](https://careers.datadoghq.com/candidate-experience/interviewing-at-datadog-ai-guidelines/) — accessed 2026-10-24
+- [Engineering — Datadog Careers](https://careers.datadoghq.com/engineering/) — accessed 2026-10-24
+- [Join Our Pack — Datadog Careers](https://careers.datadoghq.com/) — accessed 2026-10-24
 - [Evolving our real-time timeseries storage — Datadog](https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/) — accessed 2026-09-04
 - [Timeseries indexing at scale — Datadog](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/) — accessed 2026-09-04
 - [Datadog Interview Guide 2026 — techinterview.org](https://www.techinterview.org/post/3233460269/datadog-interview-guide-2026-metrics-monitoring-systems-and-on-call-culture/) — accessed 2026-09-04

@@ -188,6 +188,8 @@
 | [drw.md](companies/drw.md) | DRW — official take-home + two-day onsite, Chicago prop SWE |
 | [sierra.md](companies/sierra.md) | Sierra — official AI-native plan / 2-hour build / review, customer agents |
 | [expedia.md](companies/expedia.md) | Expedia Group — official five Behaviors, AI-off, HackerRank + two virtuals |
+| [slack.md](companies/slack.md) | Slack — six values, official PR / take-home, realtime / search |
+| [deliveroo.md](companies/deliveroo.md) | Deliveroo — official six values + GenAI rules, HackerRank + HC / allocation |
 
 ## Role-specific
 
@@ -335,6 +337,8 @@
 | [coding-longest-increasing-path.md](answers/coding-longest-increasing-path.md) | Longest increasing path in a matrix (memo DFS DAG) |
 | [coding-distinct-subsequences.md](answers/coding-distinct-subsequences.md) | Distinct Subsequences (2D take/skip count) |
 | [coding-regex-matching.md](answers/coding-regex-matching.md) | Regular Expression Matching (`.` / `*` 2D DP) |
+| [coding-wildcard-matching.md](answers/coding-wildcard-matching.md) | Wildcard Matching (`?` / glob `*` DP or last-star) |
+| [coding-next-permutation.md](answers/coding-next-permutation.md) | Next Permutation (pivot + successor + reverse) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
