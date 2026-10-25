@@ -3218,4 +3218,49 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Permutation — Wikipedia | https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Thoughtworks track (2026-10-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Getting to know the stages of the interview process at Thoughtworks | https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/getting-to-know-the-stages-of-the-interview-process |
+| Our application process — Thoughtworks | https://www.thoughtworks.com/careers/our-process |
+| What to expect from a pair programming interview — Thoughtworks | https://www.thoughtworks.com/en-us/insights/blog/what-expect-pair-programming-interview |
+| Thoughtworks AI policy for recruitment | https://www.thoughtworks.com/careers/ai-policy-for-recruitment |
+| Our purpose — Thoughtworks | https://www.thoughtworks.com/about-us/our-purpose |
+| Code of Conduct (2025) — Thoughtworks | https://www.thoughtworks.com/content/dam/thoughtworks/documents/guide/tw_guide_code_of_conduct_en_2025.pdf |
+
+## Wix track (2026-10-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — Wix Careers | https://careers.wix.com/how-we-hire |
+| Interviewing at Wix - myth busting time! — Wix Careers | https://careers.wix.com/post/interviewing-at-wix-myth-busting-time |
+
+## Chewy track (2026-10-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing at Chewy — Chewy Careers | https://careers.chewy.com/us/en/interviewing-at-chewy |
+| Chewy Operating Principles — Chewy Careers | https://careers.chewy.com/us/en/operating-principles |
+| Chewy's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/chewy-interview-process |
+| Chewy Interview Process: HackerRank OA, Then Four Rounds — InterviewLegend | https://interviewlegend.com/guides/companies/chewy/overview/process-overview |
+
+## Unique Paths II outline (2026-10-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Unique Paths II — NeetCode | https://neetcode.io/solutions/unique-paths-ii |
+| Unique Paths II — LeetCode 63 | https://leetcode.com/problems/unique-paths-ii/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Swim in Rising Water outline (2026-10-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Swim in Rising Water — NeetCode | https://neetcode.io/solutions/swim-in-rising-water |
+| Swim in Rising Water — LeetCode 778 | https://leetcode.com/problems/swim-in-rising-water/ |
+| Dijkstra's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

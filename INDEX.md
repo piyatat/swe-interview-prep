@@ -190,6 +190,9 @@
 | [expedia.md](companies/expedia.md) | Expedia Group — official five Behaviors, AI-off, HackerRank + two virtuals |
 | [slack.md](companies/slack.md) | Slack — six values, official PR / take-home, realtime / search |
 | [deliveroo.md](companies/deliveroo.md) | Deliveroo — official six values + GenAI rules, HackerRank + HC / allocation |
+| [thoughtworks.md](companies/thoughtworks.md) | Thoughtworks — official JOI pair + culture/leadership, human-only hire AI |
+| [wix.md](companies/wix.md) | Wix — official How we hire, home assignment + Team Lead + HR closer |
+| [chewy.md](companies/chewy.md) | Chewy — official seven OPs + STAR, pet autoship / fulfillment |
 
 ## Role-specific
 
@@ -339,6 +342,8 @@
 | [coding-regex-matching.md](answers/coding-regex-matching.md) | Regular Expression Matching (`.` / `*` 2D DP) |
 | [coding-wildcard-matching.md](answers/coding-wildcard-matching.md) | Wildcard Matching (`?` / glob `*` DP or last-star) |
 | [coding-next-permutation.md](answers/coding-next-permutation.md) | Next Permutation (pivot + successor + reverse) |
+| [coding-unique-paths-ii.md](answers/coding-unique-paths-ii.md) | Unique Paths II (grid DP + obstacle zero-gate) |
+| [coding-swim-rising-water.md](answers/coding-swim-rising-water.md) | Swim in Rising Water (minimax Dijkstra / BS+BFS) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

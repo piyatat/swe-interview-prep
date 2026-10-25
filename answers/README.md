@@ -134,6 +134,8 @@
 | Regular Expression Matching (`.` / `*` DP) | [coding-regex-matching.md](coding-regex-matching.md) |
 | Wildcard Matching (`?` / glob `*`) | [coding-wildcard-matching.md](coding-wildcard-matching.md) |
 | Next Permutation (pivot + reverse suffix) | [coding-next-permutation.md](coding-next-permutation.md) |
+| Unique Paths II (obstacle grid DP) | [coding-unique-paths-ii.md](coding-unique-paths-ii.md) |
+| Swim in Rising Water (minimax path) | [coding-swim-rising-water.md](coding-swim-rising-water.md) |
 
 ## System design
 

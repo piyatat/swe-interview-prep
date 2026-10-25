@@ -165,5 +165,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Expedia Group | [expedia.md](expedia.md) | Official five Behaviors; AI-off live; HackerRank + two virtuals |
 | Slack | [slack.md](slack.md) | Official six values; PR review / take-home; realtime / search |
 | Deliveroo | [deliveroo.md](deliveroo.md) | Official six values + GenAI rules; HackerRank + HC / allocation |
+| Thoughtworks | [thoughtworks.md](thoughtworks.md) | Official JOI pair + culture/leadership; human-only hire AI |
+| Wix | [wix.md](wix.md) | Official How we hire; home assignment + Team Lead + HR closer |
+| Chewy | [chewy.md](chewy.md) | Official seven OPs + STAR; pet autoship / fulfillment |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
