@@ -136,6 +136,8 @@
 | Next Permutation (pivot + reverse suffix) | [coding-next-permutation.md](coding-next-permutation.md) |
 | Unique Paths II (obstacle grid DP) | [coding-unique-paths-ii.md](coding-unique-paths-ii.md) |
 | Swim in Rising Water (minimax path) | [coding-swim-rising-water.md](coding-swim-rising-water.md) |
+| Find Peak Element (walk-uphill BS) | [coding-find-peak.md](coding-find-peak.md) |
+| Balanced Binary Tree (poison height) | [coding-balanced-tree.md](coding-balanced-tree.md) |
 
 ## System design
 

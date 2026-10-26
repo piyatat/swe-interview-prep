@@ -193,6 +193,9 @@
 | [thoughtworks.md](companies/thoughtworks.md) | Thoughtworks — official JOI pair + culture/leadership, human-only hire AI |
 | [wix.md](companies/wix.md) | Wix — official How we hire, home assignment + Team Lead + HR closer |
 | [chewy.md](companies/chewy.md) | Chewy — official seven OPs + STAR, pet autoship / fulfillment |
+| [target.md](companies/target.md) | Target — official values + HireVue, no-live-AI, retail / guest systems |
+| [ea.md](companies/ea.md) | EA — official HM-before-loop + six beliefs, studio / engine / live |
+| [blackrock.md](companies/blackrock.md) | BlackRock — official campus OA + video gates, Aladdin / fiduciary |
 
 ## Role-specific
 
@@ -344,6 +347,8 @@
 | [coding-next-permutation.md](answers/coding-next-permutation.md) | Next Permutation (pivot + successor + reverse) |
 | [coding-unique-paths-ii.md](answers/coding-unique-paths-ii.md) | Unique Paths II (grid DP + obstacle zero-gate) |
 | [coding-swim-rising-water.md](answers/coding-swim-rising-water.md) | Swim in Rising Water (minimax Dijkstra / BS+BFS) |
+| [coding-find-peak.md](answers/coding-find-peak.md) | Find Peak Element (binary search walk-uphill) |
+| [coding-balanced-tree.md](answers/coding-balanced-tree.md) | Balanced Binary Tree (post-order poison height) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

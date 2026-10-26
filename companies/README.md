@@ -168,5 +168,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Thoughtworks | [thoughtworks.md](thoughtworks.md) | Official JOI pair + culture/leadership; human-only hire AI |
 | Wix | [wix.md](wix.md) | Official How we hire; home assignment + Team Lead + HR closer |
 | Chewy | [chewy.md](chewy.md) | Official seven OPs + STAR; pet autoship / fulfillment |
+| Target | [target.md](target.md) | Official values + HireVue; no-live-AI; guest / inventory |
+| EA / Electronic Arts | [ea.md](ea.md) | Official HM-before-loop; six beliefs; studio / engine |
+| BlackRock | [blackrock.md](blackrock.md) | Official campus OA + video; Aladdin / fiduciary |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

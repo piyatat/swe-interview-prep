@@ -3263,4 +3263,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Dijkstra's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Target track (2026-10-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Hiring Process — Target Careers | https://corporate.target.com/careers/hiring-process |
+| Interview Guide and Tips — Target Careers | https://corporate.target.com/careers/hiring-process/interview-guide |
+| Recorded Video Interviews — Target Careers | https://corporate.target.com/careers/hiring-process/recorded-video-interviews |
+| Our Culture — Target Careers | https://corporate.target.com/careers/culture |
+| Target Corporation Code of Ethics | https://corporate.target.com/getmedia/498e5ee6-0d90-4a00-a462-97562b7d2723/Target-Code-of-Ethics.pdf |
+| Target's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/target-interview-process |
+
+## EA / Electronic Arts track (2026-10-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing with Electronic Arts | https://www.ea.com/careers/interviewing-with-ea |
+| Why EA | https://www.ea.com/careers/why-ea |
+| The Way We Play: EA Global Code of Conduct (January 2026) | https://s204.q4cdn.com/701424631/files/doc_downloads/gov_doc/EA-Code-of-Conduct_IR_January-2026.pdf |
+| Electronic Arts's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/electronic-arts-interview-process |
+| I’m a Senior Recruiter at EA — Forage | https://www.theforage.com/blog/hiring-diaries/recruiter-at-ea |
+
+## BlackRock track (2026-10-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Students and Graduates — BlackRock | https://careers.blackrock.com/students-and-graduates |
+| FAQs for Students and Grads in EMEA — BlackRock | https://careers.blackrock.com/en/candidate-faqs-emea |
+| Associate, Full Stack Engineer — BlackRock | https://careers.blackrock.com/job/san-francisco/associate-full-stack-engineer/45831/85990379024 |
+| BlackRock's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/blackrock-interview-process |
+| BlackRock Interview Guide 2026 — techinterview.org | https://www.techinterview.org/companies/blackrock-interview-guide/ |
+
+## Find Peak Element outline (2026-10-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Find Peak Element — NeetCode | https://neetcode.io/solutions/find-peak-element |
+| Find Peak Element — LeetCode 162 | https://leetcode.com/problems/find-peak-element/ |
+| Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Balanced Binary Tree outline (2026-10-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Balanced Binary Tree — NeetCode | https://neetcode.io/solutions/balanced-binary-tree |
+| Balanced Binary Tree — LeetCode 110 | https://leetcode.com/problems/balanced-binary-tree/ |
+| AVL tree — Wikipedia | https://en.wikipedia.org/wiki/AVL_tree |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 
