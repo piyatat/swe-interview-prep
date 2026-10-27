@@ -3312,4 +3312,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | AVL tree — Wikipedia | https://en.wikipedia.org/wiki/AVL_tree |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Disney track (2026-10-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Candidate Resources — Disney Careers | https://www.disneycareers.com/en/candidate-resources |
+| Preparing for Your Interview — Disney Careers | https://www.disneycareers.com/en/interview-prep |
+| Candidate AI Usage — Disney Careers | https://www.disneycareers.com/en/ai-usage |
+| Our Culture — Disney Careers | https://www.disneycareers.com/en/working-here/our-culture |
+| Disney's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/disney-interview-process |
+
+## Morgan Stanley track (2026-10-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Morgan Stanley Core Values | https://www.morganstanley.com/about-us/morgan-stanley-core-values |
+| Interview Preparation — Morgan Stanley Careers | https://www.morganstanley.com/people-opportunities/students-graduates/resources/interview-preparation |
+| Recruitment Process — Morgan Stanley Australia | https://www.morganstanley.com.au/careers/recruitment-process |
+| Students & Graduates FAQ — Morgan Stanley | https://www.morganstanley.com/people-opportunities/students-graduates/resources/questions |
+| Morgan Stanley's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/morgan-stanley-interview-process |
+| Morgan Stanley’s Interview Process & Questions — interviewing.io | https://interviewing.io/morgan-stanley-interview-questions |
+
+## Susquehanna (SIG) track (2026-10-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Who We Are — Susquehanna | https://sig.com/who-we-are/ |
+| Tech Careers — Susquehanna | https://sig.com/careers/technology/ |
+| Our Culture — Susquehanna | https://sig.com/who-we-are/life-at-susquehanna/culture/ |
+| Software Development Internship (Nov 2026) — SIG / GradConnection | https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-software-development-internship-november-2026/ |
+| Graduate Software Developer (Feb 2026) — SIG / Prosple | https://au.prosple.com/graduate-employers/susquehanna-international-group/jobs-internships/graduate-software-developer |
+
+## Subsets II outline (2026-10-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Subsets II — NeetCode | https://neetcode.io/solutions/subsets-ii |
+| Subsets II — LeetCode 90 | https://leetcode.com/problems/subsets-ii/ |
+| Backtracking — Wikipedia | https://en.wikipedia.org/wiki/Backtracking |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Valid Parenthesis String outline (2026-10-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Valid Parenthesis String — NeetCode | https://neetcode.io/solutions/valid-parenthesis-string |
+| Valid Parenthesis String — LeetCode 678 | https://leetcode.com/problems/valid-parenthesis-string/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

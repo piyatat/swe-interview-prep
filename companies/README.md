@@ -171,5 +171,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Target | [target.md](target.md) | Official values + HireVue; no-live-AI; guest / inventory |
 | EA / Electronic Arts | [ea.md](ea.md) | Official HM-before-loop; six beliefs; studio / engine |
 | BlackRock | [blackrock.md](blackrock.md) | Official campus OA + video; Aladdin / fiduciary |
+| Disney / Walt Disney Company | [disney.md](disney.md) | Official STAR + AI-off; guest / streaming / parks |
+| Morgan Stanley | [morgan-stanley.md](morgan-stanley.md) | Official five values; campus OA / Superday; Java + ledger |
+| Susquehanna (SIG) | [sig.md](sig.md) | Official six values + games; campus live-code / office design |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

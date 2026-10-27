@@ -196,6 +196,9 @@
 | [target.md](companies/target.md) | Target — official values + HireVue, no-live-AI, retail / guest systems |
 | [ea.md](companies/ea.md) | EA — official HM-before-loop + six beliefs, studio / engine / live |
 | [blackrock.md](companies/blackrock.md) | BlackRock — official campus OA + video gates, Aladdin / fiduciary |
+| [disney.md](companies/disney.md) | Disney — official STAR + AI-off, guest / streaming / parks |
+| [morgan-stanley.md](companies/morgan-stanley.md) | Morgan Stanley — official five values, campus OA / Superday, Java + ledger |
+| [sig.md](companies/sig.md) | Susquehanna (SIG) — official six values + games, campus live-code / office design |
 
 ## Role-specific
 
@@ -349,6 +352,8 @@
 | [coding-swim-rising-water.md](answers/coding-swim-rising-water.md) | Swim in Rising Water (minimax Dijkstra / BS+BFS) |
 | [coding-find-peak.md](answers/coding-find-peak.md) | Find Peak Element (binary search walk-uphill) |
 | [coding-balanced-tree.md](answers/coding-balanced-tree.md) | Balanced Binary Tree (post-order poison height) |
+| [coding-subsets-ii.md](answers/coding-subsets-ii.md) | Subsets II (sort + same-depth skip) |
+| [coding-valid-parenthesis-string.md](answers/coding-valid-parenthesis-string.md) | Valid Parenthesis String (greedy lo/hi balance) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
