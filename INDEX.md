@@ -199,6 +199,9 @@
 | [disney.md](companies/disney.md) | Disney — official STAR + AI-off, guest / streaming / parks |
 | [morgan-stanley.md](companies/morgan-stanley.md) | Morgan Stanley — official five values, campus OA / Superday, Java + ledger |
 | [sig.md](companies/sig.md) | Susquehanna (SIG) — official six values + games, campus live-code / office design |
+| [jane-street.md](companies/jane-street.md) | Jane Street — official open-ended pair SWE, no mental math, in-person finals |
+| [citadel-securities.md](companies/citadel-securities.md) | Citadel Securities — official one-problem four-stage day, campus dual-firm |
+| [mapbox.md](companies/mapbox.md) | Mapbox — official values STAR, SDE AI workflow hour, tiles / directions |
 
 ## Role-specific
 
@@ -354,6 +357,8 @@
 | [coding-balanced-tree.md](answers/coding-balanced-tree.md) | Balanced Binary Tree (post-order poison height) |
 | [coding-subsets-ii.md](answers/coding-subsets-ii.md) | Subsets II (sort + same-depth skip) |
 | [coding-valid-parenthesis-string.md](answers/coding-valid-parenthesis-string.md) | Valid Parenthesis String (greedy lo/hi balance) |
+| [coding-design-twitter.md](answers/coding-design-twitter.md) | Design Twitter (k-way merge feed) |
+| [coding-search-2d-matrix-ii.md](answers/coding-search-2d-matrix-ii.md) | Search a 2D Matrix II (staircase from a corner) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

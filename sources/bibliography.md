@@ -3361,4 +3361,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Jane Street track (2026-10-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Preparing for a Software Engineering Interview — Jane Street | https://www.janestreet.com/preparing-for-a-software-engineering-interview/ |
+| Interviewing — Jane Street | https://www.janestreet.com/join-jane-street/interviewing/ |
+| What a Jane Street software engineering interview is like — Jane Street Blog | https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/ |
+| The Jane Street Interview Process — 2020 Edition — Jane Street Blog | https://blog.janestreet.com/jane-street-interview-process-2020/ |
+| Jane Street Interview Process for Software Engineers (2026) — getcracked | https://getcracked.io/blog/navigating-the-jane-street-interview-swe |
+
+## Citadel Securities track (2026-10-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Experienced Professionals: Engineering Interview Process — Citadel Securities | https://www.citadelsecurities.com/careers/career-perspectives/our-engineering-interview-process/ |
+| What to Expect at an Engineering Onsite — Citadel Securities | https://www.citadelsecurities.com/careers/career-perspectives/what-to-expect-at-an-engineering-onsite/ |
+| Internship and New Graduates: Engineering Interview Process — Citadel Securities | https://www.citadelsecurities.com/careers/career-perspectives/internship-and-new-graduates-engineering-interview-process/ |
+| Our Culture — Citadel Securities | https://www.citadelsecurities.com/who-we-are/our-culture/ |
+| What We Look for in Experienced Engineers — Citadel Securities | https://www.citadelsecurities.com/careers/career-perspectives/what-we-look-for-in-experienced-engineers/ |
+
+## Mapbox track (2026-10-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Work at Mapbox — Careers | https://www.mapbox.com/careers |
+| Company Values — Mapbox | https://www.mapbox.com/company/values |
+| Software Development Engineer III, Logistics API — Mapbox / Ashby | https://jobs.ashbyhq.com/Mapbox/8e79cf17-1946-4162-9ab6-92dd25e51a7b |
+| Mapbox Software Development Engineer II Interview Questions — Glassdoor | https://www.glassdoor.com.au/Interview/Mapbox-Software-Development-Engineer-II-Interview-Questions-EI_IE870890.0,6_KO7,39.htm |
+
+## Design Twitter outline (2026-10-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Design Twitter — NeetCode | https://neetcode.io/solutions/design-twitter |
+| 355. Design Twitter — LeetCode | https://leetcode.com/problems/design-twitter/ |
+| k-way merge — Wikipedia | https://en.wikipedia.org/wiki/K-way_merge_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Search a 2D Matrix II outline (2026-10-28 ingest)
+
+| Title | URL |
+| --- | --- |
+| Search a 2D Matrix II — LeetCode Wiki | https://leetcode.doocs.org/en/lc/240/ |
+| 240. Search a 2D Matrix II — LeetCode | https://leetcode.com/problems/search-a-2d-matrix-ii/ |
+| Search a 2D Matrix II: Staircase Search — DataDank | https://datadank.com/interview/dsa/search-a-2d-matrix-ii/ |
+| Young tableau — Wikipedia | https://en.wikipedia.org/wiki/Young_tableau |
+
 

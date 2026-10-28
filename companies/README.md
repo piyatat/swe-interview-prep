@@ -174,5 +174,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Disney / Walt Disney Company | [disney.md](disney.md) | Official STAR + AI-off; guest / streaming / parks |
 | Morgan Stanley | [morgan-stanley.md](morgan-stanley.md) | Official five values; campus OA / Superday; Java + ledger |
 | Susquehanna (SIG) | [sig.md](sig.md) | Official six values + games; campus live-code / office design |
+| Jane Street | [jane-street.md](jane-street.md) | Official open-ended pair SWE; no mental math; in-person finals |
+| Citadel Securities | [citadel-securities.md](citadel-securities.md) | Official one-problem four-stage day; campus dual-firm loop |
+| Mapbox | [mapbox.md](mapbox.md) | Official values STAR; SDE AI workflow hour; tiles / directions |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

@@ -140,6 +140,8 @@
 | Balanced Binary Tree (poison height) | [coding-balanced-tree.md](coding-balanced-tree.md) |
 | Subsets II (sort + same-depth skip) | [coding-subsets-ii.md](coding-subsets-ii.md) |
 | Valid Parenthesis String (greedy lo/hi) | [coding-valid-parenthesis-string.md](coding-valid-parenthesis-string.md) |
+| Design Twitter (k-way merge feed) | [coding-design-twitter.md](coding-design-twitter.md) |
+| Search a 2D Matrix II (staircase) | [coding-search-2d-matrix-ii.md](coding-search-2d-matrix-ii.md) |
 
 ## System design
 
