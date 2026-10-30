@@ -202,6 +202,9 @@
 | [jane-street.md](companies/jane-street.md) | Jane Street — official open-ended pair SWE, no mental math, in-person finals |
 | [citadel-securities.md](companies/citadel-securities.md) | Citadel Securities — official one-problem four-stage day, campus dual-firm |
 | [mapbox.md](companies/mapbox.md) | Mapbox — official values STAR, SDE AI workflow hour, tiles / directions |
+| [dynatrace.md](companies/dynatrace.md) | Dynatrace — official 3-value culture, code-review / live working session |
+| [zscaler.md](companies/zscaler.md) | Zscaler — TOPIC + Ways of Working, official AI-off live eval |
+| [canonical.md](companies/canonical.md) | Canonical — official written + GIA, ~3-month distributed hire |
 
 ## Role-specific
 
@@ -359,6 +362,8 @@
 | [coding-valid-parenthesis-string.md](answers/coding-valid-parenthesis-string.md) | Valid Parenthesis String (greedy lo/hi balance) |
 | [coding-design-twitter.md](answers/coding-design-twitter.md) | Design Twitter (k-way merge feed) |
 | [coding-search-2d-matrix-ii.md](answers/coding-search-2d-matrix-ii.md) | Search a 2D Matrix II (staircase from a corner) |
+| [coding-combinations.md](answers/coding-combinations.md) | Combinations (fixed-k start-index backtracking) |
+| [coding-counting-bits.md](answers/coding-counting-bits.md) | Counting Bits (right-shift DP popcount) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

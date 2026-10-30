@@ -177,5 +177,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Jane Street | [jane-street.md](jane-street.md) | Official open-ended pair SWE; no mental math; in-person finals |
 | Citadel Securities | [citadel-securities.md](citadel-securities.md) | Official one-problem four-stage day; campus dual-firm loop |
 | Mapbox | [mapbox.md](mapbox.md) | Official values STAR; SDE AI workflow hour; tiles / directions |
+| Dynatrace | [dynatrace.md](dynatrace.md) | Official 3-value culture; code-review / live working session |
+| Zscaler | [zscaler.md](zscaler.md) | TOPIC + Ways of Working; official AI-off live eval |
+| Canonical | [canonical.md](canonical.md) | Official written + GIA; ~3-month distributed hire |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

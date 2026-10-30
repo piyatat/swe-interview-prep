@@ -3408,4 +3408,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Search a 2D Matrix II: Staircase Search — DataDank | https://datadank.com/interview/dsa/search-a-2d-matrix-ii/ |
 | Young tableau — Wikipedia | https://en.wikipedia.org/wiki/Young_tableau |
 
+## Dynatrace track (2026-10-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| How we hire — Dynatrace Careers | https://www.dynatrace.com/careers/how-we-hire/ |
+| Engineering — Dynatrace Careers | https://www.dynatrace.com/careers/teams/engineering/ |
+| About Dynatrace — values | https://www.dynatrace.com/company/ |
+| Dynatrace Software Engineer Interview Questions (2026) — PracHub | https://prachub.com/interview-guide/dynatrace-software-engineer-interview-questions-guide-2026 |
+| Dynatrace Senior Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/Dynatrace-Senior-Software-Engineer-Interview-Questions-EI_IE309684.0,9_KO10,34.htm |
+
+## Zscaler track (2026-10-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Candidate Resource Hub — Zscaler | https://www.zscaler.com/candidate-resource-hub |
+| Zscaler Values: Our Culture Framework | https://www.zscaler.com/culture |
+| Ethical AI Guidelines for Zscaler Job Applicants | https://www.zscaler.com/aicandidateguide |
+| Offer \| Zscaler Senior Staff SDE Interview Experience \| May 2026 | https://interviewexperiences.in/experience/zscaler/offer-zscaler-senior-staff-sde-interview-experience-may-2026 |
+
+## Canonical track (2026-10-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Hiring process — Canonical Careers | https://canonical.com/careers/hiring-process |
+| Not just an annoying list of questions — Ubuntu blog | https://ubuntu.com/blog/written-interviews |
+| Canonical Interview Process: Written Test and GIA — Calibrd | https://www.calibrd.com/interview-prep/canonical-interview |
+| Canonical Software Engineer Interview Questions (2026) — PracHub | https://prachub.com/interview-guide/canonical-software-engineer-interview-questions-guide-2026 |
+| Canonical Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/Canonical-Software-Engineer-Interview-Questions-EI_IE230560.0,9_KO10,27.htm |
+
+## Combinations outline (2026-10-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Combinations — NeetCode | https://neetcode.io/solutions/combinations |
+| 77. Combinations — LeetCode | https://leetcode.com/problems/combinations/ |
+| Combination — Wikipedia | https://en.wikipedia.org/wiki/Combination |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Counting Bits outline (2026-10-30 ingest)
+
+| Title | URL |
+| --- | --- |
+| Counting Bits — NeetCode | https://neetcode.io/solutions/counting-bits |
+| 338. Counting Bits — LeetCode | https://leetcode.com/problems/counting-bits/ |
+| Hamming weight — Wikipedia | https://en.wikipedia.org/wiki/Hamming_weight |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

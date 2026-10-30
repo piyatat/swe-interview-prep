@@ -142,6 +142,8 @@
 | Valid Parenthesis String (greedy lo/hi) | [coding-valid-parenthesis-string.md](coding-valid-parenthesis-string.md) |
 | Design Twitter (k-way merge feed) | [coding-design-twitter.md](coding-design-twitter.md) |
 | Search a 2D Matrix II (staircase) | [coding-search-2d-matrix-ii.md](coding-search-2d-matrix-ii.md) |
+| Combinations (fixed-k backtracking) | [coding-combinations.md](coding-combinations.md) |
+| Counting Bits (right-shift DP popcount) | [coding-counting-bits.md](coding-counting-bits.md) |
 
 ## System design
 
