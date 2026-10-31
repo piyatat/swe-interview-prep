@@ -3455,4 +3455,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Hamming weight — Wikipedia | https://en.wikipedia.org/wiki/Hamming_weight |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Nutanix track (2026-10-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire & FAQs — Nutanix Careers | https://careers.nutanix.com/en/how-we-hire-faqs/ |
+| Careers — Nutanix | https://careers.nutanix.com/ |
+| Nutanix MTS Hiring Process — InterviewLegend | https://interviewlegend.com/guides/companies/nutanix/overview/process-overview |
+| Nutanix Interview Process 2026 — FAANGPlus | https://www.faangplus.com/interview-process/nutanix |
+| Nutanix HackerRank assessment — Interview Experiences | https://interviewexperiences.in/experience/nutanix/nutanix-hacker-rank-assesment |
+
+## Squarespace track (2026-10-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering Careers — Squarespace | https://www.squarespace.com/careers/engineering |
+| About Us — Squarespace | https://www.squarespace.com/about/company |
+| Early Career Recruiting — Squarespace | https://www.squarespace.com/careers/early-career |
+| Squarespace Interview Questions (2026) — Glassdoor | https://www.glassdoor.com/Interview/Squarespace-Interview-Questions-E466343.htm |
+| How We Reimagined A/B Testing — Squarespace Engineering | https://engineering.squarespace.com/blog/2021/how-we-reimagined-ab-testing-at-squarespace |
+
+## New Relic track (2026-10-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| Culture — The Relic Way — New Relic | https://newrelic.com/about/culture |
+| Careers — New Relic | https://newrelic.com/careers |
+| Management Isn’t a Promotion — New Relic | https://newrelic.com/blog/nerd-life/engineering-management-different-jobs |
+| New Relic Interview Process [2026] — Finalround | https://www.finalroundai.com/blog/new-relic-interview-process |
+| New Relic Backend Engineer Interview — PracHub | https://prachub.com/interview-experiences/new-relic-backend-engineer-interview-experience-string-compression-longest-increasing-path-and-a-kafka-trace-grouping-design |
+| New Relic Software Engineer Interview (2026) — knok | https://knok.work/blog/new-relic-software-engineer-interview.html |
+
+## Number of 1 Bits outline (2026-10-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| Number of 1 Bits — NeetCode | https://neetcode.io/solutions/number-of-1-bits |
+| 191. Number of 1 Bits — LeetCode | https://leetcode.com/problems/number-of-1-bits/ |
+| Hamming weight — Wikipedia | https://en.wikipedia.org/wiki/Hamming_weight |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## 01 Matrix outline (2026-10-31 ingest)
+
+| Title | URL |
+| --- | --- |
+| 01 Matrix — LeetCode 542 | https://leetcode.com/problems/01-matrix/ |
+| 542. 01 Matrix — leetcode.ca | https://leetcode.ca/2017-05-25-542-01-Matrix/ |
+| 01 Matrix — multi-source BFS — eetcode | https://www.eetcode.com/learn/solution_types/multi-source-bfs |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

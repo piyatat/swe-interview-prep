@@ -205,6 +205,9 @@
 | [dynatrace.md](companies/dynatrace.md) | Dynatrace — official 3-value culture, code-review / live working session |
 | [zscaler.md](companies/zscaler.md) | Zscaler — TOPIC + Ways of Working, official AI-off live eval |
 | [canonical.md](companies/canonical.md) | Canonical — official written + GIA, ~3-month distributed hire |
+| [nutanix.md](companies/nutanix.md) | Nutanix — official 4H + Talent Advisor, HCI / debug |
+| [squarespace.md](companies/squarespace.md) | Squarespace — official five beliefs + early-career take-home |
+| [new-relic.md](companies/new-relic.md) | New Relic — Relic Way, observability ingest / traces |
 
 ## Role-specific
 
@@ -364,6 +367,8 @@
 | [coding-search-2d-matrix-ii.md](answers/coding-search-2d-matrix-ii.md) | Search a 2D Matrix II (staircase from a corner) |
 | [coding-combinations.md](answers/coding-combinations.md) | Combinations (fixed-k start-index backtracking) |
 | [coding-counting-bits.md](answers/coding-counting-bits.md) | Counting Bits (right-shift DP popcount) |
+| [coding-number-of-1-bits.md](answers/coding-number-of-1-bits.md) | Number of 1 Bits (Kernighan popcount) |
+| [coding-01-matrix.md](answers/coding-01-matrix.md) | 01 Matrix (multi-source BFS distance) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

@@ -180,5 +180,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Dynatrace | [dynatrace.md](dynatrace.md) | Official 3-value culture; code-review / live working session |
 | Zscaler | [zscaler.md](zscaler.md) | TOPIC + Ways of Working; official AI-off live eval |
 | Canonical | [canonical.md](canonical.md) | Official written + GIA; ~3-month distributed hire |
+| Nutanix | [nutanix.md](nutanix.md) | Official 4H + Talent Advisor; HCI / reported debug hour |
+| Squarespace | [squarespace.md](squarespace.md) | Official five beliefs; early-career take-home + 3 technical |
+| New Relic | [new-relic.md](new-relic.md) | Relic Way; observability ingest / traces |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
