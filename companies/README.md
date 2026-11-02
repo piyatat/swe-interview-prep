@@ -183,5 +183,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Nutanix | [nutanix.md](nutanix.md) | Official 4H + Talent Advisor; HCI / reported debug hour |
 | Squarespace | [squarespace.md](squarespace.md) | Official five beliefs; early-career take-home + 3 technical |
 | New Relic | [new-relic.md](new-relic.md) | Relic Way; observability ingest / traces |
+| Splunk | [splunk.md](splunk.md) | Cisco hire + Splunk Life STAR; logs / SIEM; Karat |
+| Akamai | [akamai.md](akamai.md) | Official eight values + FlexBase; CDN / edge; OA MCQs |
+| ServiceTitan | [servicetitan.md](servicetitan.md) | Trades OS; three culture lines; C# CP1 / CP2 / CP3 |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

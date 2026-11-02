@@ -208,6 +208,9 @@
 | [nutanix.md](companies/nutanix.md) | Nutanix — official 4H + Talent Advisor, HCI / debug |
 | [squarespace.md](companies/squarespace.md) | Squarespace — official five beliefs + early-career take-home |
 | [new-relic.md](companies/new-relic.md) | New Relic — Relic Way, observability ingest / traces |
+| [splunk.md](companies/splunk.md) | Splunk — Cisco hire + STAR, logs / SIEM / Karat |
+| [akamai.md](companies/akamai.md) | Akamai — eight values + FlexBase, CDN / edge, OA MCQs |
+| [servicetitan.md](companies/servicetitan.md) | ServiceTitan — trades OS, official culture lines, C# CP1/CP2/CP3 |
 
 ## Role-specific
 
@@ -369,6 +372,8 @@
 | [coding-counting-bits.md](answers/coding-counting-bits.md) | Counting Bits (right-shift DP popcount) |
 | [coding-number-of-1-bits.md](answers/coding-number-of-1-bits.md) | Number of 1 Bits (Kernighan popcount) |
 | [coding-01-matrix.md](answers/coding-01-matrix.md) | 01 Matrix (multi-source BFS distance) |
+| [coding-single-number.md](answers/coding-single-number.md) | Single Number (XOR fold) |
+| [coding-reverse-bits.md](answers/coding-reverse-bits.md) | Reverse Bits (place at 31 − i) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

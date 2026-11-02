@@ -146,6 +146,8 @@
 | Counting Bits (right-shift DP popcount) | [coding-counting-bits.md](coding-counting-bits.md) |
 | Number of 1 Bits (Kernighan popcount) | [coding-number-of-1-bits.md](coding-number-of-1-bits.md) |
 | 01 Matrix (multi-source BFS distance) | [coding-01-matrix.md](coding-01-matrix.md) |
+| Single Number (XOR fold) | [coding-single-number.md](coding-single-number.md) |
+| Reverse Bits (place at 31 − i) | [coding-reverse-bits.md](coding-reverse-bits.md) |
 
 ## System design
 

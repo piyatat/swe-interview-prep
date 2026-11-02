@@ -3505,4 +3505,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Splunk track (2026-11-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Working at Splunk — Cisco Careers | https://careers.cisco.com/global/en/splunk |
+| How We Hire — Cisco Careers | https://careers.cisco.com/global/en/how-we-hire |
+| Mastering Interviews Using the STAR Technique — Splunk Life | https://www.splunk.com/en_us/blog/splunklife/mastering-interviews-using-the-star-technique.html |
+| Guiding Advice for Your Career Journey — Splunk Life | https://www.splunk.com/en_us/blog/splunklife/guiding-advice-career-journey.html |
+| Splunk's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/splunk-interview-process |
+| Splunk Interview Questions: Cisco Context — Hyring | https://hyring.com/jobseeker-toolkit/interview-questions/company/splunk |
+
+## Akamai track (2026-11-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Akamai | https://www.akamai.com/careers |
+| Working at Akamai — values and FlexBase | https://www.akamai.com/careers/working-at-akamai |
+| Emerging Talent Candidate Pack — Akamai | https://www.akamai.com/site/en/documents/corporate/emerging-talent-candidate-pack.pdf |
+| Akamai's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/akamai-interview-process |
+| Akamai Interview Experience & Questions (2026) — Glassdoor | https://www.glassdoor.com/Interview/Akamai-Interview-Questions-E9219.htm |
+| Akamai Technologies thread — r/leetcode | https://www.reddit.com/r/leetcode/comments/1lvjpf1/akamai_technologies/ |
+
+## ServiceTitan track (2026-11-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — ServiceTitan | https://www.servicetitan.com/careers |
+| ServiceTitan Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/servicetitan/software-engineer |
+| Manager of Software Engineering — ServiceTitan (interview stages on JD) | https://app.welcometothejungle.com/jobs/nD--PL-5 |
+| What makes a good product designer at ServiceTitan — Medium | https://medium.com/servicetitan-design/what-makes-a-good-product-designer-at-servicetitan-25986806ee52 |
+
+## Single Number outline (2026-11-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Single Number — NeetCode | https://neetcode.io/solutions/single-number |
+| 136. Single Number — LeetCode | https://leetcode.com/problems/single-number/ |
+| Exclusive or — Wikipedia | https://en.wikipedia.org/wiki/Exclusive_or |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Reverse Bits outline (2026-11-02 ingest)
+
+| Title | URL |
+| --- | --- |
+| Reverse Bits — NeetCode | https://neetcode.io/solutions/reverse-bits |
+| 190. Reverse Bits — LeetCode | https://leetcode.com/problems/reverse-bits/ |
+| Bitwise operation — Wikipedia | https://en.wikipedia.org/wiki/Bitwise_operation |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 
