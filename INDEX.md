@@ -211,6 +211,9 @@
 | [splunk.md](companies/splunk.md) | Splunk — Cisco hire + STAR, logs / SIEM / Karat |
 | [akamai.md](companies/akamai.md) | Akamai — eight values + FlexBase, CDN / edge, OA MCQs |
 | [servicetitan.md](companies/servicetitan.md) | ServiceTitan — trades OS, official culture lines, C# CP1/CP2/CP3 |
+| [harvey.md](companies/harvey.md) | Harvey — legal AI, three values, citation / ACL design |
+| [sentinelone.md](companies/sentinelone.md) | SentinelOne — Singularity EDR, six values, official AI-off live |
+| [the-trade-desk.md](companies/the-trade-desk.md) | The Trade Desk — open-internet DSP, six values, Superday |
 
 ## Role-specific
 
@@ -374,6 +377,8 @@
 | [coding-01-matrix.md](answers/coding-01-matrix.md) | 01 Matrix (multi-source BFS distance) |
 | [coding-single-number.md](answers/coding-single-number.md) | Single Number (XOR fold) |
 | [coding-reverse-bits.md](answers/coding-reverse-bits.md) | Reverse Bits (place at 31 − i) |
+| [coding-two-sum-ii.md](answers/coding-two-sum-ii.md) | Two Sum II (sorted two pointers, 1-indexed) |
+| [coding-pow.md](answers/coding-pow.md) | Pow(x, n) (binary exponentiation) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

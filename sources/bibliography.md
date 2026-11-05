@@ -3554,4 +3554,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Bitwise operation — Wikipedia | https://en.wikipedia.org/wiki/Bitwise_operation |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Harvey track (2026-11-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Harvey | https://www.harvey.ai/careers |
+| Harvey's Values — Harvey | https://www.harvey.ai/blog/harvey-values |
+| The Ultimate Guide to Landing a Job at Harvey — Harvey | https://www.harvey.ai/blog/landing-a-job-at-harvey |
+| Harvey interview process and questions — Land the Lab | https://landthelab.com/companies/harvey |
+| Harvey Software Engineer Interview Guide 2026 — PracHub | https://prachub.com/resources/harvey-software-engineer-interview-guide-2026-coding-legal-ai-systems-and-product-judgment |
+
+## SentinelOne track (2026-11-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at SentinelOne | https://www.sentinelone.com/careers/ |
+| The Soul of SentinelOne: Our Values | https://www.sentinelone.com/careers/blog/the-soul-of-sentinelone-our-values/ |
+| AI in Hiring — SentinelOne (PDF) | https://assets.contentstack.io/v3/assets/blt53c99b43892c2378/bltca86b3b84e902400/AI-in-Hiring-SentinelOne.pdf |
+| SentinelOne Software Engineer Interview Preparation Guide — CleverPrep | https://www.cleverprep.com/companies/sentinelone/software-engineer |
+
+## The Trade Desk track (2026-11-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — The Trade Desk | https://careers.thetradedesk.com/ |
+| Our culture: where passion meets purpose — The Trade Desk | https://careers.thetradedesk.com/life-here |
+| The Trade Desk Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/the-trade-desk/software-engineer |
+| The Trade Desk Software Engineer Interview Questions (2026) — PracHub | https://prachub.com/interview-guide/the-trade-desk-software-engineer-interview-questions-guide-2026 |
+| The Trade Desk Software Engineer Interview Questions — Glassdoor | https://www.glassdoor.com.au/Interview/The-Trade-Desk-Software-Engineer-Interview-Questions-EI_IE779832.0,14_KO15,32.htm |
+
+## Two Sum II outline (2026-11-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| 167. Two Sum II - Input Array Is Sorted — LeetCode | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
+| Two Sum II — NeetCode | https://neetcode.io/solutions/two-sum-ii-input-array-is-sorted |
+| 167. Two Sum II — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/167/ |
+| In-place algorithm — Wikipedia | https://en.wikipedia.org/wiki/In-place_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Pow(x, n) outline (2026-11-05 ingest)
+
+| Title | URL |
+| --- | --- |
+| 50. Pow(x, n) — LeetCode | https://leetcode.com/problems/powx-n/ |
+| Pow(x, n) — NeetCode | https://neetcode.io/solutions/powx-n |
+| 50. Pow(x, n) — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/50/ |
+| Exponentiation by squaring — Wikipedia | https://en.wikipedia.org/wiki/Exponentiation_by_squaring |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

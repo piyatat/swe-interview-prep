@@ -186,5 +186,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Splunk | [splunk.md](splunk.md) | Cisco hire + Splunk Life STAR; logs / SIEM; Karat |
 | Akamai | [akamai.md](akamai.md) | Official eight values + FlexBase; CDN / edge; OA MCQs |
 | ServiceTitan | [servicetitan.md](servicetitan.md) | Trades OS; three culture lines; C# CP1 / CP2 / CP3 |
+| Harvey | [harvey.md](harvey.md) | Legal / professional-services AI; three values; citation / ACL |
+| SentinelOne | [sentinelone.md](sentinelone.md) | Autonomous EDR; six values; official AI-off live / take-home |
+| The Trade Desk | [the-trade-desk.md](the-trade-desk.md) | Open-internet DSP; six values; Superday + bid-path latency |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

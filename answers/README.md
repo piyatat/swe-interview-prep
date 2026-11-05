@@ -148,6 +148,8 @@
 | 01 Matrix (multi-source BFS distance) | [coding-01-matrix.md](coding-01-matrix.md) |
 | Single Number (XOR fold) | [coding-single-number.md](coding-single-number.md) |
 | Reverse Bits (place at 31 − i) | [coding-reverse-bits.md](coding-reverse-bits.md) |
+| Two Sum II (sorted two pointers) | [coding-two-sum-ii.md](coding-two-sum-ii.md) |
+| Pow(x, n) (binary exponentiation) | [coding-pow.md](coding-pow.md) |
 
 ## System design
 
