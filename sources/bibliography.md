@@ -3603,4 +3603,52 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Exponentiation by squaring — Wikipedia | https://en.wikipedia.org/wiki/Exponentiation_by_squaring |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Roku track (2026-11-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Home — Roku Jobs | https://www.weareroku.com/ |
+| Roku Culture — Roku Jobs | https://www.weareroku.com/roku-culture |
+| Using AI in Roku Talent Acquisition | https://www.weareroku.com/using-ai-in-roku-talent-acquisition |
+| Welcome to Roku Bengaluru — process FAQ | https://www.weareroku.com/bengaluru |
+| Roku's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/roku-interview-process |
+
+## Monzo track (2026-11-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Demystifying the Backend Engineering interview process — Monzo | https://monzo.com/blog/demystifying-the-backend-engineering-interview-process |
+| Inclusive Hiring in Engineering at Monzo | https://monzo.com/blog/inclusive-hiring-in-engineering-at-monzo |
+| The ultimate guide on using AI to ace an interview at Monzo | https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo |
+| Preparing for Mobile Interviews at Monzo | https://monzo.com/blog/preparing-for-mobile-interviews-at-monzo |
+| FY26 annual report — values | https://monzo.com/annual-report/2026/Monzo-Annual-Report-2026.pdf |
+
+## Cribl track (2026-11-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Culture at Cribl | https://cribl.io/careers/culture-at-cribl/ |
+| How Cribl Changed Its Interview Process for Engineers | https://cribl.io/blog/how-cribl-changed-its-interview-process-for-engineers/ |
+| Scaling Culture on Purpose — Cribl | https://cribl.io/blog/scaling-culture-on-purpose/ |
+| The Cribl Platform | https://cribl.io/platform/ |
+| Cribl Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/cribl/software-engineer |
+
+## Find Minimum in Rotated Sorted Array outline (2026-11-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| Find Minimum in Rotated Sorted Array — NeetCode | https://neetcode.io/solutions/find-minimum-in-rotated-sorted-array |
+| Find Minimum in Rotated Sorted Array — LeetCode 153 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
+| Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Distributed lock outline (2026-11-06 ingest)
+
+| Title | URL |
+| --- | --- |
+| The Chubby lock service — Burrows, OSDI 2006 | https://research.google.com/archive/chubby-osdi06.pdf |
+| How to do distributed locking — Martin Kleppmann | https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html |
+| Distributed locks with Redis — Redis docs (Redlock) | https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/ |
+| Design a Distributed Lock Service — Hiring Bar | https://hiringbar.dev/cases/distributed-locking |
+
 

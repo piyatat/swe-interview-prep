@@ -214,6 +214,9 @@
 | [harvey.md](companies/harvey.md) | Harvey — legal AI, three values, citation / ACL design |
 | [sentinelone.md](companies/sentinelone.md) | SentinelOne — Singularity EDR, six values, official AI-off live |
 | [the-trade-desk.md](companies/the-trade-desk.md) | The Trade Desk — open-internet DSP, six values, Superday |
+| [roku.md](companies/roku.md) | Roku — streaming OS / ads, official AI-off live, HackerRank |
+| [monzo.md](companies/monzo.md) | Monzo — UK bank, official pair-or-take-home, six values |
+| [cribl.md](companies/cribl.md) | Cribl — telemetry pipeline, official pair + values rubric |
 
 ## Role-specific
 
@@ -366,6 +369,7 @@
 | [coding-unique-paths-ii.md](answers/coding-unique-paths-ii.md) | Unique Paths II (grid DP + obstacle zero-gate) |
 | [coding-swim-rising-water.md](answers/coding-swim-rising-water.md) | Swim in Rising Water (minimax Dijkstra / BS+BFS) |
 | [coding-find-peak.md](answers/coding-find-peak.md) | Find Peak Element (binary search walk-uphill) |
+| [coding-find-min-rotated.md](answers/coding-find-min-rotated.md) | Find min in rotated sorted array (compare mid to hi) |
 | [coding-balanced-tree.md](answers/coding-balanced-tree.md) | Balanced Binary Tree (post-order poison height) |
 | [coding-subsets-ii.md](answers/coding-subsets-ii.md) | Subsets II (sort + same-depth skip) |
 | [coding-valid-parenthesis-string.md](answers/coding-valid-parenthesis-string.md) | Valid Parenthesis String (greedy lo/hi balance) |
@@ -404,6 +408,7 @@
 | [system-design-ticketmaster.md](answers/system-design-ticketmaster.md) | Ticket booking / named-seat holds + waiting room |
 | [system-design-proximity.md](answers/system-design-proximity.md) | Nearby / Yelp proximity (geohash + H3 candidates) |
 | [system-design-object-storage.md](answers/system-design-object-storage.md) | Object storage / S3 (metadata vs bytes + multipart) |
+| [system-design-distributed-lock.md](answers/system-design-distributed-lock.md) | Distributed lock / lease (fencing token + consensus) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

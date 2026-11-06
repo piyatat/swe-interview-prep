@@ -137,6 +137,7 @@
 | Unique Paths II (obstacle grid DP) | [coding-unique-paths-ii.md](coding-unique-paths-ii.md) |
 | Swim in Rising Water (minimax path) | [coding-swim-rising-water.md](coding-swim-rising-water.md) |
 | Find Peak Element (walk-uphill BS) | [coding-find-peak.md](coding-find-peak.md) |
+| Find min in rotated sorted array | [coding-find-min-rotated.md](coding-find-min-rotated.md) |
 | Balanced Binary Tree (poison height) | [coding-balanced-tree.md](coding-balanced-tree.md) |
 | Subsets II (sort + same-depth skip) | [coding-subsets-ii.md](coding-subsets-ii.md) |
 | Valid Parenthesis String (greedy lo/hi) | [coding-valid-parenthesis-string.md](coding-valid-parenthesis-string.md) |
@@ -180,6 +181,7 @@
 | Ticket booking / Ticketmaster | [system-design-ticketmaster.md](system-design-ticketmaster.md) |
 | Nearby / Yelp proximity | [system-design-proximity.md](system-design-proximity.md) |
 | Object storage / S3 | [system-design-object-storage.md](system-design-object-storage.md) |
+| Distributed lock / lease | [system-design-distributed-lock.md](system-design-distributed-lock.md) |
 
 ## Behavioral (STAR outlines)
 

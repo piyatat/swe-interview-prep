@@ -189,5 +189,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Harvey | [harvey.md](harvey.md) | Legal / professional-services AI; three values; citation / ACL |
 | SentinelOne | [sentinelone.md](sentinelone.md) | Autonomous EDR; six values; official AI-off live / take-home |
 | The Trade Desk | [the-trade-desk.md](the-trade-desk.md) | Open-internet DSP; six values; Superday + bid-path latency |
+| Roku | [roku.md](roku.md) | Streaming OS / ads; official AI-off live; HackerRank loop |
+| Monzo | [monzo.md](monzo.md) | UK digital bank; official pair vs take-home; six values |
+| Cribl | [cribl.md](cribl.md) | Telemetry pipeline; official pair + values rubric |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
