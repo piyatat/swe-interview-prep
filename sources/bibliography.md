@@ -3651,4 +3651,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Distributed locks with Redis — Redis docs (Redlock) | https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/ |
 | Design a Distributed Lock Service — Hiring Bar | https://hiringbar.dev/cases/distributed-locking |
 
+## Grab track (2026-11-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering — Grab Careers (how we hire) | https://www.grab.careers/en/how-we-hire/engineering/ |
+| Our values — Grab Careers | https://www.grab.careers/en/life-at-grab/our-values/ |
+| Do work that moves millions — Grab Careers | https://www.grab.careers/en/ |
+| Grab Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/grab/software-engineer |
+| Grab Interview Process 2026 — Dataford | https://dataford.io/interview-guides/grab |
+
+## G-Research track (2026-11-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| Engineering — G-Research | https://www.gresearch.com/teams/engineering/ |
+| What to expect from a Quant Platform Software Engineering interview — G-Research | https://www.gresearch.com/news/what-to-expect-from-a-quant-platform-software-engineering-interview-updated/ |
+| About us — G-Research | https://www.gresearch.com/about/about-us/ |
+| Life at G-Research | https://www.gresearch.com/careers/life-at-g-research/ |
+| G-Research Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/g-research/software-engineer |
+
+## MathWorks track (2026-11-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| What to Expect When You Apply — MathWorks | https://www.mathworks.com/company/jobs/resources/applying-and-interviewing.html |
+| Mission and Core Values — MathWorks | https://www.mathworks.com/company/aboutus/mission_values.html |
+| Interviewing at MathWorks (EDG) — MathWorks | https://www.mathworks.com/company/jobs/students/interviewing.html |
+| Software Development teams — MathWorks | https://www.mathworks.com/company/jobs/teams-roles/softwaredevelopment.html |
+
+## Maximum depth outline (2026-11-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| 104. Maximum Depth of Binary Tree — LeetCode | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
+| Maximum Depth of Binary Tree — NeetCode | https://neetcode.io/solutions/maximum-depth-of-binary-tree |
+| 104. Maximum Depth of Binary Tree — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/104/ |
+| Tree traversal — Wikipedia | https://en.wikipedia.org/wiki/Tree_traversal |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Missing Number outline (2026-11-07 ingest)
+
+| Title | URL |
+| --- | --- |
+| 268. Missing Number — LeetCode | https://leetcode.com/problems/missing-number/ |
+| Missing Number — NeetCode | https://neetcode.io/solutions/missing-number |
+| 268. Missing Number — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/268/ |
+| Exclusive or — Wikipedia | https://en.wikipedia.org/wiki/Exclusive_or |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

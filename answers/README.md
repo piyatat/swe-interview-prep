@@ -151,6 +151,8 @@
 | Reverse Bits (place at 31 − i) | [coding-reverse-bits.md](coding-reverse-bits.md) |
 | Two Sum II (sorted two pointers) | [coding-two-sum-ii.md](coding-two-sum-ii.md) |
 | Pow(x, n) (binary exponentiation) | [coding-pow.md](coding-pow.md) |
+| Maximum depth of binary tree (DFS / BFS) | [coding-max-depth.md](coding-max-depth.md) |
+| Missing Number (XOR range / Gauss) | [coding-missing-number.md](coding-missing-number.md) |
 
 ## System design
 

@@ -217,6 +217,9 @@
 | [roku.md](companies/roku.md) | Roku — streaming OS / ads, official AI-off live, HackerRank |
 | [monzo.md](companies/monzo.md) | Monzo — UK bank, official pair-or-take-home, six values |
 | [cribl.md](companies/cribl.md) | Cribl — telemetry pipeline, official pair + values rubric |
+| [grab.md](companies/grab.md) | Grab — SEA super-app, official 4Hs + live coding / design |
+| [g-research.md](companies/g-research.md) | G-Research — London quant platform, homework + QP on-site |
+| [mathworks.md](companies/mathworks.md) | MathWorks — MATLAB / Simulink, project presentation + values |
 
 ## Role-specific
 
@@ -383,6 +386,8 @@
 | [coding-reverse-bits.md](answers/coding-reverse-bits.md) | Reverse Bits (place at 31 − i) |
 | [coding-two-sum-ii.md](answers/coding-two-sum-ii.md) | Two Sum II (sorted two pointers, 1-indexed) |
 | [coding-pow.md](answers/coding-pow.md) | Pow(x, n) (binary exponentiation) |
+| [coding-max-depth.md](answers/coding-max-depth.md) | Maximum depth of binary tree (DFS / BFS levels) |
+| [coding-missing-number.md](answers/coding-missing-number.md) | Missing Number (XOR range / Gauss) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

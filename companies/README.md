@@ -192,5 +192,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Roku | [roku.md](roku.md) | Streaming OS / ads; official AI-off live; HackerRank loop |
 | Monzo | [monzo.md](monzo.md) | UK digital bank; official pair vs take-home; six values |
 | Cribl | [cribl.md](cribl.md) | Telemetry pipeline; official pair + values rubric |
+| Grab | [grab.md](grab.md) | SEA super-app; official 4Hs + live coding / design |
+| G-Research | [g-research.md](g-research.md) | London quant platform; homework review + QP on-site |
+| MathWorks | [mathworks.md](mathworks.md) | MATLAB / Simulink; project presentation; official no-AI hiring eval |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
