@@ -195,5 +195,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Grab | [grab.md](grab.md) | SEA super-app; official 4Hs + live coding / design |
 | G-Research | [g-research.md](g-research.md) | London quant platform; homework review + QP on-site |
 | MathWorks | [mathworks.md](mathworks.md) | MATLAB / Simulink; project presentation; official no-AI hiring eval |
+| Synopsys | [synopsys.md](synopsys.md) | Official ACE+T + interview FAQ; EDA / silicon-to-systems; AI-off live |
+| Veeva | [veeva.md](veeva.md) | Life-sciences industry cloud; PBC + Work Anywhere; four values |
+| ASML | [asml.md](asml.md) | Lithography scanners; challenge / collaborate / care; official interview tips |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

@@ -3700,4 +3700,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Exclusive or — Wikipedia | https://en.wikipedia.org/wiki/Exclusive_or |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Synopsys track (2026-11-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| FAQ for Your Synopsys Interview | https://careers.synopsys.com/InterviewProcessFAQ |
+| About Us — Synopsys | https://www.synopsys.com/company.html |
+| Working at Synopsys — Careers | https://careers.synopsys.com/ |
+| Synopsys Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/synopsys/software-engineer |
+| Staff Software Engineer, Full Stack — Synopsys careers | https://careers.synopsys.com/job/sunnyvale/staff-software-engineer-full-stack/44408/102534457712 |
+
+## Veeva track (2026-11-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Why Veeva — Careers | https://careers.veeva.com/why-veeva/ |
+| Work Anywhere — Careers at Veeva | https://careers.veeva.com/work-anywhere/ |
+| Careers at Veeva | https://careers.veeva.com/ |
+| Senior Software Engineer, Python — Veeva (Lever JD) | https://jobs.lever.co/veeva/31f6b129-0bf7-43c3-b572-d551f7bf838e |
+| Associate Software Engineer (2027 start) — Careers at Veeva | https://careers.veeva.com/job/52ba79af-1086-457d-b5d2-8e184f111ffd/associate-software-engineer-seeking-2026-grads-boston-ma/ |
+| Veeva Systems Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/veeva-systems/software-engineer |
+
+## ASML track (2026-11-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| Interviewing at ASML: Tips and tricks | https://www.asml.com/en/careers/interview-tips |
+| Working at ASML | https://www.asml.com/en/careers/working-at-asml |
+| Computer science & software engineering jobs — ASML | https://www.asml.com/en/careers/technical-fields/computer-science-jobs-software-engineering |
+| ASML internships in the Netherlands | https://www.asml.com/en/careers/students-new-graduates/netherlands/internships |
+| ASML Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/asml/software-engineer |
+
+## Valid Palindrome outline (2026-11-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| 125. Valid Palindrome — LeetCode | https://leetcode.com/problems/valid-palindrome/ |
+| Valid Palindrome — NeetCode | https://neetcode.io/solutions/valid-palindrome |
+| 125. Valid Palindrome — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/125/ |
+| Palindrome — Wikipedia | https://en.wikipedia.org/wiki/Palindrome |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Min Cost Climbing Stairs outline (2026-11-08 ingest)
+
+| Title | URL |
+| --- | --- |
+| 746. Min Cost Climbing Stairs — LeetCode | https://leetcode.com/problems/min-cost-climbing-stairs/ |
+| Min Cost Climbing Stairs — NeetCode | https://neetcode.io/solutions/min-cost-climbing-stairs |
+| 746. Min Cost Climbing Stairs — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/746/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

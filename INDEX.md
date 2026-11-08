@@ -220,6 +220,9 @@
 | [grab.md](companies/grab.md) | Grab — SEA super-app, official 4Hs + live coding / design |
 | [g-research.md](companies/g-research.md) | G-Research — London quant platform, homework + QP on-site |
 | [mathworks.md](companies/mathworks.md) | MathWorks — MATLAB / Simulink, project presentation + values |
+| [synopsys.md](companies/synopsys.md) | Synopsys — EDA / silicon-to-systems, ACE+T values, official AI-off live |
+| [veeva.md](companies/veeva.md) | Veeva — life-sciences industry cloud, PBC + Work Anywhere, four values |
+| [asml.md](companies/asml.md) | ASML — lithography scanners, challenge / collaborate / care, official interview tips |
 
 ## Role-specific
 
@@ -388,6 +391,8 @@
 | [coding-pow.md](answers/coding-pow.md) | Pow(x, n) (binary exponentiation) |
 | [coding-max-depth.md](answers/coding-max-depth.md) | Maximum depth of binary tree (DFS / BFS levels) |
 | [coding-missing-number.md](answers/coding-missing-number.md) | Missing Number (XOR range / Gauss) |
+| [coding-valid-palindrome.md](answers/coding-valid-palindrome.md) | Valid Palindrome (two-pointer skip junk) |
+| [coding-min-cost-climbing.md](answers/coding-min-cost-climbing.md) | Min Cost Climbing Stairs (1D DP min of last two) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
