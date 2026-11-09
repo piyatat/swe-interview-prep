@@ -155,6 +155,8 @@
 | Missing Number (XOR range / Gauss) | [coding-missing-number.md](coding-missing-number.md) |
 | Valid Palindrome (two-pointer skip) | [coding-valid-palindrome.md](coding-valid-palindrome.md) |
 | Min Cost Climbing Stairs (1D DP) | [coding-min-cost-climbing.md](coding-min-cost-climbing.md) |
+| Contains Duplicate (hash set) | [coding-contains-duplicate.md](coding-contains-duplicate.md) |
+| Valid Anagram (count fingerprint) | [coding-valid-anagram.md](coding-valid-anagram.md) |
 
 ## System design
 

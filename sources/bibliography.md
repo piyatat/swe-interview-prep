@@ -3751,4 +3751,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Cadence track (2026-11-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Life at Cadence | https://www.cadence.com/en_US/home/company/life-at-cadence.html |
+| Careers — Cadence | https://www.cadence.com/en_US/home/company/life-at-cadence/careers.html |
+| Interns and New Grads — Cadence | https://www.cadence.com/en_US/home/company/careers/interns-and-new-grads.html |
+| How to Land a Job at Cadence — Life at Cadence | https://community.cadence.com/cadence_blogs_8/b/life-at-cadence/posts/how-to-land-a-job-at-cadence |
+| Cadence Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/cadence/software-engineer |
+
+## Lam Research track (2026-11-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers Overview — Lam Research | https://www.lamresearch.com/careers/careers-overview/ |
+| Learn About Lam Research Internships (PDF) | https://www.lamresearch.com/content/dam/lamresearch/2026/02/Learn-About-Lam-Research-Internships.pdf?v=11 |
+| Lam Research Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/lam-research/software-engineer |
+| Lam Research careers (opportunities) | https://opportunities.lamresearch.com/ |
+| Lam Research — company | https://www.lamresearch.com/ |
+
+## Texas Instruments track (2026-11-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| Living our values — TI ambitions, values and code of conduct (PDF) | https://www.ti.com/lit/ml/szzb178/szzb178.pdf |
+| TI application and interview process — official transcript | https://www.ti.com/bin/ti/transcripts/6265474659001_en-us.txt |
+| Careers at TI | https://careers.ti.com/ |
+| The future starts here: intern to full-time TIer | https://www.ti.com/en-us/about-ti/behind-chip/articles/the-future-starts-here-3-insights-on-the-journey-from-intern-to-full-time-tier |
+| Texas Instruments Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/texas-instruments/software-engineer |
+
+## Contains Duplicate outline (2026-11-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| 217. Contains Duplicate — LeetCode | https://leetcode.com/problems/contains-duplicate/ |
+| Contains Duplicate — NeetCode | https://neetcode.io/solutions/contains-duplicate |
+| 217. Contains Duplicate — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/217/ |
+| Hash table — Wikipedia | https://en.wikipedia.org/wiki/Hash_table |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Valid Anagram outline (2026-11-09 ingest)
+
+| Title | URL |
+| --- | --- |
+| 242. Valid Anagram — LeetCode | https://leetcode.com/problems/valid-anagram/ |
+| Valid Anagram — NeetCode | https://neetcode.io/solutions/valid-anagram |
+| 242. Valid Anagram — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/242/ |
+| Anagram — Wikipedia | https://en.wikipedia.org/wiki/Anagram |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

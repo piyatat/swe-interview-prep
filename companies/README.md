@@ -198,5 +198,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Synopsys | [synopsys.md](synopsys.md) | Official ACE+T + interview FAQ; EDA / silicon-to-systems; AI-off live |
 | Veeva | [veeva.md](veeva.md) | Life-sciences industry cloud; PBC + Work Anywhere; four values |
 | ASML | [asml.md](asml.md) | Lithography scanners; challenge / collaborate / care; official interview tips |
+| Cadence | [cadence.md](cadence.md) | Official One Team values; recruiter loop + homework; EDA C++ |
+| Lam Research | [lam-research.md](lam-research.md) | Etch / deposition tools; official 4-stage hire + Flex sites |
+| Texas Instruments | [texas-instruments.md](texas-instruments.md) | Five values; official STAR + 2–4 virtuals; embedded C |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

@@ -223,6 +223,9 @@
 | [synopsys.md](companies/synopsys.md) | Synopsys — EDA / silicon-to-systems, ACE+T values, official AI-off live |
 | [veeva.md](companies/veeva.md) | Veeva — life-sciences industry cloud, PBC + Work Anywhere, four values |
 | [asml.md](companies/asml.md) | ASML — lithography scanners, challenge / collaborate / care, official interview tips |
+| [cadence.md](companies/cadence.md) | Cadence — One Team values, recruiter loop, EDA C++ |
+| [lam-research.md](companies/lam-research.md) | Lam Research — etch / deposition tools, official 4-stage hire |
+| [texas-instruments.md](companies/texas-instruments.md) | Texas Instruments — five values, official STAR + virtual loop, embedded C |
 
 ## Role-specific
 
@@ -393,6 +396,8 @@
 | [coding-missing-number.md](answers/coding-missing-number.md) | Missing Number (XOR range / Gauss) |
 | [coding-valid-palindrome.md](answers/coding-valid-palindrome.md) | Valid Palindrome (two-pointer skip junk) |
 | [coding-min-cost-climbing.md](answers/coding-min-cost-climbing.md) | Min Cost Climbing Stairs (1D DP min of last two) |
+| [coding-contains-duplicate.md](answers/coding-contains-duplicate.md) | Contains Duplicate (hash set membership) |
+| [coding-valid-anagram.md](answers/coding-valid-anagram.md) | Valid Anagram (count fingerprint) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
