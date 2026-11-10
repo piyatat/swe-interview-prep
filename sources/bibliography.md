@@ -3801,4 +3801,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Anagram — Wikipedia | https://en.wikipedia.org/wiki/Anagram |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Applied Materials track (2026-11-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Students and Early Career — Applied Materials | https://www.appliedmaterials.com/us/en/careers/students-early-career.html |
+| Careers — Applied Materials | https://www.appliedmaterials.com/us/en/careers.html |
+| About — Applied Materials | https://www.appliedmaterials.com/us/en/about.html |
+| 2025 Impact Report — Applied Materials (PDF) | https://www.appliedmaterials.com/content/dam/site/company/csr/doc/2025_impact_report.pdf.coredownload.inline.pdf |
+| Applied Materials Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/applied-materials/software-engineer |
+
+## Micron track (2026-11-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| University recruiting — Micron | https://www.micron.com/about/careers/university-recruiting |
+| Our company — Micron | https://www.micron.com/about/company |
+| Global culture and workforce — Micron | https://www.micron.com/about/sustainability/culture |
+| Micron Technology 2026 Sustainability Report (PDF) | https://www.micron.com/content/dam/micron/global/public/programs/sustainability/documents/micron-technology-2026-sustainability-report.pdf |
+| Micron Technology Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/micron-technology/software-engineer |
+
+## Analog Devices track (2026-11-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| Student Resources — Analog Devices | https://www.analog.com/en/careers/student-resources.html |
+| Software Career Opportunities — Analog Devices | https://www.analog.com/en/careers/software-jobs.html |
+| Career Opportunities — Analog Devices | https://www.analog.com/en/careers/career-opportunities.html |
+| Integrity Powers Growth — ADI Code of Business Conduct and Ethics (PDF) | https://investor.analog.com/static-files/6ed4abc2-4db5-4bc7-a3b5-50ae0ac42301 |
+| Analog Devices Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/analog-devices/software-engineer |
+
+## Happy Number outline (2026-11-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| 202. Happy Number — LeetCode | https://leetcode.com/problems/happy-number/ |
+| Happy Number — NeetCode | https://neetcode.io/solutions/happy-number |
+| 202. Happy Number — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/202/ |
+| Happy number — Wikipedia | https://en.wikipedia.org/wiki/Happy_number |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Plus One outline (2026-11-10 ingest)
+
+| Title | URL |
+| --- | --- |
+| 66. Plus One — LeetCode | https://leetcode.com/problems/plus-one/ |
+| Plus One — NeetCode | https://neetcode.io/solutions/plus-one |
+| 66. Plus One — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/66/ |
+| Carry (arithmetic) — Wikipedia | https://en.wikipedia.org/wiki/Carry_(arithmetic) |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

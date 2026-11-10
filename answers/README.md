@@ -157,6 +157,8 @@
 | Min Cost Climbing Stairs (1D DP) | [coding-min-cost-climbing.md](coding-min-cost-climbing.md) |
 | Contains Duplicate (hash set) | [coding-contains-duplicate.md](coding-contains-duplicate.md) |
 | Valid Anagram (count fingerprint) | [coding-valid-anagram.md](coding-valid-anagram.md) |
+| Happy Number (digit squares + cycle) | [coding-happy-number.md](coding-happy-number.md) |
+| Plus One (carry from the LSD) | [coding-plus-one.md](coding-plus-one.md) |
 
 ## System design
 

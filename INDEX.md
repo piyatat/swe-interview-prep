@@ -226,6 +226,9 @@
 | [cadence.md](companies/cadence.md) | Cadence — One Team values, recruiter loop, EDA C++ |
 | [lam-research.md](companies/lam-research.md) | Lam Research — etch / deposition tools, official 4-stage hire |
 | [texas-instruments.md](companies/texas-instruments.md) | Texas Instruments — five values, official STAR + virtual loop, embedded C |
+| [applied-materials.md](companies/applied-materials.md) | Applied Materials — official STAR + panel, wafer-fab equipment / materials |
+| [micron.md](companies/micron.md) | Micron — official six values + university FAQ, DRAM / NAND / HBM |
+| [analog-devices.md](companies/analog-devices.md) | Analog Devices — Code values + show-your-work technicals, Intelligent Edge |
 
 ## Role-specific
 
@@ -398,6 +401,8 @@
 | [coding-min-cost-climbing.md](answers/coding-min-cost-climbing.md) | Min Cost Climbing Stairs (1D DP min of last two) |
 | [coding-contains-duplicate.md](answers/coding-contains-duplicate.md) | Contains Duplicate (hash set membership) |
 | [coding-valid-anagram.md](answers/coding-valid-anagram.md) | Valid Anagram (count fingerprint) |
+| [coding-happy-number.md](answers/coding-happy-number.md) | Happy Number (digit squares + cycle) |
+| [coding-plus-one.md](answers/coding-plus-one.md) | Plus One (carry from the LSD) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

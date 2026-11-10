@@ -201,5 +201,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Cadence | [cadence.md](cadence.md) | Official One Team values; recruiter loop + homework; EDA C++ |
 | Lam Research | [lam-research.md](lam-research.md) | Etch / deposition tools; official 4-stage hire + Flex sites |
 | Texas Instruments | [texas-instruments.md](texas-instruments.md) | Five values; official STAR + 2–4 virtuals; embedded C |
+| Applied Materials | [applied-materials.md](applied-materials.md) | Official STAR + panel; wafer-fab equipment / materials |
+| Micron | [micron.md](micron.md) | Official six values + university FAQ; DRAM / NAND / HBM |
+| Analog Devices | [analog-devices.md](analog-devices.md) | Code values + show-your-work technicals; Intelligent Edge |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
