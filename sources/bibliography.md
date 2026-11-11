@@ -3851,4 +3851,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Carry (arithmetic) — Wikipedia | https://en.wikipedia.org/wiki/Carry_(arithmetic) |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## NXP track (2026-11-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Getting Hired — NXP | https://www.nxp.com/company/about-nxp/careers/getting-hired:GETTING-HIRED |
+| Careers at NXP | https://www.nxp.com/company/about-nxp/careers:CAREERS |
+| 20 Years of NXP: The People, Values and Culture Behind the Journey | https://www.nxp.com/company/about-nxp/smarter-world-blog/BL-20-YEARS-NXP-VALUES-CULTURE-JOURNEY |
+| Team Member Engagement — NXP | https://www.nxp.com/company/about-nxp/our-team-members/team-member-engagement:CORPORATE-VALUES-AND-EMPLOYEE-ENGAGEMENT |
+| NXP Semiconductors Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/nxp-semiconductors/software-engineer |
+
+## Broadcom track (2026-11-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers at Broadcom | https://www.broadcom.com/company/careers |
+| Careers \| Culture — Broadcom | https://www.broadcom.com/company/careers/culture |
+| Architecting AI software at Broadcom: a conversation with Tasha Drew | https://www.broadcom.com/company/news/articles/innovation/architecting-ai-software-at-broadcom-a-conversation-with-tasha-drew |
+| Broadcom Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/broadcom/software-engineer |
+| Broadcom Interview Guide (2026) — techinterview | https://www.techinterview.org/companies/broadcom-interview-guide/ |
+
+## Marvell track (2026-11-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers \| Life at Marvell | https://www.marvell.com/company/careers.html |
+| Recruitment Fraud Protection — Marvell | https://www.marvell.com/company/careers/recruitment-fraud-protection.html |
+| Intern, Software Engineer — Marvell (Interview Integrity) | https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Intern--Software-Engineer_2604241 |
+| Marvell Technology Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/marvell-technology/software-engineer |
+| Marvell Technology Interview Process 2026 — Dataford | https://dataford.io/interview-guides/marvell-technology |
+
+## Last Stone Weight outline (2026-11-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| 1046. Last Stone Weight — LeetCode | https://leetcode.com/problems/last-stone-weight/ |
+| Last Stone Weight — NeetCode | https://neetcode.io/solutions/last-stone-weight |
+| 1046. Last Stone Weight — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/1046/ |
+| Heap (data structure) — Wikipedia | https://en.wikipedia.org/wiki/Heap_(data_structure) |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Multiply Strings outline (2026-11-11 ingest)
+
+| Title | URL |
+| --- | --- |
+| 43. Multiply Strings — LeetCode | https://leetcode.com/problems/multiply-strings/ |
+| Multiply Strings — NeetCode | https://neetcode.io/solutions/multiply-strings |
+| 43. Multiply Strings — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/43/ |
+| Multiplication algorithm — Wikipedia | https://en.wikipedia.org/wiki/Multiplication_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

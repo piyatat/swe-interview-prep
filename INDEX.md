@@ -229,6 +229,9 @@
 | [applied-materials.md](companies/applied-materials.md) | Applied Materials — official STAR + panel, wafer-fab equipment / materials |
 | [micron.md](companies/micron.md) | Micron — official six values + university FAQ, DRAM / NAND / HBM |
 | [analog-devices.md](companies/analog-devices.md) | Analog Devices — Code values + show-your-work technicals, Intelligent Edge |
+| [nxp.md](companies/nxp.md) | NXP — auto / IoT MCU, official Getting Hired + five values |
+| [broadcom.md](companies/broadcom.md) | Broadcom — silicon vs VMware split, execution / ship-to-customer |
+| [marvell.md](companies/marvell.md) | Marvell — data-infra silicon, official no-live-AI, firmware / interconnect |
 
 ## Role-specific
 
@@ -403,6 +406,8 @@
 | [coding-valid-anagram.md](answers/coding-valid-anagram.md) | Valid Anagram (count fingerprint) |
 | [coding-happy-number.md](answers/coding-happy-number.md) | Happy Number (digit squares + cycle) |
 | [coding-plus-one.md](answers/coding-plus-one.md) | Plus One (carry from the LSD) |
+| [coding-last-stone.md](answers/coding-last-stone.md) | Last Stone Weight (max-heap smash) |
+| [coding-multiply-strings.md](answers/coding-multiply-strings.md) | Multiply Strings (grade-school digit product) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

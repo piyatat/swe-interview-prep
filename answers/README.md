@@ -159,6 +159,8 @@
 | Valid Anagram (count fingerprint) | [coding-valid-anagram.md](coding-valid-anagram.md) |
 | Happy Number (digit squares + cycle) | [coding-happy-number.md](coding-happy-number.md) |
 | Plus One (carry from the LSD) | [coding-plus-one.md](coding-plus-one.md) |
+| Last Stone Weight (max-heap smash) | [coding-last-stone.md](coding-last-stone.md) |
+| Multiply Strings (grade-school digit product) | [coding-multiply-strings.md](coding-multiply-strings.md) |
 
 ## System design
 

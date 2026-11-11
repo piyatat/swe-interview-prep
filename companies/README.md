@@ -204,5 +204,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Applied Materials | [applied-materials.md](applied-materials.md) | Official STAR + panel; wafer-fab equipment / materials |
 | Micron | [micron.md](micron.md) | Official six values + university FAQ; DRAM / NAND / HBM |
 | Analog Devices | [analog-devices.md](analog-devices.md) | Code values + show-your-work technicals; Intelligent Edge |
+| NXP | [nxp.md](nxp.md) | Official Getting Hired; auto / IoT MCU; five values |
+| Broadcom | [broadcom.md](broadcom.md) | Silicon vs VMware; execution / ship-to-customer; no LP list |
+| Marvell | [marvell.md](marvell.md) | Data-infra silicon; official no-live-AI; firmware / interconnect |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
