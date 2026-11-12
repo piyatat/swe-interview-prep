@@ -207,5 +207,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | NXP | [nxp.md](nxp.md) | Official Getting Hired; auto / IoT MCU; five values |
 | Broadcom | [broadcom.md](broadcom.md) | Silicon vs VMware; execution / ship-to-customer; no LP list |
 | Marvell | [marvell.md](marvell.md) | Data-infra silicon; official no-live-AI; firmware / interconnect |
+| Jump Trading | [jump-trading.md](jump-trading.md) | Core Development C++ / Linux; from-scratch systems; Chicago superday |
+| CoreWeave | [coreweave.md](coreweave.md) | AI Hyperscaler GPU cloud; five values; practical K8s / fleet loop |
+| Pure Storage | [pure-storage.md](pure-storage.md) | Five values; concurrency / flash array; reported AI-off live |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

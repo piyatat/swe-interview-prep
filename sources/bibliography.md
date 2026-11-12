@@ -3901,4 +3901,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Multiplication algorithm — Wikipedia | https://en.wikipedia.org/wiki/Multiplication_algorithm |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Jump Trading track (2026-11-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Jump Trading | https://www.jumptrading.com/hr/overview |
+| Technology — Jump Trading | https://www.jumptrading.com/technology |
+| Students & New Grads — Jump Trading | https://www.jumptrading.com/hr/students-new-grads |
+| Contact / recruiting security — Jump Trading | https://www.jumptrading.com/contact |
+| Jump Trading SWE (Core Development) — gitGood | https://gitgood.dev/prep/jump-trading-swe |
+| Jump Trading Quantitative Developer Interview Guide — DataInterview | https://www.datainterview.com/blog/jump-trading-quantitative-developer-interview |
+
+## CoreWeave track (2026-11-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| Company Culture — CoreWeave | https://www.coreweave.com/coreweave-company-culture |
+| Careers — CoreWeave | https://www.coreweave.com/careers |
+| Recruitment Fraud Notice — CoreWeave | https://www.coreweave.com/careers/notice-on-recruitment-fraud |
+| Senior Software Engineer, Weave — CoreWeave (values on JD) | https://coreweave.com/careers/job?gh_jid=4696621006 |
+| CoreWeave Software Engineer Interview Guide 2026 — Dataford | https://dataford.io/interview-guides/coreweave/software-engineer |
+
+## Pure Storage track (2026-11-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| How Pure Storage Became a Great Place to Work (values) — Pure Storage blog | https://blog.purestorage.com/news-events/pure-storage-great-place-to-work/ |
+| Careers — Pure Storage | https://join.purestorage.com/jobs |
+| Software Engineer — Pure Storage (Greenhouse) | https://job-boards.greenhouse.io/purestorage/jobs/8102970 |
+| Pure Storage Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/pure-storage/software-engineer |
+| Pure Storage Interview Process 2026 — Dataford | https://dataford.io/interview-guides/pure-storage |
+
+## Reverse Integer outline (2026-11-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| 7. Reverse Integer — LeetCode | https://leetcode.com/problems/reverse-integer/ |
+| Reverse Integer — NeetCode | https://neetcode.io/solutions/reverse-integer |
+| 7. Reverse Integer — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/7/ |
+| Integer overflow — Wikipedia | https://en.wikipedia.org/wiki/Integer_overflow |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Hand of Straights outline (2026-11-12 ingest)
+
+| Title | URL |
+| --- | --- |
+| 846. Hand of Straights — LeetCode | https://leetcode.com/problems/hand-of-straights/ |
+| Hand of Straights — NeetCode | https://neetcode.io/solutions/hand-of-straights |
+| 846. Hand of Straights — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/846/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

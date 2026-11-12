@@ -232,6 +232,9 @@
 | [nxp.md](companies/nxp.md) | NXP — auto / IoT MCU, official Getting Hired + five values |
 | [broadcom.md](companies/broadcom.md) | Broadcom — silicon vs VMware split, execution / ship-to-customer |
 | [marvell.md](companies/marvell.md) | Marvell — data-infra silicon, official no-live-AI, firmware / interconnect |
+| [jump-trading.md](companies/jump-trading.md) | Jump Trading — Core Development C++ / Linux, from-scratch systems, Chicago superday |
+| [coreweave.md](companies/coreweave.md) | CoreWeave — AI Hyperscaler GPU cloud, five values, practical K8s / fleet loop |
+| [pure-storage.md](companies/pure-storage.md) | Pure Storage — five values, concurrency / flash array, official AI-off live |
 
 ## Role-specific
 
@@ -408,6 +411,8 @@
 | [coding-plus-one.md](answers/coding-plus-one.md) | Plus One (carry from the LSD) |
 | [coding-last-stone.md](answers/coding-last-stone.md) | Last Stone Weight (max-heap smash) |
 | [coding-multiply-strings.md](answers/coding-multiply-strings.md) | Multiply Strings (grade-school digit product) |
+| [coding-reverse-integer.md](answers/coding-reverse-integer.md) | Reverse Integer (overflow-before-multiply) |
+| [coding-hand-of-straights.md](answers/coding-hand-of-straights.md) | Hand of Straights (greedy consecutive groups) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

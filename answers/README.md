@@ -161,6 +161,8 @@
 | Plus One (carry from the LSD) | [coding-plus-one.md](coding-plus-one.md) |
 | Last Stone Weight (max-heap smash) | [coding-last-stone.md](coding-last-stone.md) |
 | Multiply Strings (grade-school digit product) | [coding-multiply-strings.md](coding-multiply-strings.md) |
+| Reverse Integer (overflow-before-multiply) | [coding-reverse-integer.md](coding-reverse-integer.md) |
+| Hand of Straights (greedy consecutive groups) | [coding-hand-of-straights.md](coding-hand-of-straights.md) |
 
 ## System design
 
