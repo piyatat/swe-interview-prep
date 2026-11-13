@@ -210,5 +210,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Jump Trading | [jump-trading.md](jump-trading.md) | Core Development C++ / Linux; from-scratch systems; Chicago superday |
 | CoreWeave | [coreweave.md](coreweave.md) | AI Hyperscaler GPU cloud; five values; practical K8s / fleet loop |
 | Pure Storage | [pure-storage.md](pure-storage.md) | Five values; concurrency / flash array; reported AI-off live |
+| KLA | [kla.md](kla.md) | Process-control inspect / metrology; Values in Action; official AI-off live |
+| Infineon | [infineon.md](infineon.md) | Power / auto / IoT silicon; easier-safer-greener; firmware + platform |
+| Lucid Motors | [lucid.md](lucid.md) | Six values; luxury EV / ADAS / BMS; panel + project presentation |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

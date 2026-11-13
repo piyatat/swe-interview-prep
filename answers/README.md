@@ -163,6 +163,8 @@
 | Multiply Strings (grade-school digit product) | [coding-multiply-strings.md](coding-multiply-strings.md) |
 | Reverse Integer (overflow-before-multiply) | [coding-reverse-integer.md](coding-reverse-integer.md) |
 | Hand of Straights (greedy consecutive groups) | [coding-hand-of-straights.md](coding-hand-of-straights.md) |
+| Median of two sorted arrays (partition BS) | [coding-median-two-arrays.md](coding-median-two-arrays.md) |
+| Kth largest in a stream (size-k min-heap) | [coding-kth-largest-stream.md](coding-kth-largest-stream.md) |
 
 ## System design
 

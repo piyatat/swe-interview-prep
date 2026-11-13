@@ -3952,4 +3952,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## KLA track (2026-11-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Company — KLA | https://www.kla.com/company |
+| Careers — KLA | https://www.kla.com/careers |
+| Software Engineer (Metrology Systems) — KLA (Workday) | https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Software-Engineer--Metrology-Systems-_2641468 |
+| Whistleblower Policy (Values in Action) — KLA IR | https://ir.kla.com/corporate-governance/whistleblower-policy |
+| KLA Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/kla/software-engineer |
+
+## Infineon track (2026-11-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Infineon Technologies | https://www.infineon.com/careers |
+| Company — Infineon Technologies | https://www.infineon.com/cms/en/about-infineon/company/ |
+| Software Engineers — Infineon | https://www.infineon.com/careers/teams/software-engineers |
+| Life at Infineon (Americas) — Infineon | https://www.infineon.com/careers/our-locations/americas/life-at-infineon |
+| Infineon Technologies Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/infineon-technologies/software-engineer |
+
+## Lucid Motors track (2026-11-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Lucid Motors | https://lucidmotors.com/careers |
+| Life at Lucid (values) — Lucid Motors | https://lucidmotors.com/careers/life-at-lucid |
+| Software Engineer, Data Infrastructure — Lucid Motors | https://lucidmotors.com/careers/search/5199841007 |
+| Lucid Motors Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/lucid-motors/software-engineer |
+| Lucid Motors Interview Process 2026 — Dataford | https://dataford.io/interview-guides/lucid-motors |
+
+## Median of Two Sorted Arrays outline (2026-11-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| 4. Median of Two Sorted Arrays — LeetCode | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+| Median of Two Sorted Arrays — NeetCode | https://neetcode.io/solutions/median-of-two-sorted-arrays |
+| 4. Median of Two Sorted Arrays — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/4/ |
+| Binary search algorithm — Wikipedia | https://en.wikipedia.org/wiki/Binary_search_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Kth Largest Element in a Stream outline (2026-11-13 ingest)
+
+| Title | URL |
+| --- | --- |
+| 703. Kth Largest Element in a Stream — LeetCode | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
+| Kth Largest Element in a Stream — NeetCode | https://neetcode.io/solutions/kth-largest-element-in-a-stream |
+| 703. Kth Largest Element in a Stream — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/703/ |
+| Heap (data structure) — Wikipedia | https://en.wikipedia.org/wiki/Heap_(data_structure) |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

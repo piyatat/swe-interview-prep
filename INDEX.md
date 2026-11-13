@@ -235,6 +235,9 @@
 | [jump-trading.md](companies/jump-trading.md) | Jump Trading — Core Development C++ / Linux, from-scratch systems, Chicago superday |
 | [coreweave.md](companies/coreweave.md) | CoreWeave — AI Hyperscaler GPU cloud, five values, practical K8s / fleet loop |
 | [pure-storage.md](companies/pure-storage.md) | Pure Storage — five values, concurrency / flash array, official AI-off live |
+| [kla.md](companies/kla.md) | KLA — process-control inspect / metrology, Values in Action, official AI-off live |
+| [infineon.md](companies/infineon.md) | Infineon — power / auto / IoT silicon, easier-safer-greener, firmware + platform |
+| [lucid.md](companies/lucid.md) | Lucid Motors — six values, luxury EV / ADAS / BMS, panel + project presentation |
 
 ## Role-specific
 
@@ -413,6 +416,8 @@
 | [coding-multiply-strings.md](answers/coding-multiply-strings.md) | Multiply Strings (grade-school digit product) |
 | [coding-reverse-integer.md](answers/coding-reverse-integer.md) | Reverse Integer (overflow-before-multiply) |
 | [coding-hand-of-straights.md](answers/coding-hand-of-straights.md) | Hand of Straights (greedy consecutive groups) |
+| [coding-median-two-arrays.md](answers/coding-median-two-arrays.md) | Median of two sorted arrays (partition binary search) |
+| [coding-kth-largest-stream.md](answers/coding-kth-largest-stream.md) | Kth largest in a stream (size-k min-heap) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
