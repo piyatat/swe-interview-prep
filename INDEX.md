@@ -238,6 +238,9 @@
 | [kla.md](companies/kla.md) | KLA — process-control inspect / metrology, Values in Action, official AI-off live |
 | [infineon.md](companies/infineon.md) | Infineon — power / auto / IoT silicon, easier-safer-greener, firmware + platform |
 | [lucid.md](companies/lucid.md) | Lucid Motors — six values, luxury EV / ADAS / BMS, panel + project presentation |
+| [clickhouse.md](companies/clickhouse.md) | ClickHouse — official five values + 7-step hire, columnar OLAP / Cloud |
+| [garmin.md](companies/garmin.md) | Garmin — fuel passions, aviation / marine / fitness embedded, reported HackerRank + panel |
+| [siemens.md](companies/siemens.md) | Siemens — purpose + official AI-off live, industrial software / EDA / OT |
 
 ## Role-specific
 
@@ -418,6 +421,8 @@
 | [coding-hand-of-straights.md](answers/coding-hand-of-straights.md) | Hand of Straights (greedy consecutive groups) |
 | [coding-median-two-arrays.md](answers/coding-median-two-arrays.md) | Median of two sorted arrays (partition binary search) |
 | [coding-kth-largest-stream.md](answers/coding-kth-largest-stream.md) | Kth largest in a stream (size-k min-heap) |
+| [coding-merge-triplets.md](answers/coding-merge-triplets.md) | Merge Triplets (greedy dominated max) |
+| [coding-sum-two-integers.md](answers/coding-sum-two-integers.md) | Sum of Two Integers (XOR + carry) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

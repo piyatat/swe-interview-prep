@@ -4002,4 +4002,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Heap (data structure) — Wikipedia | https://en.wikipedia.org/wiki/Heap_(data_structure) |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## ClickHouse track (2026-11-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — ClickHouse | https://clickhouse.com/company/careers |
+| Core Software Engineer (C++) — ClickHouse (Ashby) | https://jobs.ashbyhq.com/clickhouse/368bda6e-28bf-43ff-b2ec-3e3a6ad66a8d/ |
+| Open positions — ClickHouse (Ashby) | https://jobs.ashbyhq.com/clickhouse |
+| Clickhouse Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/clickhouse/software-engineer |
+| How ClickHouse, Inc. Is Building a Best-in-Class Engineering Culture — Index Ventures | https://www.indexventures.com/perspectives/how-clickhouse-inc-is-building-a-best-in-class-engineering-culture/ |
+
+## Garmin track (2026-11-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Garmin | https://www.garmin.com/en-US/careers/ |
+| Garmin Cluj careers (mission language) — Garmin | https://www.garmin.com/ro-RO/blog/careers/garmin-cluj-openings/ |
+| Embedded Linux Software Engineer (C++) — Garmin NZ JD | https://www8.garmin.com/en-NZ/Embedded%20Linux%20Software%20Engineer%20(C++).pdf |
+| Garmin Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/garmin/software-engineer |
+| Garmin Interview Process 2026 — Dataford | https://dataford.io/interview-guides/garmin |
+
+## Siemens track (2026-11-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| Jobs & careers — Siemens | https://www.siemens.com/en-us/company/jobs/ |
+| How to apply (incl. AI guideline) — Siemens | https://www.siemens.com/en-us/company/jobs/how-to-apply/ |
+| Our strategy — Siemens | https://www.siemens.com/en-us/company/about/strategy/ |
+| Siemens Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/siemens/software-engineer |
+| Company presentation — Siemens | https://assets.new.siemens.com/siemens/assets/api/uuid:e2d193e5-782c-44b8-b071-918aea7889cc/siemens-company-presentation-original.pdf |
+
+## Merge Triplets outline (2026-11-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| 1899. Merge Triplets to Form Target Triplet — LeetCode | https://leetcode.com/problems/merge-triplets-to-form-target-triplet/ |
+| Merge Triplets to Form Target Triplet — NeetCode | https://neetcode.io/solutions/merge-triplets-to-form-target-triplet |
+| 1899. Merge Triplets to Form Target Triplet — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/1899/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Sum of Two Integers outline (2026-11-14 ingest)
+
+| Title | URL |
+| --- | --- |
+| 371. Sum of Two Integers — LeetCode | https://leetcode.com/problems/sum-of-two-integers/ |
+| Sum of Two Integers — NeetCode | https://neetcode.io/solutions/sum-of-two-integers |
+| 371. Sum of Two Integers — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/371/ |
+| Adder (electronics) — Wikipedia | https://en.wikipedia.org/wiki/Adder_(electronics) |
+| Two's complement — Wikipedia | https://en.wikipedia.org/wiki/Two%27s_complement |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

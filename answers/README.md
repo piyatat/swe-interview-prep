@@ -165,6 +165,8 @@
 | Hand of Straights (greedy consecutive groups) | [coding-hand-of-straights.md](coding-hand-of-straights.md) |
 | Median of two sorted arrays (partition BS) | [coding-median-two-arrays.md](coding-median-two-arrays.md) |
 | Kth largest in a stream (size-k min-heap) | [coding-kth-largest-stream.md](coding-kth-largest-stream.md) |
+| Merge Triplets (greedy dominated max) | [coding-merge-triplets.md](coding-merge-triplets.md) |
+| Sum of Two Integers (XOR + carry) | [coding-sum-two-integers.md](coding-sum-two-integers.md) |
 
 ## System design
 

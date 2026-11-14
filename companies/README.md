@@ -213,5 +213,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | KLA | [kla.md](kla.md) | Process-control inspect / metrology; Values in Action; official AI-off live |
 | Infineon | [infineon.md](infineon.md) | Power / auto / IoT silicon; easier-safer-greener; firmware + platform |
 | Lucid Motors | [lucid.md](lucid.md) | Six values; luxury EV / ADAS / BMS; panel + project presentation |
+| ClickHouse | [clickhouse.md](clickhouse.md) | Official five values + 7-step hire; columnar OLAP / Cloud |
+| Garmin | [garmin.md](garmin.md) | Fuel passions; aviation / marine / fitness embedded; reported HackerRank + panel |
+| Siemens | [siemens.md](siemens.md) | Purpose + official AI-off live; industrial software / EDA / OT |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
