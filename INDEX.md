@@ -241,6 +241,9 @@
 | [clickhouse.md](companies/clickhouse.md) | ClickHouse — official five values + 7-step hire, columnar OLAP / Cloud |
 | [garmin.md](companies/garmin.md) | Garmin — fuel passions, aviation / marine / fitness embedded, reported HackerRank + panel |
 | [siemens.md](companies/siemens.md) | Siemens — purpose + official AI-off live, industrial software / EDA / OT |
+| [western-digital.md](companies/western-digital.md) | Western Digital — HDD / AI data infra, five values, official How We Hire |
+| [bosch.md](companies/bosch.md) | Bosch — official 4-step hire + ATS-AI FAQ, Mobility / industrial software |
+| [honeywell.md](companies/honeywell.md) | Honeywell Technologies — six behaviors, automation-only after 2026 Aerospace spin |
 
 ## Role-specific
 
@@ -423,6 +426,8 @@
 | [coding-kth-largest-stream.md](answers/coding-kth-largest-stream.md) | Kth largest in a stream (size-k min-heap) |
 | [coding-merge-triplets.md](answers/coding-merge-triplets.md) | Merge Triplets (greedy dominated max) |
 | [coding-sum-two-integers.md](answers/coding-sum-two-integers.md) | Sum of Two Integers (XOR + carry) |
+| [coding-detect-squares.md](answers/coding-detect-squares.md) | Detect Squares (axis-aligned freq geometry) |
+| [coding-min-path-sum.md](answers/coding-min-path-sum.md) | Minimum Path Sum (grid DP min) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

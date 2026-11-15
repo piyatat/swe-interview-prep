@@ -4053,4 +4053,51 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Two's complement — Wikipedia | https://en.wikipedia.org/wiki/Two%27s_complement |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Western Digital track (2026-11-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Explore Western Digital Career Opportunities (How We Hire) — WD | https://www.westerndigital.com/careers |
+| Meet Western Digital (values) — WD | https://www.westerndigital.com/careers/meet-western-digital |
+| Western Digital’s Culture and Values — WD blog | https://blog.westerndigital.com/the-power-of-culture-and-values-at-western-digital/ |
+| Western Digital Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/western-digital/software-engineer |
+
+## Bosch track (2026-11-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| FAQ (hire steps, culture, AI in recruiting) — Bosch Global | https://www.bosch.com/careers/faq/ |
+| Software Development — Bosch USA | https://www.bosch.us/careers/fields-of-work/software-development/ |
+| Global job search — Bosch | https://jobs.bosch.com/ |
+| Bosch Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/bosch/software-engineer |
+
+## Honeywell Technologies track (2026-11-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Honeywell Technologies | https://www.honeywell.com/us/en/careers |
+| Working at Honeywell (behaviors) — Honeywell Technologies | https://www.honeywell.com/us/en/careers/life-at-honeywell |
+| Honeywell Technologies launches after Aerospace spin-off — Honeywell IR | https://investor.honeywell.com/news-releases/news-release-details/honeywell-technologies-launches-independent-pure-play-automation |
+| Honeywell Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/honeywell/software-engineer |
+
+## Detect Squares outline (2026-11-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| 2013. Detect Squares — LeetCode | https://leetcode.com/problems/detect-squares/ |
+| Detect Squares — NeetCode | https://neetcode.io/solutions/detect-squares |
+| 2013. Detect Squares — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/2013/ |
+| Square (geometry) — Wikipedia | https://en.wikipedia.org/wiki/Square_(geometry) |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Minimum Path Sum outline (2026-11-15 ingest)
+
+| Title | URL |
+| --- | --- |
+| 64. Minimum Path Sum — LeetCode | https://leetcode.com/problems/minimum-path-sum/ |
+| Minimum Path Sum — NeetCode | https://neetcode.io/solutions/minimum-path-sum |
+| 64. Minimum Path Sum — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/64/ |
+| Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

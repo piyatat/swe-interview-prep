@@ -216,5 +216,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | ClickHouse | [clickhouse.md](clickhouse.md) | Official five values + 7-step hire; columnar OLAP / Cloud |
 | Garmin | [garmin.md](garmin.md) | Fuel passions; aviation / marine / fitness embedded; reported HackerRank + panel |
 | Siemens | [siemens.md](siemens.md) | Purpose + official AI-off live; industrial software / EDA / OT |
+| Western Digital | [western-digital.md](western-digital.md) | Standalone HDD / AI data infra; five values; official How We Hire |
+| Bosch | [bosch.md](bosch.md) | Official 4-step hire + ATS-AI FAQ; Mobility / industrial / energy software |
+| Honeywell Technologies | [honeywell.md](honeywell.md) | Six behaviors; automation-only after 2026 Aerospace spin (not HONA) |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
