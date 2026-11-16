@@ -169,6 +169,8 @@
 | Sum of Two Integers (XOR + carry) | [coding-sum-two-integers.md](coding-sum-two-integers.md) |
 | Detect Squares (axis-aligned freq) | [coding-detect-squares.md](coding-detect-squares.md) |
 | Minimum Path Sum (grid DP min) | [coding-min-path-sum.md](coding-min-path-sum.md) |
+| Meeting Rooms (sort + overlap test) | [coding-meeting-rooms-i.md](coding-meeting-rooms-i.md) |
+| Minimum interval to include each query (sweep + heap) | [coding-min-interval.md](coding-min-interval.md) |
 
 ## System design
 

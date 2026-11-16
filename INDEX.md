@@ -244,6 +244,9 @@
 | [western-digital.md](companies/western-digital.md) | Western Digital — HDD / AI data infra, five values, official How We Hire |
 | [bosch.md](companies/bosch.md) | Bosch — official 4-step hire + ATS-AI FAQ, Mobility / industrial software |
 | [honeywell.md](companies/honeywell.md) | Honeywell Technologies — six behaviors, automation-only after 2026 Aerospace spin |
+| [lockheed-martin.md](companies/lockheed-martin.md) | Lockheed Martin — three values, official STAR interview guide, clearance |
+| [ge-aerospace.md](companies/ge-aerospace.md) | GE Aerospace — FLIGHT DECK, official AI-off live, engines (not GE Vernova) |
+| [blue-origin.md](companies/blue-origin.md) | Blue Origin — 14 Leadership Principles, project presentation, New Glenn / Moon |
 
 ## Role-specific
 
@@ -428,6 +431,8 @@
 | [coding-sum-two-integers.md](answers/coding-sum-two-integers.md) | Sum of Two Integers (XOR + carry) |
 | [coding-detect-squares.md](answers/coding-detect-squares.md) | Detect Squares (axis-aligned freq geometry) |
 | [coding-min-path-sum.md](answers/coding-min-path-sum.md) | Minimum Path Sum (grid DP min) |
+| [coding-meeting-rooms-i.md](answers/coding-meeting-rooms-i.md) | Meeting Rooms (sort + adjacent overlap) |
+| [coding-min-interval.md](answers/coding-min-interval.md) | Minimum interval to include each query (offline sweep + heap) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

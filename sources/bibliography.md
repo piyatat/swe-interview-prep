@@ -4100,4 +4100,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Dynamic programming — Wikipedia | https://en.wikipedia.org/wiki/Dynamic_programming |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Lockheed Martin track (2026-11-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| About us / values — Lockheed Martin | https://www.lockheedmartin.com/en-us/who-we-are.html |
+| Why Lockheed Martin (culture) — Lockheed Martin | https://www.lockheedmartin.com/en-us/careers/why-lm.html |
+| Interview Guide (PDF) — Lockheed Martin | https://www.lockheedmartin.com/content/dam/lockheed-martin/careers/hiring-process/interview-guide.pdf |
+| Careers — Lockheed Martin | https://www.lockheedmartin.com/en-us/careers/index.html |
+| Lockheed Martin Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/lockheed-martin/software-engineer |
+
+## GE Aerospace track (2026-11-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Culture — GE Aerospace | https://careers.geaerospace.com/global/en/culture |
+| FLIGHT DECK — GE Aerospace | https://careers.geaerospace.com/global/en/flight-deck |
+| AI Interview Policy — GE Aerospace | https://careers.geaerospace.com/global/en/ai-interview-policy |
+| Tips for applying (STAR) — GE Aerospace | https://careers.geaerospace.com/global/en/tips-for-applying |
+| GE Aerospace Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/ge-aerospace/software-engineer |
+
+## Blue Origin track (2026-11-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Blue Origin | https://www.blueorigin.com/careers |
+| Work culture / Leadership Principles — Blue Origin | https://www.blueorigin.com/careers/work-culture |
+| About Blue — Blue Origin | https://www.blueorigin.com/about-blue |
+| Blue Origin Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/blue-origin/software-engineer |
+| Blue Origin Software Engineer Interview — CleverPrep | https://www.cleverprep.com/companies/blue-origin/software-engineer |
+
+## Meeting Rooms (252) outline (2026-11-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| 252. Meeting Rooms — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/252/ |
+| Meeting Rooms — NeetCode | https://neetcode.io/solutions/meeting-rooms |
+| Interval scheduling — Wikipedia | https://en.wikipedia.org/wiki/Interval_scheduling |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Minimum Interval to Include Each Query outline (2026-11-16 ingest)
+
+| Title | URL |
+| --- | --- |
+| 1851. Minimum Interval to Include Each Query — LeetCode | https://leetcode.com/problems/minimum-interval-to-include-each-query/ |
+| Minimum Interval to Include Each Query — NeetCode | https://neetcode.io/solutions/minimum-interval-to-include-each-query |
+| 1851. Minimum Interval to Include Each Query — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/1851/ |
+| Sweep line algorithm — Wikipedia | https://en.wikipedia.org/wiki/Sweep_line_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
 

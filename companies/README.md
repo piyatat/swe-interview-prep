@@ -219,5 +219,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Western Digital | [western-digital.md](western-digital.md) | Standalone HDD / AI data infra; five values; official How We Hire |
 | Bosch | [bosch.md](bosch.md) | Official 4-step hire + ATS-AI FAQ; Mobility / industrial / energy software |
 | Honeywell Technologies | [honeywell.md](honeywell.md) | Six behaviors; automation-only after 2026 Aerospace spin (not HONA) |
+| Lockheed Martin | [lockheed-martin.md](lockheed-martin.md) | Three values; official STAR interview guide; clearance / DCSA |
+| GE Aerospace | [ge-aerospace.md](ge-aerospace.md) | FLIGHT DECK + official AI-off live; engines (not GE Vernova / HONA) |
+| Blue Origin | [blue-origin.md](blue-origin.md) | Official 14 LPs; project presentation; New Glenn / Blue Moon |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
