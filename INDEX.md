@@ -247,6 +247,9 @@
 | [lockheed-martin.md](companies/lockheed-martin.md) | Lockheed Martin — three values, official STAR interview guide, clearance |
 | [ge-aerospace.md](companies/ge-aerospace.md) | GE Aerospace — FLIGHT DECK, official AI-off live, engines (not GE Vernova) |
 | [blue-origin.md](companies/blue-origin.md) | Blue Origin — 14 Leadership Principles, project presentation, New Glenn / Moon |
+| [northrop-grumman.md](companies/northrop-grumman.md) | Northrop Grumman — four values, official STAR + AI-off live, clearance |
+| [boeing.md](companies/boeing.md) | Boeing — five values, official STAR PDF + coding playground, airframer / BDS |
+| [rtx.md](companies/rtx.md) | RTX — six values, Collins / Pratt / Raytheon, panel + clearance |
 
 ## Role-specific
 
@@ -433,6 +436,8 @@
 | [coding-min-path-sum.md](answers/coding-min-path-sum.md) | Minimum Path Sum (grid DP min) |
 | [coding-meeting-rooms-i.md](answers/coding-meeting-rooms-i.md) | Meeting Rooms (sort + adjacent overlap) |
 | [coding-min-interval.md](answers/coding-min-interval.md) | Minimum interval to include each query (offline sweep + heap) |
+| [coding-path-sum.md](answers/coding-path-sum.md) | Path Sum (root-to-leaf DFS remaining) |
+| [coding-stock-ii.md](answers/coding-stock-ii.md) | Buy / sell stock II (sum every uptick) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

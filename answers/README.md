@@ -171,6 +171,8 @@
 | Minimum Path Sum (grid DP min) | [coding-min-path-sum.md](coding-min-path-sum.md) |
 | Meeting Rooms (sort + overlap test) | [coding-meeting-rooms-i.md](coding-meeting-rooms-i.md) |
 | Minimum interval to include each query (sweep + heap) | [coding-min-interval.md](coding-min-interval.md) |
+| Path Sum (root-to-leaf remaining) | [coding-path-sum.md](coding-path-sum.md) |
+| Buy / sell stock II (sum every uptick) | [coding-stock-ii.md](coding-stock-ii.md) |
 
 ## System design
 

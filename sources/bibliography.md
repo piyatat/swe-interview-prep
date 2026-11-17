@@ -4149,4 +4149,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Sweep line algorithm — Wikipedia | https://en.wikipedia.org/wiki/Sweep_line_algorithm |
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 
+## Northrop Grumman track (2026-11-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Careers — Northrop Grumman | https://www.northropgrumman.com/careers |
+| Our Hiring Process — Northrop Grumman | https://www.northropgrumman.com/careers/our-hiring-process |
+| Interviewing Essentials — Northrop Grumman | https://www.northropgrumman.com/careers/interviewing-essentials |
+| Values — Northrop Grumman | https://www.northropgrumman.com/who-we-are/our-values |
+| Northrop Grumman Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/northrop-grumman/software-engineer |
+
+## Boeing track (2026-11-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Working here (values) — Boeing | https://jobs.boeing.com/working-here/ |
+| People & Culture — Boeing | https://www.boeing.com/company/people-and-culture |
+| Careers FAQ — Boeing | https://jobs.boeing.com/Faq |
+| Interview Preparation Guide (PDF) — Boeing | https://tbcdn.talentbrew.com/company/185/v3_0/pdfs/Boeing_InterviewPrepGuide_2025.pdf |
+| Boeing Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/boeing/software-engineer |
+
+## RTX track (2026-11-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Values — RTX | https://www.rtx.com/who-we-are/our-values |
+| Careers — RTX | https://careers.rtx.com/ |
+| Software Engineering at Raytheon — RTX | https://careers.rtx.com/global/en/raytheon-software-engineering/ |
+| Recruitment fraud / hiring overview — RTX | https://careers.rtx.com/global/en/recruitment-fraud |
+| RTX Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/rtx/software-engineer |
+
+## Path Sum outline (2026-11-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| 112. Path Sum — LeetCode | https://leetcode.com/problems/path-sum/ |
+| Path Sum — NeetCode | https://neetcode.io/solutions/path-sum |
+| 112. Path Sum — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/112/ |
+| Depth-first search — Wikipedia | https://en.wikipedia.org/wiki/Depth-first_search |
+| NeetCode 250 list — DSA Prep | https://www.dsaprep.dev/sheets/neetcode-250 |
+
+## Buy / sell stock II outline (2026-11-17 ingest)
+
+| Title | URL |
+| --- | --- |
+| 122. Best Time to Buy and Sell Stock II — LeetCode | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
+| Best Time to Buy and Sell Stock II — NeetCode | https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-ii |
+| 122. Best Time to Buy and Sell Stock II — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/122/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| NeetCode 250 list — DSA Prep | https://www.dsaprep.dev/sheets/neetcode-250 |
+
 
