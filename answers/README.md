@@ -173,6 +173,8 @@
 | Minimum interval to include each query (sweep + heap) | [coding-min-interval.md](coding-min-interval.md) |
 | Path Sum (root-to-leaf remaining) | [coding-path-sum.md](coding-path-sum.md) |
 | Buy / sell stock II (sum every uptick) | [coding-stock-ii.md](coding-stock-ii.md) |
+| Minimum size subarray sum (shrinkable window) | [coding-min-size-subarray.md](coding-min-size-subarray.md) |
+| Evaluate Division (weighted graph product) | [coding-evaluate-division.md](coding-evaluate-division.md) |
 
 ## System design
 

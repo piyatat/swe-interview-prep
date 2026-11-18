@@ -4199,4 +4199,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
 | NeetCode 250 list — DSA Prep | https://www.dsaprep.dev/sheets/neetcode-250 |
 
+## L3Harris track (2026-11-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| About us — L3Harris | https://www.l3harris.com/about-us |
+| Working at L3Harris — careers | https://careers.l3harris.com/en |
+| Engineering — L3Harris | https://careers.l3harris.com/en/engineering |
+| L3Harris Technologies Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/l3harris-technologies/software-engineer |
+| L3Harris Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/l3harris/software-engineer |
+
+## General Dynamics track (2026-11-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Culture — General Dynamics | https://www.gd.com/careers/our-culture/ |
+| Careers FAQ — General Dynamics | https://www.gd.com/careers/faq/ |
+| About GD / business units FAQ — General Dynamics | https://www.gd.com/about-gd/faqs/ |
+| Interview preparation — GD Mission Systems | https://gdmissionsystems.com/careers/students-and-recent-graduates/interview-preparation |
+| FAQ for job seekers (AI policy) — GD Mission Systems | https://gdmissionsystems.com/careers/faqs |
+
+## BAE Systems track (2026-11-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Mission / values — BAE Systems | https://jobs.baesystems.com/global/en/our-mission |
+| Our Culture — BAE Systems | https://jobs.baesystems.com/ourculture |
+| Application resources — BAE Systems | https://jobs.baesystems.com/global/en/applicationresources |
+| Software Engineering Careers (DoW clearance) — BAE Systems | https://jobs.baesystems.com/global/en/software-engineering-careers-with-dod-clearance-required |
+| BAE Systems Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/bae-systems/software-engineer |
+
+## Minimum Size Subarray Sum outline (2026-11-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| 209. Minimum Size Subarray Sum — LeetCode | https://leetcode.com/problems/minimum-size-subarray-sum/ |
+| Minimum Size Subarray Sum — NeetCode | https://neetcode.io/solutions/minimum-size-subarray-sum |
+| 209. Minimum Size Subarray Sum — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/209/ |
+| Prefix sum — Wikipedia | https://en.wikipedia.org/wiki/Prefix_sum |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Evaluate Division outline (2026-11-18 ingest)
+
+| Title | URL |
+| --- | --- |
+| 399. Evaluate Division — LeetCode | https://leetcode.com/problems/evaluate-division/ |
+| Evaluate Division — NeetCode | https://neetcode.io/solutions/evaluate-division |
+| 399. Evaluate Division — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/399/ |
+| Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
+| Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
+
 

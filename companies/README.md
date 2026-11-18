@@ -225,5 +225,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Northrop Grumman | [northrop-grumman.md](northrop-grumman.md) | Four values; official STAR + AI-off live; clearance / program site |
 | Boeing | [boeing.md](boeing.md) | Five values; official STAR PDF + coding playground; airframer / BDS / space |
 | RTX | [rtx.md](rtx.md) | Six values; Collins / Pratt / Raytheon; panel + clearance |
+| L3Harris | [l3harris.md](l3harris.md) | Three values; SMS / CSD / missiles; hiring-event / panel |
+| General Dynamics | [general-dynamics.md](general-dynamics.md) | Five-value ethos; GDMS vs GDIT vs EB; official AI-off |
+| BAE Systems | [bae-systems.md](bae-systems.md) | Trusted / Innovative / Bold; Inc vs plc; official STAR + AI-off |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

@@ -250,6 +250,9 @@
 | [northrop-grumman.md](companies/northrop-grumman.md) | Northrop Grumman — four values, official STAR + AI-off live, clearance |
 | [boeing.md](companies/boeing.md) | Boeing — five values, official STAR PDF + coding playground, airframer / BDS |
 | [rtx.md](companies/rtx.md) | RTX — six values, Collins / Pratt / Raytheon, panel + clearance |
+| [l3harris.md](companies/l3harris.md) | L3Harris — three values, SMS / CSD / missiles, hiring-event / panel |
+| [general-dynamics.md](companies/general-dynamics.md) | General Dynamics — five-value ethos, GDMS vs GDIT vs EB, official AI-off |
+| [bae-systems.md](companies/bae-systems.md) | BAE Systems — Trusted / Innovative / Bold, Inc vs plc, official STAR + AI-off |
 
 ## Role-specific
 
@@ -438,6 +441,8 @@
 | [coding-min-interval.md](answers/coding-min-interval.md) | Minimum interval to include each query (offline sweep + heap) |
 | [coding-path-sum.md](answers/coding-path-sum.md) | Path Sum (root-to-leaf DFS remaining) |
 | [coding-stock-ii.md](answers/coding-stock-ii.md) | Buy / sell stock II (sum every uptick) |
+| [coding-min-size-subarray.md](answers/coding-min-size-subarray.md) | Minimum size subarray sum (shrinkable window) |
+| [coding-evaluate-division.md](answers/coding-evaluate-division.md) | Evaluate Division (weighted graph product) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
