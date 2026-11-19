@@ -4249,4 +4249,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Breadth-first search — Wikipedia | https://en.wikipedia.org/wiki/Breadth-first_search |
 | Disjoint-set data structure — Wikipedia | https://en.wikipedia.org/wiki/Disjoint-set_data_structure |
 
+## Leidos track (2026-11-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Who We Are / values — Leidos | https://www.leidos.com/company/who-we-are |
+| Our Culture — Leidos | https://www.leidos.com/careers/life/culture |
+| How to prepare for and nail a virtual interview — Leidos | https://www.leidos.com/insights/how-prepare-and-nail-virtual-interview |
+| The soft skills you need for an agile software career — Leidos | https://www.leidos.com/insights/soft-skills-you-need-agile-software-career |
+| Leidos Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/leidos/software-engineer |
+
+## Booz Allen Hamilton track (2026-11-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Purpose and Values — Booz Allen | https://www.boozallen.com/about/our-values-and-ethics/leading-with-purpose-and-values.html |
+| Candidate Resources — Booz Allen | https://www.boozallen.com/careers/candidate-resources.html |
+| Life at Booz Allen | https://www.boozallen.com/careers/life-at-booz.html |
+| Software Engineer JD (skills assessment) — Booz Allen | https://careers.boozallen.com/jobs/JobDetail/Arlington-Software-Engineer-R0251775/131940 |
+| Booz Allen Hamilton Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/booz-allen-hamilton/software-engineer |
+
+## CACI track (2026-11-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Culture — CACI | https://www.caci.com/our-culture |
+| FAQs (interview + clearance) — CACI Careers | https://careers.caci.com/faq |
+| Interviewing at CACI | https://caci.phenompro.com/global/en/interviewing-at-caci |
+| Software & Engineering Careers — CACI | https://careers.caci.com/engineering |
+| CACI Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/caci/software-engineer |
+
+## Majority Element outline (2026-11-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| 169. Majority Element — LeetCode | https://leetcode.com/problems/majority-element/ |
+| Majority Element — NeetCode | https://neetcode.io/solutions/majority-element |
+| 169. Majority Element — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/169/ |
+| Boyer–Moore majority vote algorithm — Wikipedia | https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Path With Minimum Effort outline (2026-11-19 ingest)
+
+| Title | URL |
+| --- | --- |
+| 1631. Path With Minimum Effort — LeetCode | https://leetcode.com/problems/path-with-minimum-effort/ |
+| Path With Minimum Effort — NeetCode | https://neetcode.io/solutions/path-with-minimum-effort |
+| Dijkstra's algorithm — Wikipedia | https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+| Path With Minimum Effort template — NeetCode Practice Framework | https://lufftw.github.io/neetcode/patterns/shortest_path/templates/ |
+
 

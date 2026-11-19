@@ -175,6 +175,8 @@
 | Buy / sell stock II (sum every uptick) | [coding-stock-ii.md](coding-stock-ii.md) |
 | Minimum size subarray sum (shrinkable window) | [coding-min-size-subarray.md](coding-min-size-subarray.md) |
 | Evaluate Division (weighted graph product) | [coding-evaluate-division.md](coding-evaluate-division.md) |
+| Majority Element (Boyer–Moore vote) | [coding-majority-element.md](coding-majority-element.md) |
+| Path with minimum effort (minimax Dijkstra) | [coding-min-effort.md](coding-min-effort.md) |
 
 ## System design
 

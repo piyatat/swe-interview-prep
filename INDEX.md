@@ -253,6 +253,9 @@
 | [l3harris.md](companies/l3harris.md) | L3Harris — three values, SMS / CSD / missiles, hiring-event / panel |
 | [general-dynamics.md](companies/general-dynamics.md) | General Dynamics — five-value ethos, GDMS vs GDIT vs EB, official AI-off |
 | [bae-systems.md](companies/bae-systems.md) | BAE Systems — Trusted / Innovative / Bold, Inc vs plc, official STAR + AI-off |
+| [leidos.md](companies/leidos.md) | Leidos — six values, mission IT / defense, panel + clearance |
+| [booz-allen.md](companies/booz-allen.md) | Booz Allen — five values, official skills assessment, consulting SWE |
+| [caci.md](companies/caci.md) | CACI — Ever Vigilant, official interview FAQ, panel + clearance |
 
 ## Role-specific
 
@@ -443,6 +446,8 @@
 | [coding-stock-ii.md](answers/coding-stock-ii.md) | Buy / sell stock II (sum every uptick) |
 | [coding-min-size-subarray.md](answers/coding-min-size-subarray.md) | Minimum size subarray sum (shrinkable window) |
 | [coding-evaluate-division.md](answers/coding-evaluate-division.md) | Evaluate Division (weighted graph product) |
+| [coding-majority-element.md](answers/coding-majority-element.md) | Majority Element (Boyer–Moore vote) |
+| [coding-min-effort.md](answers/coding-min-effort.md) | Path with minimum effort (minimax Dijkstra) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

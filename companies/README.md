@@ -228,5 +228,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | L3Harris | [l3harris.md](l3harris.md) | Three values; SMS / CSD / missiles; hiring-event / panel |
 | General Dynamics | [general-dynamics.md](general-dynamics.md) | Five-value ethos; GDMS vs GDIT vs EB; official AI-off |
 | BAE Systems | [bae-systems.md](bae-systems.md) | Trusted / Innovative / Bold; Inc vs plc; official STAR + AI-off |
+| Leidos | [leidos.md](leidos.md) | Six values; mission IT / defense; panel + clearance |
+| Booz Allen | [booz-allen.md](booz-allen.md) | Five values; official skills assessment; consulting SWE |
+| CACI | [caci.md](caci.md) | Ever Vigilant; official interview FAQ; panel + clearance |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
