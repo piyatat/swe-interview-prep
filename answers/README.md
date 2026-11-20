@@ -177,6 +177,7 @@
 | Evaluate Division (weighted graph product) | [coding-evaluate-division.md](coding-evaluate-division.md) |
 | Majority Element (Boyer–Moore vote) | [coding-majority-element.md](coding-majority-element.md) |
 | Path with minimum effort (minimax Dijkstra) | [coding-min-effort.md](coding-min-effort.md) |
+| Combination Sum IV (ordered unbounded DP) | [coding-combination-sum-iv.md](coding-combination-sum-iv.md) |
 
 ## System design
 

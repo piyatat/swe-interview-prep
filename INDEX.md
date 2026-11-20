@@ -7,6 +7,7 @@
 | [prep-plan.md](general/prep-plan.md) | Planning a 4–6 week study schedule |
 | [coding-patterns.md](general/coding-patterns.md) | DSA / coding round prep |
 | [system-design.md](general/system-design.md) | Architecture and scalability rounds |
+| [frontend-system-design.md](general/frontend-system-design.md) | UI / component architecture (RADIO), not backend SD |
 | [behavioral.md](general/behavioral.md) | STAR stories, collaboration, leadership |
 | [cs-fundamentals.md](general/cs-fundamentals.md) | OS, networking, concurrency, databases |
 | [ai-assisted-rounds.md](general/ai-assisted-rounds.md) | 2025–2026 AI-collaborative + code-comprehension formats |
@@ -200,7 +201,9 @@
 | [morgan-stanley.md](companies/morgan-stanley.md) | Morgan Stanley — official five values, campus OA / Superday, Java + ledger |
 | [sig.md](companies/sig.md) | Susquehanna (SIG) — official six values + games, campus live-code / office design |
 | [jane-street.md](companies/jane-street.md) | Jane Street — official open-ended pair SWE, no mental math, in-person finals |
+| [citadel.md](companies/citadel.md) | Citadel LLC — multi-strategy SWE, official FAQs + dual-firm campus |
 | [citadel-securities.md](companies/citadel-securities.md) | Citadel Securities — official one-problem four-stage day, campus dual-firm |
+| [point72.md](companies/point72.md) | Point72 — Cubist vs Tech, official values + recruiter interview tips |
 | [mapbox.md](companies/mapbox.md) | Mapbox — official values STAR, SDE AI workflow hour, tiles / directions |
 | [dynatrace.md](companies/dynatrace.md) | Dynatrace — official 3-value culture, code-review / live working session |
 | [zscaler.md](companies/zscaler.md) | Zscaler — TOPIC + Ways of Working, official AI-off live eval |
@@ -448,6 +451,7 @@
 | [coding-evaluate-division.md](answers/coding-evaluate-division.md) | Evaluate Division (weighted graph product) |
 | [coding-majority-element.md](answers/coding-majority-element.md) | Majority Element (Boyer–Moore vote) |
 | [coding-min-effort.md](answers/coding-min-effort.md) | Path with minimum effort (minimax Dijkstra) |
+| [coding-combination-sum-iv.md](answers/coding-combination-sum-iv.md) | Combination Sum IV (ordered unbounded DP) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

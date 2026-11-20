@@ -4299,4 +4299,53 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
 | Path With Minimum Effort template — NeetCode Practice Framework | https://lufftw.github.io/neetcode/patterns/shortest_path/templates/ |
 
+## Frontend system design (2026-11-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Front End System Design Playbook — GreatFrontEnd | https://www.greatfrontend.com/front-end-system-design-playbook |
+| The RADIO Framework — GreatFrontEnd | https://www.greatfrontend.com/front-end-system-design-playbook/framework |
+| Cheatsheet for Front End System Design Interviews — GreatFrontEnd | https://www.greatfrontend.com/front-end-system-design-playbook/cheatsheet |
+| awesome-front-end-system-design — GitHub | https://github.com/greatfrontend/awesome-front-end-system-design/ |
+| System design interviews aren't just for backend engineers — GreatFrontEnd | https://www.linkedin.com/posts/greatfrontend_system-design-blogs-for-frontend-devs-activity-7450060353809330177-E5sf |
+
+## Citadel LLC track (2026-11-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Culture — Citadel | https://www.citadel.com/who-we-are/our-culture/ |
+| FAQs: Engineering at Citadel | https://www.citadel.com/careers/career-perspectives/faqs-engineering-at-citadel/ |
+| Our Campus Engineering Interview Process — Citadel | https://www.citadel.com/careers/career-perspectives/our-engineering-interview-process/ |
+| Engineering — Citadel | https://www.citadel.com/careers/engineering/ |
+| Building Impact: Lessons from Citadel’s Engineering Leadership | https://www.citadel.com/careers/career-perspectives/building-impact-lessons-from-citadels-engineering-leadership/ |
+
+## Point72 track (2026-11-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Values — Point72 | https://point72.com/our-values/ |
+| Interview Tips from Point72 Recruiters | https://point72.com/blog/interview-tips-from-point72-recruiters/ |
+| Working Here — Point72 | https://point72.com/working-here/ |
+| Cubist Systematic — Point72 | https://point72.com/cubist/ |
+| Point72 Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/point72/software-engineer |
+
+## Combination Sum IV outline (2026-11-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| 377. Combination Sum IV — LeetCode | https://leetcode.com/problems/combination-sum-iv/ |
+| 377. Combination Sum IV — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/377/ |
+| Knapsack problem — Wikipedia | https://en.wikipedia.org/wiki/Knapsack_problem |
+| Change-making problem — Wikipedia | https://en.wikipedia.org/wiki/Change-making_problem |
+| Unbounded knapsack (LC 377 loop order) — The DSA Handbook | https://dsa.handbook.academy/curriculum/dynamic-programming/knapsack-unbounded/ |
+
+## AI-assisted rounds update (2026-11-20 ingest)
+
+| Title | URL |
+| --- | --- |
+| Meta Jobs Hiring Process (AI FAQ) — Meta Careers | https://www.metacareers.com/hiring-process/ |
+| Candidate Guide: Virtual Interviews at Google (PDF) | https://services.google.com/fh/files/misc/general_virtual_interviews_candidate_resource.pdf |
+| Amazon AI interview policy and 4 other employers — Prept | https://prept.fyi/honest/employer-ai-interview-policies |
+| How Google Is Shaking up Its Interview Process With AI — Business Insider | https://www.businessinsider.com/google-interview-process-ai-gemini-coding-comprehension-software-engineer-2026-10 |
+
 

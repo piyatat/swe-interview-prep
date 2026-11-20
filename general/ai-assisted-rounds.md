@@ -16,18 +16,22 @@ Official Google (Pichai, Cloud Next, 2026-04-22): **75% of new code at Google is
 
 ## Meta vs Google (confirm the hour)
 
-Both keep a **classic no-AI** algorithm hour. The new hour is **human-led, AI-assisted** — not “the model interviews for you.” Recruiter tells you which coding slot is which. Ask for the **practice pad** if they have one.
+Both still run **unaided** algorithm hours on many loops. The new hour is **human-led, AI-assisted** — not “the model interviews for you.” Recruiter tells you which coding slot is which. Ask for the **practice pad** if they have one.
 
-| | **Meta AI-enabled coding** | **Google code-comprehension pilot** |
+Official Meta [hiring process FAQ](https://www.metacareers.com/hiring-process/) (2026): **many** technical interviews now include a **built-in** CoderPad assistant; candidates are **expected to use it**. Models: **Claude, ChatGPT, Gemini, and Meta’s**. You pick at the start. Languages for the AI-native coding hour: **Python, Java, TypeScript, C++, C#, Kotlin, Swift, Rust, Go**. **Design** hours use CoderPad **Mermaid** with the **same** assistant. **No outside tools.** Practice the pad from **Career Profile** before the loop. Typical process **~2–3 months** (recruiter → screen → full loop).
+
+Google’s **general** virtual-interview PDF still says **do not use AI** or you are disqualified. Separately, a **Gemini** code-comprehension hour is a **pilot** (May 2026; junior/mid, select US teams). Business Insider (Oct 2026) reported broader internal rollout; a spokesperson still called it a pilot. **Ask which rule applies to your slate.**
+
+| | **Meta AI-enabled coding** | **Google code-comprehension** |
 | --- | --- | --- |
-| Status (2026 guides) | Live since **Oct 2025** for many SWE / EM loops | **Pilot** from May 2026; junior/mid, select **US** teams |
-| Shape | ~60 min, multi-file pad; ~5 min platform tour | ~60 min, unfamiliar ~200–500 line repo |
-| Assistant | Multi-model **chat** (cannot edit files for you) | **Gemini only** (official spokesperson / Exponent) |
+| Status (2026) | **Official** on metacareers: expected to use the pad assistant | **Pilot** (Gemini); general Google loop remains AI-off |
+| Shape | ~60 min, multi-file pad; Career Profile practice | ~60 min, unfamiliar ~200–500 line repo |
+| Assistant | Built-in chat: Claude / ChatGPT / Gemini / Meta | **Gemini only** in the approved hour |
 | Typical arc | Bugfix → implement feature → optimize / scale | Read, locate bugs, justify design, propose improvements |
-| Rubric emphasis | Problem solving, code quality, verification, communication | Also **prompt quality, output validation, AI-assisted judgment** |
-| What still exists | One traditional DSA hour | Standard DSA rounds unchanged during the pilot |
+| Rubric emphasis | Problem solving, code quality, verification, collaboration | Prompt quality, output validation, AI-assisted judgment |
+| What still exists | Confirm whether a classic DSA hour remains on **your** loop | Standard DSA + the general **no-AI** policy unless told otherwise |
 
-Guides (Hello Interview, Exponent, techinterview.org): Meta often runs **three phases on one extended problem**; not finishing phase 3 can still pass if reasoning and verification are visible. Some interviewers ban AI on the first bug. Treat model menus and “nerfed” system prompts as **volatile** — confirm the week you interview.
+Guides (Hello Interview, Exponent, techinterview.org): Meta often runs **three phases on one extended problem**; not finishing phase 3 can still pass if reasoning and verification are visible. Some interviewers ban AI on the first bug. Treat model menus as **volatile**.
 
 **Ask the recruiter:** which hour is AI; which models; languages; practice environment; whether phase 1 is unaided; whether Googleyness now includes a **prior-work design** conversation (Exponent: 2026 Google loop change, not every team).
 
@@ -71,6 +75,7 @@ HackerRank (2026 docs, via Formation): AI-assisted interviews in an IDE with com
 - [code-review-rounds.md](code-review-rounds.md) — block vs nit on generated diffs
 - [take-homes.md](take-homes.md) — async signal is the **fastest** to rot under AI
 - [coding-patterns.md](coding-patterns.md) — still needed for the AI-free hour
+- [frontend-system-design.md](frontend-system-design.md) — Meta design hours may be Mermaid + the same assistant
 
 ## Sources
 
@@ -83,3 +88,7 @@ HackerRank (2026 docs, via Formation): AI-assisted interviews in an IDE with com
 - [Google's AI-Assisted Coding Interview (2026 Guide) — Exponent / Aced](https://www.tryexponent.com/blog/google-ai-coding-interview) — accessed 2026-09-19
 - [Meta's AI-Enabled Coding Interview: How to Prepare — Hello Interview](https://www.hellointerview.com/blog/meta-ai-enabled-coding) — accessed 2026-09-19
 - [What Meta and Google’s AI-enabled coding rounds actually test — techinterview.org](https://www.techinterview.org/post/3233477234/meta-google-ai-enabled-coding-interview/) — accessed 2026-09-19
+- [Meta Jobs Hiring Process (AI FAQ) — Meta Careers](https://www.metacareers.com/hiring-process/) — accessed 2026-11-20
+- [Candidate Guide: Virtual Interviews at Google (PDF)](https://services.google.com/fh/files/misc/general_virtual_interviews_candidate_resource.pdf) — accessed 2026-11-20
+- [Amazon AI interview policy and 4 other employers — Prept](https://prept.fyi/honest/employer-ai-interview-policies) — accessed 2026-11-20
+- [How Google Is Shaking up Its Interview Process With AI — Business Insider](https://www.businessinsider.com/google-interview-process-ai-gemini-coding-comprehension-software-engineer-2026-10) — accessed 2026-11-20
