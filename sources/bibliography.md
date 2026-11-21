@@ -4348,4 +4348,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Amazon AI interview policy and 4 other employers — Prept | https://prept.fyi/honest/employer-ai-interview-policies |
 | How Google Is Shaking up Its Interview Process With AI — Business Insider | https://www.businessinsider.com/google-interview-process-ai-gemini-coding-comprehension-software-engineer-2026-10 |
 
+## Verizon track (2026-11-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Culture — Verizon | https://www.verizon.com/about/our-company/our-culture |
+| How We Hire — Verizon Careers | https://mycareer.verizon.com/life-at-verizon/how-we-hire/ |
+| Interviewing — Verizon Careers | https://mycareer.verizon.com/life-at-verizon/how-we-hire/interviewing/ |
+| Assessments — Verizon Careers | https://mycareer.verizon.com/life-at-verizon/how-we-hire/assessments/ |
+| Explore Verizon IT Jobs — Verizon Careers | https://mycareer.verizon.com/career-paths/technology/ |
+| Verizon Software Engineer Interview Questions & Guide 2026 — Dataford | https://dataford.io/interview-guides/verizon/software-engineer |
+| Verizon's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/verizon-interview-process |
+
+## Dell Technologies track (2026-11-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Win — Dell Technologies Code of Conduct | https://i.dell.com/sites/content/corporate/corp-comm/en/Documents/Dell-Code-of-Conduct-External.pdf |
+| Ace Your Application: A Recruiter’s Guide — Dell | https://www.dell.com/en-us/blog/ace-your-application-a-recruiter-s-guide-to-getting-hired-at-dell/ |
+| Face-to-face Interview Tips — Dell Technologies | https://tbcdn.talentbrew.com/company/375/39377/Content/2023%20Dell%20Interview%20Guide.pdf |
+| Dell Technologies Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/dell-technologies/software-engineer |
+| Dell Software Engineer Interview Questions (2026) — PracHub | https://prachub.com/interview-guide/dell-software-engineer-interview-questions-guide-2026 |
+
+## Citi track (2026-11-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Mission — Citi About Us | https://www.citigroup.com/global/about-us |
+| About Us — Citi Careers | https://jobs.citi.com/about-us |
+| Early Career Programs (application process) — Citi Careers | https://jobs.citi.com/early-career-programs |
+| Technology, Application Development Analyst (USA 2027) — Citi | https://citi.wd5.myworkdayjobs.com/en-US/2/job/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1 |
+| Citi's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/citi-interview-process |
+| Citi Software Engineer Interview Questions (2026) — PracHub | https://prachub.com/interview-guide/citi-software-engineer-interview-questions-guide-2026 |
+
+## Find All Anagrams outline (2026-11-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| 438. Find All Anagrams in a String — LeetCode | https://leetcode.com/problems/find-all-anagrams-in-a-string/ |
+| 438. Find All Anagrams in a String — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/438/ |
+| Anagram — Wikipedia | https://en.wikipedia.org/wiki/Anagram |
+| Sliding window protocol — Wikipedia | https://en.wikipedia.org/wiki/Sliding_window_protocol |
+| Grind 75 — Tech Interview Handbook | https://www.techinterviewhandbook.org/grind75 |
+
+## Amazon SDE OA update (2026-11-21 ingest)
+
+| Title | URL |
+| --- | --- |
+| 3 AI innovations transforming Amazon’s hiring process — About Amazon | https://www.aboutamazon.com/news/workplace/artificial-intelligence-resume-jobs-hiring-amazon |
+| Preparing for your Amazon OA — HackerRank candidate support | https://candidatesupport.hackerrank.com/articles/1494260168-preparing-for-your-amazon-oa |
+
 

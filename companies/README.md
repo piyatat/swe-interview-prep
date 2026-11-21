@@ -231,5 +231,8 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Leidos | [leidos.md](leidos.md) | Six values; mission IT / defense; panel + clearance |
 | Booz Allen | [booz-allen.md](booz-allen.md) | Five values; official skills assessment; consulting SWE |
 | CACI | [caci.md](caci.md) | Ever Vigilant; official interview FAQ; panel + clearance |
+| Verizon | [verizon.md](verizon.md) | Culture OS; official structured STAR; practical Java / networks loop |
+| Dell Technologies | [dell.md](dell.md) | Culture Code; official STAR + recruiter guide; storage / systems |
+| Citi | [citi.md](citi.md) | Three Leadership Principles; official Tech coding eval; Karat / Superday |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.

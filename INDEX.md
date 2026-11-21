@@ -259,6 +259,9 @@
 | [leidos.md](companies/leidos.md) | Leidos — six values, mission IT / defense, panel + clearance |
 | [booz-allen.md](companies/booz-allen.md) | Booz Allen — five values, official skills assessment, consulting SWE |
 | [caci.md](companies/caci.md) | CACI — Ever Vigilant, official interview FAQ, panel + clearance |
+| [verizon.md](companies/verizon.md) | Verizon — Culture OS (Trust / Care / Excellence), structured STAR + tech |
+| [dell.md](companies/dell.md) | Dell Technologies — Culture Code, official STAR + storage / systems loop |
+| [citi.md](companies/citi.md) | Citi — three Leadership Principles, official Tech coding eval + Karat / Superday |
 
 ## Role-specific
 
@@ -452,6 +455,7 @@
 | [coding-majority-element.md](answers/coding-majority-element.md) | Majority Element (Boyer–Moore vote) |
 | [coding-min-effort.md](answers/coding-min-effort.md) | Path with minimum effort (minimax Dijkstra) |
 | [coding-combination-sum-iv.md](answers/coding-combination-sum-iv.md) | Combination Sum IV (ordered unbounded DP) |
+| [coding-find-anagrams.md](answers/coding-find-anagrams.md) | Find All Anagrams (fixed-width count window) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |

@@ -30,6 +30,20 @@ Certified rules commonly: **no AI**, including for syntax; web search limited to
 
 HackerRank **Tests** are typically the first screen; passing them may unlock a **HackerRank Interview** (live collab). Question mix follows the **role** (frontend vs backend vs DSA). Time limit, language list, and whether you can leave and return are **setter-defined**. Use in-IDE Help / FAQ; do not assume LeetCode’s editor shortcuts.
 
+## Amazon SDE OA (2026: algorithm + repo)
+
+Official About Amazon (2026-01-22): SDE assessments were rebuilt so candidates work with an **interactive AI assistant on a real coding platform**, matching how SDEs use Q / Cline / Kiro. HackerRank’s **Amazon Coding Challenge** candidate page is the invite-level spec — **ask** if yours matches; country and role still vary.
+
+Two question types (finish **coding first**; you **cannot go back**):
+
+| | Coding question | Code Repository |
+| --- | --- | --- |
+| Shape | Single-file algorithm | Multi-file VS Code-in-browser (README + tests) |
+| GenAI | **Not permitted** | Embedded assistant (if the setter enabled it) |
+| What they score | Hidden tests (HackerRank: 2 sample + 13 hidden) | Functional fix / feature against project tests |
+
+Official assistant rules: optional; **no full solutions**; transcript is **visible** to the evaluator but **not scored**; not present unless you see the panel. Pick the **repo stack before the clock** (cannot switch). Watch the sample test. Same AI-collaboration rubric as [ai-assisted-rounds.md](ai-assisted-rounds.md): locate files, verify tests, do not paste an outside model into the algorithm section.
+
 ## Karat (live, not an OA)
 
 ~**60 min** video + Karat editor. A human Interview Engineer runs a structured rubric; the company gets a scorecard, not just tests-passed. Problems often have **progressive parts**. Treat it like an onsite coding round: clarify, narrate, test out loud. Silent perfect code is a weak Karat signal.
@@ -40,6 +54,7 @@ HackerRank **Tests** are typically the first screen; passing them may unlock a *
 | --- | --- |
 | Certified GCA / “no AI” | Unaided. Detection risk > any speed gain. See [ai-assisted-rounds.md](ai-assisted-rounds.md). |
 | Custom OA allows AI | Use it; still **verify** tests yourself. |
+| Amazon Code Repository assistant | Optional in-IDE help; **algorithm section still AI-off**. |
 | Karat / live | Follow the interviewer; many still want **your** reasoning on camera. |
 
 Leaders in Karat’s survey still often **ban** AI in interviews while estimating candidates use it anyway. That is their problem; **your** problem is the rule you acknowledged.
@@ -63,3 +78,5 @@ Product loops (Uber, some AI labs) still gate on OA scores — see [../companies
 - [Technical Assessments in the Age of AI — Karat](https://karat.com/technical-assessments-age-of-ai/) — accessed 2026-08-26
 - [FAQs before the test — HackerRank candidate support](https://candidatesupport.hackerrank.com/articles/6145743949-frequently-asked-questions-before-the-test) — accessed 2026-08-26
 - [Online Interview Assessment Platforms in 2026 — InterviewChamp.AI](https://interviewchamp.ai/learn/online-interview-assessment-platforms-2026) — accessed 2026-08-26
+- [3 AI innovations transforming Amazon’s hiring process — About Amazon](https://www.aboutamazon.com/news/workplace/artificial-intelligence-resume-jobs-hiring-amazon) — accessed 2026-11-21
+- [Preparing for your Amazon OA — HackerRank candidate support](https://candidatesupport.hackerrank.com/articles/1494260168-preparing-for-your-amazon-oa) — accessed 2026-11-21
