@@ -1,5 +1,28 @@
 # Index
 
+## Hubs
+
+| Page | When to open |
+| --- | --- |
+| [career/README.md](career/README.md) | Career track overview |
+| [general/README.md](general/README.md) | All-roles interview hubs |
+| [roles/README.md](roles/README.md) | Role pack picker |
+| [companies/README.md](companies/README.md) | Company track picker |
+| [answers/README.md](answers/README.md) | Mock outline index |
+| [resources/README.md](resources/README.md) | External resources hub |
+
+## Career
+
+| Page | When to open |
+| --- | --- |
+| [resume.md](career/resume.md) | SWE resume structure and bullets |
+| [linkedin-and-outreach.md](career/linkedin-and-outreach.md) | Profile + outreach templates |
+| [job-search.md](career/job-search.md) | Pipeline and weekly search cadence |
+| [leveling.md](career/leveling.md) | Mid / senior / staff scope signals |
+| [negotiation.md](career/negotiation.md) | Comp levers and talking points |
+| [offers.md](career/offers.md) | Comparing offers and tradeoffs |
+| [growth.md](career/growth.md) | Promotion and on-the-job growth |
+
 ## General (all roles)
 
 | Page | When to open |
@@ -267,7 +290,7 @@
 
 | Page | Target |
 | --- | --- |
-| [backend.md](roles/backend.md) | Backend / API / data / distributed systems |
+| [backend.md](roles/backend.md) | Backend / API / persistence / distributed systems |
 | [frontend.md](roles/frontend.md) | Frontend / UI / React / browser |
 | [fullstack.md](roles/fullstack.md) | End-to-end product engineers |
 | [devops-sre.md](roles/devops-sre.md) | DevOps, SRE, infrastructure |
@@ -282,7 +305,6 @@
 
 | Page | Topic |
 | --- | --- |
-| [answers/README.md](answers/README.md) | Index of mock outlines |
 | [coding-two-sum.md](answers/coding-two-sum.md) | Two Sum |
 | [coding-lru-cache.md](answers/coding-lru-cache.md) | LRU Cache |
 | [coding-number-of-islands.md](answers/coding-number-of-islands.md) | Number of Islands |
@@ -490,7 +512,6 @@
 
 | Page | Contents |
 | --- | --- |
-| [resources/README.md](resources/README.md) | How to use external resources |
 | [practice-platforms.md](resources/practice-platforms.md) | LeetCode, NeetCode, mock tools |
 | [books-and-courses.md](resources/books-and-courses.md) | Books, courses, system design material |
 
@@ -501,6 +522,7 @@
 | [collect-from-web.md](runbooks/collect-from-web.md) | Web ingest procedure |
 | [automation-setup.md](runbooks/automation-setup.md) | Copy-paste automation name, schedule, prompt |
 | [automation-cloud-ingest.md](runbooks/automation-cloud-ingest.md) | Full cloud run instructions |
+| [publish-agensi.md](runbooks/publish-agensi.md) | Build portable ZIP and submit free Agensi listing |
 
 ## Sources
 

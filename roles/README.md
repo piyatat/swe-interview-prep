@@ -16,3 +16,5 @@ Pick the pack closest to your target job description. All roles should also read
 | Platform / IDP | [platform.md](platform.md) | Golden paths, self-service, adoption metrics |
 
 Many companies use hybrid loops (e.g. “backend-heavy full-stack”). Combine two packs and prioritize by JD keywords.
+
+For leveling language and resume targeting, see [../career/leveling.md](../career/leveling.md) and the [career track](../career/).

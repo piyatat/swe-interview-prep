@@ -2,3 +2,13 @@
 *.swp
 .env
 .env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+credentials*
+*.pdf
+**/personal*.md
+personal/
+dist/**/*.zip

@@ -236,3 +236,5 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Citi | [citi.md](citi.md) | Three Leadership Principles; official Tech coding eval; Karat / Superday |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
+
+Offer and company-type tradeoffs: [../career/offers.md](../career/offers.md). Full career track: [../career/](../career/).

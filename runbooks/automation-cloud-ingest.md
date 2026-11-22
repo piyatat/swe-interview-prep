@@ -13,7 +13,7 @@ Research the open web → write **summary notes** (questions, answer outlines, r
 | Mode | `gap-fill` (no fixed topic unless noted in run memory) |
 | Limit | **5** new or updated pages max |
 | Push | **Yes** — commit + push to `main` when check passes |
-| Folders | `general/`, `roles/`, `companies/`, `answers/`, `resources/` |
+| Folders | `career/`, `general/`, `roles/`, `companies/`, `answers/`, `resources/` |
 
 ## Phase 0 — Setup
 
@@ -30,6 +30,7 @@ Scan corpus for thin areas:
 - Roles with few questions (embedded, security, QA if missing)
 - Company tracks needing updates
 - General topics: new 2026 formats (AI rounds, downleveling, take-homes)
+- `career/` thin areas (resume, search, leveling, negotiation, offers, growth)
 - `answers/` missing outlines for common LeetCode mediums
 - `resources/` stale links
 
@@ -74,7 +75,8 @@ For each winner:
 ## Phase 5 — Validate and ship
 
 1. Run `./scripts/check.sh` — fix until green
-2. `git add -A`
+2. Stage allowlisted paths only (never `git add -A`):
+   `git add career general roles companies answers resources sources INDEX.md README.md CONTRIBUTING.md LICENSE runbooks scripts .cursor/skills dist/agensi/swe-career-advisor`
 3. Commit message (HEREDOC style):
 
    ```
@@ -105,7 +107,9 @@ Include commit SHA. Note gaps for next run.
 
 ## Optional args (manual /swe-interview-prep-ingest only)
 
-`topic:…` `tags:…` `limit:N` `folder:…` `dry-run` `no-push`
+`topic:…` `tags:…` `limit:N` `folder:career|general|roles|companies|answers|resources` `gap-fill` `path:…` `dry-run` `no-push`
+
+Full args: see `.cursor/skills/swe-interview-prep-ingest/SKILL.md` and `runbooks/collect-from-web.md`.
 
 Automation ignores `no-push` and `dry-run` unless explicitly disabled in editor.
 

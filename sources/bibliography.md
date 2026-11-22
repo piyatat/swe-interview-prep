@@ -4398,4 +4398,22 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | 3 AI innovations transforming Amazon’s hiring process — About Amazon | https://www.aboutamazon.com/news/workplace/artificial-intelligence-resume-jobs-hiring-amazon |
 | Preparing for your Amazon OA — HackerRank candidate support | https://candidatesupport.hackerrank.com/articles/1494260168-preparing-for-your-amazon-oa |
 
+## Career / job search (2026-11-22)
 
+| Title | URL |
+| --- | --- |
+| Google — How we hire | https://careers.google.com/how-we-hire/ |
+| Levels.fyi | https://www.levels.fyi/ |
+| progression.fyi — engineering ladders | https://progression.fyi/ |
+| StaffEng — staff archetypes and guides | https://staffeng.com/ |
+| StaffEng — staff archetypes | https://staffeng.com/guides/staff-archetypes/ |
+| Fearless Salary Negotiation | https://fearlesssalarynegotiation.com/ |
+| Team Candor | https://www.teamcandor.com/ |
+| Pragmatic Engineer blog | https://blog.pragmaticengineer.com/ |
+| The Product-Minded Engineer — Pragmatic Engineer | https://blog.pragmaticengineer.com/the-product-minded-engineer/ |
+| Reality of tech interviews — Pragmatic Engineer | https://newsletter.pragmaticengineer.com/p/the-reality-of-tech-interviews |
+| LinkedIn Help | https://www.linkedin.com/help/linkedin |
+| Ask a Manager | https://www.askamanager.org/ |
+| The Muse — interview / career advice | https://www.themuse.com/ |
+| The Muse — ultimate interview guide | https://www.themuse.com/advice/the-ultimate-interview-guide-30-prep-tips-for-job-interview-success |
+| Radical Candor | https://www.radicalcandor.com/ |

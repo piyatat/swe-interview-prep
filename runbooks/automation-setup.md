@@ -22,7 +22,7 @@ Read and follow runbooks/automation-cloud-ingest.md in this repository exactly (
 Defaults for this automation:
 - gap-fill: scan INDEX.md + recent SWE interview discourse; fill thin areas
 - limit: 5 new or updated pages max per run
-- folders: general/, roles/, companies/, answers/, or resources/ as appropriate
+- folders: career/, general/, roles/, companies/, answers/, or resources/ as appropriate
 - status: commit and push to main when done (approved for automation)
 
 Hard rules:

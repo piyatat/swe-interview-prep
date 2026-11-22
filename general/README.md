@@ -26,3 +26,5 @@ Pages here apply to **every software engineering interview track** regardless of
 | [sql-interviews.md](sql-interviews.md) | SWE SQL: isolation, windows, EXPLAIN |
 
 Start with [prep-plan.md](prep-plan.md), then pick a [role pack](../roles/) and a [company track](../companies/).
+
+Also see the [career track](../career/) (resume, job search, leveling, negotiation) — pair with interview prep when actively searching.

@@ -2,6 +2,8 @@
 
 A balanced schedule for a typical SWE loop: coding, system design (mid+), behavioral, CS fundamentals, and (in 2026) possible AI-assisted rounds.
 
+Pair with [job search cadence](../career/job-search.md) and [resume](../career/resume.md) if you are actively applying while preparing.
+
 ## Typical loop shape
 
 | Stage | What it tests |
