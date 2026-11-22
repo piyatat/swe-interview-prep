@@ -52,6 +52,8 @@ unzip -l ../swe-career-advisor.zip   # SKILL.md + reference.md at root
 7. Wait for security scan + human review (usually hours, up to ~48h).
 8. When live: paste listing URL into [`README.md`](../README.md) under the Agensi blurb (replace “package ready” wording).
 
+**Live listing:** https://agensi.io/skills/swe-career-advisor (v1.1.0, free, security approved).
+
 ## Safety checks before upload
 
 - [ ] No absolute local paths (`/Users/…`)
