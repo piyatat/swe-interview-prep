@@ -4417,3 +4417,55 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | The Muse — interview / career advice | https://www.themuse.com/ |
 | The Muse — ultimate interview guide | https://www.themuse.com/advice/the-ultimate-interview-guide-30-prep-tips-for-job-interview-success |
 | Radical Candor | https://www.radicalcandor.com/ |
+
+## Wells Fargo track (2026-11-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Hiring Process — Wells Fargo | https://www.wellsfargojobs.com/en/life-at-wells-fargo/our-hiring-process/ |
+| Culture (Company Expectations) — Wells Fargo | https://www.wellsfargojobs.com/en/life-at-wells-fargo/culture/ |
+| Prepare for your behavioral-based interview (SBO) — Wells Fargo | https://www.wellsfargojobs.com/en/resources/behavioral-based-interview/ |
+| Candidate pack (US) — Wells Fargo | https://www.wellsfargojobs.com/media/sqahdsqf/candidate-pack_us_ver15_tr_102925.pdf |
+| Wells Fargo's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/wells-fargo-interview-process |
+
+## Bank of America track (2026-11-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Mission & Vision (core values) — Bank of America Careers | https://careers.bankofamerica.com/en-us/company/values |
+| Hiring Process — Bank of America Careers | https://careers.bankofamerica.com/en-us/hiring-process |
+| Technology careers — Bank of America | https://careers.bankofamerica.com/en-us/company/organization/technology |
+| Bank of America Digital Interviews — HireVue | https://videointerview.bankofamerica.hirevue.com/signup/yPPEGTAe8MF675MR2wdpkX/ |
+| Bank of America's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/bank-of-america-interview-process |
+
+## Optum / UHG track (2026-11-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Mission & Values — UnitedHealth Group | https://www.unitedhealthgroup.com/uhg/mission-values.html |
+| Careers at Optum — UnitedHealth Group | https://www.unitedhealthgroup.com/careers/en/work-at-optum.html |
+| Job seeker resources (hiring process) — UHG Careers | https://www.unitedhealthgroup.com/careers/en/job-seeker-resources.html |
+| Interview tips — UHG Careers | https://www.unitedhealthgroup.com/careers/en/job-seeker-resources/interview-tips.html |
+| Optum Interview Process 2026 — Dataford | https://dataford.io/interview-guides/optum |
+| Optum TDP Intern interview experience — takeUforward | https://takeuforward.org/community/interview-experiences/optum-tdp-intern-interview-experience |
+
+## Queue using Stacks outline (2026-11-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| 232. Implement Queue using Stacks — LeetCode | https://leetcode.com/problems/implement-queue-using-stacks/ |
+| 232. Implement Queue using Stacks — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/232/ |
+| Implement Queue using Stacks — NeetCode | https://neetcode.io/solutions/implement-queue-using-stacks |
+| Stack (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Stack_(abstract_data_type) |
+| Queue (abstract data type) — Wikipedia | https://en.wikipedia.org/wiki/Queue_(abstract_data_type) |
+| Amortized analysis — Wikipedia | https://en.wikipedia.org/wiki/Amortized_analysis |
+
+## Feature-flag system design outline (2026-11-22 ingest)
+
+| Title | URL |
+| --- | --- |
+| Feature Toggles (aka Feature Flags) — Hodgson / Fowler | https://www.martinfowler.com/articles/feature-toggles.html |
+| Feature toggle — Wikipedia | https://en.wikipedia.org/wiki/Feature_toggle |
+| Unleash architecture overview | https://docs.getunleash.io/get-started/unleash-overview |
+| LaunchDarkly architecture | https://launchdarkly.com/docs/home/getting-started/architecture |
+| Feature Flag System Design Interview Guide — PracHub | https://prachub.com/resources/feature-flag-system-design-interview-guide-rollouts-consistency-and-auditability |

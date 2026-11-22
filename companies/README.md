@@ -175,7 +175,9 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Morgan Stanley | [morgan-stanley.md](morgan-stanley.md) | Official five values; campus OA / Superday; Java + ledger |
 | Susquehanna (SIG) | [sig.md](sig.md) | Official six values + games; campus live-code / office design |
 | Jane Street | [jane-street.md](jane-street.md) | Official open-ended pair SWE; no mental math; in-person finals |
+| Citadel LLC | [citadel.md](citadel.md) | Multi-strategy SWE; official FAQs + dual-firm campus |
 | Citadel Securities | [citadel-securities.md](citadel-securities.md) | Official one-problem four-stage day; campus dual-firm loop |
+| Point72 | [point72.md](point72.md) | Cubist vs Tech; official values + recruiter interview tips |
 | Mapbox | [mapbox.md](mapbox.md) | Official values STAR; SDE AI workflow hour; tiles / directions |
 | Dynatrace | [dynatrace.md](dynatrace.md) | Official 3-value culture; code-review / live working session |
 | Zscaler | [zscaler.md](zscaler.md) | TOPIC + Ways of Working; official AI-off live eval |
@@ -234,6 +236,9 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Verizon | [verizon.md](verizon.md) | Culture OS; official structured STAR; practical Java / networks loop |
 | Dell Technologies | [dell.md](dell.md) | Culture Code; official STAR + recruiter guide; storage / systems |
 | Citi | [citi.md](citi.md) | Three Leadership Principles; official Tech coding eval; Karat / Superday |
+| Wells Fargo | [wells-fargo.md](wells-fargo.md) | Company Expectations; official SBO; Java / SQL / HackerRank |
+| Bank of America | [bank-of-america.md](bank-of-america.md) | Four values + Responsible Growth; HireVue + Java loop |
+| Optum / UnitedHealth Group | [optum.md](optum.md) | Six UHG values; human-reviewed digital interviews; CodeSignal AI |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
 

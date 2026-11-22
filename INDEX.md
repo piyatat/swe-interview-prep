@@ -285,6 +285,9 @@
 | [verizon.md](companies/verizon.md) | Verizon — Culture OS (Trust / Care / Excellence), structured STAR + tech |
 | [dell.md](companies/dell.md) | Dell Technologies — Culture Code, official STAR + storage / systems loop |
 | [citi.md](companies/citi.md) | Citi — three Leadership Principles, official Tech coding eval + Karat / Superday |
+| [wells-fargo.md](companies/wells-fargo.md) | Wells Fargo — Company Expectations, official SBO, Java / SQL / HackerRank |
+| [bank-of-america.md](companies/bank-of-america.md) | Bank of America — four values, Responsible Growth, HireVue + Java loop |
+| [optum.md](companies/optum.md) | Optum / UHG — six values, human-reviewed digital interviews, CodeSignal AI |
 
 ## Role-specific
 
@@ -366,6 +369,7 @@
 | [coding-spiral-matrix.md](answers/coding-spiral-matrix.md) | Spiral matrix (four shrinking bounds) |
 | [coding-diameter-tree.md](answers/coding-diameter-tree.md) | Diameter of binary tree (post-order height) |
 | [coding-min-stack.md](answers/coding-min-stack.md) | Min Stack (aux running-min stack) |
+| [coding-queue-stacks.md](answers/coding-queue-stacks.md) | Queue from two stacks (amortized FIFO) |
 | [coding-construct-tree.md](answers/coding-construct-tree.md) | Construct tree from preorder + inorder |
 | [coding-set-matrix-zeroes.md](answers/coding-set-matrix-zeroes.md) | Set matrix zeroes (row/col markers) |
 | [coding-alien-dictionary.md](answers/coding-alien-dictionary.md) | Alien Dictionary (topo from adjacent words) |
@@ -504,6 +508,7 @@
 | [system-design-proximity.md](answers/system-design-proximity.md) | Nearby / Yelp proximity (geohash + H3 candidates) |
 | [system-design-object-storage.md](answers/system-design-object-storage.md) | Object storage / S3 (metadata vs bytes + multipart) |
 | [system-design-distributed-lock.md](answers/system-design-distributed-lock.md) | Distributed lock / lease (fencing token + consensus) |
+| [system-design-feature-flags.md](answers/system-design-feature-flags.md) | Feature flags / toggles (control vs data plane + local eval) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

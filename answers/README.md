@@ -67,6 +67,7 @@
 | Spiral matrix (four bounds) | [coding-spiral-matrix.md](coding-spiral-matrix.md) |
 | Diameter of binary tree (post-order) | [coding-diameter-tree.md](coding-diameter-tree.md) |
 | Min Stack (aux running min) | [coding-min-stack.md](coding-min-stack.md) |
+| Queue from two stacks (amortized FIFO) | [coding-queue-stacks.md](coding-queue-stacks.md) |
 | Construct tree (preorder + inorder) | [coding-construct-tree.md](coding-construct-tree.md) |
 | Set matrix zeroes (row/col markers) | [coding-set-matrix-zeroes.md](coding-set-matrix-zeroes.md) |
 | Alien Dictionary (topo from words) | [coding-alien-dictionary.md](coding-alien-dictionary.md) |
@@ -210,6 +211,7 @@
 | Nearby / Yelp proximity | [system-design-proximity.md](system-design-proximity.md) |
 | Object storage / S3 | [system-design-object-storage.md](system-design-object-storage.md) |
 | Distributed lock / lease | [system-design-distributed-lock.md](system-design-distributed-lock.md) |
+| Feature flags / toggles | [system-design-feature-flags.md](system-design-feature-flags.md) |
 
 ## Behavioral (STAR outlines)
 
