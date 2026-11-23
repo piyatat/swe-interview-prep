@@ -4469,3 +4469,54 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Unleash architecture overview | https://docs.getunleash.io/get-started/unleash-overview |
 | LaunchDarkly architecture | https://launchdarkly.com/docs/home/getting-started/architecture |
 | Feature Flag System Design Interview Guide — PracHub | https://prachub.com/resources/feature-flag-system-design-interview-guide-rollouts-consistency-and-auditability |
+
+## Fidelity Investments track (2026-11-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| How to get a job at Fidelity: Winning interview tips — Fidelity Careers | https://jobs.fidelity.com/en/life-at-fidelity/our-stories/hiring-at-fidelity/winning-interview-tips-from-a-fidelity-recruiter/ |
+| FAQs — Fidelity Careers | https://jobs.fidelity.com/en/faqs/ |
+| About Fidelity | https://about.fidelity.com/ |
+| Fidelity has the right technology role for you — Fidelity Careers | https://jobs.fidelity.com/en/life-at-fidelity/our-stories/tech-careers/fidelity-has-the-right-technology-role-for-you/ |
+| Leap program — Fidelity Careers | https://jobs.fidelity.com/en/students/leap-program/ |
+| Fidelity's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/fidelity-interview-process |
+
+## Charles Schwab track (2026-11-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — Schwab Jobs | https://www.schwabjobs.com/how-we-hire |
+| About Us (values) — Schwab Jobs | https://www.schwabjobs.com/aboutschwab |
+| How to prepare for a STAR interview — Schwab Jobs | https://www.schwabjobs.com/how-to-prepare-for-a-behavioral-based-interview |
+| Charles Schwab's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/charles-schwab-interview-process |
+| Charles Schwab Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/charles-schwab/software-engineer |
+
+## GE Vernova track (2026-11-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| GE Vernova’s Electrification Software Careers (six-step hire) | https://www.gevernova.com/software/careers |
+| Life at GE Vernova — Culture | https://careers.gevernova.com/life-at-ge-vernova |
+| From the Opening Bell, GE Vernova’s Culture Chimes with Its Purpose | https://www.gevernova.com/news/articles/opening-bell-ge-vernovas-culture-chimes-its-purpose |
+| GE Vernova 2024 Annual Report (GE Vernova Way) | https://www.gevernova.com/sites/default/files/gevernova_2024_annual_report.pdf |
+| GE Vernova Interview Questions & Experience — TheJobsMap | https://www.thejobsmap.com/interview-questions/ge-vernova |
+
+## LFU Cache outline (2026-11-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| 460. LFU Cache — LeetCode | https://leetcode.com/problems/lfu-cache/ |
+| 460. LFU Cache — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/460/ |
+| LFU Cache — NeetCode | https://neetcode.io/solutions/lfu-cache |
+| Cache replacement policies (LFU) — Wikipedia | https://en.wikipedia.org/wiki/Cache_replacement_policies |
+| Eviction — Redis | https://redis.io/docs/latest/develop/reference/eviction/ |
+
+## Instagram photo-sharing system design outline (2026-11-23 ingest)
+
+| Title | URL |
+| --- | --- |
+| Design a Photo Sharing App Like Instagram — Hello Interview | https://www.hellointerview.com/learn/system-design/problem-breakdowns/instagram |
+| What Powers Instagram — Instagram Engineering | https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad |
+| Sharding & IDs at Instagram — Instagram Engineering | https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c |
+| Uploading objects using presigned URLs — AWS S3 | https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html |
+| Design a Photo Sharing Service — The HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/photo-sharing/ |

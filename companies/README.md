@@ -239,6 +239,9 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Wells Fargo | [wells-fargo.md](wells-fargo.md) | Company Expectations; official SBO; Java / SQL / HackerRank |
 | Bank of America | [bank-of-america.md](bank-of-america.md) | Four values + Responsible Growth; HireVue + Java loop |
 | Optum / UnitedHealth Group | [optum.md](optum.md) | Six UHG values; human-reviewed digital interviews; CodeSignal AI |
+| Fidelity Investments | [fidelity.md](fidelity.md) | Private asset manager; official behavior stories; Java / SQL |
+| Charles Schwab | [schwab.md](schwab.md) | Four values; official STAR + no-live-AI; brokerage / custody |
+| GE Vernova | [ge-vernova.md](ge-vernova.md) | Vernova Way; electrify / decarbonize software (not GE Aerospace) |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
 

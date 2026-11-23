@@ -288,6 +288,9 @@
 | [wells-fargo.md](companies/wells-fargo.md) | Wells Fargo — Company Expectations, official SBO, Java / SQL / HackerRank |
 | [bank-of-america.md](companies/bank-of-america.md) | Bank of America — four values, Responsible Growth, HireVue + Java loop |
 | [optum.md](companies/optum.md) | Optum / UHG — six values, human-reviewed digital interviews, CodeSignal AI |
+| [fidelity.md](companies/fidelity.md) | Fidelity — private asset manager, official behavior stories, Java / SQL |
+| [schwab.md](companies/schwab.md) | Charles Schwab — four values, official STAR + no-live-AI, brokerage / custody |
+| [ge-vernova.md](companies/ge-vernova.md) | GE Vernova — Vernova Way, electrify / decarbonize, not GE Aerospace |
 
 ## Role-specific
 
@@ -310,6 +313,7 @@
 | --- | --- |
 | [coding-two-sum.md](answers/coding-two-sum.md) | Two Sum |
 | [coding-lru-cache.md](answers/coding-lru-cache.md) | LRU Cache |
+| [coding-lfu-cache.md](answers/coding-lfu-cache.md) | LFU Cache (freq buckets + LRU tie-break) |
 | [coding-number-of-islands.md](answers/coding-number-of-islands.md) | Number of Islands |
 | [coding-merge-k-lists.md](answers/coding-merge-k-lists.md) | Merge K Sorted Lists |
 | [coding-valid-parentheses.md](answers/coding-valid-parentheses.md) | Valid Parentheses |
@@ -509,6 +513,7 @@
 | [system-design-object-storage.md](answers/system-design-object-storage.md) | Object storage / S3 (metadata vs bytes + multipart) |
 | [system-design-distributed-lock.md](answers/system-design-distributed-lock.md) | Distributed lock / lease (fencing token + consensus) |
 | [system-design-feature-flags.md](answers/system-design-feature-flags.md) | Feature flags / toggles (control vs data plane + local eval) |
+| [system-design-instagram.md](answers/system-design-instagram.md) | Photo sharing / Instagram (presigned upload + CDN + feed IDs) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

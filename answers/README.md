@@ -8,6 +8,7 @@
 | --- | --- |
 | Two Sum | [coding-two-sum.md](coding-two-sum.md) |
 | LRU Cache | [coding-lru-cache.md](coding-lru-cache.md) |
+| LFU Cache (freq buckets) | [coding-lfu-cache.md](coding-lfu-cache.md) |
 | Number of Islands | [coding-number-of-islands.md](coding-number-of-islands.md) |
 | Merge K Sorted Lists | [coding-merge-k-lists.md](coding-merge-k-lists.md) |
 | Valid Parentheses | [coding-valid-parentheses.md](coding-valid-parentheses.md) |
@@ -212,6 +213,7 @@
 | Object storage / S3 | [system-design-object-storage.md](system-design-object-storage.md) |
 | Distributed lock / lease | [system-design-distributed-lock.md](system-design-distributed-lock.md) |
 | Feature flags / toggles | [system-design-feature-flags.md](system-design-feature-flags.md) |
+| Photo sharing / Instagram | [system-design-instagram.md](system-design-instagram.md) |
 
 ## Behavioral (STAR outlines)
 
