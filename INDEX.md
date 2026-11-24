@@ -291,6 +291,9 @@
 | [fidelity.md](companies/fidelity.md) | Fidelity — private asset manager, official behavior stories, Java / SQL |
 | [schwab.md](companies/schwab.md) | Charles Schwab — four values, official STAR + no-live-AI, brokerage / custody |
 | [ge-vernova.md](companies/ge-vernova.md) | GE Vernova — Vernova Way, electrify / decarbonize, not GE Aerospace |
+| [gm.md](companies/gm.md) | General Motors — official STAR + values/behaviors, vehicle software / Codility |
+| [ford.md](companies/ford.md) | Ford — official AI-hire FAQ + purpose, Blue / Model e / Ford Pro software |
+| [att.md](companies/att.md) | AT&T — five culture pillars, official TDP 5-step, carrier software |
 
 ## Role-specific
 
@@ -486,6 +489,7 @@
 | [coding-min-effort.md](answers/coding-min-effort.md) | Path with minimum effort (minimax Dijkstra) |
 | [coding-combination-sum-iv.md](answers/coding-combination-sum-iv.md) | Combination Sum IV (ordered unbounded DP) |
 | [coding-find-anagrams.md](answers/coding-find-anagrams.md) | Find All Anagrams (fixed-width count window) |
+| [coding-move-zeroes.md](answers/coding-move-zeroes.md) | Move Zeroes (stable in-place partition) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -514,6 +518,7 @@
 | [system-design-distributed-lock.md](answers/system-design-distributed-lock.md) | Distributed lock / lease (fencing token + consensus) |
 | [system-design-feature-flags.md](answers/system-design-feature-flags.md) | Feature flags / toggles (control vs data plane + local eval) |
 | [system-design-instagram.md](answers/system-design-instagram.md) | Photo sharing / Instagram (presigned upload + CDN + feed IDs) |
+| [system-design-webhook.md](answers/system-design-webhook.md) | Webhook delivery / Stripe-GitHub (HMAC + retries + isolation) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

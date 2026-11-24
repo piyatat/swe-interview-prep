@@ -4520,3 +4520,56 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Sharding & IDs at Instagram — Instagram Engineering | https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c |
 | Uploading objects using presigned URLs — AWS S3 | https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html |
 | Design a Photo Sharing Service — The HLD Handbook | https://hld.handbook.academy/curriculum/case-studies/photo-sharing/ |
+
+## General Motors track (2026-11-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| How We Hire — GM Careers | https://search-careers.gm.com/en/how-we-hire/ |
+| General Motors (GM) Software Engineer Interview Questions 2026 — Dataford | https://dataford.io/interview-guides/general-motors-gm/software-engineer |
+| How General Motors Interviews in 2026 — SupaCV | https://supacv.com/blog/interview-playbook/general-motors |
+| Software engineer interview at GM (Mar 2026) — LockedIn AI | https://www.lockedinai.com/company-details/GM/e8bd7e3b-6d32-44d8-8629-efe7932cc108 |
+
+## Ford Motor Company track (2026-11-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Ford Careers FAQs (AI in hiring) | https://www.careers.ford.com/en/faqs |
+| Life at Ford — People & Culture | https://www.careers.ford.com/en/people-culture |
+| What Purpose Means To Us — Ford | https://corporate.ford.com/microsites/our-purpose/index.html |
+| 2026 Integrated Sustainability and Financial Report — Ford | https://corporate.ford.com/content/dam/na/ford/en_us/documents/corporate/reports/2026-integrated-sustainability-and-financial-report.pdf |
+| Ford's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/ford-interview-process |
+| How Ford Interviews in 2026 — SupaCV | https://supacv.com/blog/interview-playbook/ford |
+
+## AT&T track (2026-11-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Technology Programs and Internships — AT&T Jobs | https://www.att.jobs/technology-programs-and-internships |
+| Human Capital Management (Integrated Leader Model) — AT&T | https://sustainability.att.com/priority-topics/human-capital-management |
+| AT&T Code of Business Conduct (effective 2026-09-01) | https://about.att.com/content/dam/pages/ethics/COBC.pdf |
+| How to nail your job interview — AT&T | https://life.att.jobs/job-interview-advice/ |
+| FAQ and Resources — AT&T Jobs | https://www.att.jobs/applicant-resources |
+| AT&T's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/at-and-t-interview-process |
+| AT&T TDP (Israel) — process FAQ | https://il.att.com/tdp/ |
+
+## Move Zeroes outline (2026-11-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| 283. Move Zeroes — LeetCode | https://leetcode.com/problems/move-zeroes/ |
+| Move Zeroes — NeetCode | https://neetcode.io/solutions/move-zeroes |
+| 283. Move Zeroes — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/283/ |
+| In-place algorithm — Wikipedia | https://en.wikipedia.org/wiki/In-place_algorithm |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Webhook delivery system design outline (2026-11-24 ingest)
+
+| Title | URL |
+| --- | --- |
+| Receive Stripe events in your webhook endpoint — Stripe Docs | https://docs.stripe.com/webhooks |
+| Best practices for using webhooks — GitHub Docs | https://docs.github.com/en/webhooks/using-webhooks/best-practices-for-using-webhooks |
+| Handling failed webhook deliveries — GitHub Docs | https://docs.github.com/en/webhooks/using-webhooks/handling-failed-webhook-deliveries |
+| Webhook — Wikipedia | https://en.wikipedia.org/wiki/Webhook |
+| HMAC — Wikipedia | https://en.wikipedia.org/wiki/HMAC |
+| Design a Webhook Delivery System — Ironclad Academy | https://ironclad.academy/system-design/articles/design-webhook-system |

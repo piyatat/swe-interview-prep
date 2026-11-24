@@ -181,6 +181,7 @@
 | Path with minimum effort (minimax Dijkstra) | [coding-min-effort.md](coding-min-effort.md) |
 | Combination Sum IV (ordered unbounded DP) | [coding-combination-sum-iv.md](coding-combination-sum-iv.md) |
 | Find All Anagrams (fixed-width count window) | [coding-find-anagrams.md](coding-find-anagrams.md) |
+| Move Zeroes (stable in-place partition) | [coding-move-zeroes.md](coding-move-zeroes.md) |
 
 ## System design
 
@@ -214,6 +215,7 @@
 | Distributed lock / lease | [system-design-distributed-lock.md](system-design-distributed-lock.md) |
 | Feature flags / toggles | [system-design-feature-flags.md](system-design-feature-flags.md) |
 | Photo sharing / Instagram | [system-design-instagram.md](system-design-instagram.md) |
+| Webhook delivery / Stripe–GitHub | [system-design-webhook.md](system-design-webhook.md) |
 
 ## Behavioral (STAR outlines)
 

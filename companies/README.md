@@ -242,6 +242,9 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Fidelity Investments | [fidelity.md](fidelity.md) | Private asset manager; official behavior stories; Java / SQL |
 | Charles Schwab | [schwab.md](schwab.md) | Four values; official STAR + no-live-AI; brokerage / custody |
 | GE Vernova | [ge-vernova.md](ge-vernova.md) | Vernova Way; electrify / decarbonize software (not GE Aerospace) |
+| General Motors | [gm.md](gm.md) | Official STAR + values/behaviors; vehicle software / reported Codility |
+| Ford | [ford.md](ford.md) | Official AI-hire FAQ + purpose; Blue / Model e / Ford Pro software |
+| AT&T | [att.md](att.md) | Five culture pillars; official TDP 5-step; carrier software |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
 
