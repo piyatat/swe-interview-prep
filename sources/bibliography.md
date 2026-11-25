@@ -4573,3 +4573,59 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Webhook — Wikipedia | https://en.wikipedia.org/wiki/Webhook |
 | HMAC — Wikipedia | https://en.wikipedia.org/wiki/HMAC |
 | Design a Webhook Delivery System — Ironclad Academy | https://ironclad.academy/system-design/articles/design-webhook-system |
+
+## T-Mobile track (2026-11-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Culture & Benefits — T-Mobile Careers | https://careers.t-mobile.com/culture-and-benefits/page/231 |
+| Application FAQ — T-Mobile Careers | https://www.t-mobile.com/careers/for-applicants/faq |
+| T-Mobile Careers — How to Apply (military toolkit PDF) | https://www.t-mobile.com/content/dam/t-mobile/assets/pdf/Military_Career_Toolkit_2.pdf |
+| Internships at T-Mobile | https://careers.t-mobile.com/internship |
+| Engineer, Software - Core & IP Services Automation — T-Mobile | https://careers.t-mobile.com/engineer-software-core-ip-services-automation/job/F70500EA80BAB394CB59AAE6E3050DB8 |
+| T-Mobile's Interview Process (2026) — TechPrep | https://www.techprep.app/blog/t-mobile-interview-process |
+
+## Home Depot technology track (2026-11-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Technology Jobs — The Home Depot | https://careers.homedepot.com/career-areas/technology/ |
+| Culture / Why Home Depot — The Home Depot Careers | https://careers.homedepot.com/about-us/ |
+| Online Assessment — The Home Depot Careers | https://careers.homedepot.com/online-assessment/ |
+| Software Engineer 2 (Remote) — The Home Depot | https://careers.homedepot.com/job/24114967/software-engineer-2-remote-remote/ |
+| The Home Depot Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/The-Home-Depot-Software-Engineer-Interview-Questions-EI_IE655.0,14_KO15,32.htm |
+| Home Depot interview questions — Roundhound | https://roundhound.ai/companies/home-depot |
+| Home Depot Software Engineer Interview — CleverPrep | https://www.cleverprep.com/companies/home-depot/software-engineer |
+
+## Medtronic track (2026-11-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Mission — Medtronic | https://www.medtronic.com/en-us/our-company/mission.html |
+| Company Culture (Medtronic Mindset) — Medtronic | https://www.medtronic.com/en-us/our-company/careers/culture.html |
+| Engineer Your Career — Medtronic | https://www.medtronic.com/en-us/our-company/careers/engineering.html |
+| Engineer Your Career (application steps) — Medtronic UK | https://www.medtronic.com/en-gb/our-company/careers/engineering.html |
+| Medtronic Interview Process 2026 — Cohesyve | https://www.cohesyve.com/hiring-process/medtronic-hiring-process |
+| Medtronic Software Engineer Interview — Dataford | https://dataford.io/interview-guides/medtronic/software-engineer |
+
+## Rotate Array outline (2026-11-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| 189. Rotate Array — LeetCode | https://leetcode.com/problems/rotate-array/ |
+| Rotate Array — NeetCode | https://neetcode.io/solutions/rotate-array |
+| 189. Rotate Array — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/189/ |
+| Circular shift — Wikipedia | https://en.wikipedia.org/wiki/Circular_shift |
+| NeetCode 150 list (2026) — CPG | https://codingprepguide.com/neetcode-150/ |
+
+## Shared calendar / Google Calendar system design outline (2026-11-25 ingest)
+
+| Title | URL |
+| --- | --- |
+| Google Calendar API overview | https://developers.google.com/workspace/calendar/api/guides/overview |
+| Recurring events — Google Calendar API | https://developers.google.com/calendar/api/guides/recurringevents |
+| RFC 5545 — iCalendar | https://www.rfc-editor.org/rfc/rfc5545 |
+| iCalendar — Wikipedia | https://en.wikipedia.org/wiki/ICalendar |
+| Time Zone Database — IANA | https://www.iana.org/time-zones |
+| How to design Google Calendar — Star Interview | https://www.starinterview.io/learn/system-design/google-calendar |
+| Design Google Calendar — Chirag Hasija | https://chiraghasija.cc/posts/design-google-calendar-system-design/ |

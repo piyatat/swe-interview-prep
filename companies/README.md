@@ -245,6 +245,9 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | General Motors | [gm.md](gm.md) | Official STAR + values/behaviors; vehicle software / reported Codility |
 | Ford | [ford.md](ford.md) | Official AI-hire FAQ + purpose; Blue / Model e / Ford Pro software |
 | AT&T | [att.md](att.md) | Five culture pillars; official TDP 5-step; carrier software |
+| T-Mobile | [t-mobile.md](t-mobile.md) | Un-carrier values; official assessment FAQ; carrier / billing |
+| The Home Depot | [home-depot.md](home-depot.md) | Eight values; customer-back / pair; official work-style OA |
+| Medtronic | [medtronic.md](medtronic.md) | Mission + Mindset; device / quality; official two-way interview |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
 
