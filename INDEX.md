@@ -297,6 +297,9 @@
 | [t-mobile.md](companies/t-mobile.md) | T-Mobile — Un-carrier values, official assessment FAQ, carrier / billing |
 | [home-depot.md](companies/home-depot.md) | Home Depot — eight values, customer-back / pair, official work-style OA |
 | [medtronic.md](companies/medtronic.md) | Medtronic — Mission + Mindset, device / quality, official two-way interview |
+| [lowes.md](companies/lowes.md) | Lowe's — Core Behaviors, official tech assessment + two rounds, retail / Charlotte |
+| [abbott.md](companies/abbott.md) | Abbott — four values, official five recruiter questions, connected care / Libre |
+| [ge-healthcare.md](companies/ge-healthcare.md) | GE HealthCare — no-limits purpose, imaging / SaMD (not Aerospace or Vernova) |
 
 ## Role-specific
 
@@ -494,6 +497,7 @@
 | [coding-find-anagrams.md](answers/coding-find-anagrams.md) | Find All Anagrams (fixed-width count window) |
 | [coding-move-zeroes.md](answers/coding-move-zeroes.md) | Move Zeroes (stable in-place partition) |
 | [coding-rotate-array.md](answers/coding-rotate-array.md) | Rotate Array (three reversals, k mod n) |
+| [coding-reorganize-string.md](answers/coding-reorganize-string.md) | Reorganize String (even-slot / heap, no adjacent twins) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -524,6 +528,7 @@
 | [system-design-instagram.md](answers/system-design-instagram.md) | Photo sharing / Instagram (presigned upload + CDN + feed IDs) |
 | [system-design-webhook.md](answers/system-design-webhook.md) | Webhook delivery / Stripe-GitHub (HMAC + retries + isolation) |
 | [system-design-calendar.md](answers/system-design-calendar.md) | Shared calendar / Google Calendar (RRULE + busy index + reminders) |
+| [system-design-leaderboard.md](answers/system-design-leaderboard.md) | Real-time leaderboard / rank (sorted set + skip-list spans) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |

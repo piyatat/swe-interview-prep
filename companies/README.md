@@ -248,6 +248,9 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | T-Mobile | [t-mobile.md](t-mobile.md) | Un-carrier values; official assessment FAQ; carrier / billing |
 | The Home Depot | [home-depot.md](home-depot.md) | Eight values; customer-back / pair; official work-style OA |
 | Medtronic | [medtronic.md](medtronic.md) | Mission + Mindset; device / quality; official two-way interview |
+| Lowe's | [lowes.md](lowes.md) | Core Behaviors; official tech assessment + two rounds; retail / Charlotte |
+| Abbott | [abbott.md](abbott.md) | Four values; official five recruiter questions; connected care / Libre |
+| GE HealthCare | [ge-healthcare.md](ge-healthcare.md) | No-limits purpose; imaging / SaMD (not Aerospace or Vernova) |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
 

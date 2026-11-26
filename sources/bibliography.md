@@ -4629,3 +4629,58 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Time Zone Database — IANA | https://www.iana.org/time-zones |
 | How to design Google Calendar — Star Interview | https://www.starinterview.io/learn/system-design/google-calendar |
 | Design Google Calendar — Chirag Hasija | https://chiraghasija.cc/posts/design-google-calendar-system-design/ |
+
+## Lowe's technology track (2026-11-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Technology — Lowe's Careers | https://talent.lowes.com/us/en/tech |
+| Getting Hired — Lowe's Careers | https://talent.lowes.com/us/en/getting-hired |
+| Our Culture — Lowe's Careers | https://talent.lowes.com/us/en/culture |
+| 2023 Corporate Responsibility Report — Lowe's | https://corporate.lowes.com/sites/lowes-corp/files/2024-10/Lowes_2023_CRR_Tagged.pdf |
+| 2024 Impact and Culture Report — Lowe's | https://corporate.lowes.com/sites/lowes-corp/files/2025-07/2024%20Reports/Lowes_2024_ICR_6.30.25.pdf |
+| Lowe's Software Engineer Interview — CleverPrep | https://www.cleverprep.com/companies/lowes/software-engineer |
+| Lowe's Home Improvement Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/Lowe-s-Home-Improvement-Software-Engineer-Interview-Questions-EI_IE415.0,23_KO24,41.htm |
+
+## Abbott digital-health track (2026-11-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| About Abbott | https://www.abbott.com/en-us/about-abbott |
+| Frequently Asked Questions — Abbott Careers | https://www.abbott.com/en-us/careers/faqs |
+| Prep for these 5 Interview Questions — Abbott | https://www.abbott.com/en-us/corpnewsroom/careers/interview-prep |
+| Software Jobs — Abbott | https://www.jobs.abbott/us/en/software-jobs/ |
+| Abbott Overview (values) — Abbott | https://www.abbott.com/content/dam/corp/abbott/en-us/hub/Abbott-Overview.pdf |
+| Abbott Interview Process 2026 — Dataford | https://dataford.io/interview-guides/abbott |
+
+## GE HealthCare engineering track (2026-11-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| About GE HealthCare | https://www.gehealthcare.com/en-us/about |
+| Culture and Values — GE HealthCare | https://www.gehealthcare.com/en-us/about/employee-experience-and-support/culture-and-values |
+| Careers at GE HealthCare | https://careers.gehealthcare.com/ |
+| GE HealthCare Interview Process 2026 — Dataford | https://dataford.io/interview-guides/ge-healthcare |
+| GE HealthCare Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/GE-HealthCare-Software-Engineer-Interview-Questions-EI_IE4112.0,13_KO14,31.htm |
+
+## Reorganize String outline (2026-11-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| 767. Reorganize String — LeetCode | https://leetcode.com/problems/reorganize-string/ |
+| Reorganize String — NeetCode | https://neetcode.io/solutions/reorganize-string |
+| 767. Reorganize String — LeetCode Wiki (doocs) | https://leetcode.doocs.org/en/lc/767/ |
+| Greedy algorithm — Wikipedia | https://en.wikipedia.org/wiki/Greedy_algorithm |
+| NeetCode 250 list by topic — Thita | https://thita.ai/blog/dsa/neetcode-250-complete-list-by-topic |
+
+## Real-time leaderboard system design outline (2026-11-26 ingest)
+
+| Title | URL |
+| --- | --- |
+| Redis sorted sets | https://redis.io/docs/latest/develop/data-types/sorted-sets/ |
+| Redis leaderboard use case | https://redis.io/docs/latest/develop/use-cases/leaderboard/ |
+| ZADD — Redis | https://redis.io/docs/latest/commands/zadd/ |
+| ZRANK — Redis | https://redis.io/docs/latest/commands/zrank/ |
+| Skip list — Wikipedia | https://en.wikipedia.org/wiki/Skip_list |
+| Design a real-time leaderboard — AlgoRung | https://algorung.com/system-design/problems/leaderboard |
+| Gaming leaderboard — System Design From First Principles | https://firstprinciplesapproach.dev/learn/system-design/case-studies/gaming-leaderboard/ |
