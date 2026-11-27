@@ -4684,3 +4684,59 @@ Sources used to seed this corpus (2026-08-22). Access dates reflect research run
 | Skip list — Wikipedia | https://en.wikipedia.org/wiki/Skip_list |
 | Design a real-time leaderboard — AlgoRung | https://algorung.com/system-design/problems/leaderboard |
 | Gaming leaderboard — System Design From First Principles | https://firstprinciplesapproach.dev/learn/system-design/case-studies/gaming-leaderboard/ |
+
+## Johnson & Johnson engineering track (2026-11-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Credo — Johnson & Johnson | https://www.jnj.com/our-credo |
+| How we hire — Johnson & Johnson Careers | https://www.careers.jnj.com/en/how-we-hire/ |
+| Inclusion at J&J (fair hiring) — Johnson & Johnson Careers | https://www.careers.jnj.com/en/life-at-jj/inclusion/ |
+| 6 ways to ace your first-round interview — Johnson & Johnson Careers | https://www.careers.jnj.com/en/employee-stories/career-tips/how-to-ace-your-first-round-interview/ |
+| Johnson & Johnson Software Engineer Interview — Dataford | https://dataford.io/interview-guides/johnson-and-johnson/software-engineer |
+| Johnson & Johnson Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/Johnson-and-Johnson-Software-Engineer-Interview-Questions-EI_IE364.0,19_KO20,37.htm |
+
+## Thermo Fisher Scientific engineering track (2026-11-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Our Culture — Thermo Fisher Scientific Careers | https://jobs.thermofisher.com/global/en/our-culture |
+| India: Our Culture (4i values) — Thermo Fisher Scientific | https://jobs.thermofisher.com/global/en/india-our-culture |
+| Start Your Story: Interview Resources — Thermo Fisher Scientific | https://jobs.thermofisher.com/global/en/interview-resources |
+| Our company (4i) — Thermo Fisher CSR | https://corporate.thermofisher.com/csr/csr-report/our-company |
+| I’m a University Recruiter at Thermo Fisher Scientific — Forage | https://www.theforage.com/blog/hiring-diaries/recruiter-at-thermo-fisher |
+| Thermo Fisher Scientific Software Engineer Interview — Dataford | https://dataford.io/interview-guides/thermo-fisher-scientific/software-engineer |
+| Thermo Fisher Scientific Software Developer Interview — Glassdoor | https://www.glassdoor.com/Interview/Thermo-Fisher-Scientific-Software-Developer-Interview-Questions-EI_IE658.0,24_KO25,43.htm |
+
+## Boston Scientific engineering track (2026-11-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| About Us — Boston Scientific | https://www.bostonscientific.com/en-US/about-us.html |
+| Careers — Boston Scientific | https://www.bostonscientific.com/en-US/careers.html |
+| Working at Boston Scientific | https://www.bostonscientific.com/en-US/careers/working-here.html |
+| Code of Conduct (2025) — Boston Scientific | https://www.bostonscientific.com/content/dam/bostonscientific/corporate/citizenship/compliance-ethics/2025_CodeofConduct_English.pdf |
+| Interviewing Tips for Students and New Grads — Boston Scientific | https://www.bostonscientific.com/content/dam/bostonscientific/corporate/careers/interviewing-tips.pdf |
+| Boston Scientific Software Engineer Interview — Dataford | https://dataford.io/interview-guides/boston-scientific/software-engineer |
+| Boston Scientific Software Engineer Interview — Glassdoor | https://www.glassdoor.com/Interview/Boston-Scientific-Software-Engineer-Interview-Questions-EI_IE2187.0,17_KO18,35.htm |
+
+## First Missing Positive outline (2026-11-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| 41. First Missing Positive — LeetCode | https://leetcode.com/problems/first-missing-positive/ |
+| First Missing Positive — NeetCode | https://neetcode.io/solutions/first-missing-positive |
+| Pigeonhole principle — Wikipedia | https://en.wikipedia.org/wiki/Pigeonhole_principle |
+| Cycle sort — Wikipedia | https://en.wikipedia.org/wiki/Cycle_sort |
+| NeetCode 250 list by topic — Thita | https://thita.ai/blog/dsa/neetcode-250-complete-list-by-topic |
+
+## Pastebin system design outline (2026-11-27 ingest)
+
+| Title | URL |
+| --- | --- |
+| Pastebin — Wikipedia | https://en.wikipedia.org/wiki/Pastebin |
+| Pastebin.com | https://pastebin.com |
+| Pastebin solution — System Design Primer | https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/pastebin/README.md |
+| What is Amazon S3? — AWS Docs | https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html |
+| Design a paste service (Pastebin) — System Design Interview Handbook | https://www.systemdesigninterview.com/guides/system-design-interview-handbook/83-design-a-paste-service-pastebin |
+| Pastebin system design — designbeyondcode | https://designbeyondcode.com/system-design/problems/pastebin/ |

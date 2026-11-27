@@ -184,6 +184,7 @@
 | Move Zeroes (stable in-place partition) | [coding-move-zeroes.md](coding-move-zeroes.md) |
 | Rotate Array (three reversals, k mod n) | [coding-rotate-array.md](coding-rotate-array.md) |
 | Reorganize String (even-slot / heap) | [coding-reorganize-string.md](coding-reorganize-string.md) |
+| First Missing Positive (cyclic place) | [coding-first-missing-positive.md](coding-first-missing-positive.md) |
 
 ## System design
 
@@ -220,6 +221,7 @@
 | Webhook delivery / Stripe–GitHub | [system-design-webhook.md](system-design-webhook.md) |
 | Shared calendar / Google Calendar | [system-design-calendar.md](system-design-calendar.md) |
 | Real-time leaderboard / rank | [system-design-leaderboard.md](system-design-leaderboard.md) |
+| Pastebin / gist | [system-design-pastebin.md](system-design-pastebin.md) |
 
 ## Behavioral (STAR outlines)
 

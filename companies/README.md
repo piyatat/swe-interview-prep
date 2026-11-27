@@ -251,6 +251,9 @@ Interview **shape** varies more by company type than by job title. Pick a track 
 | Lowe's | [lowes.md](lowes.md) | Core Behaviors; official tech assessment + two rounds; retail / Charlotte |
 | Abbott | [abbott.md](abbott.md) | Four values; official five recruiter questions; connected care / Libre |
 | GE HealthCare | [ge-healthcare.md](ge-healthcare.md) | No-limits purpose; imaging / SaMD (not Aerospace or Vernova) |
+| Johnson & Johnson | [johnson-johnson.md](johnson-johnson.md) | Our Credo; official digital hire; MedTech / IM software |
+| Thermo Fisher Scientific | [thermo-fisher.md](thermo-fisher.md) | 4i values; official 4-step hire; instruments / PPD |
+| Boston Scientific | [boston-scientific.md](boston-scientific.md) | Device values; official STAR tips; implants / EP |
 
 All tracks still use [../general/](../general/) fundamentals — tracks change **emphasis and story style**, not whether you need coding practice.
 

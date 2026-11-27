@@ -300,6 +300,9 @@
 | [lowes.md](companies/lowes.md) | Lowe's — Core Behaviors, official tech assessment + two rounds, retail / Charlotte |
 | [abbott.md](companies/abbott.md) | Abbott — four values, official five recruiter questions, connected care / Libre |
 | [ge-healthcare.md](companies/ge-healthcare.md) | GE HealthCare — no-limits purpose, imaging / SaMD (not Aerospace or Vernova) |
+| [johnson-johnson.md](companies/johnson-johnson.md) | Johnson & Johnson — Our Credo, MedTech / IM software, official digital hire |
+| [thermo-fisher.md](companies/thermo-fisher.md) | Thermo Fisher — 4i values, official 4-step hire, instruments / PPD |
+| [boston-scientific.md](companies/boston-scientific.md) | Boston Scientific — device values, official STAR tips, implants / EP |
 
 ## Role-specific
 
@@ -498,6 +501,7 @@
 | [coding-move-zeroes.md](answers/coding-move-zeroes.md) | Move Zeroes (stable in-place partition) |
 | [coding-rotate-array.md](answers/coding-rotate-array.md) | Rotate Array (three reversals, k mod n) |
 | [coding-reorganize-string.md](answers/coding-reorganize-string.md) | Reorganize String (even-slot / heap, no adjacent twins) |
+| [coding-first-missing-positive.md](answers/coding-first-missing-positive.md) | First Missing Positive (pigeonhole + cyclic place) |
 | [system-design-url-shortener.md](answers/system-design-url-shortener.md) | URL shortener |
 | [system-design-news-feed.md](answers/system-design-news-feed.md) | News feed / home timeline |
 | [system-design-rate-limiter.md](answers/system-design-rate-limiter.md) | Rate limiter |
@@ -529,6 +533,7 @@
 | [system-design-webhook.md](answers/system-design-webhook.md) | Webhook delivery / Stripe-GitHub (HMAC + retries + isolation) |
 | [system-design-calendar.md](answers/system-design-calendar.md) | Shared calendar / Google Calendar (RRULE + busy index + reminders) |
 | [system-design-leaderboard.md](answers/system-design-leaderboard.md) | Real-time leaderboard / rank (sorted set + skip-list spans) |
+| [system-design-pastebin.md](answers/system-design-pastebin.md) | Pastebin / gist (blob vs metadata + expiry) |
 | [behavioral-conflict.md](answers/behavioral-conflict.md) | Disagreement STAR |
 | [behavioral-failure.md](answers/behavioral-failure.md) | Production incident STAR |
 | [behavioral-leadership.md](answers/behavioral-leadership.md) | Technical leadership STAR |
